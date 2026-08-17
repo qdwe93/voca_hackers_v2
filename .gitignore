@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+node_modules/
+
+# ── 바이너리 산출물은 git 에 올리지 않는다 ───────────────────────────────
+# 관리 대상은 텍스트뿐: words.json, image_prompts.md, 절차 문서, 파이프라인 코드.
+# 규격 참고용 예시만 samples/ 에 각 1개 둔다.
+remotion/public/days/*/images/
+remotion/public/days/*/audio/
+remotion/public/days/*/audio_report.json
+remotion/out/
+tts/cache/
+inbox/
+compare_*.md

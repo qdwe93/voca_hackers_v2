@@ -1,0 +1,34 @@
+{
+  "name": "hackers-voca-video-v2",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "studio": "remotion studio src/index.ts",
+    "typecheck": "tsc --noEmit",
+    "validate:content": "node scripts/validate-content.mjs",
+    "compare": "node scripts/compare-candidates.mjs",
+    "promote": "node scripts/promote-candidate.mjs",
+    "import:images": "node scripts/import-images.mjs",
+    "images:agy": "node scripts/generate-images-agy.mjs",
+    "check:assets": "node scripts/check-assets.mjs",
+    "render:batch": "node scripts/render-batch.mjs",
+    "status": "node scripts/status.mjs",
+    "qa:contact-sheets": "node scripts/make-contact-sheets.mjs",
+    "qa:rendered-contact-sheets": "node scripts/make-rendered-contact-sheets.mjs",
+    "render": "remotion render src/index.ts VocaSet"
+  },
+  "dependencies": {
+    "react": "19.2.7",
+    "react-dom": "19.2.7",
+    "remotion": "4.0.491",
+    "zod": "4.3.6"
+  },
+  "devDependencies": {
+    "@remotion/cli": "4.0.491",
+    "@types/react": "19.2.14",
+    "@types/react-dom": "19.2.3",
+    "sharp": "^0.35.3",
+    "typescript": "5.9.3"
+  }
+}

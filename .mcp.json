@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "codex": {
+      "command": "node",
+      "args": [
+        "C:/Programming Files/node-v24.16.0/node_modules/@openai/codex/bin/codex.js",
+        "mcp-server"
+      ]
+    }
+  }
+}
