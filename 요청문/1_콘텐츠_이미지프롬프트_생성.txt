@@ -1,0 +1,82 @@
+[1단계 요청문 — 저장소에 접근할 수 있는 AI 에게. DAY 범위와 <이름>만 바꿔 그대로 붙여넣는다]
+
+작업 폴더는 C:\Workspaces\english\hackers_video_project_v2 하나뿐이다. 다른 폴더는 열지도 쓰지도 마라.
+시작 전에 PLAN.md, prompts/P1_콘텐츠_이미지프롬프트.md, req.txt 를 읽어라.
+이미지·음성·영상은 git 에 없다(로컬 전용). 진행 상황은 node remotion/scripts/status.mjs 로만 판단하라.
+
+DAY 01~05 의 20개 세트에 대해 words.json 과 image_prompts.md 를 만들어라.
+저장 위치: content/candidates/<이름>/DAYnn_ss-ee_setn/   (<이름> 은 opus | sol | gemini 중 너에게 배정된 것)
+세트 폴더명 규칙: DAY01_01-10_set1, DAY01_11-20_set2, DAY01_21-30_set3, DAY01_31-40_set4
+
+이 요청의 범위는 텍스트뿐이다. 이미지 생성 도구를 호출하지 마라. TTS 나 렌더도 하지 마라.
+DAY 5개를 넘겨서 진행하지 마라. 다 끝나면 멈추고 보고해라 (한 세션 상한은 DAY 10개다).
+
+## words.json 규칙
+
+- schemaVersion 은 3, day/range/set 은 폴더명과 정확히 일치해야 한다
+- 단어 10개는 루트 hackers.csv 의 해당 DAY·번호 순서 그대로 쓴다 (철자 변경 금지)
+- 필드는 아래 9개뿐이다. 다른 키를 추가하면 렌더가 거부한다
+  no, word, partOfSpeech, meaningKo, ipa, definition, sentence, wordImage, sentenceImage, speaker
+- partOfSpeech: n. v. adj. adv. prep. conj. pron. det. interj. 중 하나
+- meaningKo: 품사 표기 없이 간결한 한국어 뜻
+- ipa: 미국식 발음, 반드시 /슬래시/로 감싼다
+- definition: 초등 6학년이 이해할 영영풀이, 12단어 이하
+- sentence: 표제어 철자를 그대로 포함, 8~12단어, 눈에 보이는 장면
+- wordImage:     images/{2자리번호}_{소문자단어}_word.png
+- sentenceImage: images/{2자리번호}_{소문자단어}_sent.png
+- speaker: 세트 내 위치 1·2·3·4 순환으로 Zephyr, Liam, Erinome, Charon (5번째부터 다시 Zephyr)
+- 동형이음어·다품사어는 발음과 품사를 교차 확인해라 (예: 명사 wound 는 /wuːnd/)
+- 예문끼리 이야기를 잇지 마라. 고정 인물 이름을 반복하지 마라 (검사기가 잡는다)
+- 나쁜 뜻의 단어도 판타지·동물·게임 표현으로 안전하게 만들어라 (req.txt 기준)
+
+예시 (형식만 참고):
+
+{
+  "schemaVersion": 3,
+  "day": 1,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 01 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "chore",
+      "partOfSpeech": "n.",
+      "meaningKo": "집안일",
+      "ipa": "/tʃɔːr/",
+      "definition": "a small job you must do at home",
+      "sentence": "The robot finished every chore before the family woke up.",
+      "wordImage": "images/01_chore_word.png",
+      "sentenceImage": "images/01_chore_sent.png",
+      "speaker": "Zephyr"
+    }
+  ]
+}
+
+## image_prompts.md 규칙 — 짧게 쓰는 것이 핵심이다
+
+형식: "## 파일명" 다음 줄에 프롬프트 한 문장. 세트당 20개 (단어 10 + 예문 10).
+
+  ## 01_chore_word.png
+  A cheerful robot sweeps a cozy living room floor with a broom. Stylized 3D cartoon illustration, square. No text.
+
+  ## 01_chore_sent.png
+  A robot proudly finishes tidying a bright family kitchen at sunrise. Stylized 3D cartoon illustration, wide. Main subject in the upper two thirds. No text.
+
+- 고정 접미를 그대로 복사해 붙인다. 한 글자도 바꾸지 마라
+  단어 이미지: Stylized 3D cartoon illustration, square. No text.
+  예문 이미지: Stylized 3D cartoon illustration, wide. Main subject in the upper two thirds. No text.
+- 장면 묘사는 영어 한 문장, 30단어 이하 (하드 상한 45단어). 짧을수록 좋다
+- 비율, 해상도, 픽셀 크기, 하단 여백, no logo, no watermark, no badge, 조명·렌더 품질
+  수식어, 특정 작품·스튜디오 화풍은 절대 넣지 마라.
+  이유: 약한 이미지 모델이 그런 지시를 받으면 피사체를 자르거나 화면 일부를 단색으로 채운다.
+  규격은 우리 임포터가 맞추므로 프롬프트가 신경 쓸 일이 아니다
+- 단어 이미지는 그 단어 자체를 알 수 있는 장면, 예문 이미지는 예문 문장의 장면이다
+
+## 끝내기 전에 반드시
+
+  node remotion\scripts\validate-content.mjs --author <이름>
+
+FAIL 이 하나라도 남으면 고치고 다시 돌려라. 전부 OK 인 상태로 끝내라.
+마지막에 handover.md 맨 위에 다음을 적어라: 만든 DAY 범위, 세트 수, 검증 결과, 판단이
+갈렸던 단어(동형이음어·추상어)와 어떻게 정했는지.

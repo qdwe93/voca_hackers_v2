@@ -16,7 +16,9 @@
     "status": "node scripts/status.mjs",
     "qa:contact-sheets": "node scripts/make-contact-sheets.mjs",
     "qa:rendered-contact-sheets": "node scripts/make-rendered-contact-sheets.mjs",
-    "render": "remotion render src/index.ts VocaSet"
+    "render": "remotion render src/index.ts VocaSet",
+    "pick:images": "node scripts/pick-images.mjs",
+    "qa:image-sheets": "node scripts/make-image-sheets.mjs"
   },
   "dependencies": {
     "react": "19.2.7",

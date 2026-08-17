@@ -11,4 +11,5 @@ remotion/public/days/*/audio_report.json
 remotion/out/
 tts/cache/
 inbox/
+content/image-candidates/
 compare_*.md

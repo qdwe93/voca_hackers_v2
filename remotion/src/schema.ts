@@ -1,8 +1,6 @@
 import {z} from 'zod';
 
 export const SPEAKERS = ['Zephyr', 'Liam', 'Erinome', 'Charon'] as const;
-// 구버전 CustomVoice 화자 — DAY01 초기 4세트만 해당하며 새 세트에는 쓰지 않는다.
-export const LEGACY_SPEAKERS = ['Aiden', 'Ryan'] as const;
 
 export const PARTS_OF_SPEECH = [
   'n.',
@@ -43,15 +41,7 @@ export const vocaWordSchema = z
     sentence: z.string().trim().min(1),
     wordImage: relativeAssetPath,
     sentenceImage: relativeAssetPath,
-    speaker: z.enum([...SPEAKERS, ...LEGACY_SPEAKERS]),
-    // 구버전 세트에만 남은 legacy 필드 — Base 모델은 instruct를 지원하지 않는다.
-    sentenceInstruct: z
-      .string()
-      .trim()
-      .min(1)
-      .max(80)
-      .regex(/^[A-Za-z][A-Za-z ,'-]*$/, 'sentenceInstruct must be short English text.')
-      .optional(),
+    speaker: z.enum(SPEAKERS),
   })
   .strict();
 
@@ -69,8 +59,6 @@ export const dayDataSchema = z
     range: z.string().regex(/^\d+\s*[-–]\s*\d+$/),
     set: z.number().int().min(1).max(4),
     title: z.string().trim().min(1),
-    date: z.string().date().optional(),
-    style: z.literal('B').optional(),
     words: z.array(vocaWordSchema).length(10),
   })
   .strict()
@@ -89,9 +77,6 @@ export const dayDataSchema = z
 
     const seenNumbers = new Set<number>();
     const seenWords = new Set<string>();
-    const isLegacySet = data.words.some((item) =>
-      (LEGACY_SPEAKERS as readonly string[]).includes(item.speaker),
-    );
     data.words.forEach((item, index) => {
       const expectedNumber = expectedStart + index;
       if (item.no !== expectedNumber) {
@@ -120,19 +105,7 @@ export const dayDataSchema = z
       }
       seenWords.add(normalizedWord);
 
-      const expectedSpeaker = isLegacySet
-        ? index < 5
-          ? 'Aiden'
-          : 'Ryan'
-        : SPEAKERS[index % SPEAKERS.length];
-
-      if (!isLegacySet && item.sentenceInstruct !== undefined) {
-        context.addIssue({
-          code: 'custom',
-          path: ['words', index, 'sentenceInstruct'],
-          message: 'sentenceInstruct is legacy-only; the Base model has no instruct support.',
-        });
-      }
+      const expectedSpeaker = SPEAKERS[index % SPEAKERS.length];
       if (item.speaker !== expectedSpeaker) {
         context.addIssue({
           code: 'custom',

@@ -1,8 +1,12 @@
-# 해커스 보카 v2 — 30일 통짜 3단계 파이프라인
+# 해커스 보카 v2 — 30일 통짜 4단계 파이프라인
 
 `hackers.csv`(DAY 01~30, 하루 40단어 = 120세트 1200단어)를 학습 영상 120편으로 만든다.
 v1(`hackers_video_project`)과 **영상 사양·타이밍·TTS 정책은 같고, 진행 순서와 이미지
-프롬프트 규칙만 다르다.** v1 은 보존하며 이 저장소가 앞으로의 작업 기준이다.
+프롬프트 규칙만 다르다.** 이 저장소가 앞으로의 작업 기준이며, **v1 이 삭제돼도 v2 는
+단독으로 완전히 동작한다** (코드·`node_modules`·자산을 전부 자체 보유한다).
+
+외부 의존은 둘뿐이다: TTS 모델 `C:\Workspaces\tts\qwen3_tts_1.7b_base` (읽기 전용 참조,
+4단계에만 필요)와 선택적 이미지 백엔드 `agy.exe`(`AGY_PATH` 로 경로 변경 가능).
 
 ## v1 에서 바뀐 것 (이유가 있는 것만)
 
@@ -55,20 +59,34 @@ A small dragon holds its rumbling stomach beside a full picnic basket. Stylized 
 
 전량에 미리 붙이지 않는다. 실패한 자산만 재생성한다.
 
-## 3단계 파이프라인
+## 4단계 파이프라인
 
 ```text
-1단계  콘텐츠 + 이미지 프롬프트          (외부 AI 3개, 병렬)     → content/candidates/<author>/
-       ↓ compare-candidates → promote-candidate
-       승격                                                      → remotion/public/days/
-2단계  이미지 2,400장                    (아무 도구나)            → inbox/ → import-images
-3단계  TTS 120세트 + 렌더 120편          (로컬 배치, 무인)        → out/*.mp4
+1단계  콘텐츠 + 이미지 프롬프트   (외부 AI 여럿이 각각)   → content/candidates/<author>/
+       ↓ compare-candidates → promote-candidate (사람이 고른다)
+       승격                                              → remotion/public/days/
+2단계  이미지 생성               (AI별로 각각)           → inbox/<author>/ → import --author
+                                                        → content/image-candidates/<author>/
+3단계  이미지 선별               (사람)                  → pick-images → days/*/images/
+4단계  TTS 120세트 + 렌더 120편  (로컬 배치, 무인)       → out/*.mp4
 ```
 
 각 단계는 **30일 전체를 끝내고** 다음으로 넘어간다. DAY 하루치씩 왕복하지 않는다
 (모델 전환·세션 시작 비용이 매번 붙어 효율이 떨어졌다).
 
-### 1단계 — 콘텐츠·프롬프트 (`prompts/P1_콘텐츠_프롬프트.md`)
+### 1회 실행 상한 (`remotion/scripts/session-limits.mjs` 가 강제한다)
+
+| 단계 | 상한 | 근거 |
+|---|---|---|
+| 1 콘텐츠·프롬프트 | **DAY 10개**(40세트) | 그 이상이면 뒤로 갈수록 품질이 떨어진다 |
+| 2 이미지 생성 | **80장**(DAY 1개), `--max` 로 최대 200 | 외부 도구 쿼터(429)에서 끊기면 복구 비용이 크다 |
+| 3 이미지 선별 | **20세트**(DAY 5개) | 사람이 한 번에 눈으로 판정할 수 있는 분량 |
+| 4 TTS·렌더 | 제한 없음 (무인 배치) | 스크립트만 돌고 게이트가 판정한다 |
+
+상한을 넘기면 스크립트가 실행을 거부하고 나누는 방법을 알려준다. 문서로만 적어 두면
+에이전트가 무시하기 때문에 코드로 막는다.
+
+### 1단계 — 콘텐츠·프롬프트 (`prompts/P1_콘텐츠_이미지프롬프트.md`)
 
 Claude Opus · GPT Sol · Gemini 3.7 에게 **같은 범위를 각각** 시킨다. 결과는
 `content/candidates/{opus,sol,gemini}/DAYnn_.._setn/{words.json,image_prompts.md}`.
@@ -82,7 +100,7 @@ node remotion\scripts\promote-candidate.mjs --author opus --set DAY01_01-10_set1
 승격은 검증을 통과한 후보만 가능하다. IPA·정의·예문의 **의미적 정확도는 어떤 스크립트도
 검사하지 못하므로** 고르는 단계에서 사람이나 상위 모델이 본다.
 
-### 2단계 — 이미지 (`prompts/P2_이미지_수급.md`)
+### 2단계 — 이미지 생성 (`prompts/P2_이미지_생성.md`)
 
 세트당 20장 × 120세트 = **2,400장**. 도구는 자유이며 규칙은 두 개뿐이다.
 
@@ -98,7 +116,20 @@ node remotion\scripts\import-images.mjs
 주목영역 / 예문 1600×900 위쪽 우선) → PNG 저장 → 원본을 `inbox/_imported/` 로 이동 →
 과다 크롭·업스케일·단색 의심을 경고로 보고.
 
-### 3단계 — 오디오·렌더 (`prompts/P3_오디오_렌더.md`)
+AI별로 비교하려면 `--author <이름>` 을 준다. 그러면 최종 위치가 아니라
+`content/image-candidates/<이름>/` 에 규격 정규화된 상태로 쌓인다.
+
+### 3단계 — 이미지 선별 (`prompts/P3_이미지_선별.md`)
+
+```powershell
+node remotion\scripts\make-image-sheets.mjs --day 01
+node remotion\scripts\pick-images.mjs --author flow --set DAY01_01-10_set1
+```
+
+세트 × AI 마다 20칸 대지를 만들어 비교하고, 세트 단위(권장) 또는 자산 단위로 최종
+위치에 올린다. 판정 기준은 글자 혼입 → 의미 불일치 → 잘림 → 하단 1/4 침범 → 화풍 순이다.
+
+### 4단계 — 오디오·렌더 (`prompts/P4_오디오_렌더.md`)
 
 로컬에서 무인 배치로 돈다. 사람이 볼 것은 마지막 요약뿐이다.
 
@@ -129,19 +160,24 @@ hackers_video_project_v2/
 ├─ AGENTS.md                   # 세션 라우팅 + 복붙용 요청 문구
 ├─ PLAN.md                     # 이 문서
 ├─ handover.md                 # 세션 인계
-├─ prompts/P1_·P2_·P3_.md      # 단계별 실행 절차
+├─ prompts/P1~P4_*.md          # 단계별 실행 절차
+├─ 요청문/*.txt                 # 다른 AI 에게 그대로 붙여넣는 생성·검증 요청문 [git 추적]
 ├─ content/candidates/<author>/DAYnn_..._setn/{words.json,image_prompts.md}   [git 추적]
-├─ inbox/                      # 아무 AI 로 만든 이미지를 던지는 곳          [git 제외]
+├─ content/image-candidates/<author>/DAYnn_..._setn/*.png  # AI별 이미지 후보  [git 제외]
+├─ inbox/<author>/             # 아무 AI 로 만든 이미지를 던지는 곳          [git 제외]
 ├─ samples/                    # 규격 참고용 예시 3개                        [git 추적]
 ├─ tts/                        # engine·stretch·build_set_audio (v1 과 동일)
 └─ remotion/
    ├─ src/                     # Remotion 앱 (v1 과 동일)
    ├─ scripts/
    │  ├─ content-schema.mjs        # 스키마 + v2 프롬프트 규칙
+   │  ├─ session-limits.mjs        # 1회 실행 상한 (코드로 강제)
    │  ├─ validate-content.mjs      # 후보/승격 세트 검사
-   │  ├─ compare-candidates.mjs    # 3벌 비교표
-   │  ├─ promote-candidate.mjs     # 후보 → public/days 승격
-   │  ├─ import-images.mjs         # ★ 규격·비율·단색밴드 전담
+   │  ├─ compare-candidates.mjs    # 콘텐츠 후보 비교표
+   │  ├─ promote-candidate.mjs     # 콘텐츠 후보 → public/days 승격
+   │  ├─ import-images.mjs         # ★ 규격·비율·단색밴드 전담 (--author 로 후보 보관)
+   │  ├─ make-image-sheets.mjs     # AI별 이미지 비교 대지
+   │  ├─ pick-images.mjs           # 이미지 후보 → 최종 선별
    │  ├─ generate-images-agy.mjs   # 자동 생성 백엔드 (선택) → inbox
    │  ├─ check-assets.mjs          # 렌더 게이트
    │  ├─ render-batch.mjs          # 통과분 일괄 렌더

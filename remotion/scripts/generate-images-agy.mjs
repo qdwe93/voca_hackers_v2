@@ -5,6 +5,7 @@ import process from 'node:process';
 import {fileURLToPath} from 'node:url';
 
 import {ESCALATIONS, parseDayDirectoryName, parseImagePrompts} from './content-schema.mjs';
+import {LIMITS, refuseIfTooBig} from './session-limits.mjs';
 
 // 이미지 백엔드 중 "자동" 경로. 생성물은 inbox/ 에 목표 파일명으로 떨어뜨리기만 한다.
 // 규격 변환·크롭·검사는 import-images.mjs 가 전담한다 (백엔드마다 다른 규격을 여기서
@@ -17,6 +18,8 @@ const usage = `Usage: node scripts/generate-images-agy.mjs [options]
   --set <name>       대상 세트 (반복 가능, 생략하면 이미지가 빠진 승격 세트 전부)
   --concurrency <n>  동시 실행 수 (1~8, 기본 4)
   --limit <n>        앞에서 n개만 생성 (쿼터 아끼며 시험할 때)
+  --author <name>    생성물을 inbox/<name>/ 에 스테이징한다 (AI별 비교용)
+  --max <n>          1회 상한을 올린다 (기본 80, 최대 200)
   --escalate <k>     실패 자산 재생성용 보강 문구 (text|crop|band|people, 반복 가능)
   --list-missing     생성하지 않고 누락 목록만 JSON 으로 출력 (다른 도구로 넘길 때)
 `;
@@ -27,9 +30,13 @@ const escalations = [];
 let concurrency = 4;
 let limit = Infinity;
 let listMissing = false;
+let author = '';
+let maxPerRun;
 for (let i = 0; i < args.length; i += 1) {
   const arg = args[i];
   if (arg === '--set') sets.push(args[++i] ?? '');
+  else if (arg === '--author') author = args[++i] ?? '';
+  else if (arg === '--max') maxPerRun = Number(args[++i]);
   else if (arg === '--concurrency') concurrency = Number(args[++i]);
   else if (arg === '--limit') limit = Number(args[++i]);
   else if (arg === '--escalate') escalations.push(args[++i] ?? '');
@@ -55,7 +62,8 @@ for (const key of escalations) {
 
 const projectRoot = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const daysRoot = path.join(projectRoot, 'public', 'days');
-const inbox = path.resolve(projectRoot, '..', 'inbox');
+const inboxRoot = path.resolve(projectRoot, '..', 'inbox');
+const inbox = author ? path.join(inboxRoot, author) : inboxRoot;
 const exists = async (target) => stat(target).then(() => true).catch(() => false);
 
 const targetSets = sets.filter(Boolean).length
@@ -88,6 +96,14 @@ if (jobs.length === 0) {
 }
 
 const runJobs = jobs.slice(0, limit);
+refuseIfTooBig({
+  label: '이미지 생성',
+  count: runJobs.length,
+  limit: LIMITS.imagesPerRun,
+  hardMax: LIMITS.imagesPerRunHardMax,
+  override: maxPerRun,
+  hint: 'DAY 1개(4세트 80장)씩 --set 으로 끊어서 실행한다. 중간에 끊겨도 재실행하면 누락분만 생성된다.',
+});
 await mkdir(inbox, {recursive: true});
 
 const extractImagePath = (output) => {
@@ -156,7 +172,7 @@ const worker = async () => {
 
 await Promise.all(Array.from({length: concurrency}, worker));
 console.log(`\n${completed}/${runJobs.length} staged in ${inbox}`);
-console.log('다음: node scripts/import-images.mjs');
+console.log(`다음: node scripts/import-images.mjs${author ? ` --author ${author}` : ''}`);
 if (failures.length > 0) {
   console.error(`${failures.length} 건 실패. 같은 명령을 다시 실행하면 누락분만 생성한다.`);
   process.exitCode = 1;

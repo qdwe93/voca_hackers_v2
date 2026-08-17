@@ -74,7 +74,6 @@ export const dataSchema = z
     range: z.string().regex(/^\d+\s*[-–]\s*\d+$/),
     set: z.number().int().min(1).max(4),
     title: z.string().trim().min(1),
-    author: z.string().trim().min(1).optional(),
     words: z.array(wordSchema).length(10),
   })
   .strict();

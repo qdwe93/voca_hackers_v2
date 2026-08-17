@@ -26,7 +26,9 @@ const FLAT_WARN_RATIO = 0.45; // 이미지의 45% 이상이 한 가지 색이면
 
 const usage = `Usage: node scripts/import-images.mjs [options]
 
-  --from <dir>     소스 폴더 (기본 ../inbox, 하위 폴더까지 훑는다)
+  --from <dir>     소스 폴더 (기본 ../inbox 또는 ../inbox/<author>)
+  --author <name>  AI별 보관: content/image-candidates/<name>/ 로 정규화해 넣는다
+                   (생략하면 최종 위치 remotion/public/days/*/images/ 로 바로 넣는다)
   --set <name>     대상 세트를 이 세트로 제한한다 (반복 가능, 이름 충돌 해소용)
   --replace        이미 있는 이미지를 덮어쓴다 (재생성분 반영)
   --keep           원본을 _imported/ 로 옮기지 않고 그대로 둔다
@@ -39,9 +41,11 @@ const onlySets = [];
 let replace = false;
 let keep = false;
 let dryRun = false;
+let author = '';
 for (let i = 0; i < args.length; i += 1) {
   const arg = args[i];
   if (arg === '--from') fromDir = args[++i] ?? '';
+  else if (arg === '--author') author = args[++i] ?? '';
   else if (arg === '--set') onlySets.push(args[++i] ?? '');
   else if (arg === '--replace') replace = true;
   else if (arg === '--keep') keep = true;
@@ -57,9 +61,12 @@ for (let i = 0; i < args.length; i += 1) {
 
 const projectRoot = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const daysRoot = path.join(projectRoot, 'public', 'days');
+const candidateRoot = path.resolve(projectRoot, '..', 'content', 'image-candidates');
 const inbox = fromDir
   ? path.resolve(process.cwd(), fromDir)
-  : path.resolve(projectRoot, '..', 'inbox');
+  : author
+    ? path.resolve(projectRoot, '..', 'inbox', author)
+    : path.resolve(projectRoot, '..', 'inbox');
 const importedRoot = path.join(inbox, '_imported');
 
 // ── 대상 색인: 모든 세트의 words.json 에서 기대 파일명을 모은다 ──────────────
@@ -85,7 +92,9 @@ const buildTargetIndex = async () => {
           setName: entry.name,
           filename,
           kind,
-          destination: path.join(daysRoot, entry.name, 'images', filename),
+          destination: author
+            ? path.join(candidateRoot, author, entry.name, filename)
+            : path.join(daysRoot, entry.name, 'images', filename),
         };
         if (index.has(key)) index.get(key).push(target);
         else index.set(key, [target]);

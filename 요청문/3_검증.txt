@@ -1,0 +1,62 @@
+[검증 요청문 — 생성한 AI 가 아닌 **다른** AI 에게 준다. 만든 쪽에 검증을 시키지 않는다]
+
+## A. 저장소에 접근할 수 있는 AI 에게
+
+작업 폴더는 C:\Workspaces\english\hackers_video_project_v2 하나뿐이다. 파일을 고치지 마라.
+이 요청은 **검증 전용**이다. 발견한 문제를 고치지 말고 목록으로만 보고해라.
+
+대상: content/candidates/<이름>/ 의 DAY 01~05 (20세트)
+
+1. 기계 검사를 먼저 돌린다 (이게 통과해야 사람 판단이 의미가 있다)
+   node remotion\scripts\validate-content.mjs --author <이름>
+   FAIL 이 있으면 그 목록을 그대로 보고하고 아래 2번은 통과한 세트만 본다
+
+2. 기계가 못 잡는 것을 사람처럼 본다. 단어 하나하나에 대해:
+   - IPA 가 그 단어·품사의 미국식 발음으로 맞나 (동형이음어 주의: wound, live, read, tear, close, lead, bow)
+   - definition 이 표제어를 그대로 되풀이하지 않나 ("a chore is a chore" 식 순환 정의)
+   - definition 이 초등 6학년이 아는 단어로만 쓰였나
+   - meaningKo 가 definition·sentence 와 같은 뜻인가 (다의어에서 뜻이 어긋나는 사고가 잦다)
+   - sentence 가 자연스러운 영어인가, 그 단어의 대표 용법인가
+   - sentence 가 그림으로 그릴 수 있는 장면인가 (추상적이면 이미지 단계에서 실패한다)
+   - 안전한가 (폭력·공포·차별·상표 없음)
+
+3. 이미지 프롬프트도 본다. 각 프롬프트에 대해:
+   - 장면이 그 단어/예문과 일치하나
+   - 30단어를 넘지 않나 (넘으면 몇 단어인지 적어라)
+   - 고정 접미가 정확히 붙었나 (단어=square, 예문=wide + upper two thirds)
+   - 금지된 지시가 섞이지 않았나: 비율(16:9, 1:1), 해상도·픽셀, 하단 여백, no logo,
+     no watermark, no badge, 조명·렌더 품질 수식어, 특정 작품·스튜디오 화풍
+   - 이미지 안에 글자가 필요한 장면을 요구하고 있지 않나 (간판·책 표지·시계 숫자 등)
+
+## 보고 형식 (이대로 출력한다)
+
+  ### 기계 검사
+  통과 n/20 세트. FAIL 목록: ...
+
+  ### 반드시 고쳐야 함 (틀린 것)
+  | 세트 | 번호·단어 | 항목 | 문제 | 제안 |
+  |---|---|---|---|---|
+  | DAY01_01-10_set1 | 9 quite | ipa | /kwaɪt/ 가 아니라 /kwaɪət/ 로 적혀 quiet 와 섞임 | /kwaɪt/ |
+
+  ### 고치면 좋음 (취향·품질)
+  같은 표 형식
+
+  ### 이상 없음
+  세트 목록
+
+판단이 애매하면 "애매" 로 분류하고 이유를 한 줄로 적어라. 확신 없는 지적을 확신처럼 쓰지 마라.
+파일을 수정하지 마라. handover.md 도 건드리지 마라.
+
+## B. 저장소 없이 (웹 챗에 붙여넣어 검증시킬 때)
+
+아래에 words.json 과 image_prompts.md 를 붙여넣는다. 위 2·3번 항목과 같은 기준으로
+검토하고 같은 보고 형식으로 답해라. 추가로 이 형식 규칙도 확인해라:
+
+- 키는 정확히 10개(no, word, partOfSpeech, meaningKo, ipa, definition, sentence,
+  wordImage, sentenceImage, speaker) — 다른 키가 있으면 렌더가 거부한다
+- definition 12단어 이하 / sentence 8~12단어 / sentence 안에 표제어 철자 그대로
+- speaker 가 위치 1·2·3·4 순환 Zephyr → Liam → Erinome → Charon 인가
+- wordImage·sentenceImage 파일명이 images/{2자리}_{소문자단어}_{word|sent}.png 인가
+- image_prompts.md 의 "## 파일명" 이 words.json 의 파일명과 1:1 로 맞나 (20개)
+
+[여기에 붙여넣기]

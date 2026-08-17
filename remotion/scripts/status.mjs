@@ -35,13 +35,17 @@ const projectRoot = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '
 const daysRoot = path.join(projectRoot, 'public', 'days');
 const outRoot = path.join(projectRoot, 'out');
 const candidatesRoot = path.resolve(projectRoot, '..', 'content', 'candidates');
+const imageCandidatesRoot = path.resolve(projectRoot, '..', 'content', 'image-candidates');
 
 const exists = async (target) => stat(target).then(() => true).catch(() => false);
 
-const authors = (await readdir(candidatesRoot, {withFileTypes: true}).catch(() => []))
-  .filter((entry) => entry.isDirectory())
-  .map((entry) => entry.name)
-  .sort();
+const listAuthors = async (root) =>
+  (await readdir(root, {withFileTypes: true}).catch(() => []))
+    .filter((entry) => entry.isDirectory())
+    .map((entry) => entry.name)
+    .sort();
+const authors = await listAuthors(candidatesRoot);
+const imageAuthors = await listAuthors(imageCandidatesRoot);
 
 const rows = [];
 for (const setName of allSetNames()) {
@@ -60,6 +64,12 @@ for (const setName of allSetNames()) {
   const images = (await readdir(path.join(setDir, 'images')).catch(() => [])).filter((name) =>
     name.endsWith('.png'),
   ).length;
+  const imageCandidates = [];
+  for (const author of imageAuthors) {
+    const count = (await readdir(path.join(imageCandidatesRoot, author, setName)).catch(() => []))
+      .filter((name) => name.endsWith('.png')).length;
+    if (count > 0) imageCandidates.push(`${author[0]}${count}`);
+  }
   const audio = await exists(path.join(setDir, 'audio', 'narration.mp3'));
   const render = await exists(path.join(outRoot, `${setName}.mp4`));
 
@@ -68,6 +78,7 @@ for (const setName of allSetNames()) {
     후보: candidateAuthors.length ? `${candidateAuthors.length}(${candidateAuthors.map((a) => a[0]).join('')})` : '-',
     승격: promoted ? 'O' : '-',
     프롬프트: prompts ? 'O' : '-',
+    이미지후보: imageCandidates.length ? imageCandidates.join(' ') : '-',
     이미지: images === 20 ? 'O' : images > 0 ? `${images}/20` : '-',
     오디오: audio ? 'O' : '-',
     렌더: render ? 'O' : '-',
@@ -86,6 +97,7 @@ if (!showAll && incomplete.length > 40) {
 const total = rows.length;
 console.log(`
 후보    : ${rows.filter((row) => row.후보 !== '-').length}/${total}
+이미지후보: ${rows.filter((row) => row.이미지후보 !== '-').length}/${total}
 승격    : ${done('승격', complete)}/${total}
 프롬프트: ${done('프롬프트', complete)}/${total}
 이미지  : ${done('이미지', complete)}/${total}
