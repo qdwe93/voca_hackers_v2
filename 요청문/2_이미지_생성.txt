@@ -5,7 +5,7 @@
 작업 폴더는 C:\Workspaces\english\hackers_video_project_v2 하나뿐이다. 다른 폴더는 열지도 쓰지도 마라.
 시작 전에 prompts/P2_이미지_생성.md 를 읽어라.
 
-DAY 01 (4세트 80장) 의 이미지를 만들어라. 한 번에 DAY 1개를 넘지 마라 (스크립트가 거부한다).
+DAY 01~30의 전체 이미지를 만들어라. 기존 파일은 건너뛰고 누락분부터 이어서 진행해라.
 
 1. 대상 목록을 뽑는다
    node remotion\scripts\generate-images-agy.mjs --set DAY01_01-10_set1 --list-missing
@@ -14,8 +14,8 @@ DAY 01 (4세트 80장) 의 이미지를 만들어라. 한 번에 DAY 1개를 넘
    - 비율·해상도 옵션은 아무거나 둬도 된다. 규격은 우리 임포터가 맞춘다
    - 보강 문구를 임의로 덧붙이지 마라
 3. 결과 파일을 **목표 파일명 그대로** inbox\<네이름>\ 에 저장한다
-   예: inbox\codex\01_chore_word.png  (확장자는 jpg·webp 여도 된다)
-4. 규격 정규화해서 후보 보관함에 넣는다
+   예: inbox\gptimage2\01_chore_word.png  (확장자는 jpg·webp 여도 된다)
+4. 규격 정규화해서 후보 보관함에 넣는다. author는 nanobanana2 또는 gptimage2다
    node remotion\scripts\import-images.mjs --author <네이름>
 5. 보고: 만든 장수, 실패한 파일명, 임포터가 낸 경고(단색 의심·과다 크롭·업스케일)
 

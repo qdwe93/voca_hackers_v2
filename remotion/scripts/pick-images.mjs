@@ -4,7 +4,6 @@ import process from 'node:process';
 import {fileURLToPath} from 'node:url';
 
 import {expectedImagePath, parseDayDirectoryName} from './content-schema.mjs';
-import {LIMITS, refuseIfTooBig} from './session-limits.mjs';
 
 // 3단계 선별. AI별로 만들어 둔 이미지 후보 중 하나를 최종 위치로 올린다.
 // 세트 단위(한 AI 로 20장 통째)와 자산 단위(파일별로 다른 AI) 둘 다 된다.
@@ -19,7 +18,6 @@ const usage = `Usage: node scripts/pick-images.mjs [options]
   --from-list <file>  줄마다 "<set>/<파일명> <author>" 인 목록으로 골라 올린다
   --replace           최종 위치의 기존 이미지를 덮어쓴다
   --dry-run           무엇이 올라갈지만 출력한다
-  --max <n>           1회 상한 (기본 세트 ${LIMITS.reviewSetsPerSession}개)
 `;
 
 const args = process.argv.slice(2);
@@ -29,7 +27,6 @@ let author = '';
 let fromList = '';
 let replace = false;
 let dryRun = false;
-let maxSets;
 for (let i = 0; i < args.length; i += 1) {
   const arg = args[i];
   if (arg === '--author') author = args[++i] ?? '';
@@ -38,7 +35,6 @@ for (let i = 0; i < args.length; i += 1) {
   else if (arg === '--from-list') fromList = args[++i] ?? '';
   else if (arg === '--replace') replace = true;
   else if (arg === '--dry-run') dryRun = true;
-  else if (arg === '--max') maxSets = Number(args[++i]);
   else if (arg === '--help' || arg === '-h') {
     console.log(usage);
     process.exit(0);
@@ -87,15 +83,6 @@ if (fromList) {
         .filter((entry) => entry.isDirectory() && parseDayDirectoryName(entry.name))
         .map((entry) => entry.name)
         .sort();
-
-  refuseIfTooBig({
-    label: '이미지 선별',
-    count: targetSets.length,
-    limit: LIMITS.reviewSetsPerSession,
-    hardMax: 120,
-    override: maxSets,
-    hint: '눈으로 보고 고르는 단계다. DAY 5개(20세트)씩 끊어서 진행한다.',
-  });
 
   for (const setName of targetSets) {
     const wanted = files.filter(Boolean).length ? files.filter(Boolean) : await targetFilenames(setName);

@@ -19,7 +19,7 @@ const TARGETS = {
   word: {width: 1024, height: 1024},
   sent: {width: 1600, height: 900},
 };
-const TRIM_MIN_AREA_RATIO = 0.55; // 트림이 이보다 더 잘라내면 트림하지 않는다 (오검출 방지)
+const TRIM_MIN_AREA_RATIO = 0.40; // 트림이 이보다 더 잘라내면 트림하지 않는다 (오검출 방지)
 const CROP_WARN_RATIO = 0.25; // 원본의 25% 이상을 버리면 경고
 const UPSCALE_WARN_RATIO = 0.9; // 목표보다 작은 원본이면 경고
 const FLAT_WARN_RATIO = 0.45; // 이미지의 45% 이상이 한 가지 색이면 단색 밴드 의심
@@ -68,6 +68,19 @@ const inbox = fromDir
     ? path.resolve(projectRoot, '..', 'inbox', author)
     : path.resolve(projectRoot, '..', 'inbox');
 const importedRoot = path.join(inbox, '_imported');
+
+if (!fromDir && !author) {
+  const authorDirectories = (await readdir(inbox, {withFileTypes: true}).catch(() => []))
+    .filter((entry) => entry.isDirectory() && !entry.name.startsWith('_') && !entry.name.startsWith('.'))
+    .map((entry) => entry.name);
+  if (authorDirectories.length > 0) {
+    console.error(
+      `inbox 아래에 author 폴더가 있다: ${authorDirectories.join(', ')}. ` +
+        '후보 선별을 건너뛰지 않도록 --author <이름>을 지정한다.',
+    );
+    process.exit(2);
+  }
+}
 
 // ── 대상 색인: 모든 세트의 words.json 에서 기대 파일명을 모은다 ──────────────
 const buildTargetIndex = async () => {

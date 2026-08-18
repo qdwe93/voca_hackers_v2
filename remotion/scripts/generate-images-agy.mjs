@@ -5,11 +5,10 @@ import process from 'node:process';
 import {fileURLToPath} from 'node:url';
 
 import {ESCALATIONS, parseDayDirectoryName, parseImagePrompts} from './content-schema.mjs';
-import {LIMITS, refuseIfTooBig} from './session-limits.mjs';
 
 // 이미지 백엔드 중 "자동" 경로. 생성물은 inbox/ 에 목표 파일명으로 떨어뜨리기만 한다.
 // 규격 변환·크롭·검사는 import-images.mjs 가 전담한다 (백엔드마다 다른 규격을 여기서
-// 처리하지 않는다 — 그게 v1 에서 백엔드를 늘리기 어려웠던 이유다).
+// 처리하지 않는다. 모든 백엔드는 같은 inbox 경로로 수렴한다.
 
 const AGY = process.env.AGY_PATH ?? 'C:\\Users\\x_xo_\\AppData\\Local\\agy\\bin\\agy.exe';
 
@@ -19,7 +18,6 @@ const usage = `Usage: node scripts/generate-images-agy.mjs [options]
   --concurrency <n>  동시 실행 수 (1~8, 기본 4)
   --limit <n>        앞에서 n개만 생성 (쿼터 아끼며 시험할 때)
   --author <name>    생성물을 inbox/<name>/ 에 스테이징한다 (AI별 비교용)
-  --max <n>          1회 상한을 올린다 (기본 80, 최대 200)
   --escalate <k>     실패 자산 재생성용 보강 문구 (text|crop|band|people, 반복 가능)
   --list-missing     생성하지 않고 누락 목록만 JSON 으로 출력 (다른 도구로 넘길 때)
 `;
@@ -31,12 +29,10 @@ let concurrency = 4;
 let limit = Infinity;
 let listMissing = false;
 let author = '';
-let maxPerRun;
 for (let i = 0; i < args.length; i += 1) {
   const arg = args[i];
   if (arg === '--set') sets.push(args[++i] ?? '');
   else if (arg === '--author') author = args[++i] ?? '';
-  else if (arg === '--max') maxPerRun = Number(args[++i]);
   else if (arg === '--concurrency') concurrency = Number(args[++i]);
   else if (arg === '--limit') limit = Number(args[++i]);
   else if (arg === '--escalate') escalations.push(args[++i] ?? '');
@@ -64,7 +60,38 @@ const projectRoot = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '
 const daysRoot = path.join(projectRoot, 'public', 'days');
 const inboxRoot = path.resolve(projectRoot, '..', 'inbox');
 const inbox = author ? path.join(inboxRoot, author) : inboxRoot;
+const candidateRoot = path.resolve(projectRoot, '..', 'content', 'image-candidates');
 const exists = async (target) => stat(target).then(() => true).catch(() => false);
+
+const normalizeExistingName = (filename) =>
+  path
+    .basename(filename)
+    .replace(/\.[a-z0-9]+$/i, '')
+    .replace(/\s*\(\d+\)$/, '')
+    .replace(/[-_ ]?(copy|final|v\d+|\d{8,})$/i, '')
+    .split(/__|\s-\s/)
+    .pop()
+    .trim()
+    .toLowerCase();
+
+const listStagedNames = async (directory) => {
+  const names = new Set();
+  const walk = async (current) => {
+    const entries = await readdir(current, {withFileTypes: true}).catch(() => []);
+    for (const entry of entries) {
+      if (entry.name.startsWith('_') || entry.name.startsWith('.')) continue;
+      const full = path.join(current, entry.name);
+      if (entry.isDirectory()) await walk(full);
+      else if (/\.(png|jpe?g|webp|avif)$/i.test(entry.name)) {
+        names.add(normalizeExistingName(entry.name));
+      }
+    }
+  };
+  await walk(directory);
+  return names;
+};
+
+const stagedNames = author ? await listStagedNames(inbox) : new Set();
 
 const targetSets = sets.filter(Boolean).length
   ? sets.filter(Boolean)
@@ -82,6 +109,11 @@ for (const setName of targetSets) {
   for (const entry of entries) {
     const destination = path.join(setDir, 'images', entry.filename);
     if (await exists(destination)) continue;
+    if (author) {
+      const candidate = path.join(candidateRoot, author, setName, entry.filename);
+      const stagedKey = normalizeExistingName(entry.filename);
+      if ((await exists(candidate)) || stagedNames.has(stagedKey)) continue;
+    }
     jobs.push({...entry, setName});
   }
 }
@@ -96,14 +128,6 @@ if (jobs.length === 0) {
 }
 
 const runJobs = jobs.slice(0, limit);
-refuseIfTooBig({
-  label: '이미지 생성',
-  count: runJobs.length,
-  limit: LIMITS.imagesPerRun,
-  hardMax: LIMITS.imagesPerRunHardMax,
-  override: maxPerRun,
-  hint: 'DAY 1개(4세트 80장)씩 --set 으로 끊어서 실행한다. 중간에 끊겨도 재실행하면 누락분만 생성된다.',
-});
 await mkdir(inbox, {recursive: true});
 
 const extractImagePath = (output) => {

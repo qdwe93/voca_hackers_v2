@@ -177,7 +177,7 @@ def build_set(engine: TTSEngine, set_dir: Path) -> bool:
         if item.get("speaker") != expected_speaker:
             raise ValueError(
                 f"{set_dir.name}: position {word_index + 1} must use {expected_speaker} "
-                f"(legacy Aiden/Ryan sets stay as-is and are not rebuilt)"
+                "according to the fixed speaker rotation"
             )
         for slot in make_slots(item):
             segment, misses = fit_segment(engine, item["speaker"], slot)
@@ -211,6 +211,11 @@ def build_set(engine: TTSEngine, set_dir: Path) -> bool:
                     "overflow": segment.overflow,
                     "cacheHit": segment.cache_hit,
                     "regenerated": segment.takes > 1,
+                    "effectiveWordsPerSecond": (
+                        round(count_words(slot.text) / duration, 4)
+                        if slot.kind in ("definition", "sentence") and duration > 0
+                        else None
+                    ),
                 }
             )
             stretch_note = (
@@ -286,8 +291,21 @@ def main() -> None:
         return
     engine = TTSEngine(CACHE_DIR, attn=args.attn)
     engine.load()
-    results = [build_set(engine, set_dir) for set_dir in sets]
-    if not all(results):
+    rows = []
+    for set_dir in sets:
+        try:
+            ok = build_set(engine, set_dir)
+            rows.append({"set": set_dir.name, "result": "OK" if ok else "FAIL overflow", "error": ""})
+        except Exception as error:  # 세트 로컬 오류는 격리하고 다음 세트를 계속한다.
+            rows.append({"set": set_dir.name, "result": "FAIL exception", "error": str(error)})
+            print(f"FAIL {set_dir.name}: {type(error).__name__}: {error}")
+
+    print("\nAudio batch summary")
+    print(f"{'set':30s}  {'result':15s}  error")
+    print(f"{'-' * 30}  {'-' * 15}  {'-' * 40}")
+    for row in rows:
+        print(f"{row['set']:30s}  {row['result']:15s}  {row['error'][:120]}")
+    if any(row["result"] != "OK" for row in rows):
         raise SystemExit(1)
 
 

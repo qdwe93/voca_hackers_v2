@@ -138,7 +138,9 @@ const collectLikelyNames = (sentence) => {
     'A', 'An', 'The', 'This', 'That', 'These', 'Those', 'Fresh', 'She', 'He', 'They',
     'We', 'I', 'It', 'My', 'Our', 'Your', 'Their', 'His', 'Her', 'After', 'Before',
   ]);
-  return (sentence.match(/\b[A-Z][a-z]{2,}\b/g) ?? []).filter((token) => !common.has(token));
+  const candidates = sentence.match(/\b[A-Z][a-z]{2,}\b/g) ?? [];
+  const firstToken = sentence.match(/^\s*["'“‘(\[]*([A-Za-z]+)/)?.[1];
+  return candidates.filter((token) => token !== firstToken && !common.has(token));
 };
 
 export const validateContentData = ({data, directoryName, csvRows}) => {

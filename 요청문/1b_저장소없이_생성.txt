@@ -5,17 +5,17 @@
 설명이나 인사말 없이 결과물만 출력해라.
 
 단어 (순서 그대로, 철자 변경 금지):
-1 chore / 2 laundry / 3 flavor / 4 recipe / 5 beverage / 6 operate / 7 edible / 8 shelf / 9 quite / 10 quiet
-DAY 번호: 1,  세트 번호: 1,  범위: 1-10
+{{WORD_LIST}}
+DAY 번호: {{DAY}},  세트 번호: {{SET}},  범위: {{RANGE}}
 
 ## 출력 1 — words.json (JSON 코드블록 하나)
 
 {
   "schemaVersion": 3,
-  "day": 1,
-  "range": "1-10",
-  "set": 1,
-  "title": "DAY 01 · 01-10",
+  "day": {{DAY}},
+  "range": "{{RANGE}}",
+  "set": {{SET}},
+  "title": "DAY {{DAY_PADDED}} · {{RANGE_PADDED}}",
   "words": [ ... 10개 ... ]
 }
 
