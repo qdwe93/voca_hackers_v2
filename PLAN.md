@@ -143,6 +143,7 @@ Git 유무와 관계없이 실제 로컬 진행 상황은 `node remotion/scripts
 ## 환경 함정
 
 - `tts/engine.py`의 torchaudio·`torch.load` 호환 몽키패치를 유지한다.
+- 외부 `.venv`는 읽기 전용이므로 numba 캐시는 프로젝트 `tts/cache/numba`를 사용한다.
 - TTS temperature를 낮추지 않는다. t=0.5에서 생성 폭주가 관측됐다.
 - 파이썬은 반드시 지정된 TTS `.venv`를 쓴다.
 - `agy.exe` 경로는 `AGY_PATH`로 덮을 수 있다.

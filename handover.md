@@ -82,3 +82,36 @@ v1 의 DAY01·DAY18 산출물은 가져오지 않았다 (프롬프트 규칙이 
 
 `요청문/1_콘텐츠_이미지프롬프트_생성.txt` 의 요청문을 Claude Opus · GPT Sol · Gemini 3.7 에게
 각각 보낸다. 먼저 DAY 01~05 만 3벌로 받아 품질 차이를 확인한 뒤 범위를 늘린다.
+# 2026-08-18 — 최종 프로세스 결정 반영 + fixture/스모크 통과
+
+## 완료 내역
+
+- `processreview/interview_result_fable5.md`를 원 검토서 6건과 다시 대조하고 §3 최종 승인안을
+  구현했다. 프롬프트 금지어 검사기·승격 해시/교체 안전장치는 추가하지 않았고 세션 상한
+  게이트와 `session-limits.mjs`는 제거했다.
+- 코드: 문두 Every/Monday 이름 오탐 수정, 트림 임계값 0.40, agy 후보·inbox 중복 확인,
+  TTS 세트별 예외 격리와 `effectiveWordsPerSecond`, `status --verify`, 렌더 후 ffprobe·
+  +5초/+13초 20프레임·contact sheet 자동 QA를 반영했다.
+- 문서·요청문·`req.txt`·Git 정책을 2026-08-18 결정에 맞췄다. `emit-request.mjs`와 fixture
+  실행기를 추가했고 `normalize-generated-image.mjs`를 삭제했다.
+- TTS 스모크 중 읽기 전용 외부 `.venv` 안에 numba 캐시를 쓰려다 멈추는 원인을 스택으로
+  확인했다. `tts/engine.py`가 `tts/cache/numba`를 쓰게 수정한 뒤 정상화했다.
+- fixture 전 항목과 TypeScript/Python 정적 검사가 통과했다.
+- DAY01 set1 end-to-end 스모크 통과: 콘텐츠 검증·승격 → 이미지 20장 반입·선별 → TTS
+  190.0초(overflow 0, RTF 1.957) → 자산 게이트 → 렌더 146.7초 → ffprobe 192.853초,
+  5,784프레임, H.264+오디오 → QA 20프레임+2대지. 스모크 전용 자산은 삭제하지 않고
+  `remotion/out/smoke-archive/2026-08-18/`로 이동했다.
+- Git 원격 `origin=https://github.com/qdwe93/voca_hackers_v2` 연결 및 로컬 커밋
+  `e9e677a` 생성 완료. 외부 push는 보안 검토가 전체 payload 재승인을 요구해 아직 실행하지
+  않았다.
+
+## 진행률
+
+제작 전 단계 0/120. 스모크는 작업 현황에서 분리했다.
+
+## 다음 시작
+
+1. 사용자가 커밋 `e9e677a` 및 후속 스모크 수정 커밋 전체를 위 GitHub 원격으로 보내는 것을
+   명시적으로 재승인하면 push한다.
+2. 1단계: `요청문/1_콘텐츠_이미지프롬프트_생성.txt`를 `opus` / `sol` / `gemini`에 각각
+   전달해 DAY01~30 전 구간 3벌을 만든다. 이 세션에는 세 외부 AI로 직접 발송할 연결이 없다.

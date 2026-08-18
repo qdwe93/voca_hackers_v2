@@ -17,6 +17,10 @@ import soundfile as sf
 import torch
 import torchaudio
 
+# qwen_tts가 불러오는 librosa/numba는 기본적으로 설치된 .venv 옆에 캐시를 쓰려 한다.
+# 외부 TTS 환경은 읽기 전용 참조이므로 프로젝트의 재생성 가능한 캐시로 보낸다.
+os.environ.setdefault("NUMBA_CACHE_DIR", str(Path(__file__).resolve().parent / "cache" / "numba"))
+
 
 # torchaudio 2.9+ 는 load 를 TorchCodec/ffmpeg 로 위임해 이 환경에서 실패한다.
 # qwen_tts 가 참조 음성 로드에 torchaudio.load 를 쓰므로 import 전에 대체해야 한다.
