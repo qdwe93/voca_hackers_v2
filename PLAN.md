@@ -8,6 +8,9 @@ v1(`hackers_video_project`)과 **영상 사양·타이밍·TTS 정책은 같고,
 외부 의존은 둘뿐이다: TTS 모델 `C:\Workspaces\tts\qwen3_tts_1.7b_base` (읽기 전용 참조,
 4단계에만 필요)와 선택적 이미지 백엔드 `agy.exe`(`AGY_PATH` 로 경로 변경 가능).
 
+**이 문서는 "무엇을 어떻게" 만 다룬다. "왜 그렇게 정했는가" 는 [`WHY.md`](WHY.md) 에 있다**
+(결정별 근거·버린 대안·바꿔도 되는 조건). 설계를 바꾸려면 WHY.md 의 근거부터 본다.
+
 ## v1 에서 바뀐 것 (이유가 있는 것만)
 
 | | v1 | v2 |
@@ -157,6 +160,7 @@ node remotion\scripts\render-batch.mjs
 hackers_video_project_v2/
 ├─ hackers.csv                 # 단어 원본
 ├─ req.txt                     # 콘텐츠·이미지 안전 기준
+├─ WHY.md                      # 왜 이렇게 만들었나 (결정·근거·버린 대안) ← 검토 시작점
 ├─ AGENTS.md                   # 세션 라우팅 + 복붙용 요청 문구
 ├─ PLAN.md                     # 이 문서
 ├─ handover.md                 # 세션 인계
