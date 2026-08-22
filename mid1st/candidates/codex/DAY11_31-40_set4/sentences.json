@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 11,
+  "range": "31-40",
+  "set": 4,
+  "items": [
+    {
+      "wordId": "DAY11-31",
+      "no": 31,
+      "word": "calculate",
+      "sentence": "Students calculate one half plus one quarter using fraction pieces."
+    },
+    {
+      "wordId": "DAY11-32",
+      "no": 32,
+      "word": "opportunity",
+      "sentence": "Today, rainy days give a great opportunity for indoor board games."
+    },
+    {
+      "wordId": "DAY11-33",
+      "no": 33,
+      "word": "poetry",
+      "sentence": "Students read poetry and notice repeated sounds and symbols."
+    },
+    {
+      "wordId": "DAY11-34",
+      "no": 34,
+      "word": "recall",
+      "sentence": "Today, can you recall the name of that tiny island?"
+    },
+    {
+      "wordId": "DAY11-35",
+      "no": 35,
+      "word": "inferior",
+      "sentence": "Today, the paper kite was inferior to the strong silk one."
+    },
+    {
+      "wordId": "DAY11-36",
+      "no": 36,
+      "word": "spirit",
+      "sentence": "The club kept a cheerful spirit through the long game."
+    },
+    {
+      "wordId": "DAY11-37",
+      "no": 37,
+      "word": "fade",
+      "sentence": "The colorful poster colors fade after many sunny days."
+    },
+    {
+      "wordId": "DAY11-38",
+      "no": 38,
+      "word": "generation",
+      "sentence": "The chart compares each generation by age group."
+    },
+    {
+      "wordId": "DAY11-39",
+      "no": 39,
+      "word": "masterpiece",
+      "sentence": "Today, the painter called this bright mural her greatest masterpiece."
+    },
+    {
+      "wordId": "DAY11-40",
+      "no": 40,
+      "word": "figure",
+      "sentence": "Today, I cannot figure out how to solve this difficult math problem."
+    }
+  ]
+}

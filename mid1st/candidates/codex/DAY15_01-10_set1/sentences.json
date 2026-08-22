@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 15,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY15-01",
+      "no": 1,
+      "word": "university",
+      "sentence": "Today, the old university had ivy climbing across its walls."
+    },
+    {
+      "wordId": "DAY15-02",
+      "no": 2,
+      "word": "education",
+      "sentence": "One good education helps children understand the wide world."
+    },
+    {
+      "wordId": "DAY15-03",
+      "no": 3,
+      "word": "focus",
+      "sentence": "Today, the young chess player must focus on the next move."
+    },
+    {
+      "wordId": "DAY15-04",
+      "no": 4,
+      "word": "entry",
+      "sentence": "Today, the garden entry was covered with climbing pink roses."
+    },
+    {
+      "wordId": "DAY15-05",
+      "no": 5,
+      "word": "medical",
+      "sentence": "Today, the medical team checked every puppy at the animal shelter."
+    },
+    {
+      "wordId": "DAY15-06",
+      "no": 6,
+      "word": "accept",
+      "sentence": "Kindly accept this small gift from the whole class."
+    },
+    {
+      "wordId": "DAY15-07",
+      "no": 7,
+      "word": "pioneer",
+      "sentence": "Today, the pioneer built the first bridge across the wide canyon."
+    },
+    {
+      "wordId": "DAY15-08",
+      "no": 8,
+      "word": "mathematics",
+      "sentence": "Today, mathematics helps builders make strong and beautiful stone arches."
+    },
+    {
+      "wordId": "DAY15-09",
+      "no": 9,
+      "word": "professor",
+      "sentence": "The kind professor displayed students a very old telescope."
+    },
+    {
+      "wordId": "DAY15-10",
+      "no": 10,
+      "word": "profession",
+      "sentence": "Today, nursing is a caring profession that helps many people."
+    }
+  ]
+}

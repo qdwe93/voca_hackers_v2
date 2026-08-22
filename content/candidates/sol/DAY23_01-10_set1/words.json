@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 23,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 23 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "climate",
+      "partOfSpeech": "n.",
+      "meaningKo": "기후",
+      "definition": "the usual weather conditions of a region",
+      "sentence": "The tropical climate keeps the island warm and rainy.",
+      "ipa": "/klaɪmət/",
+      "wordImage": "images/01_climate_word.png",
+      "sentenceImage": "images/01_climate_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "landscape",
+      "partOfSpeech": "n.",
+      "meaningKo": "풍경",
+      "definition": "all visible features of an area of land",
+      "sentence": "The mountain landscape includes forests cliffs and a river.",
+      "ipa": "/lændskeɪp/",
+      "wordImage": "images/02_landscape_word.png",
+      "sentenceImage": "images/02_landscape_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "storm",
+      "partOfSpeech": "n.",
+      "meaningKo": "폭풍",
+      "definition": "severe weather with strong wind rain or snow",
+      "sentence": "A storm bends trees outside the safely closed house.",
+      "ipa": "/stɔrm/",
+      "wordImage": "images/03_storm_word.png",
+      "sentenceImage": "images/03_storm_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "average",
+      "partOfSpeech": "n.",
+      "meaningKo": "평균",
+      "definition": "a typical amount found by comparing several values",
+      "sentence": "The average height falls between the tallest and shortest plants.",
+      "ipa": "/ævɚɪdʒ/",
+      "wordImage": "images/04_average_word.png",
+      "sentenceImage": "images/04_average_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "drown",
+      "partOfSpeech": "v.",
+      "meaningKo": "익사하다",
+      "definition": "to die because of being unable to breathe underwater",
+      "sentence": "A lifeguard prevents the swimmer from beginning to drown.",
+      "ipa": "/draʊn/",
+      "wordImage": "images/05_drown_word.png",
+      "sentenceImage": "images/05_drown_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "happen",
+      "partOfSpeech": "v.",
+      "meaningKo": "일어나다",
+      "definition": "to take place or occur",
+      "sentence": "The eclipse will happen while everyone watches through safe glasses.",
+      "ipa": "/hæpən/",
+      "wordImage": "images/06_happen_word.png",
+      "sentenceImage": "images/06_happen_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "rough",
+      "partOfSpeech": "adj.",
+      "meaningKo": "거친",
+      "definition": "not smooth or calm",
+      "sentence": "Rough waves rock the sturdy boat near shore.",
+      "ipa": "/rʌf/",
+      "wordImage": "images/07_rough_word.png",
+      "sentenceImage": "images/07_rough_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "geography",
+      "partOfSpeech": "n.",
+      "meaningKo": "지리학",
+      "definition": "the study of Earth's places and features",
+      "sentence": "The class studies geography using a globe and maps.",
+      "ipa": "/dʒiɑɡrəfi/",
+      "wordImage": "images/08_geography_word.png",
+      "sentenceImage": "images/08_geography_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "effect",
+      "partOfSpeech": "n.",
+      "meaningKo": "영향",
+      "definition": "a change caused by something else",
+      "sentence": "The wind's effect makes every nearby pinwheel spin.",
+      "ipa": "/ɪfɛkt/",
+      "wordImage": "images/09_effect_word.png",
+      "sentenceImage": "images/09_effect_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "affect",
+      "partOfSpeech": "v.",
+      "meaningKo": "영향을 미치다",
+      "definition": "to cause a change in something",
+      "sentence": "Cold weather can affect the growth of young plants.",
+      "ipa": "/əfɛkt/",
+      "wordImage": "images/10_affect_word.png",
+      "sentenceImage": "images/10_affect_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

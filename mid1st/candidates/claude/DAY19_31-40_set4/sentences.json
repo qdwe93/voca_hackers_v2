@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 19,
+  "range": "31-40",
+  "set": 4,
+  "items": [
+    {
+      "wordId": "DAY19-31",
+      "no": 31,
+      "word": "navigate",
+      "sentence": "We navigate to the museum using a paper map and compass."
+    },
+    {
+      "wordId": "DAY19-32",
+      "no": 32,
+      "word": "reproduce",
+      "sentence": "This printer can reproduce the old photograph without losing detail."
+    },
+    {
+      "wordId": "DAY19-33",
+      "no": 33,
+      "word": "differ",
+      "sentence": "The two battery models differ in weight and charging time."
+    },
+    {
+      "wordId": "DAY19-34",
+      "no": 34,
+      "word": "instruction",
+      "sentence": "Each instruction lists one action, so beginners follow the order easily."
+    },
+    {
+      "wordId": "DAY19-35",
+      "no": 35,
+      "word": "significant",
+      "sentence": "The battery lasted three hours longer, a significant improvement."
+    },
+    {
+      "wordId": "DAY19-36",
+      "no": 36,
+      "word": "satellite",
+      "sentence": "This weather satellite circles Earth and sends cloud pictures daily."
+    },
+    {
+      "wordId": "DAY19-37",
+      "no": 37,
+      "word": "demonstrate",
+      "sentence": "Our teacher will demonstrate how the small motor spins the wheel."
+    },
+    {
+      "wordId": "DAY19-38",
+      "no": 38,
+      "word": "emerge",
+      "sentence": "Green shoots emerge from the soil after four warm days."
+    },
+    {
+      "wordId": "DAY19-39",
+      "no": 39,
+      "word": "trigger",
+      "sentence": "Bright sunlight can trigger this sensor to close the blinds."
+    },
+    {
+      "wordId": "DAY19-40",
+      "no": 40,
+      "word": "current",
+      "sentence": "The screen shows the current temperature inside the greenhouse."
+    }
+  ]
+}

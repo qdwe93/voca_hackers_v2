@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 2,
+  "range": "21-30",
+  "set": 3,
+  "title": "DAY 02 · 21-30",
+  "words": [
+    {
+      "no": 21,
+      "word": "participate",
+      "partOfSpeech": "v.",
+      "meaningKo": "참여하다",
+      "definition": "to take part in an activity",
+      "sentence": "Many children participate in the school relay race.",
+      "ipa": "/pɑrtɪsəpeɪt/",
+      "wordImage": "images/21_participate_word.png",
+      "sentenceImage": "images/21_participate_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 22,
+      "word": "auditorium",
+      "partOfSpeech": "n.",
+      "meaningKo": "강당",
+      "definition": "a large room where audiences watch events",
+      "sentence": "Families fill the auditorium for the student music concert.",
+      "ipa": "/ɔdətɔriəm/",
+      "wordImage": "images/22_auditorium_word.png",
+      "sentenceImage": "images/22_auditorium_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 23,
+      "word": "inform",
+      "partOfSpeech": "v.",
+      "meaningKo": "알리다",
+      "definition": "to tell someone facts or news",
+      "sentence": "The guide will inform visitors about the museum rules.",
+      "ipa": "/ɪnfɔrm/",
+      "wordImage": "images/23_inform_word.png",
+      "sentenceImage": "images/23_inform_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 24,
+      "word": "duty",
+      "partOfSpeech": "n.",
+      "meaningKo": "의무",
+      "definition": "a task that someone is responsible for doing",
+      "sentence": "Feeding the classroom fish is today's duty for one student.",
+      "ipa": "/duti/",
+      "wordImage": "images/24_duty_word.png",
+      "sentenceImage": "images/24_duty_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 25,
+      "word": "evaluate",
+      "partOfSpeech": "v.",
+      "meaningKo": "평가하다",
+      "definition": "to judge the quality or value of something",
+      "sentence": "The teacher will evaluate three model bridges on the desk.",
+      "ipa": "/ɪvæljueɪt/",
+      "wordImage": "images/25_evaluate_word.png",
+      "sentenceImage": "images/25_evaluate_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 26,
+      "word": "minimum",
+      "partOfSpeech": "n.",
+      "meaningKo": "최소량",
+      "definition": "the smallest amount that is allowed or needed",
+      "sentence": "The ride requires a minimum height shown by the measuring pole.",
+      "ipa": "/mɪnəməm/",
+      "wordImage": "images/26_minimum_word.png",
+      "sentenceImage": "images/26_minimum_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 27,
+      "word": "introduction",
+      "partOfSpeech": "n.",
+      "meaningKo": "소개",
+      "definition": "the act of presenting someone or something new",
+      "sentence": "The host makes an introduction as two guests shake hands.",
+      "ipa": "/ɪntrədʌkʃən/",
+      "wordImage": "images/27_introduction_word.png",
+      "sentenceImage": "images/27_introduction_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 28,
+      "word": "photograph",
+      "partOfSpeech": "n.",
+      "meaningKo": "사진",
+      "definition": "a picture made with a camera",
+      "sentence": "A framed photograph shows the family beside a mountain lake.",
+      "ipa": "/foʊtəɡræf/",
+      "wordImage": "images/28_photograph_word.png",
+      "sentenceImage": "images/28_photograph_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 29,
+      "word": "council",
+      "partOfSpeech": "n.",
+      "meaningKo": "의회",
+      "definition": "a group chosen to make decisions for others",
+      "sentence": "The student council discusses playground plans around a table.",
+      "ipa": "/kaʊnsəl/",
+      "wordImage": "images/29_council_word.png",
+      "sentenceImage": "images/29_council_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 30,
+      "word": "conceal",
+      "partOfSpeech": "v.",
+      "meaningKo": "숨기다",
+      "definition": "to hide something from view",
+      "sentence": "The squirrel will conceal an acorn beneath dry leaves.",
+      "ipa": "/kənsil/",
+      "wordImage": "images/30_conceal_word.png",
+      "sentenceImage": "images/30_conceal_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

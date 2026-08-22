@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 5,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY05-21",
+      "no": 21,
+      "word": "capable",
+      "sentence": "A capable personal trainer designs customized exercise routines for clients."
+    },
+    {
+      "wordId": "DAY05-22",
+      "no": 22,
+      "word": "proper",
+      "sentence": "Wearing proper running shoes prevents foot strain on hard pavement."
+    },
+    {
+      "wordId": "DAY05-23",
+      "no": 23,
+      "word": "frequent",
+      "sentence": "Drink water during frequent rest breaks while hiking on hot days."
+    },
+    {
+      "wordId": "DAY05-24",
+      "no": 24,
+      "word": "symptom",
+      "sentence": "A high fever is a common symptom of seasonal influenza."
+    },
+    {
+      "wordId": "DAY05-25",
+      "no": 25,
+      "word": "monitor",
+      "sentence": "Doctors monitor heart rate changes during the treadmill stress test."
+    },
+    {
+      "wordId": "DAY05-26",
+      "no": 26,
+      "word": "consume",
+      "sentence": "Athletes consume carbohydrates to supply energy before a marathon competition."
+    },
+    {
+      "wordId": "DAY05-27",
+      "no": 27,
+      "word": "struggle",
+      "sentence": "Beginning swimmers struggle to stay afloat without proper kicking technique."
+    },
+    {
+      "wordId": "DAY05-28",
+      "no": 28,
+      "word": "strengthen",
+      "sentence": "Push-up exercises help strengthen chest and shoulder muscle groups effectively."
+    },
+    {
+      "wordId": "DAY05-29",
+      "no": 29,
+      "word": "slide",
+      "sentence": "Smooth wooden blocks slide easily across the low-friction plastic ramp."
+    },
+    {
+      "wordId": "DAY05-30",
+      "no": 30,
+      "word": "slice",
+      "sentence": "Use a sharp knife to slice fresh apples for snack."
+    }
+  ]
+}

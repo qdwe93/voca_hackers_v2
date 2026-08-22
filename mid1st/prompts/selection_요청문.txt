@@ -1,0 +1,74 @@
+[mid1st 예문 후보 선별 요청문]
+
+작업 기준 폴더는 C:\Workspaces\english\hackers_video_project_v2 이다.
+기존 원본, 공통 개념 배정, 세 모델 후보는 읽기만 하고 수정하지 마라. 이 요청은 비교표,
+선택 추천 manifest, 사람 검토 보고서만 만든다. 이미지·TTS·영상은 만들지 마라.
+
+시작 전에 다음을 처음부터 끝까지 읽어라.
+
+1. mid1st/AGENTS.md
+2. mid1st/README.md
+3. mid1st/DECISIONS.md
+4. mid1st/PLAN.md
+5. mid1st/prompts/P0_대표샘플_보정.md
+6. mid1st/prompts/P1_교과개념_배정.md
+7. mid1st/prompts/P2_예문_후보.md
+8. mid1st/prompts/P3_예문_선별.md
+9. mid1st/schema/README.md
+10. mid1st/calibration/selected_examples.jsonl
+11. mid1st/data/word_inventory.jsonl
+12. mid1st/data/concept_catalog.json
+13. mid1st/data/concept_assignments.jsonl
+
+선행 게이트를 먼저 확인하라.
+
+  node mid1st/scripts/validate-assignments.mjs
+  node mid1st/scripts/validate-calibration-selection.mjs --max 12
+  node mid1st/scripts/validate-candidates.mjs --author codex
+  node mid1st/scripts/validate-candidates.mjs --author antigravity
+  node mid1st/scripts/validate-candidates.mjs --author claude
+
+assignment는 반드시 1,200/1,200이어야 하고, 각 author 후보도 120세트·1,200개가 전부
+통과해야 한다. selected_examples.jsonl은 유효한 사용자 선택이 최소 6개여야 한다. 하나라도
+충족하지 않으면 부분 결과를 임의로 채우거나 선별을 시작하지 말고 부족한 항목을 보고하라.
+
+입력이 준비되면 다음 명령으로 baseline과 세 후보의 비교표를 만든다.
+
+  node mid1st/scripts/compare-candidates.mjs
+
+`mid1st/comparisons/all.md`와 원본 데이터를 단어별로 읽어 P3 기준에 따라 가장 좋은 문장을
+추천하라. baseline은 word_inventory의 baselineSentence다. 특정 author를 우대하지 마라.
+
+판단 순서는 확정 뜻·품사 정확성 → exact word → 공통 교과 개념·conceptCueKo의 직접성 →
+문자적 표현 → 사실·문법 → 초6 가독성·8~12단어 → 안전·시각화 → 사용자 대표 선택 성향이다.
+대표 선택 문장의 표면 문구, 주어, 구조, 소재를 복제하지 말고 판단 기준만 일반화하라.
+
+표현만 다르고 의미와 개념이 같은 후보, 또는 우열이 분명한 후보는 자동 추천하라. 단어 뜻이나
+교과 개념 해석이 크게 갈리거나, 뜻과 개념 사이에 절충이 필요하거나, 네 문장이 모두 약한
+항목만 reviewRequired로 분류하라. 단순한 문체 차이로 사용자의 확인을 요구하지 마라.
+
+모든 1,200단어의 추천을 `mid1st/final/selection_manifest.jsonl`에 strict JSONL로 저장하라.
+각 줄의 키는 정확히 다음 네 개다.
+
+기존 selection_manifest나 사용자가 답을 기록한 selection-review 보고서가 있으면 덮어쓰지
+마라. 유효한 완성 manifest면 dry-run 결과만 보고하고, 불완전한 기존 파일이면 보존한 채
+재작업 범위를 확인하라. 이 신규 실행에서 방금 만든 파일의 검증 오류만 직접 수정할 수 있다.
+
+  {"wordId":"DAY01-01","selectedAuthor":"codex","sentenceOverride":null,"note":"auto: 짧은 근거"}
+
+selectedAuthor는 codex, antigravity, claude, baseline, manual 중 하나다. manual일 때만
+sentenceOverride에 8~12단어의 최종 수정 문장을 넣고, 그 외에는 반드시 null로 둔다.
+고확신 항목 note는 `auto:`, 사람 검토 항목은 `reviewRequired:`로 시작한다.
+
+reviewRequired 항목만 `mid1st/reports/selection-review.md`에 모아라. 각 항목에 확정 뜻·품사·
+definition, PART·DAY, 공통 개념·cue, 네 문장, 현재 추천, 검토 이유를 함께 보여라. 보고서
+첫머리에는 자동 추천 수, 검토 필요 수, author별 추천 수, manual 수를 요약하라.
+
+manifest를 만든 뒤 아래 dry-run을 통과시켜라.
+
+  node mid1st/scripts/build-final.mjs --dry-run
+
+FAIL이면 manifest를 고치고 다시 실행하라. reviewRequired가 하나라도 있으면 실제 build-final은
+실행하지 말고 사용자 선택을 기다려라. 이 요청에서는 기존 후보나 원본을 수정하지 않는다.
+마지막에는 1,200/1,200 dry-run 결과, 자동 추천 수, 검토 필요 수, author별 추천 수, manual 수,
+검토 보고서 경로만 간결하게 보고하라.

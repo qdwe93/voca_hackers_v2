@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 11,
+  "range": "21-30",
+  "set": 3,
+  "title": "DAY 11 · 21-30",
+  "words": [
+    {
+      "no": 21,
+      "word": "wisdom",
+      "partOfSpeech": "n.",
+      "meaningKo": "지혜",
+      "definition": "the ability to make good decisions from experience",
+      "sentence": "The old owl shares wisdom with the younger birds.",
+      "ipa": "/wɪzdəm/",
+      "wordImage": "images/21_wisdom_word.png",
+      "sentenceImage": "images/21_wisdom_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 22,
+      "word": "impressed",
+      "partOfSpeech": "adj.",
+      "meaningKo": "감명받은",
+      "definition": "feeling admiration because something is excellent",
+      "sentence": "The impressed judges examine the student's working robot.",
+      "ipa": "/ɪmprɛst/",
+      "wordImage": "images/22_impressed_word.png",
+      "sentenceImage": "images/22_impressed_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 23,
+      "word": "emphasize",
+      "partOfSpeech": "v.",
+      "meaningKo": "강조하다",
+      "definition": "to show that something is especially important",
+      "sentence": "The coach will emphasize teamwork by joining everyone's hands.",
+      "ipa": "/ɛmfəsaɪz/",
+      "wordImage": "images/23_emphasize_word.png",
+      "sentenceImage": "images/23_emphasize_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 24,
+      "word": "bold",
+      "partOfSpeech": "adj.",
+      "meaningKo": "대담한",
+      "definition": "confident and willing to take risks",
+      "sentence": "The bold explorer steps onto the safe rope bridge.",
+      "ipa": "/boʊld/",
+      "wordImage": "images/24_bold_word.png",
+      "sentenceImage": "images/24_bold_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 25,
+      "word": "admire",
+      "partOfSpeech": "v.",
+      "meaningKo": "감탄하다",
+      "definition": "to respect or look at something with pleasure",
+      "sentence": "Visitors admire the detailed sculpture from every side.",
+      "ipa": "/ædmaɪr/",
+      "wordImage": "images/25_admire_word.png",
+      "sentenceImage": "images/25_admire_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 26,
+      "word": "vivid",
+      "partOfSpeech": "adj.",
+      "meaningKo": "생생한",
+      "definition": "very bright clear or detailed",
+      "sentence": "The vivid mural shows bright birds and green trees.",
+      "ipa": "/vɪvəd/",
+      "wordImage": "images/26_vivid_word.png",
+      "sentenceImage": "images/26_vivid_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 27,
+      "word": "multiple",
+      "partOfSpeech": "adj.",
+      "meaningKo": "다수의",
+      "definition": "more than one or many",
+      "sentence": "Multiple balloons float above the birthday table today.",
+      "ipa": "/mʌltəpəl/",
+      "wordImage": "images/27_multiple_word.png",
+      "sentenceImage": "images/27_multiple_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 28,
+      "word": "profound",
+      "partOfSpeech": "adj.",
+      "meaningKo": "깊은",
+      "definition": "very great deep or meaningful",
+      "sentence": "The astronaut feels profound wonder beneath the starry sky.",
+      "ipa": "/proʊfaʊnd/",
+      "wordImage": "images/28_profound_word.png",
+      "sentenceImage": "images/28_profound_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 29,
+      "word": "terrible",
+      "partOfSpeech": "adj.",
+      "meaningKo": "끔찍한",
+      "definition": "very bad or unpleasant",
+      "sentence": "A terrible storm bends the trees outside the safe house.",
+      "ipa": "/tɛrəbəl/",
+      "wordImage": "images/29_terrible_word.png",
+      "sentenceImage": "images/29_terrible_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 30,
+      "word": "terrific",
+      "partOfSpeech": "adj.",
+      "meaningKo": "훌륭한",
+      "definition": "extremely good or enjoyable",
+      "sentence": "The terrific performance makes the audience clap eagerly.",
+      "ipa": "/tɚɪfɪk/",
+      "wordImage": "images/30_terrific_word.png",
+      "sentenceImage": "images/30_terrific_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

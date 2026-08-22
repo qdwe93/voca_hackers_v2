@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 19,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 19 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "modern",
+      "partOfSpeech": "adj.",
+      "meaningKo": "현대의, 현대적인",
+      "ipa": "/ˈmɑː.dɚn/",
+      "definition": "relating to the present time and not to the past",
+      "sentence": "The new school building has a modern science computer lab.",
+      "wordImage": "images/01_modern_word.png",
+      "sentenceImage": "images/01_modern_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "mobile",
+      "partOfSpeech": "adj.",
+      "meaningKo": "이동 가능한, 모바일의",
+      "ipa": "/ˈmoʊ.bəl/",
+      "definition": "able to move or be moved easily and quickly",
+      "sentence": "The city operates a mobile library bus to visit small villages.",
+      "wordImage": "images/02_mobile_word.png",
+      "sentenceImage": "images/02_mobile_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "function",
+      "partOfSpeech": "n.",
+      "meaningKo": "기능, 작용",
+      "ipa": "/ˈfʌŋk.ʃən/",
+      "definition": "the special purpose or activity for which a thing exists",
+      "sentence": "The main function of a bicycle helmet is to protect head.",
+      "wordImage": "images/03_function_word.png",
+      "sentenceImage": "images/03_function_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "machine",
+      "partOfSpeech": "n.",
+      "meaningKo": "기계",
+      "ipa": "/məˈʃiːn/",
+      "definition": "a piece of equipment with moving parts doing work",
+      "sentence": "The robotic machine sorted plastic bottles into proper recycling bins.",
+      "wordImage": "images/04_machine_word.png",
+      "sentenceImage": "images/04_machine_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "repair",
+      "partOfSpeech": "v.",
+      "meaningKo": "수리하다, 고치다",
+      "ipa": "/rɪˈper/",
+      "definition": "to fix something that is broken, damaged, or not working",
+      "sentence": "The mechanic used a wrench to repair the toy bicycle chain.",
+      "wordImage": "images/05_repair_word.png",
+      "sentenceImage": "images/05_repair_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "efficient",
+      "partOfSpeech": "adj.",
+      "meaningKo": "효율적인, 유능한",
+      "ipa": "/ɪˈfɪʃ.ənt/",
+      "definition": "working well and not wasting time, energy, or money",
+      "sentence": "Solar panels provide a clean and very efficient source of energy.",
+      "wordImage": "images/06_efficient_word.png",
+      "sentenceImage": "images/06_efficient_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "install",
+      "partOfSpeech": "v.",
+      "meaningKo": "설치하다, 장착하다",
+      "ipa": "/ɪnˈstɑːl/",
+      "definition": "to put equipment or software in place ready for use",
+      "sentence": "The technician helped install a new interactive whiteboard in our classroom.",
+      "wordImage": "images/07_install_word.png",
+      "sentenceImage": "images/07_install_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "innovation",
+      "partOfSpeech": "n.",
+      "meaningKo": "혁신, 획기적인 것",
+      "ipa": "/ˌɪn.əˈveɪ.ʃən/",
+      "definition": "a new idea, method, or invention that brings positive change",
+      "sentence": "Electric cars are an exciting green innovation for cleaner city air.",
+      "wordImage": "images/08_innovation_word.png",
+      "sentenceImage": "images/08_innovation_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "trust",
+      "partOfSpeech": "n.",
+      "meaningKo": "신뢰, 믿음",
+      "ipa": "/trʌst/",
+      "definition": "the belief that someone is good, honest, and reliable",
+      "sentence": "Honesty is the foundation of strong friendship and mutual trust.",
+      "wordImage": "images/09_trust_word.png",
+      "sentenceImage": "images/09_trust_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "truth",
+      "partOfSpeech": "n.",
+      "meaningKo": "진실, 사실",
+      "ipa": "/truːθ/",
+      "definition": "the real facts about a situation, not lies or fiction",
+      "sentence": "It is always best to tell the truth with courage.",
+      "wordImage": "images/10_truth_word.png",
+      "sentenceImage": "images/10_truth_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

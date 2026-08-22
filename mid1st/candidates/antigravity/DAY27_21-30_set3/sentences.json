@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 27,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY27-21",
+      "no": 21,
+      "word": "simplify",
+      "sentence": "Infographics simplify complex economic data into easy visual charts for readers."
+    },
+    {
+      "wordId": "DAY27-22",
+      "no": 22,
+      "word": "committee",
+      "sentence": "The student committee organized a successful charity book donation drive today."
+    },
+    {
+      "wordId": "DAY27-23",
+      "no": 23,
+      "word": "accompany",
+      "sentence": "Parents accompany young children during their first visit to the zoo."
+    },
+    {
+      "wordId": "DAY27-24",
+      "no": 24,
+      "word": "proportion",
+      "sentence": "Speed and travel time maintain an inverse proportion relationship on graphs."
+    },
+    {
+      "wordId": "DAY27-25",
+      "no": 25,
+      "word": "household",
+      "sentence": "Every single household in the neighborhood participates in weekly recycling collections."
+    },
+    {
+      "wordId": "DAY27-26",
+      "no": 26,
+      "word": "absence",
+      "sentence": "His unexpected absence from the meeting was due to sudden illness."
+    },
+    {
+      "wordId": "DAY27-27",
+      "no": 27,
+      "word": "primary",
+      "sentence": "Education is the primary factor in reducing youth unemployment across regions."
+    },
+    {
+      "wordId": "DAY27-28",
+      "no": 28,
+      "word": "spot",
+      "sentence": "Bird watchers can spot colorful migratory ducks in the wetland marsh."
+    },
+    {
+      "wordId": "DAY27-29",
+      "no": 29,
+      "word": "bother",
+      "sentence": "Loud lawn mowers can bother residents sleeping on quiet Sunday mornings."
+    },
+    {
+      "wordId": "DAY27-30",
+      "no": 30,
+      "word": "border",
+      "sentence": "Passports are checked when crossing the international border between two nations."
+    }
+  ]
+}

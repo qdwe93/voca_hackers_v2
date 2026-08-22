@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 13,
+  "range": "31-40",
+  "set": 4,
+  "items": [
+    {
+      "wordId": "DAY13-31",
+      "no": 31,
+      "word": "outstanding",
+      "sentence": "One outstanding dancer led the whole line at the festival."
+    },
+    {
+      "wordId": "DAY13-32",
+      "no": 32,
+      "word": "resist",
+      "sentence": "Thick temple walls resist strong wind during the summer storms."
+    },
+    {
+      "wordId": "DAY13-33",
+      "no": 33,
+      "word": "hesitate",
+      "sentence": "New members hesitate before ringing the heavy bronze bell."
+    },
+    {
+      "wordId": "DAY13-34",
+      "no": 34,
+      "word": "protest",
+      "sentence": "Residents protest the noisy night work and ask for earlier stopping times."
+    },
+    {
+      "wordId": "DAY13-35",
+      "no": 35,
+      "word": "restore",
+      "sentence": "Workers restore the faded roof paint on the old shrine."
+    },
+    {
+      "wordId": "DAY13-36",
+      "no": 36,
+      "word": "associate",
+      "sentence": "Many people associate this drum sound with the harvest festival."
+    },
+    {
+      "wordId": "DAY13-37",
+      "no": 37,
+      "word": "heritage",
+      "sentence": "This wooden gate is village heritage from four hundred years ago."
+    },
+    {
+      "wordId": "DAY13-38",
+      "no": 38,
+      "word": "restriction",
+      "sentence": "One restriction protects the paintings, so visitors leave large bags outside."
+    },
+    {
+      "wordId": "DAY13-39",
+      "no": 39,
+      "word": "perceive",
+      "sentence": "Inside the dark hall we perceive faint smells of incense."
+    },
+    {
+      "wordId": "DAY13-40",
+      "no": 40,
+      "word": "scale",
+      "sentence": "We compared the festival at village scale and then city scale."
+    }
+  ]
+}

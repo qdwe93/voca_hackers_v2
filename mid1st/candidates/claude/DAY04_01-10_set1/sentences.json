@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 4,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY04-01",
+      "no": 1,
+      "word": "career",
+      "sentence": "A firefighter's career often lasts more than twenty years."
+    },
+    {
+      "wordId": "DAY04-02",
+      "no": 2,
+      "word": "skill",
+      "sentence": "Cutting hair neatly is a skill this barber practiced for years."
+    },
+    {
+      "wordId": "DAY04-03",
+      "no": 3,
+      "word": "task",
+      "sentence": "My first task at the bakery is weighing the flour."
+    },
+    {
+      "wordId": "DAY04-04",
+      "no": 4,
+      "word": "tend",
+      "sentence": "Farmers tend young rice plants from spring until late summer."
+    },
+    {
+      "wordId": "DAY04-05",
+      "no": 5,
+      "word": "position",
+      "sentence": "The goalkeeper stayed in position near the left goal post."
+    },
+    {
+      "wordId": "DAY04-06",
+      "no": 6,
+      "word": "hire",
+      "sentence": "Restaurant owners hire two cooks and pay the legal wage."
+    },
+    {
+      "wordId": "DAY04-07",
+      "no": 7,
+      "word": "quit",
+      "sentence": "Our neighbor will quit driving trucks and open a flower shop."
+    },
+    {
+      "wordId": "DAY04-08",
+      "no": 8,
+      "word": "proud",
+      "sentence": "The young baker felt proud of the first perfect loaf."
+    },
+    {
+      "wordId": "DAY04-09",
+      "no": 9,
+      "word": "labor",
+      "sentence": "Heavy labor at the port needs safety helmets and rest breaks."
+    },
+    {
+      "wordId": "DAY04-10",
+      "no": 10,
+      "word": "label",
+      "sentence": "Each jar has a label showing the fruit inside it."
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 15,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY15-21",
+      "no": 21,
+      "word": "tune",
+      "sentence": "Everyone hummed the same tune while walking to the bus."
+    },
+    {
+      "wordId": "DAY15-22",
+      "no": 22,
+      "word": "submit",
+      "sentence": "We submit our reading logs to the librarian every Monday."
+    },
+    {
+      "wordId": "DAY15-23",
+      "no": 23,
+      "word": "logical",
+      "sentence": "A logical answer links the dry soil to the wilted leaves."
+    },
+    {
+      "wordId": "DAY15-24",
+      "no": 24,
+      "word": "blame",
+      "sentence": "Do not blame the weather when we forgot our umbrellas."
+    },
+    {
+      "wordId": "DAY15-25",
+      "no": 25,
+      "word": "display",
+      "sentence": "We display the graph beside the text so both explain together."
+    },
+    {
+      "wordId": "DAY15-26",
+      "no": 26,
+      "word": "likewise",
+      "sentence": "Ants carry crumbs home; likewise, bees carry pollen to the hive."
+    },
+    {
+      "wordId": "DAY15-27",
+      "no": 27,
+      "word": "discipline",
+      "sentence": "Daily discipline keeps this violin group practicing at seven sharp."
+    },
+    {
+      "wordId": "DAY15-28",
+      "no": 28,
+      "word": "boost",
+      "sentence": "Extra reading time can boost our vocabulary before the contest."
+    },
+    {
+      "wordId": "DAY15-29",
+      "no": 29,
+      "word": "shallow",
+      "sentence": "The stream near school is shallow enough for rubber boots."
+    },
+    {
+      "wordId": "DAY15-30",
+      "no": 30,
+      "word": "swallow",
+      "sentence": "Chew the rice well before you swallow each small bite."
+    }
+  ]
+}

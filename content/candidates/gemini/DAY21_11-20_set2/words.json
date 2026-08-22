@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 21,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 21 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "shape",
+      "partOfSpeech": "n.",
+      "meaningKo": "모양, 형태",
+      "ipa": "/ʃeɪp/",
+      "definition": "the particular physical form or outline of something",
+      "sentence": "Fluffy white clouds formed the shape of a leaping bunny.",
+      "wordImage": "images/11_shape_word.png",
+      "sentenceImage": "images/11_shape_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "fierce",
+      "partOfSpeech": "adj.",
+      "meaningKo": "사나운, 맹렬한",
+      "ipa": "/fɪrs/",
+      "definition": "having or showing a powerful and aggressive intensity in weather",
+      "sentence": "The fierce winter blizzard piled deep snowdrifts against the cabin.",
+      "wordImage": "images/12_fierce_word.png",
+      "sentenceImage": "images/12_fierce_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "ripe",
+      "partOfSpeech": "adj.",
+      "meaningKo": "익은, 숙성한",
+      "ipa": "/raɪp/",
+      "definition": "ready to be harvested and eaten, fully developed",
+      "sentence": "We picked sweet and ripe red strawberries in the garden.",
+      "wordImage": "images/13_ripe_word.png",
+      "sentenceImage": "images/13_ripe_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "lay",
+      "partOfSpeech": "v.",
+      "meaningKo": "알을 낳다, 놓다",
+      "ipa": "/leɪ/",
+      "definition": "to produce an egg from the body, or place down",
+      "sentence": "The mother hen will lay brown eggs in her straw nest.",
+      "wordImage": "images/14_lay_word.png",
+      "sentenceImage": "images/14_lay_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "male",
+      "partOfSpeech": "adj.",
+      "meaningKo": "수컷의, 남성의",
+      "ipa": "/meɪl/",
+      "definition": "belonging to the sex that produces sperm, not female",
+      "sentence": "The male peacock displayed its magnificent emerald and blue tail feathers.",
+      "wordImage": "images/15_male_word.png",
+      "sentenceImage": "images/15_male_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "foster",
+      "partOfSpeech": "v.",
+      "meaningKo": "육성하다, 기르다",
+      "ipa": "/ˈfɑː.stɚ/",
+      "definition": "to encourage the development of something, or care for young",
+      "sentence": "Reading books helps foster creativity and deep imagination in children.",
+      "wordImage": "images/16_foster_word.png",
+      "sentenceImage": "images/16_foster_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "surface",
+      "partOfSpeech": "n.",
+      "meaningKo": "표면, 겉면",
+      "ipa": "/ˈsɝː.fɪs/",
+      "definition": "the outer or top layer of something",
+      "sentence": "Water drops rolled smoothly across the shiny leaf surface.",
+      "wordImage": "images/17_surface_word.png",
+      "sentenceImage": "images/17_surface_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "engage",
+      "partOfSpeech": "v.",
+      "meaningKo": "참여하다, 사로잡다",
+      "ipa": "/ɪnˈɡeɪdʒ/",
+      "definition": "to participate or become involved in an activity actively",
+      "sentence": "Students love to engage in lively science discussions after experiments.",
+      "wordImage": "images/18_engage_word.png",
+      "sentenceImage": "images/18_engage_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "location",
+      "partOfSpeech": "n.",
+      "meaningKo": "장소, 위치",
+      "ipa": "/loʊˈkeɪ.ʃən/",
+      "definition": "a particular place or position where something is situated",
+      "sentence": "The botanical garden is an ideal location for our nature walk.",
+      "wordImage": "images/19_location_word.png",
+      "sentenceImage": "images/19_location_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "store",
+      "partOfSpeech": "v.",
+      "meaningKo": "저장하다, 보관하다",
+      "ipa": "/stɔːr/",
+      "definition": "to keep or put something away for future use",
+      "sentence": "Squirrels collect and store crunchy acorns for the cold winter.",
+      "wordImage": "images/20_store_word.png",
+      "sentenceImage": "images/20_store_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

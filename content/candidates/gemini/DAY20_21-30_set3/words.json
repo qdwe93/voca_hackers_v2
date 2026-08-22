@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 20,
+  "range": "21-30",
+  "set": 3,
+  "title": "DAY 20 · 21-30",
+  "words": [
+    {
+      "no": 21,
+      "word": "license",
+      "partOfSpeech": "n.",
+      "meaningKo": "면허증, 자격증",
+      "ipa": "/ˈlaɪ.səns/",
+      "definition": "an official document giving permission to do or own something",
+      "sentence": "He was proud to earn his junior boat pilot license.",
+      "wordImage": "images/21_license_word.png",
+      "sentenceImage": "images/21_license_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 22,
+      "word": "construction",
+      "partOfSpeech": "n.",
+      "meaningKo": "건설, 공사",
+      "ipa": "/kənˈstrʌk.ʃən/",
+      "definition": "the building of houses, bridges, roads, or other structures",
+      "sentence": "Workers wore bright yellow hard hats at the bridge construction site.",
+      "wordImage": "images/22_construction_word.png",
+      "sentenceImage": "images/22_construction_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 23,
+      "word": "wireless",
+      "partOfSpeech": "adj.",
+      "meaningKo": "무선의",
+      "ipa": "/ˈwaɪr.ləs/",
+      "definition": "using radio signals rather than wires to connect electronic devices",
+      "sentence": "We connected our laptop to the school’s high-speed wireless network.",
+      "wordImage": "images/23_wireless_word.png",
+      "sentenceImage": "images/23_wireless_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 24,
+      "word": "nevertheless",
+      "partOfSpeech": "adv.",
+      "meaningKo": "그럼에도 불구하고",
+      "ipa": "/ˌnev.ɚ.ðəˈles/",
+      "definition": "in spite of what has just been mentioned, still",
+      "sentence": "It was raining, but nevertheless they enjoyed the forest hike.",
+      "wordImage": "images/24_nevertheless_word.png",
+      "sentenceImage": "images/24_nevertheless_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 25,
+      "word": "barrier",
+      "partOfSpeech": "n.",
+      "meaningKo": "장벽, 장애물",
+      "ipa": "/ˈber.i.ɚ/",
+      "definition": "a fence or gate that prevents people or vehicles from passing",
+      "sentence": "The safety barrier along the cliff keeps hikers on path.",
+      "wordImage": "images/25_barrier_word.png",
+      "sentenceImage": "images/25_barrier_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 26,
+      "word": "lift",
+      "partOfSpeech": "v.",
+      "meaningKo": "들어 올리다",
+      "ipa": "/lɪft/",
+      "definition": "to move something from a lower to a higher position",
+      "sentence": "The strong crane can lift heavy wooden crates with ease.",
+      "wordImage": "images/26_lift_word.png",
+      "sentenceImage": "images/26_lift_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 27,
+      "word": "curved",
+      "partOfSpeech": "adj.",
+      "meaningKo": "곡선의, 굽은",
+      "ipa": "/kɝːvd/",
+      "definition": "having a smooth, rounded shape without straight angles",
+      "sentence": "A rainbow forms a magnificent curved colorful arch across sky.",
+      "wordImage": "images/27_curved_word.png",
+      "sentenceImage": "images/27_curved_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 28,
+      "word": "eliminate",
+      "partOfSpeech": "v.",
+      "meaningKo": "없애다, 제거하다",
+      "ipa": "/iˈlɪm.ə.neɪt/",
+      "definition": "to remove or take away someone or something completely",
+      "sentence": "Using reusable cloth bags helps eliminate plastic waste in town.",
+      "wordImage": "images/28_eliminate_word.png",
+      "sentenceImage": "images/28_eliminate_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 29,
+      "word": "commit",
+      "partOfSpeech": "v.",
+      "meaningKo": "헌신하다, 전념하다",
+      "ipa": "/kəˈmɪt/",
+      "definition": "to promise to give your time and energy to something",
+      "sentence": "Athletes commit hours of daily practice to prepare for games.",
+      "wordImage": "images/29_commit_word.png",
+      "sentenceImage": "images/29_commit_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 30,
+      "word": "commute",
+      "partOfSpeech": "v.",
+      "meaningKo": "통근하다, 통학하다",
+      "ipa": "/kəˈmjuːt/",
+      "definition": "to travel regularly between home and work or school",
+      "sentence": "Many students commute to school by bicycle along green trails.",
+      "wordImage": "images/30_commute_word.png",
+      "sentenceImage": "images/30_commute_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

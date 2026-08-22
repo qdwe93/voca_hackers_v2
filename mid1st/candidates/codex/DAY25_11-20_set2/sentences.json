@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 25,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY25-11",
+      "no": 11,
+      "word": "protect",
+      "sentence": "Park fences protect rare birds by keeping their habitat quiet."
+    },
+    {
+      "wordId": "DAY25-12",
+      "no": 12,
+      "word": "loss",
+      "sentence": "Today, the loss of one glove made the walk chilly."
+    },
+    {
+      "wordId": "DAY25-13",
+      "no": 13,
+      "word": "generate",
+      "sentence": "Solar panels generate electricity by changing energy from sunlight."
+    },
+    {
+      "wordId": "DAY25-14",
+      "no": 14,
+      "word": "amazed",
+      "sentence": "Today, the visitors looked amazed at the glowing blue cave."
+    },
+    {
+      "wordId": "DAY25-15",
+      "no": 15,
+      "word": "harm",
+      "sentence": "Today, litter can harm the small fish in ponds."
+    },
+    {
+      "wordId": "DAY25-16",
+      "no": 16,
+      "word": "intense",
+      "sentence": "Today, intense sunlight made the beach sand feel hot."
+    },
+    {
+      "wordId": "DAY25-17",
+      "no": 17,
+      "word": "amount",
+      "sentence": "A small amount of salt improved the whole soup."
+    },
+    {
+      "wordId": "DAY25-18",
+      "no": 18,
+      "word": "marine",
+      "sentence": "Plastic waste harms marine animals around small Pacific islands."
+    },
+    {
+      "wordId": "DAY25-19",
+      "no": 19,
+      "word": "permanent",
+      "sentence": "Today, the stone bridge became a permanent part of town."
+    },
+    {
+      "wordId": "DAY25-20",
+      "no": 20,
+      "word": "fine",
+      "sentence": "The same legal rule gives each driver an equal fine."
+    }
+  ]
+}

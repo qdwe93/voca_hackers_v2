@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 26,
+  "range": "31-40",
+  "set": 4,
+  "title": "DAY 26 · 31-40",
+  "words": [
+    {
+      "no": 31,
+      "word": "stamp",
+      "partOfSpeech": "n.",
+      "meaningKo": "도장",
+      "definition": "a small mark or tool showing official approval",
+      "sentence": "The officer presses a round stamp onto the blank form.",
+      "ipa": "/stæmp/",
+      "wordImage": "images/31_stamp_word.png",
+      "sentenceImage": "images/31_stamp_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 32,
+      "word": "secure",
+      "partOfSpeech": "v.",
+      "meaningKo": "고정하다",
+      "definition": "to fasten or protect something firmly",
+      "sentence": "The camper will secure the tent with strong ropes.",
+      "ipa": "/sɪkjʊr/",
+      "wordImage": "images/32_secure_word.png",
+      "sentenceImage": "images/32_secure_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 33,
+      "word": "conference",
+      "partOfSpeech": "n.",
+      "meaningKo": "회의",
+      "definition": "a formal meeting for discussion",
+      "sentence": "Scientists gather at a conference around a large table.",
+      "ipa": "/kɑnfɚəns/",
+      "wordImage": "images/33_conference_word.png",
+      "sentenceImage": "images/33_conference_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 34,
+      "word": "urge",
+      "partOfSpeech": "v.",
+      "meaningKo": "촉구하다",
+      "definition": "to strongly encourage someone to act",
+      "sentence": "The guide will urge hikers to leave before the storm.",
+      "ipa": "/ɝdʒ/",
+      "wordImage": "images/34_urge_word.png",
+      "sentenceImage": "images/34_urge_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 35,
+      "word": "confront",
+      "partOfSpeech": "v.",
+      "meaningKo": "맞서다",
+      "definition": "to face a difficult person or problem",
+      "sentence": "The game hero will confront the giant puzzle door.",
+      "ipa": "/kənfrʌnt/",
+      "wordImage": "images/35_confront_word.png",
+      "sentenceImage": "images/35_confront_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 36,
+      "word": "persuade",
+      "partOfSpeech": "v.",
+      "meaningKo": "설득하다",
+      "definition": "to make someone agree through reasons",
+      "sentence": "The child will persuade friends to choose the safer path.",
+      "ipa": "/pɚsweɪd/",
+      "wordImage": "images/36_persuade_word.png",
+      "sentenceImage": "images/36_persuade_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 37,
+      "word": "scan",
+      "partOfSpeech": "v.",
+      "meaningKo": "스캔하다",
+      "definition": "to examine something quickly or electronically",
+      "sentence": "The robot will scan every package with a blue light.",
+      "ipa": "/skæn/",
+      "wordImage": "images/37_scan_word.png",
+      "sentenceImage": "images/37_scan_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 38,
+      "word": "prohibit",
+      "partOfSpeech": "v.",
+      "meaningKo": "금지하다",
+      "definition": "to officially prevent an action",
+      "sentence": "The city will prohibit cars inside the public garden.",
+      "ipa": "/proʊhɪbət/",
+      "wordImage": "images/38_prohibit_word.png",
+      "sentenceImage": "images/38_prohibit_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 39,
+      "word": "moreover",
+      "partOfSpeech": "adv.",
+      "meaningKo": "게다가",
+      "definition": "in addition to what was said",
+      "sentence": "The cabin is warm; moreover it has plenty of food.",
+      "ipa": "/mɔroʊvɚ/",
+      "wordImage": "images/39_moreover_word.png",
+      "sentenceImage": "images/39_moreover_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 40,
+      "word": "determine",
+      "partOfSpeech": "v.",
+      "meaningKo": "결정하다",
+      "definition": "to discover or decide something",
+      "sentence": "The judge will determine which bridge holds more weight.",
+      "ipa": "/dətɝmən/",
+      "wordImage": "images/40_determine_word.png",
+      "sentenceImage": "images/40_determine_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

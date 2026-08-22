@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 5,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 05 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "muscle",
+      "partOfSpeech": "n.",
+      "meaningKo": "근육",
+      "definition": "body tissue that produces movement by tightening",
+      "sentence": "The athlete stretches each muscle before lifting the light weights.",
+      "ipa": "/mʌsəl/",
+      "wordImage": "images/01_muscle_word.png",
+      "sentenceImage": "images/01_muscle_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "regular",
+      "partOfSpeech": "adj.",
+      "meaningKo": "규칙적인",
+      "definition": "happening repeatedly at the same times",
+      "sentence": "The clock makes regular steady movements every single second.",
+      "ipa": "/rɛɡjəlɚ/",
+      "wordImage": "images/02_regular_word.png",
+      "sentenceImage": "images/02_regular_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "stretch",
+      "partOfSpeech": "v.",
+      "meaningKo": "뻗다",
+      "definition": "to extend a body part to full length",
+      "sentence": "The cat will stretch its front legs after waking.",
+      "ipa": "/strɛtʃ/",
+      "wordImage": "images/03_stretch_word.png",
+      "sentenceImage": "images/03_stretch_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "reduce",
+      "partOfSpeech": "v.",
+      "meaningKo": "줄이다",
+      "definition": "to make something smaller or less",
+      "sentence": "Turning the valve will reduce the water flow.",
+      "ipa": "/rədus/",
+      "wordImage": "images/04_reduce_word.png",
+      "sentenceImage": "images/04_reduce_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "opponent",
+      "partOfSpeech": "n.",
+      "meaningKo": "상대",
+      "definition": "a person or team competing against another",
+      "sentence": "The chess player shakes hands with her opponent.",
+      "ipa": "/əpoʊnənt/",
+      "wordImage": "images/05_opponent_word.png",
+      "sentenceImage": "images/05_opponent_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "recommend",
+      "partOfSpeech": "v.",
+      "meaningKo": "추천하다",
+      "definition": "to suggest something as a good choice",
+      "sentence": "The librarian will recommend an adventure book to the child.",
+      "ipa": "/rɛkəmɛnd/",
+      "wordImage": "images/06_recommend_word.png",
+      "sentenceImage": "images/06_recommend_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "warn",
+      "partOfSpeech": "v.",
+      "meaningKo": "경고하다",
+      "definition": "to tell someone about possible danger",
+      "sentence": "A flashing light will warn robots about the slippery floor.",
+      "ipa": "/wɔrn/",
+      "wordImage": "images/07_warn_word.png",
+      "sentenceImage": "images/07_warn_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "cause",
+      "partOfSpeech": "v.",
+      "meaningKo": "원인이 되다",
+      "definition": "to make something happen",
+      "sentence": "Strong wind can cause the pinwheel to spin rapidly.",
+      "ipa": "/kɑz/",
+      "wordImage": "images/08_cause_word.png",
+      "sentenceImage": "images/08_cause_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "lose",
+      "partOfSpeech": "v.",
+      "meaningKo": "잃다",
+      "definition": "to no longer have something",
+      "sentence": "The squirrel may lose an acorn through the basket hole.",
+      "ipa": "/luz/",
+      "wordImage": "images/09_lose_word.png",
+      "sentenceImage": "images/09_lose_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "loose",
+      "partOfSpeech": "adj.",
+      "meaningKo": "헐거운",
+      "definition": "not firmly fixed or tightly held",
+      "sentence": "A loose wheel wobbles on the toy wagon.",
+      "ipa": "/lus/",
+      "wordImage": "images/10_loose_word.png",
+      "sentenceImage": "images/10_loose_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

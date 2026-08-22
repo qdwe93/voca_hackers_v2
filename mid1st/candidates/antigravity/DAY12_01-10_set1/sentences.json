@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 12,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY12-01",
+      "no": 1,
+      "word": "perform",
+      "sentence": "The school orchestra will perform classical music in the auditorium."
+    },
+    {
+      "wordId": "DAY12-02",
+      "no": 2,
+      "word": "feature",
+      "sentence": "A prominent feature of this camera is its optical zoom."
+    },
+    {
+      "wordId": "DAY12-03",
+      "no": 3,
+      "word": "genre",
+      "sentence": "Science fiction is a popular literary genre among young readers."
+    },
+    {
+      "wordId": "DAY12-04",
+      "no": 4,
+      "word": "instrument",
+      "sentence": "The violin is a classical string instrument played with bow."
+    },
+    {
+      "wordId": "DAY12-05",
+      "no": 5,
+      "word": "broadcast",
+      "sentence": "Local television stations broadcast weather warnings during severe winter storms."
+    },
+    {
+      "wordId": "DAY12-06",
+      "no": 6,
+      "word": "artwork",
+      "sentence": "Students created digital artwork combining photos and recorded voice narrations."
+    },
+    {
+      "wordId": "DAY12-07",
+      "no": 7,
+      "word": "suit",
+      "sentence": "These bright yellow frames suit your round face shape nicely."
+    },
+    {
+      "wordId": "DAY12-08",
+      "no": 8,
+      "word": "inspire",
+      "sentence": "Inspiring real stories inspire young students to pursue their dreams."
+    },
+    {
+      "wordId": "DAY12-09",
+      "no": 9,
+      "word": "belief",
+      "sentence": "Freedom of religion protects personal belief without government interference."
+    },
+    {
+      "wordId": "DAY12-10",
+      "no": 10,
+      "word": "brief",
+      "sentence": "The news anchor gave a brief summary of daily events."
+    }
+  ]
+}

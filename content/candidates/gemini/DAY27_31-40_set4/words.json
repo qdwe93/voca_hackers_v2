@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 27,
+  "range": "31-40",
+  "set": 4,
+  "title": "DAY 27 · 31-40",
+  "words": [
+    {
+      "no": 31,
+      "word": "available",
+      "partOfSpeech": "adj.",
+      "meaningKo": "이용 가능한, 시간이 있는",
+      "ipa": "/əˈveɪ.lə.bəl/",
+      "definition": "ready to be used or obtained, not occupied or busy",
+      "sentence": "Fresh cold water is always available at the park drinking fountain.",
+      "wordImage": "images/31_available_word.png",
+      "sentenceImage": "images/31_available_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 32,
+      "word": "harbor",
+      "partOfSpeech": "n.",
+      "meaningKo": "항구, 피난처",
+      "ipa": "/ˈhɑːr.bɚ/",
+      "definition": "a protected area of water next to land where boats moor",
+      "sentence": "Sailboats bobbed gently on the calm blue water in harbor.",
+      "wordImage": "images/32_harbor_word.png",
+      "sentenceImage": "images/32_harbor_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 33,
+      "word": "garage",
+      "partOfSpeech": "n.",
+      "meaningKo": "차고, 정비소",
+      "ipa": "/ɡəˈrɑːʒ/",
+      "definition": "a building or indoor space where a vehicle is kept",
+      "sentence": "He parked his bicycle safely inside the tidy clean garage.",
+      "wordImage": "images/33_garage_word.png",
+      "sentenceImage": "images/33_garage_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 34,
+      "word": "notion",
+      "partOfSpeech": "n.",
+      "meaningKo": "개념, 생각",
+      "ipa": "/ˈnoʊ.ʃən/",
+      "definition": "a belief or idea about something, an understanding",
+      "sentence": "She had a creative notion for our upcoming school puppet show.",
+      "wordImage": "images/34_notion_word.png",
+      "sentenceImage": "images/34_notion_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 35,
+      "word": "suburb",
+      "partOfSpeech": "n.",
+      "meaningKo": "교외, 근교",
+      "ipa": "/ˈsʌb.ɝːb/",
+      "definition": "an area on the edge of a city where people live",
+      "sentence": "Our quiet tree-lined suburb has friendly neighbors and wide bicycle paths.",
+      "wordImage": "images/35_suburb_word.png",
+      "sentenceImage": "images/35_suburb_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 36,
+      "word": "resident",
+      "partOfSpeech": "n.",
+      "meaningKo": "주민, 거주자",
+      "ipa": "/ˈrez.ə.dənt/",
+      "definition": "a person who lives in a particular place or area",
+      "sentence": "Every local resident was invited to the summer block party celebration.",
+      "wordImage": "images/36_resident_word.png",
+      "sentenceImage": "images/36_resident_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 37,
+      "word": "investigate",
+      "partOfSpeech": "v.",
+      "meaningKo": "조사하다, 수사하다",
+      "ipa": "/ɪnˈves.tə.ɡeɪt/",
+      "definition": "to examine a problem or mystery carefully to discover truth",
+      "sentence": "Young scientists investigate why water drops form beads on lotus leaves.",
+      "wordImage": "images/37_investigate_word.png",
+      "sentenceImage": "images/37_investigate_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 38,
+      "word": "reinforce",
+      "partOfSpeech": "v.",
+      "meaningKo": "강화하다, 보강하다",
+      "ipa": "/ˌriː.ɪnˈfɔːrs/",
+      "definition": "to make something stronger or more effective with extra support",
+      "sentence": "Workers used steel beams to reinforce the wooden bridge structure securely.",
+      "wordImage": "images/38_reinforce_word.png",
+      "sentenceImage": "images/38_reinforce_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 39,
+      "word": "govern",
+      "partOfSpeech": "v.",
+      "meaningKo": "통치하다, 지배하다",
+      "ipa": "/ˈɡʌv.ɚn/",
+      "definition": "to control and direct the public affairs of a city/state",
+      "sentence": "Elected student council leaders govern classroom activities with fairness and care.",
+      "wordImage": "images/39_govern_word.png",
+      "sentenceImage": "images/39_govern_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 40,
+      "word": "rate",
+      "partOfSpeech": "n.",
+      "meaningKo": "비율, 속도, 평가하다",
+      "ipa": "/reɪt/",
+      "definition": "the speed at which something happens over a period of time",
+      "sentence": "The seedling grew at an impressive rate during sunny warm spring.",
+      "wordImage": "images/40_rate_word.png",
+      "sentenceImage": "images/40_rate_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

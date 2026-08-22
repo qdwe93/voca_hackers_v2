@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 28,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 28 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "invest",
+      "partOfSpeech": "v.",
+      "meaningKo": "투자하다",
+      "definition": "to put money or effort toward future gain",
+      "sentence": "The farmer will invest savings in a new greenhouse.",
+      "ipa": "/ɪnvɛst/",
+      "wordImage": "images/11_invest_word.png",
+      "sentenceImage": "images/11_invest_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "wealth",
+      "partOfSpeech": "n.",
+      "meaningKo": "부",
+      "definition": "an abundance of money valuable goods or resources",
+      "sentence": "The dragon's wealth fills a room with golden coins.",
+      "ipa": "/wɛlθ/",
+      "wordImage": "images/12_wealth_word.png",
+      "sentenceImage": "images/12_wealth_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "provide",
+      "partOfSpeech": "v.",
+      "meaningKo": "제공하다",
+      "definition": "to give something needed or useful",
+      "sentence": "The trees provide cool shade for the resting hikers.",
+      "ipa": "/prəvaɪd/",
+      "wordImage": "images/13_provide_word.png",
+      "sentenceImage": "images/13_provide_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "merchant",
+      "partOfSpeech": "n.",
+      "meaningKo": "상인",
+      "definition": "a person who buys and sells goods",
+      "sentence": "The merchant arranges colorful fruit at the market stall.",
+      "ipa": "/mɝtʃənt/",
+      "wordImage": "images/14_merchant_word.png",
+      "sentenceImage": "images/14_merchant_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "finance",
+      "partOfSpeech": "n.",
+      "meaningKo": "재정",
+      "definition": "the management of money and investments",
+      "sentence": "The family discusses finance while sorting coins into jars.",
+      "ipa": "/fənæns/",
+      "wordImage": "images/15_finance_word.png",
+      "sentenceImage": "images/15_finance_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "derive",
+      "partOfSpeech": "v.",
+      "meaningKo": "얻다",
+      "definition": "to get something from a source",
+      "sentence": "Bees derive their sweet food from flower nectar.",
+      "ipa": "/dɚaɪv/",
+      "wordImage": "images/16_derive_word.png",
+      "sentenceImage": "images/16_derive_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "credit",
+      "partOfSpeech": "n.",
+      "meaningKo": "신용",
+      "definition": "the ability to borrow and pay later",
+      "sentence": "Good credit helps the shopkeeper borrow money for supplies.",
+      "ipa": "/krɛdət/",
+      "wordImage": "images/17_credit_word.png",
+      "sentenceImage": "images/17_credit_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "substitute",
+      "partOfSpeech": "n.",
+      "meaningKo": "대체물",
+      "definition": "a person or thing used instead of another",
+      "sentence": "Yogurt serves as a substitute for cream in the recipe.",
+      "ipa": "/sʌbstətut/",
+      "wordImage": "images/18_substitute_word.png",
+      "sentenceImage": "images/18_substitute_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "debt",
+      "partOfSpeech": "n.",
+      "meaningKo": "빚",
+      "definition": "money that must be paid back",
+      "sentence": "The rabbit owes a small debt of three coins.",
+      "ipa": "/dɛt/",
+      "wordImage": "images/19_debt_word.png",
+      "sentenceImage": "images/19_debt_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "bill",
+      "partOfSpeech": "n.",
+      "meaningKo": "청구서",
+      "definition": "a statement showing money owed for goods or services",
+      "sentence": "The customer examines a blank bill beside the repaired bicycle.",
+      "ipa": "/bɪl/",
+      "wordImage": "images/20_bill_word.png",
+      "sentenceImage": "images/20_bill_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

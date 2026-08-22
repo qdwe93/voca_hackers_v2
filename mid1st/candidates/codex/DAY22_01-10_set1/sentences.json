@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 22,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY22-01",
+      "no": 1,
+      "word": "ecosystem",
+      "sentence": "Today, the pond ecosystem includes frogs, fish, and green plants."
+    },
+    {
+      "wordId": "DAY22-02",
+      "no": 2,
+      "word": "desert",
+      "sentence": "Today, the desert glowed orange under the late evening sun."
+    },
+    {
+      "wordId": "DAY22-03",
+      "no": 3,
+      "word": "creature",
+      "sentence": "One strange sea creature glided past the glass window."
+    },
+    {
+      "wordId": "DAY22-04",
+      "no": 4,
+      "word": "mature",
+      "sentence": "The mature oak offered shade to the whole yard."
+    },
+    {
+      "wordId": "DAY22-05",
+      "no": 5,
+      "word": "habitat",
+      "sentence": "Fences protect the wetland habitat from nearby construction."
+    },
+    {
+      "wordId": "DAY22-06",
+      "no": 6,
+      "word": "maintain",
+      "sentence": "Today, gardeners maintain the park paths through every busy season."
+    },
+    {
+      "wordId": "DAY22-07",
+      "no": 7,
+      "word": "tide",
+      "sentence": "Today, the tide left tiny shells along the wet shore."
+    },
+    {
+      "wordId": "DAY22-08",
+      "no": 8,
+      "word": "balance",
+      "sentence": "Today, the heron kept perfect balance on one thin leg."
+    },
+    {
+      "wordId": "DAY22-09",
+      "no": 9,
+      "word": "grand",
+      "sentence": "One grand waterfall thundered into the deep green pool."
+    },
+    {
+      "wordId": "DAY22-10",
+      "no": 10,
+      "word": "grant",
+      "sentence": "Today, the town will grant land for a new garden."
+    }
+  ]
+}

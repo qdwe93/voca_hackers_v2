@@ -1,0 +1,68 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "concept-usage.schema.json",
+  "title": "mid1st concept usage summary",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schemaVersion",
+    "totalWords",
+    "curriculumAssignedWords",
+    "fallbackWords",
+    "actualMeanPerConcept",
+    "subjectCounts",
+    "matchModeCounts",
+    "concepts",
+    "unusedConceptIds",
+    "lowUseConceptIds",
+    "overusedConceptIds",
+    "balanceReviewNotesKo"
+  ],
+  "properties": {
+    "schemaVersion": { "const": 1 },
+    "totalWords": { "type": "integer", "minimum": 0 },
+    "curriculumAssignedWords": { "type": "integer", "minimum": 0 },
+    "fallbackWords": { "type": "integer", "minimum": 0 },
+    "actualMeanPerConcept": { "type": "number", "minimum": 0 },
+    "subjectCounts": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["korean", "mathematics", "science", "social_studies"],
+      "properties": {
+        "korean": { "type": "integer", "minimum": 0 },
+        "mathematics": { "type": "integer", "minimum": 0 },
+        "science": { "type": "integer", "minimum": 0 },
+        "social_studies": { "type": "integer", "minimum": 0 }
+      }
+    },
+    "matchModeCounts": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["direct", "contextual", "day_fallback", "word_fallback"],
+      "properties": {
+        "direct": { "type": "integer", "minimum": 0 },
+        "contextual": { "type": "integer", "minimum": 0 },
+        "day_fallback": { "type": "integer", "minimum": 0 },
+        "word_fallback": { "type": "integer", "minimum": 0 }
+      }
+    },
+    "concepts": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["conceptId", "count", "directCount", "contextualCount"],
+        "properties": {
+          "conceptId": { "type": "string", "minLength": 1 },
+          "count": { "type": "integer", "minimum": 0 },
+          "directCount": { "type": "integer", "minimum": 0 },
+          "contextualCount": { "type": "integer", "minimum": 0 }
+        }
+      }
+    },
+    "unusedConceptIds": { "type": "array", "items": { "type": "string" }, "uniqueItems": true },
+    "lowUseConceptIds": { "type": "array", "items": { "type": "string" }, "uniqueItems": true },
+    "overusedConceptIds": { "type": "array", "items": { "type": "string" }, "uniqueItems": true },
+    "balanceReviewNotesKo": { "type": "array", "items": { "type": "string" } }
+  }
+}

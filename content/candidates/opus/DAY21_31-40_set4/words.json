@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 21,
+  "range": "31-40",
+  "set": 4,
+  "title": "DAY 21 · 31-40",
+  "words": [
+    {
+      "no": 31,
+      "word": "overcome",
+      "partOfSpeech": "v.",
+      "meaningKo": "극복하다",
+      "ipa": "/ˌoʊvərˈkʌm/",
+      "definition": "to succeed against a hard problem",
+      "sentence": "The young swimmer will overcome her fear of water.",
+      "wordImage": "images/31_overcome_word.png",
+      "sentenceImage": "images/31_overcome_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 32,
+      "word": "tiny",
+      "partOfSpeech": "adj.",
+      "meaningKo": "아주 작은",
+      "ipa": "/ˈtaɪni/",
+      "definition": "extremely small",
+      "sentence": "A tiny beetle walked along the wide green leaf.",
+      "wordImage": "images/32_tiny_word.png",
+      "sentenceImage": "images/32_tiny_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 33,
+      "word": "exceed",
+      "partOfSpeech": "v.",
+      "meaningKo": "넘다",
+      "ipa": "/ɪkˈsiːd/",
+      "definition": "to go past a set limit",
+      "sentence": "The sunflower may exceed the height of the fence.",
+      "wordImage": "images/33_exceed_word.png",
+      "sentenceImage": "images/33_exceed_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 34,
+      "word": "bury",
+      "partOfSpeech": "v.",
+      "meaningKo": "묻다",
+      "ipa": "/ˈberi/",
+      "definition": "to put something under the ground",
+      "sentence": "Dogs often bury bones beneath the soft garden soil.",
+      "wordImage": "images/34_bury_word.png",
+      "sentenceImage": "images/34_bury_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 35,
+      "word": "stem",
+      "partOfSpeech": "n.",
+      "meaningKo": "줄기",
+      "ipa": "/stem/",
+      "definition": "the long part that holds a flower",
+      "sentence": "The tulip stem bent gently in the warm breeze.",
+      "wordImage": "images/35_stem_word.png",
+      "sentenceImage": "images/35_stem_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 36,
+      "word": "diameter",
+      "partOfSpeech": "n.",
+      "meaningKo": "지름",
+      "ipa": "/daɪˈæmɪtər/",
+      "definition": "the distance straight across a circle",
+      "sentence": "The pizza had a diameter wider than the plate.",
+      "wordImage": "images/36_diameter_word.png",
+      "sentenceImage": "images/36_diameter_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 37,
+      "word": "fascinate",
+      "partOfSpeech": "v.",
+      "meaningKo": "매혹하다",
+      "ipa": "/ˈfæsɪneɪt/",
+      "definition": "to interest someone very much",
+      "sentence": "Sea creatures fascinate the curious young museum visitors.",
+      "wordImage": "images/37_fascinate_word.png",
+      "sentenceImage": "images/37_fascinate_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 38,
+      "word": "furthermore",
+      "partOfSpeech": "adv.",
+      "meaningKo": "게다가",
+      "ipa": "/ˈfɜːrðərmɔːr/",
+      "definition": "also, and in addition",
+      "sentence": "The soup was warm; furthermore, it tasted quite delicious.",
+      "wordImage": "images/38_furthermore_word.png",
+      "sentenceImage": "images/38_furthermore_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 39,
+      "word": "concentrate",
+      "partOfSpeech": "v.",
+      "meaningKo": "집중하다",
+      "ipa": "/ˈkɑːnsntreɪt/",
+      "definition": "to think hard about only one thing",
+      "sentence": "You must concentrate while balancing on the narrow beam.",
+      "wordImage": "images/39_concentrate_word.png",
+      "sentenceImage": "images/39_concentrate_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 40,
+      "word": "general",
+      "partOfSpeech": "adj.",
+      "meaningKo": "일반적인",
+      "ipa": "/ˈdʒenrəl/",
+      "definition": "true for most people or things",
+      "sentence": "The general rule is to water plants each morning.",
+      "wordImage": "images/40_general_word.png",
+      "sentenceImage": "images/40_general_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 20,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY20-11",
+      "no": 11,
+      "word": "guess",
+      "sentence": "Today, can you guess how many apples fill this basket?"
+    },
+    {
+      "wordId": "DAY20-12",
+      "no": 12,
+      "word": "temperature",
+      "sentence": "Particles move faster as temperature rises in the model."
+    },
+    {
+      "wordId": "DAY20-13",
+      "no": 13,
+      "word": "passage",
+      "sentence": "One stone passage led from the garden to the courtyard."
+    },
+    {
+      "wordId": "DAY20-14",
+      "no": 14,
+      "word": "flat",
+      "sentence": "Students compare a flat plane with a curved surface."
+    },
+    {
+      "wordId": "DAY20-15",
+      "no": 15,
+      "word": "enormous",
+      "sentence": "An enormous whale swam gently next to the small boat."
+    },
+    {
+      "wordId": "DAY20-16",
+      "no": 16,
+      "word": "accurate",
+      "sentence": "Students verify the accurate map by checking two current sources."
+    },
+    {
+      "wordId": "DAY20-17",
+      "no": 17,
+      "word": "freeze",
+      "sentence": "Students record the temperature when water begins to freeze."
+    },
+    {
+      "wordId": "DAY20-18",
+      "no": 18,
+      "word": "gear",
+      "sentence": "Today, the climbers packed warm gear into two large bags."
+    },
+    {
+      "wordId": "DAY20-19",
+      "no": 19,
+      "word": "fuel",
+      "sentence": "The small boat needed fuel before the long trip."
+    },
+    {
+      "wordId": "DAY20-20",
+      "no": 20,
+      "word": "miss",
+      "sentence": "Today, hurry, or we will miss the last evening ferry."
+    }
+  ]
+}

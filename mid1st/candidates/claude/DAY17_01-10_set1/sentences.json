@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 17,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY17-01",
+      "no": 1,
+      "word": "biology",
+      "sentence": "In biology we compare the leaves of two different trees."
+    },
+    {
+      "wordId": "DAY17-02",
+      "no": 2,
+      "word": "gene",
+      "sentence": "One gene decides whether this pea plant grows tall or short."
+    },
+    {
+      "wordId": "DAY17-03",
+      "no": 3,
+      "word": "factor",
+      "sentence": "Sunlight is one factor that changes how fast seedlings grow."
+    },
+    {
+      "wordId": "DAY17-04",
+      "no": 4,
+      "word": "trace",
+      "sentence": "Scientists trace bird paths by following small marks in mud."
+    },
+    {
+      "wordId": "DAY17-05",
+      "no": 5,
+      "word": "require",
+      "sentence": "Frog eggs require clean water and warm spring weather."
+    },
+    {
+      "wordId": "DAY17-06",
+      "no": 6,
+      "word": "structure",
+      "sentence": "The honeycomb structure holds many six-sided rooms side by side."
+    },
+    {
+      "wordId": "DAY17-07",
+      "no": 7,
+      "word": "research",
+      "sentence": "This research recorded leaf color every week for two months."
+    },
+    {
+      "wordId": "DAY17-08",
+      "no": 8,
+      "word": "intelligent",
+      "sentence": "Crows are intelligent birds that use sticks to reach food."
+    },
+    {
+      "wordId": "DAY17-09",
+      "no": 9,
+      "word": "sign",
+      "sentence": "A wooden sign points toward the frog pond behind the school."
+    },
+    {
+      "wordId": "DAY17-10",
+      "no": 10,
+      "word": "sigh",
+      "sentence": "Tired hikers sigh and sit on the flat gray rock."
+    }
+  ]
+}

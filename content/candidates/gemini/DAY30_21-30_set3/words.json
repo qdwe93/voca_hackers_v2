@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 30,
+  "range": "21-30",
+  "set": 3,
+  "title": "DAY 30 · 21-30",
+  "words": [
+    {
+      "no": 21,
+      "word": "depress",
+      "partOfSpeech": "v.",
+      "meaningKo": "누르다, 우울하게 하다",
+      "ipa": "/dɪˈpres/",
+      "definition": "to push or press down a lever or button physically",
+      "sentence": "Gently depress the piano key to play a soft note.",
+      "wordImage": "images/21_depress_word.png",
+      "sentenceImage": "images/21_depress_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 22,
+      "word": "demand",
+      "partOfSpeech": "n.",
+      "meaningKo": "수요, 요구",
+      "ipa": "/dɪˈmænd/",
+      "definition": "the desire of purchasers for a commodity or service",
+      "sentence": "There was high community demand for fresh local organic apples.",
+      "wordImage": "images/22_demand_word.png",
+      "sentenceImage": "images/22_demand_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 23,
+      "word": "identify",
+      "partOfSpeech": "v.",
+      "meaningKo": "식별하다, 확인하다",
+      "ipa": "/aɪˈden.t̬ə.faɪ/",
+      "definition": "to establish or indicate who or what someone or something is",
+      "sentence": "Use a field guide to identify colorful birds in garden.",
+      "wordImage": "images/23_identify_word.png",
+      "sentenceImage": "images/23_identify_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 24,
+      "word": "award",
+      "partOfSpeech": "n.",
+      "meaningKo": "상, 수상품",
+      "ipa": "/əˈwɔːrd/",
+      "definition": "a prize or other mark of recognition given in honor",
+      "sentence": "She received a golden ribbon award for her science project.",
+      "wordImage": "images/24_award_word.png",
+      "sentenceImage": "images/24_award_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 25,
+      "word": "regret",
+      "partOfSpeech": "v.",
+      "meaningKo": "후회하다, 유감스러워하다",
+      "ipa": "/rɪˈɡret/",
+      "definition": "to feel sad, repentant, or disappointed over an action",
+      "sentence": "You will not regret spending your sunny afternoon reading outdoors.",
+      "wordImage": "images/25_regret_word.png",
+      "sentenceImage": "images/25_regret_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 26,
+      "word": "regard",
+      "partOfSpeech": "v.",
+      "meaningKo": "여기다, 간주하다, 배려",
+      "ipa": "/rɪˈɡɑːrd/",
+      "definition": "to consider or think of in a specified way, respect",
+      "sentence": "Teachers regard honesty as the most important character trait in school.",
+      "wordImage": "images/26_regard_word.png",
+      "sentenceImage": "images/26_regard_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 27,
+      "word": "inquire",
+      "partOfSpeech": "v.",
+      "meaningKo": "묻다, 문의하다",
+      "ipa": "/ɪnˈkwaɪr/",
+      "definition": "to ask for information from someone in a polite way",
+      "sentence": "Visitors can inquire about tour schedules at the information desk.",
+      "wordImage": "images/27_inquire_word.png",
+      "sentenceImage": "images/27_inquire_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 28,
+      "word": "script",
+      "partOfSpeech": "n.",
+      "meaningKo": "대본, 각본, 글씨체",
+      "ipa": "/skrɪpt/",
+      "definition": "the written text of a play, film, or broadcast",
+      "sentence": "Actors read their lines aloud from the theatrical play script.",
+      "wordImage": "images/28_script_word.png",
+      "sentenceImage": "images/28_script_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 29,
+      "word": "decline",
+      "partOfSpeech": "v.",
+      "meaningKo": "감소하다, 거절하다",
+      "ipa": "/dɪˈklaɪn/",
+      "definition": "to become smaller, fewer, or politely refuse an invitation",
+      "sentence": "Evening temperatures begin to decline as the golden sun sets.",
+      "wordImage": "images/29_decline_word.png",
+      "sentenceImage": "images/29_decline_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 30,
+      "word": "declare",
+      "partOfSpeech": "v.",
+      "meaningKo": "선언하다, 공표하다",
+      "ipa": "/dɪˈkler/",
+      "definition": "to announce something clearly, firmly, and officially to all",
+      "sentence": "The mayor will declare the annual spring flower festival officially open.",
+      "wordImage": "images/30_declare_word.png",
+      "sentenceImage": "images/30_declare_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

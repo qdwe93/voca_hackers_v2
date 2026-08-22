@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 9,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY09-21",
+      "no": 21,
+      "word": "devote",
+      "sentence": "Some volunteers devote every Sunday to cleaning the river bank."
+    },
+    {
+      "wordId": "DAY09-22",
+      "no": 22,
+      "word": "admit",
+      "sentence": "I admit that I broke the flowerpot while running inside."
+    },
+    {
+      "wordId": "DAY09-23",
+      "no": 23,
+      "word": "gender",
+      "sentence": "Our club welcomes members of any gender for every activity."
+    },
+    {
+      "wordId": "DAY09-24",
+      "no": 24,
+      "word": "permit",
+      "sentence": "Library rules permit talking in one room but not the reading hall."
+    },
+    {
+      "wordId": "DAY09-25",
+      "no": 25,
+      "word": "spouse",
+      "sentence": "The letter was addressed to my grandmother and her spouse."
+    },
+    {
+      "wordId": "DAY09-26",
+      "no": 26,
+      "word": "ultimate",
+      "sentence": "Our ultimate goal is finishing the whole mountain trail safely."
+    },
+    {
+      "wordId": "DAY09-27",
+      "no": 27,
+      "word": "cheat",
+      "sentence": "Players who cheat during the board game must return their cards."
+    },
+    {
+      "wordId": "DAY09-28",
+      "no": 28,
+      "word": "extraordinary",
+      "sentence": "That sunflower reached an extraordinary height above the garden fence."
+    },
+    {
+      "wordId": "DAY09-29",
+      "no": 29,
+      "word": "ethnic",
+      "sentence": "Each ethnic neighborhood shows different food, clothes, and roof shapes."
+    },
+    {
+      "wordId": "DAY09-30",
+      "no": 30,
+      "word": "ethical",
+      "sentence": "Everyone agreed that returning the lost wallet was ethical behavior."
+    }
+  ]
+}

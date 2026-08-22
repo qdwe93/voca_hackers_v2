@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 27,
+  "range": "21-30",
+  "set": 3,
+  "title": "DAY 27 · 21-30",
+  "words": [
+    {
+      "no": 21,
+      "word": "simplify",
+      "partOfSpeech": "v.",
+      "meaningKo": "단순화하다, 간소화하다",
+      "ipa": "/ˈsɪm.plə.faɪ/",
+      "definition": "to make something easier to do or understand clearly",
+      "sentence": "The teacher used diagrams to simplify complex fractions in math.",
+      "wordImage": "images/21_simplify_word.png",
+      "sentenceImage": "images/21_simplify_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 22,
+      "word": "committee",
+      "partOfSpeech": "n.",
+      "meaningKo": "위원회",
+      "ipa": "/kəˈmɪt̬.i/",
+      "definition": "a group of people chosen to make decisions or plans",
+      "sentence": "The student festival committee planned exciting carnival games for everyone.",
+      "wordImage": "images/22_committee_word.png",
+      "sentenceImage": "images/22_committee_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 23,
+      "word": "accompany",
+      "partOfSpeech": "v.",
+      "meaningKo": "동행하다, 반주하다",
+      "ipa": "/əˈkʌm.pə.ni/",
+      "definition": "to go with someone as a companion, or play music with",
+      "sentence": "A parent will accompany younger children on the field trip.",
+      "wordImage": "images/23_accompany_word.png",
+      "sentenceImage": "images/23_accompany_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 24,
+      "word": "proportion",
+      "partOfSpeech": "n.",
+      "meaningKo": "비율, 균형",
+      "ipa": "/prəˈpɔːr.ʃən/",
+      "definition": "a part or share in relation to a whole amount",
+      "sentence": "A large proportion of the school garden is planted with sunflowers.",
+      "wordImage": "images/24_proportion_word.png",
+      "sentenceImage": "images/24_proportion_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 25,
+      "word": "household",
+      "partOfSpeech": "n.",
+      "meaningKo": "가정, 가구",
+      "ipa": "/ˈhaʊs.hoʊld/",
+      "definition": "a family or group of people who live together under roof",
+      "sentence": "Every household on our street joined the neighborhood tree-planting project.",
+      "wordImage": "images/25_household_word.png",
+      "sentenceImage": "images/25_household_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 26,
+      "word": "absence",
+      "partOfSpeech": "n.",
+      "meaningKo": "결석, 부재",
+      "ipa": "/ˈæb.səns/",
+      "definition": "the state of being away from a place where expected",
+      "sentence": "His absence from soccer practice was excused due to doctor visit.",
+      "wordImage": "images/26_absence_word.png",
+      "sentenceImage": "images/26_absence_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 27,
+      "word": "primary",
+      "partOfSpeech": "adj.",
+      "meaningKo": "주요한, 최초의, 초등의",
+      "ipa": "/ˈpraɪ.mer.i/",
+      "definition": "more important than anything else, main, or earliest stage",
+      "sentence": "Our primary goal this week is to complete the science poster.",
+      "wordImage": "images/27_primary_word.png",
+      "sentenceImage": "images/27_primary_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 28,
+      "word": "spot",
+      "partOfSpeech": "n.",
+      "meaningKo": "장소, 점, 발견하다",
+      "ipa": "/spɑːt/",
+      "definition": "a particular place, or a small round mark of color",
+      "sentence": "We found a sunny grassy spot for our afternoon picnic.",
+      "wordImage": "images/28_spot_word.png",
+      "sentenceImage": "images/28_spot_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 29,
+      "word": "bother",
+      "partOfSpeech": "v.",
+      "meaningKo": "귀찮게 하다, 신경 쓰이다",
+      "ipa": "/ˈbɑː.ðɚ/",
+      "definition": "to annoy or worry someone by interrupting their quiet activity",
+      "sentence": "Please walk softly in library so you do not bother readers.",
+      "wordImage": "images/29_bother_word.png",
+      "sentenceImage": "images/29_bother_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 30,
+      "word": "border",
+      "partOfSpeech": "n.",
+      "meaningKo": "국경, 경계, 가장자리",
+      "ipa": "/ˈbɔːr.dɚ/",
+      "definition": "a line separating two countries or areas, or decorative edge",
+      "sentence": "A low wooden fence marked the border around the vegetable garden.",
+      "wordImage": "images/30_border_word.png",
+      "sentenceImage": "images/30_border_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

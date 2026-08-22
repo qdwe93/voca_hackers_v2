@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 12,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY12-11",
+      "no": 11,
+      "word": "upset",
+      "sentence": "The small duck felt upset about the broken toy boat."
+    },
+    {
+      "wordId": "DAY12-12",
+      "no": 12,
+      "word": "respond",
+      "sentence": "Listeners restate the concern and respond with a helpful question."
+    },
+    {
+      "wordId": "DAY12-13",
+      "no": 13,
+      "word": "steady",
+      "sentence": "One steady rain fell all night on the tin roof."
+    },
+    {
+      "wordId": "DAY12-14",
+      "no": 14,
+      "word": "dislike",
+      "sentence": "Today, most cats dislike getting their soft paws very wet."
+    },
+    {
+      "wordId": "DAY12-15",
+      "no": 15,
+      "word": "define",
+      "sentence": "Students define evaporation, then explain its cause with evidence."
+    },
+    {
+      "wordId": "DAY12-16",
+      "no": 16,
+      "word": "celebrity",
+      "sentence": "A television celebrity reaches more viewers than a local creator."
+    },
+    {
+      "wordId": "DAY12-17",
+      "no": 17,
+      "word": "genius",
+      "sentence": "The small inventor was a genius with springs and gears."
+    },
+    {
+      "wordId": "DAY12-18",
+      "no": 18,
+      "word": "visual",
+      "sentence": "A visual diagram explains details missing from the short paragraph."
+    },
+    {
+      "wordId": "DAY12-19",
+      "no": 19,
+      "word": "compose",
+      "sentence": "Students compose music that matches the video's quiet ending."
+    },
+    {
+      "wordId": "DAY12-20",
+      "no": 20,
+      "word": "deal",
+      "sentence": "Today, the two traders made a fair deal about the apples."
+    }
+  ]
+}

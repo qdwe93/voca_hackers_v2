@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 21,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY21-11",
+      "no": 11,
+      "word": "shape",
+      "sentence": "This maple leaf has a shape with five pointed parts."
+    },
+    {
+      "wordId": "DAY21-12",
+      "no": 12,
+      "word": "fierce",
+      "sentence": "The rooster looks fierce when it spreads its bright feathers."
+    },
+    {
+      "wordId": "DAY21-13",
+      "no": 13,
+      "word": "ripe",
+      "sentence": "These persimmons turn orange when they are fully ripe."
+    },
+    {
+      "wordId": "DAY21-14",
+      "no": 14,
+      "word": "lay",
+      "sentence": "Hens lay one egg almost every morning in warm seasons."
+    },
+    {
+      "wordId": "DAY21-15",
+      "no": 15,
+      "word": "male",
+      "sentence": "The male peacock opens bright tail feathers during spring."
+    },
+    {
+      "wordId": "DAY21-16",
+      "no": 16,
+      "word": "foster",
+      "sentence": "Volunteers foster kittens until the animal shelter finds homes."
+    },
+    {
+      "wordId": "DAY21-17",
+      "no": 17,
+      "word": "surface",
+      "sentence": "We marked each flat surface of the wooden block with chalk."
+    },
+    {
+      "wordId": "DAY21-18",
+      "no": 18,
+      "word": "engage",
+      "sentence": "Our guide will engage every visitor by asking simple questions."
+    },
+    {
+      "wordId": "DAY21-19",
+      "no": 19,
+      "word": "location",
+      "sentence": "This tree's location is south of the pond and near the fence."
+    },
+    {
+      "wordId": "DAY21-20",
+      "no": 20,
+      "word": "store",
+      "sentence": "Squirrels store acorns inside tree holes before winter arrives."
+    }
+  ]
+}

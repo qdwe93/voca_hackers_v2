@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 8,
+  "range": "31-40",
+  "set": 4,
+  "title": "DAY 08 · 31-40",
+  "words": [
+    {
+      "no": 31,
+      "word": "strike",
+      "partOfSpeech": "v.",
+      "meaningKo": "치다, 때리다",
+      "ipa": "/straɪk/",
+      "definition": "to hit something forcibly with a hand or tool",
+      "sentence": "The player used the wooden bat to strike the baseball.",
+      "wordImage": "images/31_strike_word.png",
+      "sentenceImage": "images/31_strike_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 32,
+      "word": "channel",
+      "partOfSpeech": "n.",
+      "meaningKo": "채널, 수로",
+      "ipa": "/ˈtʃæn.əl/",
+      "definition": "a television station or a passage for water to flow",
+      "sentence": "We tuned into the science documentary channel on the television.",
+      "wordImage": "images/32_channel_word.png",
+      "sentenceImage": "images/32_channel_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 33,
+      "word": "gratitude",
+      "partOfSpeech": "n.",
+      "meaningKo": "감사, 고마움",
+      "ipa": "/ˈɡræt̬.ə.tuːd/",
+      "definition": "the feeling of being thankful and wanting to express thanks",
+      "sentence": "She expressed her sincere gratitude with a lovely thank-you note.",
+      "wordImage": "images/33_gratitude_word.png",
+      "sentenceImage": "images/33_gratitude_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 34,
+      "word": "metaphor",
+      "partOfSpeech": "n.",
+      "meaningKo": "은유, 비유",
+      "ipa": "/ˈmet̬.ə.fɔːr/",
+      "definition": "a word or phrase describing something by comparing it directly",
+      "sentence": "Saying her smile is sunshine is a very warm metaphor.",
+      "wordImage": "images/34_metaphor_word.png",
+      "sentenceImage": "images/34_metaphor_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 35,
+      "word": "interpret",
+      "partOfSpeech": "v.",
+      "meaningKo": "해석하다, 이해하다",
+      "ipa": "/ɪnˈtɝː.prət/",
+      "definition": "to explain or understand the meaning of something",
+      "sentence": "The art teacher helped us interpret the abstract modern painting.",
+      "wordImage": "images/35_interpret_word.png",
+      "sentenceImage": "images/35_interpret_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 36,
+      "word": "insult",
+      "partOfSpeech": "v.",
+      "meaningKo": "모욕하다, 무례하게 굴다",
+      "ipa": "/ɪnˈsʌlt/",
+      "definition": "to say or do something rude that offends someone",
+      "sentence": "Polite sports players never insult their opponents during the game.",
+      "wordImage": "images/36_insult_word.png",
+      "sentenceImage": "images/36_insult_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 37,
+      "word": "weird",
+      "partOfSpeech": "adj.",
+      "meaningKo": "기이한, 이상한",
+      "ipa": "/wɪrd/",
+      "definition": "very strange, unusual, or unexpected",
+      "sentence": "We saw a weird purple mushroom growing in the forest.",
+      "wordImage": "images/37_weird_word.png",
+      "sentenceImage": "images/37_weird_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 38,
+      "word": "random",
+      "partOfSpeech": "adj.",
+      "meaningKo": "무작위의, 임의의",
+      "ipa": "/ˈræn.dəm/",
+      "definition": "chosen or done without any particular plan or pattern",
+      "sentence": "The computer selected a random winner for the school raffle.",
+      "wordImage": "images/38_random_word.png",
+      "sentenceImage": "images/38_random_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 39,
+      "word": "remark",
+      "partOfSpeech": "n.",
+      "meaningKo": "발언, 언급",
+      "ipa": "/rɪˈmɑːrk/",
+      "definition": "something that you say or write expressing an opinion",
+      "sentence": "His kind remark made everyone in the room feel welcome.",
+      "wordImage": "images/39_remark_word.png",
+      "sentenceImage": "images/39_remark_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 40,
+      "word": "sentence",
+      "partOfSpeech": "n.",
+      "meaningKo": "문장",
+      "ipa": "/ˈsen.təns/",
+      "definition": "a group of words that expresses a complete thought",
+      "sentence": "Every complete English sentence begins with a capital letter always.",
+      "wordImage": "images/40_sentence_word.png",
+      "sentenceImage": "images/40_sentence_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 24,
+  "range": "31-40",
+  "set": 4,
+  "title": "DAY 24 · 31-40",
+  "words": [
+    {
+      "no": 31,
+      "word": "aspect",
+      "partOfSpeech": "n.",
+      "meaningKo": "측면",
+      "definition": "one part or feature of something",
+      "sentence": "Color is one important aspect of the painting.",
+      "ipa": "/æspɛkt/",
+      "wordImage": "images/31_aspect_word.png",
+      "sentenceImage": "images/31_aspect_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 32,
+      "word": "float",
+      "partOfSpeech": "v.",
+      "meaningKo": "뜨다",
+      "definition": "to stay on a liquid's surface",
+      "sentence": "The light leaf will float on the pond.",
+      "ipa": "/floʊt/",
+      "wordImage": "images/32_float_word.png",
+      "sentenceImage": "images/32_float_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 33,
+      "word": "ingredient",
+      "partOfSpeech": "n.",
+      "meaningKo": "재료",
+      "definition": "one food item used to make a dish",
+      "sentence": "Fresh tomato is the final ingredient in the salad.",
+      "ipa": "/ɪnɡridiənt/",
+      "wordImage": "images/33_ingredient_word.png",
+      "sentenceImage": "images/33_ingredient_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 34,
+      "word": "ban",
+      "partOfSpeech": "v.",
+      "meaningKo": "금지하다",
+      "definition": "to officially forbid something",
+      "sentence": "The park will ban vehicles from the walking path.",
+      "ipa": "/bæn/",
+      "wordImage": "images/34_ban_word.png",
+      "sentenceImage": "images/34_ban_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 35,
+      "word": "witness",
+      "partOfSpeech": "n.",
+      "meaningKo": "목격자",
+      "definition": "a person who sees an event happen",
+      "sentence": "A witness points toward the fallen empty bicycle.",
+      "ipa": "/wɪtnəs/",
+      "wordImage": "images/35_witness_word.png",
+      "sentenceImage": "images/35_witness_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 36,
+      "word": "solar",
+      "partOfSpeech": "adj.",
+      "meaningKo": "태양의",
+      "definition": "related to or powered by the sun",
+      "sentence": "Solar panels collect sunlight on the house roof.",
+      "ipa": "/soʊlɚ/",
+      "wordImage": "images/36_solar_word.png",
+      "sentenceImage": "images/36_solar_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 37,
+      "word": "starve",
+      "partOfSpeech": "v.",
+      "meaningKo": "굶주리다",
+      "definition": "to suffer greatly from lack of food",
+      "sentence": "The fantasy creature may starve beside an empty food bowl.",
+      "ipa": "/stɑrv/",
+      "wordImage": "images/37_starve_word.png",
+      "sentenceImage": "images/37_starve_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 38,
+      "word": "attribute",
+      "partOfSpeech": "n.",
+      "meaningKo": "속성",
+      "definition": "a quality or feature of someone or something",
+      "sentence": "Bright feathers are a striking attribute of the bird.",
+      "ipa": "/ˈætrəbjuːt/",
+      "wordImage": "images/38_attribute_word.png",
+      "sentenceImage": "images/38_attribute_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 39,
+      "word": "appliance",
+      "partOfSpeech": "n.",
+      "meaningKo": "가전제품",
+      "definition": "a machine used for household tasks",
+      "sentence": "A kitchen appliance mixes fruit inside a clear jar.",
+      "ipa": "/əplaɪəns/",
+      "wordImage": "images/39_appliance_word.png",
+      "sentenceImage": "images/39_appliance_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 40,
+      "word": "plant",
+      "partOfSpeech": "n.",
+      "meaningKo": "공장",
+      "definition": "a factory where products are made",
+      "sentence": "The recycling plant sorts bottles on moving belts.",
+      "ipa": "/plænt/",
+      "wordImage": "images/40_plant_word.png",
+      "sentenceImage": "images/40_plant_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

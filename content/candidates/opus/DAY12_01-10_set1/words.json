@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 12,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 12 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "perform",
+      "partOfSpeech": "v.",
+      "meaningKo": "공연하다",
+      "ipa": "/pərˈfɔːrm/",
+      "definition": "to sing, act, or play for other people",
+      "sentence": "The young dancers perform on stage every autumn evening.",
+      "wordImage": "images/01_perform_word.png",
+      "sentenceImage": "images/01_perform_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "feature",
+      "partOfSpeech": "n.",
+      "meaningKo": "특징",
+      "ipa": "/ˈfiːtʃər/",
+      "definition": "an important part of something",
+      "sentence": "The tall glass roof is the best feature here.",
+      "wordImage": "images/02_feature_word.png",
+      "sentenceImage": "images/02_feature_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "genre",
+      "partOfSpeech": "n.",
+      "meaningKo": "장르",
+      "ipa": "/ˈʒɑːnrə/",
+      "definition": "a type of story, music, or art",
+      "sentence": "Adventure is her favorite genre of storybook to read.",
+      "wordImage": "images/03_genre_word.png",
+      "sentenceImage": "images/03_genre_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "instrument",
+      "partOfSpeech": "n.",
+      "meaningKo": "악기",
+      "ipa": "/ˈɪnstrəmənt/",
+      "definition": "a thing you play to make music",
+      "sentence": "The violin is a lovely instrument with four strings.",
+      "wordImage": "images/04_instrument_word.png",
+      "sentenceImage": "images/04_instrument_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "broadcast",
+      "partOfSpeech": "v.",
+      "meaningKo": "방송하다",
+      "ipa": "/ˈbrɔːdkæst/",
+      "definition": "to send sound or pictures to many people",
+      "sentence": "The radio will broadcast the concert across the whole valley.",
+      "wordImage": "images/05_broadcast_word.png",
+      "sentenceImage": "images/05_broadcast_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "artwork",
+      "partOfSpeech": "n.",
+      "meaningKo": "예술 작품",
+      "ipa": "/ˈɑːrtwɜːrk/",
+      "definition": "something made as art, like a painting",
+      "sentence": "Colorful artwork covered every wall of the small gallery.",
+      "wordImage": "images/06_artwork_word.png",
+      "sentenceImage": "images/06_artwork_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "suit",
+      "partOfSpeech": "v.",
+      "meaningKo": "어울리다",
+      "ipa": "/suːt/",
+      "definition": "to look good on someone",
+      "sentence": "Bright yellow scarves suit the cheerful little snow bear.",
+      "wordImage": "images/07_suit_word.png",
+      "sentenceImage": "images/07_suit_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "inspire",
+      "partOfSpeech": "v.",
+      "meaningKo": "영감을 주다",
+      "ipa": "/ɪnˈspaɪər/",
+      "definition": "to give someone a good idea or hope",
+      "sentence": "Ocean waves inspire the young painter every single morning.",
+      "wordImage": "images/08_inspire_word.png",
+      "sentenceImage": "images/08_inspire_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "belief",
+      "partOfSpeech": "n.",
+      "meaningKo": "믿음",
+      "ipa": "/bɪˈliːf/",
+      "definition": "something you think is true",
+      "sentence": "Her strong belief in kindness changed the whole classroom.",
+      "wordImage": "images/09_belief_word.png",
+      "sentenceImage": "images/09_belief_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "brief",
+      "partOfSpeech": "adj.",
+      "meaningKo": "짧은",
+      "ipa": "/briːf/",
+      "definition": "lasting only a short time",
+      "sentence": "A brief rain shower cooled the warm summer garden.",
+      "wordImage": "images/10_brief_word.png",
+      "sentenceImage": "images/10_brief_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

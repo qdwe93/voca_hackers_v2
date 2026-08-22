@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 30,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 30 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "handle",
+      "partOfSpeech": "v.",
+      "meaningKo": "다루다, 처리하다, 손잡이",
+      "ipa": "/ˈhæn.dəl/",
+      "definition": "to manage, deal with, or control a situation or object",
+      "sentence": "Careful training helps young gymnasts handle difficult balance beam routines.",
+      "wordImage": "images/11_handle_word.png",
+      "sentenceImage": "images/11_handle_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "phrase",
+      "partOfSpeech": "n.",
+      "meaningKo": "구, 어구, 구절",
+      "ipa": "/freɪz/",
+      "definition": "a small group of words standing together as a conceptual unit",
+      "sentence": "Please repeat the new vocabulary phrase aloud with good pronunciation.",
+      "wordImage": "images/12_phrase_word.png",
+      "sentenceImage": "images/12_phrase_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "annoy",
+      "partOfSpeech": "v.",
+      "meaningKo": "짜증나게 하다, 귀찮게 하다",
+      "ipa": "/əˈnɔɪ/",
+      "definition": "to irritate or make someone slightly angry by repeated action",
+      "sentence": "A buzzing fly around the room began to annoy readers.",
+      "wordImage": "images/13_annoy_word.png",
+      "sentenceImage": "images/13_annoy_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "obvious",
+      "partOfSpeech": "adj.",
+      "meaningKo": "명백한, 분명한",
+      "ipa": "/ˈɑːb.vi.əs/",
+      "definition": "easily perceived or understood, clear, self-evident, or apparent",
+      "sentence": "It was obvious that the sunny weather brought everyone outdoors.",
+      "wordImage": "images/14_obvious_word.png",
+      "sentenceImage": "images/14_obvious_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "mention",
+      "partOfSpeech": "v.",
+      "meaningKo": "언급하다, 말하다",
+      "ipa": "/ˈmen.ʃən/",
+      "definition": "to refer to something briefly without going into detail",
+      "sentence": "Be sure to mention your sources in the science bibliography.",
+      "wordImage": "images/15_mention_word.png",
+      "sentenceImage": "images/15_mention_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "entertain",
+      "partOfSpeech": "v.",
+      "meaningKo": "즐겁게 하다, 대접하다",
+      "ipa": "/en.t̬ɚˈteɪn/",
+      "definition": "to provide someone with amusement, enjoyment, or hospitality",
+      "sentence": "The cheerful circus clown used colorful juggling balls to entertain children.",
+      "wordImage": "images/16_entertain_word.png",
+      "sentenceImage": "images/16_entertain_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "detail",
+      "partOfSpeech": "n.",
+      "meaningKo": "세부 사항, 디테일",
+      "ipa": "/ˈdiː.teɪl/",
+      "definition": "an individual feature, fact, or item in a whole",
+      "sentence": "The artist painted every fine leaf detail on the canvas.",
+      "wordImage": "images/17_detail_word.png",
+      "sentenceImage": "images/17_detail_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "conflict",
+      "partOfSpeech": "n.",
+      "meaningKo": "갈등, 충돌",
+      "ipa": "/ˈkɑːn.flɪkt/",
+      "definition": "a serious disagreement or argument between people or characters",
+      "sentence": "Good communication helps resolve any friendly playground game conflict peacefully.",
+      "wordImage": "images/18_conflict_word.png",
+      "sentenceImage": "images/18_conflict_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "thus",
+      "partOfSpeech": "adv.",
+      "meaningKo": "따라서, 그러므로",
+      "ipa": "/ðʌs/",
+      "definition": "as a result or consequence of this, therefore, in manner",
+      "sentence": "We practiced daily and thus achieved a great performance score.",
+      "wordImage": "images/19_thus_word.png",
+      "sentenceImage": "images/19_thus_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "medium",
+      "partOfSpeech": "n.",
+      "meaningKo": "매체, 매개물, 중간의",
+      "ipa": "/ˈmiː.di.əm/",
+      "definition": "an agency or means of doing something, artistic material",
+      "sentence": "Watercolor is a wonderful artistic medium for painting sunny landscapes.",
+      "wordImage": "images/20_medium_word.png",
+      "sentenceImage": "images/20_medium_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

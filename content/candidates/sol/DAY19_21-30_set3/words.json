@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 19,
+  "range": "21-30",
+  "set": 3,
+  "title": "DAY 19 · 21-30",
+  "words": [
+    {
+      "no": 21,
+      "word": "widespread",
+      "partOfSpeech": "adj.",
+      "meaningKo": "널리 퍼진",
+      "definition": "existing or happening over a large area",
+      "sentence": "Widespread rain covers the entire green valley today.",
+      "ipa": "/waɪdsprɛd/",
+      "wordImage": "images/21_widespread_word.png",
+      "sentenceImage": "images/21_widespread_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 22,
+      "word": "edge",
+      "partOfSpeech": "n.",
+      "meaningKo": "가장자리",
+      "definition": "the outer border of a surface or object",
+      "sentence": "A ladybug rests on the edge of a leaf.",
+      "ipa": "/ɛdʒ/",
+      "wordImage": "images/22_edge_word.png",
+      "sentenceImage": "images/22_edge_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 23,
+      "word": "remind",
+      "partOfSpeech": "v.",
+      "meaningKo": "생각나게 하다",
+      "definition": "to make someone remember something",
+      "sentence": "The tied ribbon will remind the child about the gift.",
+      "ipa": "/rimaɪnd/",
+      "wordImage": "images/23_remind_word.png",
+      "sentenceImage": "images/23_remind_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 24,
+      "word": "acquire",
+      "partOfSpeech": "v.",
+      "meaningKo": "얻다",
+      "definition": "to gain or learn something",
+      "sentence": "The young painter will acquire skill through careful practice.",
+      "ipa": "/əkwaɪɚ/",
+      "wordImage": "images/24_acquire_word.png",
+      "sentenceImage": "images/24_acquire_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 25,
+      "word": "interact",
+      "partOfSpeech": "v.",
+      "meaningKo": "상호작용하다",
+      "definition": "to communicate or act with others",
+      "sentence": "The children interact with the friendly museum robot.",
+      "ipa": "/ɪntɚækt/",
+      "wordImage": "images/25_interact_word.png",
+      "sentenceImage": "images/25_interact_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 26,
+      "word": "scatter",
+      "partOfSpeech": "v.",
+      "meaningKo": "흩뿌리다",
+      "definition": "to spread things in different directions",
+      "sentence": "The wind will scatter dry leaves across the path.",
+      "ipa": "/skætɚ/",
+      "wordImage": "images/26_scatter_word.png",
+      "sentenceImage": "images/26_scatter_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 27,
+      "word": "virtual",
+      "partOfSpeech": "adj.",
+      "meaningKo": "가상의",
+      "definition": "created by computers and not physically present",
+      "sentence": "The headset displays a virtual forest around the player.",
+      "ipa": "/vɝtʃuəl/",
+      "wordImage": "images/27_virtual_word.png",
+      "sentenceImage": "images/27_virtual_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 28,
+      "word": "convert",
+      "partOfSpeech": "v.",
+      "meaningKo": "전환하다",
+      "definition": "to change something into another form",
+      "sentence": "The panel will convert sunlight into electrical energy.",
+      "ipa": "/kɑnvɚt/",
+      "wordImage": "images/28_convert_word.png",
+      "sentenceImage": "images/28_convert_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 29,
+      "word": "ease",
+      "partOfSpeech": "v.",
+      "meaningKo": "완화하다",
+      "definition": "to make something less difficult or painful",
+      "sentence": "A soft cushion can ease pressure on the tired feet.",
+      "ipa": "/iz/",
+      "wordImage": "images/29_ease_word.png",
+      "sentenceImage": "images/29_ease_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 30,
+      "word": "erase",
+      "partOfSpeech": "v.",
+      "meaningKo": "지우다",
+      "definition": "to remove marks or information",
+      "sentence": "The child will erase the chalk drawing from the board.",
+      "ipa": "/ɪreɪs/",
+      "wordImage": "images/30_erase_word.png",
+      "sentenceImage": "images/30_erase_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

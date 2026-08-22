@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 25,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 25 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "environment",
+      "partOfSpeech": "n.",
+      "meaningKo": "환경, 자연환경",
+      "ipa": "/ɪnˈvaɪ.rən.mənt/",
+      "definition": "the air, water, and land in which people and plants live",
+      "sentence": "Planting green trees helps protect our clean living environment.",
+      "wordImage": "images/01_environment_word.png",
+      "sentenceImage": "images/01_environment_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "release",
+      "partOfSpeech": "v.",
+      "meaningKo": "방출하다, 놓아주다",
+      "ipa": "/rɪˈliːs/",
+      "definition": "to allow something to move, act, or flow freely",
+      "sentence": "Students cheered as they helped release a healed sparrow into sky.",
+      "wordImage": "images/02_release_word.png",
+      "sentenceImage": "images/02_release_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "disaster",
+      "partOfSpeech": "n.",
+      "meaningKo": "재난, 재앙",
+      "ipa": "/dɪˈzæs.tɚ/",
+      "definition": "a sudden event causing great damage or loss, like storm",
+      "sentence": "Careful planning helped prevent a major flood disaster in the valley.",
+      "wordImage": "images/03_disaster_word.png",
+      "sentenceImage": "images/03_disaster_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "destroy",
+      "partOfSpeech": "v.",
+      "meaningKo": "파괴하다, 망가뜨리다",
+      "ipa": "/dɪˈstrɔɪ/",
+      "definition": "to damage something so badly that it cannot be used",
+      "sentence": "Huge ocean waves can destroy sandcastles on the beach quickly.",
+      "wordImage": "images/04_destroy_word.png",
+      "sentenceImage": "images/04_destroy_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "waste",
+      "partOfSpeech": "n.",
+      "meaningKo": "쓰레기, 낭비",
+      "ipa": "/weɪst/",
+      "definition": "unwanted or unusable materials, items, or substances",
+      "sentence": "Recycling paper helps reduce classroom waste and saves forest trees.",
+      "wordImage": "images/05_waste_word.png",
+      "sentenceImage": "images/05_waste_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "period",
+      "partOfSpeech": "n.",
+      "meaningKo": "기간, 시대, 교시",
+      "ipa": "/ˈpɪr.i.əd/",
+      "definition": "a length of time, especially one characterized by features",
+      "sentence": "We enjoyed a thirty-minute quiet reading period in the morning.",
+      "wordImage": "images/06_period_word.png",
+      "sentenceImage": "images/06_period_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "announce",
+      "partOfSpeech": "v.",
+      "meaningKo": "발표하다, 알리다",
+      "ipa": "/əˈnaʊns/",
+      "definition": "to make something known publicly and officially to people",
+      "sentence": "The principal will announce the science fair winners this afternoon.",
+      "wordImage": "images/07_announce_word.png",
+      "sentenceImage": "images/07_announce_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "occur",
+      "partOfSpeech": "v.",
+      "meaningKo": "발생하다, 일어나다",
+      "ipa": "/əˈkɝː/",
+      "definition": "to happen or take place, especially unexpectedly",
+      "sentence": "Rainbows often occur when sunshine breaks through gentle rain showers.",
+      "wordImage": "images/08_occur_word.png",
+      "sentenceImage": "images/08_occur_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "quality",
+      "partOfSpeech": "n.",
+      "meaningKo": "품질, 특성, 우수함",
+      "ipa": "/ˈkwɑː.lə.t̬i/",
+      "definition": "how good or bad something is, degree of excellence",
+      "sentence": "The handmade wooden toys were known for their exceptional high quality.",
+      "wordImage": "images/09_quality_word.png",
+      "sentenceImage": "images/09_quality_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "quantity",
+      "partOfSpeech": "n.",
+      "meaningKo": "양, 수량",
+      "ipa": "/ˈkwɑːn.t̬ə.t̬i/",
+      "definition": "the amount or number of a material or abstract thing",
+      "sentence": "The bakery ordered a large quantity of fresh organic flour.",
+      "wordImage": "images/10_quantity_word.png",
+      "sentenceImage": "images/10_quantity_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

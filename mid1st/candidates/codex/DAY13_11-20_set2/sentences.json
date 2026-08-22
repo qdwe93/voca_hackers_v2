@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 13,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY13-11",
+      "no": 11,
+      "word": "myth",
+      "sentence": "Readers compare one myth with another using matching story clues."
+    },
+    {
+      "wordId": "DAY13-12",
+      "no": 12,
+      "word": "attitude",
+      "sentence": "One cheerful attitude made the long hike feel shorter."
+    },
+    {
+      "wordId": "DAY13-13",
+      "no": 13,
+      "word": "priest",
+      "sentence": "Today, the kind priest greeted visitors at the old temple."
+    },
+    {
+      "wordId": "DAY13-14",
+      "no": 14,
+      "word": "approve",
+      "sentence": "Today, the teachers approve the new plan for the school garden."
+    },
+    {
+      "wordId": "DAY13-15",
+      "no": 15,
+      "word": "carve",
+      "sentence": "Today, artists carve gentle animal shapes into the soft wood."
+    },
+    {
+      "wordId": "DAY13-16",
+      "no": 16,
+      "word": "primitive",
+      "sentence": "Primitive tools made of stone rested within the display case."
+    },
+    {
+      "wordId": "DAY13-17",
+      "no": 17,
+      "word": "invade",
+      "sentence": "Today, weeds may invade the garden if nobody pulls them."
+    },
+    {
+      "wordId": "DAY13-18",
+      "no": 18,
+      "word": "arise",
+      "sentence": "Today, new questions arise whenever the class studies old maps."
+    },
+    {
+      "wordId": "DAY13-19",
+      "no": 19,
+      "word": "register",
+      "sentence": "Today, you must register early to join the swimming class."
+    },
+    {
+      "wordId": "DAY13-20",
+      "no": 20,
+      "word": "custom",
+      "sentence": "Visitors compare one food custom across three regions."
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 28,
+  "range": "21-30",
+  "set": 3,
+  "title": "DAY 28 · 21-30",
+  "words": [
+    {
+      "no": 21,
+      "word": "cancel",
+      "partOfSpeech": "v.",
+      "meaningKo": "취소하다",
+      "definition": "to decide an event will not happen",
+      "sentence": "Heavy rain may cancel the outdoor soccer game.",
+      "ipa": "/kænsəl/",
+      "wordImage": "images/21_cancel_word.png",
+      "sentenceImage": "images/21_cancel_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 22,
+      "word": "replace",
+      "partOfSpeech": "v.",
+      "meaningKo": "교체하다",
+      "definition": "to put something new where another was",
+      "sentence": "The mechanic will replace the cracked wheel with a new one.",
+      "ipa": "/ripleɪs/",
+      "wordImage": "images/22_replace_word.png",
+      "sentenceImage": "images/22_replace_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 23,
+      "word": "property",
+      "partOfSpeech": "n.",
+      "meaningKo": "재산",
+      "definition": "something owned by a person or group",
+      "sentence": "The blue bicycle is the child's personal property alone.",
+      "ipa": "/prɑpɚti/",
+      "wordImage": "images/23_property_word.png",
+      "sentenceImage": "images/23_property_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 24,
+      "word": "refund",
+      "partOfSpeech": "n.",
+      "meaningKo": "환불금",
+      "definition": "money returned after a purchase is canceled",
+      "sentence": "The shopkeeper gives a refund for the broken toy.",
+      "ipa": "/ˈriːfʌnd/",
+      "wordImage": "images/24_refund_word.png",
+      "sentenceImage": "images/24_refund_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 25,
+      "word": "branch",
+      "partOfSpeech": "n.",
+      "meaningKo": "지점",
+      "definition": "an office or store belonging to a larger organization",
+      "sentence": "A new bank branch opens beside the market.",
+      "ipa": "/bræntʃ/",
+      "wordImage": "images/25_branch_word.png",
+      "sentenceImage": "images/25_branch_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 26,
+      "word": "recover",
+      "partOfSpeech": "v.",
+      "meaningKo": "회복하다",
+      "definition": "to return to a healthy or normal state",
+      "sentence": "The tired plant will recover after receiving water.",
+      "ipa": "/rɪkʌvɚ/",
+      "wordImage": "images/26_recover_word.png",
+      "sentenceImage": "images/26_recover_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 27,
+      "word": "hardship",
+      "partOfSpeech": "n.",
+      "meaningKo": "고난",
+      "definition": "a difficult condition causing suffering",
+      "sentence": "The long drought creates hardship for the farming village.",
+      "ipa": "/hɑrdʃɪp/",
+      "wordImage": "images/27_hardship_word.png",
+      "sentenceImage": "images/27_hardship_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 28,
+      "word": "assemble",
+      "partOfSpeech": "v.",
+      "meaningKo": "조립하다",
+      "definition": "to put parts together",
+      "sentence": "The child will assemble the robot from colorful pieces.",
+      "ipa": "/əsɛmbəl/",
+      "wordImage": "images/28_assemble_word.png",
+      "sentenceImage": "images/28_assemble_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 29,
+      "word": "proceed",
+      "partOfSpeech": "v.",
+      "meaningKo": "진행하다",
+      "definition": "to continue or move forward",
+      "sentence": "The hikers will proceed along the marked forest trail.",
+      "ipa": "/prəsid/",
+      "wordImage": "images/29_proceed_word.png",
+      "sentenceImage": "images/29_proceed_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 30,
+      "word": "precede",
+      "partOfSpeech": "v.",
+      "meaningKo": "앞서다",
+      "definition": "to happen or come before something",
+      "sentence": "A bright flash will precede the distant thunder.",
+      "ipa": "/prɪsid/",
+      "wordImage": "images/30_precede_word.png",
+      "sentenceImage": "images/30_precede_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

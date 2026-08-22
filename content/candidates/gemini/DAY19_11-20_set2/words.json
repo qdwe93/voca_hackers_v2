@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 19,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 19 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "imagine",
+      "partOfSpeech": "v.",
+      "meaningKo": "상상하다, 마음에 그리다",
+      "ipa": "/ɪˈmædʒ.ɪn/",
+      "definition": "to form a mental picture or idea of something in your mind",
+      "sentence": "Close your eyes and imagine flying across the starry blue sky.",
+      "wordImage": "images/11_imagine_word.png",
+      "sentenceImage": "images/11_imagine_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "artificial",
+      "partOfSpeech": "adj.",
+      "meaningKo": "인공의, 인조의",
+      "ipa": "/ˌɑːr.t̬əˈfɪʃ.əl/",
+      "definition": "made by humans and not occurring naturally, imitation",
+      "sentence": "The soccer field was covered with soft green artificial grass turf.",
+      "wordImage": "images/12_artificial_word.png",
+      "sentenceImage": "images/12_artificial_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "adjust",
+      "partOfSpeech": "v.",
+      "meaningKo": "조정하다, 맞추다",
+      "ipa": "/əˈdʒʌst/",
+      "definition": "to change something slightly to make it fit or work better",
+      "sentence": "You can adjust the bicycle seat height to fit your legs.",
+      "wordImage": "images/13_adjust_word.png",
+      "sentenceImage": "images/13_adjust_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "ideal",
+      "partOfSpeech": "adj.",
+      "meaningKo": "이상적인, 완벽한",
+      "ipa": "/aɪˈdiː.əl/",
+      "definition": "perfect, or the best possible for a particular purpose",
+      "sentence": "A warm sunny breeze made it an ideal day for sailing.",
+      "wordImage": "images/14_ideal_word.png",
+      "sentenceImage": "images/14_ideal_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "gather",
+      "partOfSpeech": "v.",
+      "meaningKo": "모으다, 모이다",
+      "ipa": "/ˈɡæð.ɚ/",
+      "definition": "to come together in a group or collect things",
+      "sentence": "Students gather in the school auditorium for the morning awards assembly.",
+      "wordImage": "images/15_gather_word.png",
+      "sentenceImage": "images/15_gather_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "mechanic",
+      "partOfSpeech": "n.",
+      "meaningKo": "정비사, 수리공",
+      "ipa": "/məˈkæn.ɪk/",
+      "definition": "someone whose job is repairing machines and vehicle engines",
+      "sentence": "The friendly mechanic inspected the brakes and tightened the bicycle chain.",
+      "wordImage": "images/16_mechanic_word.png",
+      "sentenceImage": "images/16_mechanic_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "portable",
+      "partOfSpeech": "adj.",
+      "meaningKo": "휴대용의, 들고 다닐 수 있는",
+      "ipa": "/ˈpɔːr.t̬ə.bəl/",
+      "definition": "light and easy to carry or move from place to place",
+      "sentence": "He brought a portable camp stove for our weekend forest trip.",
+      "wordImage": "images/17_portable_word.png",
+      "sentenceImage": "images/17_portable_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "remove",
+      "partOfSpeech": "v.",
+      "meaningKo": "제거하다, 치우다",
+      "ipa": "/rɪˈmuːv/",
+      "definition": "to take something away from a place or take off clothes",
+      "sentence": "Please remove your wet boots before entering the clean living room.",
+      "wordImage": "images/18_remove_word.png",
+      "sentenceImage": "images/18_remove_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "master",
+      "partOfSpeech": "v.",
+      "meaningKo": "숙달하다, 통달하다",
+      "ipa": "/ˈmæs.tɚ/",
+      "definition": "to learn how to do something extremely well through practice",
+      "sentence": "With daily dedication, she was able to master the difficult cello piece.",
+      "wordImage": "images/19_master_word.png",
+      "sentenceImage": "images/19_master_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "screen",
+      "partOfSpeech": "n.",
+      "meaningKo": "화면, 스크린",
+      "ipa": "/skriːn/",
+      "definition": "the flat glass surface on a computer or television showing images",
+      "sentence": "The tablet screen displayed a colorful interactive map of world.",
+      "wordImage": "images/20_screen_word.png",
+      "sentenceImage": "images/20_screen_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

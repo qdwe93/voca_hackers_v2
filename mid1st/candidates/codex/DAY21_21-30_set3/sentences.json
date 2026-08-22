@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 21,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY21-21",
+      "no": 21,
+      "word": "attract",
+      "sentence": "Today, bright flowers attract many busy bees each warm morning."
+    },
+    {
+      "wordId": "DAY21-22",
+      "no": 22,
+      "word": "poison",
+      "sentence": "A locked cabinet keeps each poison safely away from children."
+    },
+    {
+      "wordId": "DAY21-23",
+      "no": 23,
+      "word": "weigh",
+      "sentence": "Students weigh two objects and compare mass with measured weight."
+    },
+    {
+      "wordId": "DAY21-24",
+      "no": 24,
+      "word": "automatic",
+      "sentence": "When the truck came close, an automatic gate opened."
+    },
+    {
+      "wordId": "DAY21-25",
+      "no": 25,
+      "word": "role",
+      "sentence": "Her role as captain includes leading practice and hearing teammates."
+    },
+    {
+      "wordId": "DAY21-26",
+      "no": 26,
+      "word": "exchange",
+      "sentence": "Several children exchange colorful stickers during the lunch break."
+    },
+    {
+      "wordId": "DAY21-27",
+      "no": 27,
+      "word": "contain",
+      "sentence": "Today, this basket can contain twelve round brown eggs."
+    },
+    {
+      "wordId": "DAY21-28",
+      "no": 28,
+      "word": "trail",
+      "sentence": "A narrow trail curves upward through the quiet forest."
+    },
+    {
+      "wordId": "DAY21-29",
+      "no": 29,
+      "word": "trait",
+      "sentence": "Students compare one inherited trait among puppies from the same litter."
+    },
+    {
+      "wordId": "DAY21-30",
+      "no": 30,
+      "word": "trial",
+      "sentence": "Today, the first flight trial of the paper glider succeeded."
+    }
+  ]
+}

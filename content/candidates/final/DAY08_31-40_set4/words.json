@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 8,
+  "range": "31-40",
+  "set": 4,
+  "title": "DAY 08 · 31-40",
+  "words": [
+    {
+      "no": 31,
+      "word": "strike",
+      "partOfSpeech": "v.",
+      "meaningKo": "치다",
+      "ipa": "/straɪk/",
+      "definition": "to hit something, like a drum",
+      "sentence": "The drummer will strike the big drum one more time.",
+      "wordImage": "images/31_strike_word.png",
+      "sentenceImage": "images/31_strike_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 32,
+      "word": "channel",
+      "partOfSpeech": "n.",
+      "meaningKo": "수로",
+      "ipa": "/ˈtʃænl/",
+      "definition": "a narrow path where water flows",
+      "sentence": "A small channel carried river water into the rice field.",
+      "wordImage": "images/32_channel_word.png",
+      "sentenceImage": "images/32_channel_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 33,
+      "word": "gratitude",
+      "partOfSpeech": "n.",
+      "meaningKo": "감사",
+      "ipa": "/ˈɡrætɪtuːd/",
+      "definition": "a warm thankful feeling inside you",
+      "sentence": "The villagers showed gratitude with a basket of fresh fruit.",
+      "wordImage": "images/33_gratitude_word.png",
+      "sentenceImage": "images/33_gratitude_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 34,
+      "word": "metaphor",
+      "partOfSpeech": "n.",
+      "meaningKo": "은유",
+      "ipa": "/ˈmetəfɔːr/",
+      "definition": "words that call one thing another thing",
+      "sentence": "Calling the sun a golden coin is a metaphor.",
+      "wordImage": "images/34_metaphor_word.png",
+      "sentenceImage": "images/34_metaphor_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 35,
+      "word": "interpret",
+      "partOfSpeech": "v.",
+      "meaningKo": "해석하다",
+      "ipa": "/ɪnˈtɜːrprɪt/",
+      "definition": "to explain what something means",
+      "sentence": "The guide will interpret the old cave paintings for visitors.",
+      "wordImage": "images/35_interpret_word.png",
+      "sentenceImage": "images/35_interpret_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 36,
+      "word": "insult",
+      "partOfSpeech": "n.",
+      "meaningKo": "모욕",
+      "ipa": "/ˈɪnsʌlt/",
+      "definition": "an unkind thing said to someone",
+      "sentence": "The knight ignored the goblin's silly insult and kept walking.",
+      "wordImage": "images/36_insult_word.png",
+      "sentenceImage": "images/36_insult_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 37,
+      "word": "weird",
+      "partOfSpeech": "adj.",
+      "meaningKo": "이상한",
+      "ipa": "/wɪrd/",
+      "definition": "very strange and unusual",
+      "sentence": "A weird purple mushroom grew beside the old stone wall.",
+      "wordImage": "images/37_weird_word.png",
+      "sentenceImage": "images/37_weird_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 38,
+      "word": "random",
+      "partOfSpeech": "adj.",
+      "meaningKo": "무작위의",
+      "ipa": "/ˈrændəm/",
+      "definition": "chosen without any plan or order",
+      "sentence": "The robot picked a random card from the shuffled deck.",
+      "wordImage": "images/38_random_word.png",
+      "sentenceImage": "images/38_random_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 39,
+      "word": "remark",
+      "partOfSpeech": "n.",
+      "meaningKo": "발언",
+      "ipa": "/rɪˈmɑːrk/",
+      "definition": "a short thing that someone says",
+      "sentence": "One kind remark made the shy hedgehog feel much braver.",
+      "wordImage": "images/39_remark_word.png",
+      "sentenceImage": "images/39_remark_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 40,
+      "word": "sentence",
+      "partOfSpeech": "n.",
+      "meaningKo": "문장",
+      "ipa": "/ˈsentəns/",
+      "definition": "a group of words that tells one idea",
+      "sentence": "The parrot repeated the whole sentence without missing one word.",
+      "wordImage": "images/40_sentence_word.png",
+      "sentenceImage": "images/40_sentence_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

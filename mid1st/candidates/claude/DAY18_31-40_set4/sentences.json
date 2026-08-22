@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 18,
+  "range": "31-40",
+  "set": 4,
+  "items": [
+    {
+      "wordId": "DAY18-31",
+      "no": 31,
+      "word": "rare",
+      "sentence": "This rare mountain flower blooms only one week each year."
+    },
+    {
+      "wordId": "DAY18-32",
+      "no": 32,
+      "word": "beat",
+      "sentence": "Doctors count how many times a heart can beat each minute."
+    },
+    {
+      "wordId": "DAY18-33",
+      "no": 33,
+      "word": "indifferent",
+      "sentence": "The sleepy cat looked indifferent to the loud doorbell."
+    },
+    {
+      "wordId": "DAY18-34",
+      "no": 34,
+      "word": "sew",
+      "sentence": "Volunteers sew soft cotton masks for the small clinic."
+    },
+    {
+      "wordId": "DAY18-35",
+      "no": 35,
+      "word": "antibiotic",
+      "sentence": "The doctor explained that an antibiotic works only against bacteria."
+    },
+    {
+      "wordId": "DAY18-36",
+      "no": 36,
+      "word": "chronic",
+      "sentence": "A chronic cough lasted many months before the treatment helped."
+    },
+    {
+      "wordId": "DAY18-37",
+      "no": 37,
+      "word": "sight",
+      "sentence": "Regular eye checkups protect the sight of young students."
+    },
+    {
+      "wordId": "DAY18-38",
+      "no": 38,
+      "word": "fatal",
+      "sentence": "Skipping the safety check was a fatal error for the model rocket."
+    },
+    {
+      "wordId": "DAY18-39",
+      "no": 39,
+      "word": "tremble",
+      "sentence": "Cold hands tremble slightly until the warm gloves help."
+    },
+    {
+      "wordId": "DAY18-40",
+      "no": 40,
+      "word": "patient",
+      "sentence": "One patient waited calmly while the nurse checked the chart."
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 4,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY04-11",
+      "no": 11,
+      "word": "familiar",
+      "sentence": "The new employee soon became familiar with office computer software."
+    },
+    {
+      "wordId": "DAY04-12",
+      "no": 12,
+      "word": "spread",
+      "sentence": "The architects spread large building blueprints across the wooden table."
+    },
+    {
+      "wordId": "DAY04-13",
+      "no": 13,
+      "word": "divide",
+      "sentence": "We divide the classroom into four equal teams for games."
+    },
+    {
+      "wordId": "DAY04-14",
+      "no": 14,
+      "word": "retire",
+      "sentence": "Senior professors usually retire from university teaching at age sixty-five."
+    },
+    {
+      "wordId": "DAY04-15",
+      "no": 15,
+      "word": "vision",
+      "sentence": "The eye doctor checked her vision with a wall chart."
+    },
+    {
+      "wordId": "DAY04-16",
+      "no": 16,
+      "word": "obstacle",
+      "sentence": "Hard work helped the athlete overcome every difficult training obstacle."
+    },
+    {
+      "wordId": "DAY04-17",
+      "no": 17,
+      "word": "contrary",
+      "sentence": "The experimental results showed evidence contrary to our initial guess."
+    },
+    {
+      "wordId": "DAY04-18",
+      "no": 18,
+      "word": "arrange",
+      "sentence": "Librarians arrange returned books alphabetically on the tall metal shelves."
+    },
+    {
+      "wordId": "DAY04-19",
+      "no": 19,
+      "word": "attempt",
+      "sentence": "Do not attempt dangerous stunts without proper safety equipment on."
+    },
+    {
+      "wordId": "DAY04-20",
+      "no": 20,
+      "word": "board",
+      "sentence": "Passengers must board the morning flight twenty minutes before departure."
+    }
+  ]
+}

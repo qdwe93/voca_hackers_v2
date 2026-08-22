@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 17,
+  "range": "31-40",
+  "set": 4,
+  "items": [
+    {
+      "wordId": "DAY17-31",
+      "no": 31,
+      "word": "crawl",
+      "sentence": "Caterpillars crawl along green tree branches to feed on fresh leaves."
+    },
+    {
+      "wordId": "DAY17-32",
+      "no": 32,
+      "word": "sensation",
+      "sentence": "Cold ice against bare skin produces a sharp sensation of chill."
+    },
+    {
+      "wordId": "DAY17-33",
+      "no": 33,
+      "word": "sequence",
+      "sentence": "Scientists determined the exact base sequence of the plant DNA sample."
+    },
+    {
+      "wordId": "DAY17-34",
+      "no": 34,
+      "word": "blink",
+      "sentence": "Humans naturally blink their eyelids to keep their eyes moist cleanly."
+    },
+    {
+      "wordId": "DAY17-35",
+      "no": 35,
+      "word": "interfere",
+      "sentence": "Excessive noise can interfere with birds communicating their mating territory calls."
+    },
+    {
+      "wordId": "DAY17-36",
+      "no": 36,
+      "word": "identical",
+      "sentence": "The two congruent triangles have identical side lengths and angle measurements."
+    },
+    {
+      "wordId": "DAY17-37",
+      "no": 37,
+      "word": "empathy",
+      "sentence": "She showed active empathy by listening attentively to her friend's problem."
+    },
+    {
+      "wordId": "DAY17-38",
+      "no": 38,
+      "word": "dramatic",
+      "sentence": "Tadpoles undergo a dramatic physical transformation into adult jumping green frogs."
+    },
+    {
+      "wordId": "DAY17-39",
+      "no": 39,
+      "word": "explicit",
+      "sentence": "The biology teacher gave explicit instructions for the microscope slide preparation."
+    },
+    {
+      "wordId": "DAY17-40",
+      "no": 40,
+      "word": "tissue",
+      "sentence": "Use a soft paper tissue to wipe the microscope glass lens."
+    }
+  ]
+}

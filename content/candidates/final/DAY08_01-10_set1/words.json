@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 8,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 08 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "comment",
+      "partOfSpeech": "n.",
+      "meaningKo": "의견",
+      "ipa": "/ˈkɑːment/",
+      "definition": "something you say about a person or thing",
+      "sentence": "The teacher wrote a kind comment beside the colorful drawing.",
+      "wordImage": "images/01_comment_word.png",
+      "sentenceImage": "images/01_comment_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "popular",
+      "partOfSpeech": "adj.",
+      "meaningKo": "인기 있는",
+      "ipa": "/ˈpɑːpjələr/",
+      "definition": "liked by many people",
+      "sentence": "Strawberry ice cream is the most popular flavor here.",
+      "wordImage": "images/02_popular_word.png",
+      "sentenceImage": "images/02_popular_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "develop",
+      "partOfSpeech": "v.",
+      "meaningKo": "개발하다",
+      "ipa": "/dɪˈveləp/",
+      "definition": "to make something grow better over time",
+      "sentence": "The inventors will develop a quieter engine for the boat.",
+      "wordImage": "images/03_develop_word.png",
+      "sentenceImage": "images/03_develop_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "moment",
+      "partOfSpeech": "n.",
+      "meaningKo": "순간",
+      "ipa": "/ˈmoʊmənt/",
+      "definition": "a very short piece of time",
+      "sentence": "For one bright moment the fireflies lit the whole meadow.",
+      "wordImage": "images/04_moment_word.png",
+      "sentenceImage": "images/04_moment_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "public",
+      "partOfSpeech": "adj.",
+      "meaningKo": "공공의",
+      "ipa": "/ˈpʌblɪk/",
+      "definition": "open for everyone to use",
+      "sentence": "The public garden welcomes families every warm summer afternoon.",
+      "wordImage": "images/05_public_word.png",
+      "sentenceImage": "images/05_public_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "promise",
+      "partOfSpeech": "v.",
+      "meaningKo": "약속하다",
+      "ipa": "/ˈprɑːmɪs/",
+      "definition": "to say you will surely do something",
+      "sentence": "The two friends promise to meet under the oak tree.",
+      "wordImage": "images/06_promise_word.png",
+      "sentenceImage": "images/06_promise_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "select",
+      "partOfSpeech": "v.",
+      "meaningKo": "고르다",
+      "ipa": "/sɪˈlekt/",
+      "definition": "to choose one thing from many",
+      "sentence": "You may select one puppy from the playful little group.",
+      "wordImage": "images/07_select_word.png",
+      "sentenceImage": "images/07_select_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "pleasure",
+      "partOfSpeech": "n.",
+      "meaningKo": "즐거움",
+      "ipa": "/ˈpleʒər/",
+      "definition": "a happy feeling you get from something",
+      "sentence": "Reading in the hammock brings the fox great pleasure daily.",
+      "wordImage": "images/08_pleasure_word.png",
+      "sentenceImage": "images/08_pleasure_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "involve",
+      "partOfSpeech": "v.",
+      "meaningKo": "포함하다",
+      "ipa": "/ɪnˈvɑːlv/",
+      "definition": "to include someone or something as a part",
+      "sentence": "The games involve every child in the friendly summer camp.",
+      "wordImage": "images/09_involve_word.png",
+      "sentenceImage": "images/09_involve_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "evolve",
+      "partOfSpeech": "v.",
+      "meaningKo": "진화하다",
+      "ipa": "/ɪˈvɑːlv/",
+      "definition": "to change slowly into something new",
+      "sentence": "Birds evolve over long ages into many colorful new shapes.",
+      "wordImage": "images/10_evolve_word.png",
+      "sentenceImage": "images/10_evolve_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

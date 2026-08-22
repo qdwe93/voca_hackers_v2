@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 29,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 29 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "industry",
+      "partOfSpeech": "n.",
+      "meaningKo": "산업",
+      "ipa": "/ˈɪndəstri/",
+      "definition": "the work of making things in factories",
+      "sentence": "The paper industry uses many tall growing pine trees.",
+      "wordImage": "images/01_industry_word.png",
+      "sentenceImage": "images/01_industry_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "policy",
+      "partOfSpeech": "n.",
+      "meaningKo": "정책",
+      "ipa": "/ˈpɑːləsi/",
+      "definition": "a rule that a group decides to follow",
+      "sentence": "The school policy asks everyone to recycle every bottle.",
+      "wordImage": "images/02_policy_word.png",
+      "sentenceImage": "images/02_policy_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "commercial",
+      "partOfSpeech": "adj.",
+      "meaningKo": "상업의",
+      "ipa": "/kəˈmɜːrʃl/",
+      "definition": "about buying and selling things",
+      "sentence": "The commercial street was full of small busy shops.",
+      "wordImage": "images/03_commercial_word.png",
+      "sentenceImage": "images/03_commercial_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "convey",
+      "partOfSpeech": "v.",
+      "meaningKo": "전달하다",
+      "ipa": "/kənˈveɪ/",
+      "definition": "to carry or share something with others",
+      "sentence": "Long belts convey boxes across the busy packing room.",
+      "wordImage": "images/04_convey_word.png",
+      "sentenceImage": "images/04_convey_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "international",
+      "partOfSpeech": "adj.",
+      "meaningKo": "국제적인",
+      "ipa": "/ˌɪntərˈnæʃnəl/",
+      "definition": "between different countries of the world",
+      "sentence": "The international fair showed foods from many faraway lands.",
+      "wordImage": "images/05_international_word.png",
+      "sentenceImage": "images/05_international_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "reveal",
+      "partOfSpeech": "v.",
+      "meaningKo": "드러내다",
+      "ipa": "/rɪˈviːl/",
+      "definition": "to show something that was hidden",
+      "sentence": "Lifting the cloth will reveal a beautiful clay pot.",
+      "wordImage": "images/06_reveal_word.png",
+      "sentenceImage": "images/06_reveal_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "increase",
+      "partOfSpeech": "v.",
+      "meaningKo": "증가하다",
+      "ipa": "/ɪnˈkriːs/",
+      "definition": "to become larger in number or size",
+      "sentence": "Sunny days increase the number of ripe red tomatoes.",
+      "wordImage": "images/07_increase_word.png",
+      "sentenceImage": "images/07_increase_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "depend",
+      "partOfSpeech": "v.",
+      "meaningKo": "의존하다",
+      "ipa": "/dɪˈpend/",
+      "definition": "to need someone or something for help",
+      "sentence": "Young plants depend on rain and warm bright sunlight.",
+      "wordImage": "images/08_depend_word.png",
+      "sentenceImage": "images/08_depend_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "transfer",
+      "partOfSpeech": "v.",
+      "meaningKo": "옮기다",
+      "ipa": "/trænsˈfɜːr/",
+      "definition": "to move something from one place to another",
+      "sentence": "Workers transfer apples from crates into large paper bags.",
+      "wordImage": "images/09_transfer_word.png",
+      "sentenceImage": "images/09_transfer_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "transform",
+      "partOfSpeech": "v.",
+      "meaningKo": "변형시키다",
+      "ipa": "/trænsˈfɔːrm/",
+      "definition": "to change something into a different form",
+      "sentence": "Paint can transform an old chair into something bright.",
+      "wordImage": "images/10_transform_word.png",
+      "sentenceImage": "images/10_transform_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

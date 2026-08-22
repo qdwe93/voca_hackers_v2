@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 3,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY03-21",
+      "no": 21,
+      "word": "reserve",
+      "sentence": "The travelers reserve a small cabin close to the quiet lake."
+    },
+    {
+      "wordId": "DAY03-22",
+      "no": 22,
+      "word": "wrap",
+      "sentence": "The young elephant helped wrap a gift in shiny gold paper."
+    },
+    {
+      "wordId": "DAY03-23",
+      "no": 23,
+      "word": "occasion",
+      "sentence": "A birthday is a happy occasion for the entire family."
+    },
+    {
+      "wordId": "DAY03-24",
+      "no": 24,
+      "word": "allow",
+      "sentence": "A student gardener will allow the students to pick ripe berries."
+    },
+    {
+      "wordId": "DAY03-25",
+      "no": 25,
+      "word": "ensure",
+      "sentence": "Today, strong ropes ensure the swing stays safe for every child."
+    },
+    {
+      "wordId": "DAY03-26",
+      "no": 26,
+      "word": "agent",
+      "sentence": "A helpful travel agent displayed maps of the green islands."
+    },
+    {
+      "wordId": "DAY03-27",
+      "no": 27,
+      "word": "argue",
+      "sentence": "Friends argue over rules, then choose a respectful solution."
+    },
+    {
+      "wordId": "DAY03-28",
+      "no": 28,
+      "word": "confirm",
+      "sentence": "Students confirm an article's date by checking another source."
+    },
+    {
+      "wordId": "DAY03-29",
+      "no": 29,
+      "word": "wonder",
+      "sentence": "The children wonder what lives within the old hollow tree."
+    },
+    {
+      "wordId": "DAY03-30",
+      "no": 30,
+      "word": "wander",
+      "sentence": "The deer often chooses to wander through the misty morning forest."
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 3,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY03-11",
+      "no": 11,
+      "word": "pack",
+      "sentence": "I pack sunscreen and a towel into my beach bag."
+    },
+    {
+      "wordId": "DAY03-12",
+      "no": 12,
+      "word": "host",
+      "sentence": "Our neighborhood will host a small kite festival this Sunday."
+    },
+    {
+      "wordId": "DAY03-13",
+      "no": 13,
+      "word": "private",
+      "sentence": "This private notebook holds drawings that nobody else reads."
+    },
+    {
+      "wordId": "DAY03-14",
+      "no": 14,
+      "word": "craft",
+      "sentence": "The paper craft class taught us to fold small cranes."
+    },
+    {
+      "wordId": "DAY03-15",
+      "no": 15,
+      "word": "post",
+      "sentence": "Tomorrow we will post this holiday card at the corner mailbox."
+    },
+    {
+      "wordId": "DAY03-16",
+      "no": 16,
+      "word": "relieve",
+      "sentence": "A short walk can relieve the worry before a piano test."
+    },
+    {
+      "wordId": "DAY03-17",
+      "no": 17,
+      "word": "practice",
+      "sentence": "Members practice the same dance step each Thursday evening."
+    },
+    {
+      "wordId": "DAY03-18",
+      "no": 18,
+      "word": "souvenir",
+      "sentence": "A small shell souvenir reminds me of the summer beach trip."
+    },
+    {
+      "wordId": "DAY03-19",
+      "no": 19,
+      "word": "decorate",
+      "sentence": "We decorate the club room with paper flowers before the show."
+    },
+    {
+      "wordId": "DAY03-20",
+      "no": 20,
+      "word": "book",
+      "sentence": "Please book two seats for the Saturday afternoon movie."
+    }
+  ]
+}

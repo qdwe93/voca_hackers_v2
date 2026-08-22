@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 12,
+  "range": "31-40",
+  "set": 4,
+  "title": "DAY 12 · 31-40",
+  "words": [
+    {
+      "no": 31,
+      "word": "employ",
+      "partOfSpeech": "v.",
+      "meaningKo": "고용하다",
+      "definition": "to give someone paid work",
+      "sentence": "The farm will employ two helpers during harvest.",
+      "ipa": "/ɛmplɔɪ/",
+      "wordImage": "images/31_employ_word.png",
+      "sentenceImage": "images/31_employ_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 32,
+      "word": "illusion",
+      "partOfSpeech": "n.",
+      "meaningKo": "착시",
+      "definition": "something that appears real but is not",
+      "sentence": "A mirror illusion makes one candle appear as many.",
+      "ipa": "/ɪluʒən/",
+      "wordImage": "images/32_illusion_word.png",
+      "sentenceImage": "images/32_illusion_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 33,
+      "word": "funeral",
+      "partOfSpeech": "n.",
+      "meaningKo": "장례식",
+      "definition": "a ceremony for remembering someone who died",
+      "sentence": "The animals attend a quiet funeral for an old tree.",
+      "ipa": "/fjunɚəl/",
+      "wordImage": "images/33_funeral_word.png",
+      "sentenceImage": "images/33_funeral_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 34,
+      "word": "whisper",
+      "partOfSpeech": "v.",
+      "meaningKo": "속삭이다",
+      "definition": "to speak very quietly",
+      "sentence": "The child will whisper a secret to the toy robot.",
+      "ipa": "/wɪspɚ/",
+      "wordImage": "images/34_whisper_word.png",
+      "sentenceImage": "images/34_whisper_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 35,
+      "word": "elaborate",
+      "partOfSpeech": "adj.",
+      "meaningKo": "정교한",
+      "definition": "having many carefully arranged details",
+      "sentence": "An elaborate sandcastle has towers bridges and tiny windows.",
+      "ipa": "/ɪˈlæbərət/",
+      "wordImage": "images/35_elaborate_word.png",
+      "sentenceImage": "images/35_elaborate_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 36,
+      "word": "bunch",
+      "partOfSpeech": "n.",
+      "meaningKo": "다발",
+      "definition": "a group of similar things held together",
+      "sentence": "A bunch of yellow bananas hangs beside the basket.",
+      "ipa": "/bʌntʃ/",
+      "wordImage": "images/36_bunch_word.png",
+      "sentenceImage": "images/36_bunch_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 37,
+      "word": "atmosphere",
+      "partOfSpeech": "n.",
+      "meaningKo": "분위기",
+      "definition": "the feeling or mood of a place",
+      "sentence": "Soft lanterns create a peaceful atmosphere in the garden.",
+      "ipa": "/ætməsfɪr/",
+      "wordImage": "images/37_atmosphere_word.png",
+      "sentenceImage": "images/37_atmosphere_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 38,
+      "word": "escape",
+      "partOfSpeech": "v.",
+      "meaningKo": "탈출하다",
+      "definition": "to get away from a place or danger",
+      "sentence": "The hamster will escape through the open cage door.",
+      "ipa": "/ɪskeɪp/",
+      "wordImage": "images/38_escape_word.png",
+      "sentenceImage": "images/38_escape_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 39,
+      "word": "cultivate",
+      "partOfSpeech": "v.",
+      "meaningKo": "경작하다",
+      "definition": "to prepare land and grow plants",
+      "sentence": "The farmer will cultivate the soil before planting vegetables.",
+      "ipa": "/kʌltəveɪt/",
+      "wordImage": "images/39_cultivate_word.png",
+      "sentenceImage": "images/39_cultivate_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 40,
+      "word": "cast",
+      "partOfSpeech": "n.",
+      "meaningKo": "출연진",
+      "definition": "all the actors in a play or movie",
+      "sentence": "The cast bows together at the front of the stage.",
+      "ipa": "/kæst/",
+      "wordImage": "images/40_cast_word.png",
+      "sentenceImage": "images/40_cast_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

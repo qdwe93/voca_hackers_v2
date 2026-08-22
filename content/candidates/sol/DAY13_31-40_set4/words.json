@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 13,
+  "range": "31-40",
+  "set": 4,
+  "title": "DAY 13 · 31-40",
+  "words": [
+    {
+      "no": 31,
+      "word": "outstanding",
+      "partOfSpeech": "adj.",
+      "meaningKo": "뛰어난",
+      "definition": "extremely good and better than most",
+      "sentence": "An outstanding model tower stands above all the others.",
+      "ipa": "/aʊtstændɪŋ/",
+      "wordImage": "images/31_outstanding_word.png",
+      "sentenceImage": "images/31_outstanding_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 32,
+      "word": "resist",
+      "partOfSpeech": "v.",
+      "meaningKo": "저항하다",
+      "definition": "to fight against or refuse something",
+      "sentence": "The heavy anchor helps the boat resist strong wind.",
+      "ipa": "/rɪzɪst/",
+      "wordImage": "images/32_resist_word.png",
+      "sentenceImage": "images/32_resist_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 33,
+      "word": "hesitate",
+      "partOfSpeech": "v.",
+      "meaningKo": "망설이다",
+      "definition": "to pause because you are uncertain",
+      "sentence": "The child will hesitate before choosing between two paths.",
+      "ipa": "/hɛzəteɪt/",
+      "wordImage": "images/33_hesitate_word.png",
+      "sentenceImage": "images/33_hesitate_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 34,
+      "word": "protest",
+      "partOfSpeech": "v.",
+      "meaningKo": "항의하다",
+      "definition": "to publicly show strong disagreement",
+      "sentence": "The townspeople protest peacefully by gathering with blank signs.",
+      "ipa": "/prəˈtest/",
+      "wordImage": "images/34_protest_word.png",
+      "sentenceImage": "images/34_protest_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 35,
+      "word": "restore",
+      "partOfSpeech": "v.",
+      "meaningKo": "복원하다",
+      "definition": "to return something to its earlier condition",
+      "sentence": "Workers restore the old clock until it shines again.",
+      "ipa": "/rɪstɔr/",
+      "wordImage": "images/35_restore_word.png",
+      "sentenceImage": "images/35_restore_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 36,
+      "word": "associate",
+      "partOfSpeech": "v.",
+      "meaningKo": "연관 짓다",
+      "definition": "to connect one thing with another in your mind",
+      "sentence": "Children quickly associate dark clouds with approaching rain.",
+      "ipa": "/əˈsoʊsieɪt/",
+      "wordImage": "images/36_associate_word.png",
+      "sentenceImage": "images/36_associate_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 37,
+      "word": "heritage",
+      "partOfSpeech": "n.",
+      "meaningKo": "유산",
+      "definition": "traditions and culture passed down through generations",
+      "sentence": "The village protects its musical heritage through yearly performances.",
+      "ipa": "/hɛrətədʒ/",
+      "wordImage": "images/37_heritage_word.png",
+      "sentenceImage": "images/37_heritage_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 38,
+      "word": "restriction",
+      "partOfSpeech": "n.",
+      "meaningKo": "제한",
+      "definition": "a rule that limits what is allowed",
+      "sentence": "A height restriction keeps small children from the tall ride.",
+      "ipa": "/ristrɪkʃən/",
+      "wordImage": "images/38_restriction_word.png",
+      "sentenceImage": "images/38_restriction_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 39,
+      "word": "perceive",
+      "partOfSpeech": "v.",
+      "meaningKo": "인식하다",
+      "definition": "to notice or understand something",
+      "sentence": "The bat can perceive obstacles using returning sound waves.",
+      "ipa": "/pɚsiv/",
+      "wordImage": "images/39_perceive_word.png",
+      "sentenceImage": "images/39_perceive_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 40,
+      "word": "scale",
+      "partOfSpeech": "n.",
+      "meaningKo": "규모",
+      "definition": "the size or level of something",
+      "sentence": "The enormous scale of the whale surprises the tiny diver.",
+      "ipa": "/skeɪl/",
+      "wordImage": "images/40_scale_word.png",
+      "sentenceImage": "images/40_scale_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

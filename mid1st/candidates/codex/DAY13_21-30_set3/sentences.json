@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 13,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY13-21",
+      "no": 21,
+      "word": "punish",
+      "sentence": "Today, the game will punish a wrong move with lost points."
+    },
+    {
+      "wordId": "DAY13-22",
+      "no": 22,
+      "word": "tie",
+      "sentence": "Kindly tie the balloons to the back of the chair."
+    },
+    {
+      "wordId": "DAY13-23",
+      "no": 23,
+      "word": "indicate",
+      "sentence": "Today, dark clouds indicate that rain is coming very soon."
+    },
+    {
+      "wordId": "DAY13-24",
+      "no": 24,
+      "word": "humor",
+      "sentence": "Today, the clown's gentle humor made the whole room giggle."
+    },
+    {
+      "wordId": "DAY13-25",
+      "no": 25,
+      "word": "stack",
+      "sentence": "Today, the baker will stack ten pancakes on one plate."
+    },
+    {
+      "wordId": "DAY13-26",
+      "no": 26,
+      "word": "odd",
+      "sentence": "An odd blue mushroom grew next to the garden path."
+    },
+    {
+      "wordId": "DAY13-27",
+      "no": 27,
+      "word": "persist",
+      "sentence": "The small ants persist until the crumb reaches home."
+    },
+    {
+      "wordId": "DAY13-28",
+      "no": 28,
+      "word": "insight",
+      "sentence": "Today, one sudden insight helped the inventor finish the machine."
+    },
+    {
+      "wordId": "DAY13-29",
+      "no": 29,
+      "word": "novel",
+      "sentence": "Readers interpret the novel's ending using clues from earlier chapters."
+    },
+    {
+      "wordId": "DAY13-30",
+      "no": 30,
+      "word": "noble",
+      "sentence": "Today, the noble knight helped villagers carry heavy water buckets."
+    }
+  ]
+}

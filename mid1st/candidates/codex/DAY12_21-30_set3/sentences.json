@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 12,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY12-21",
+      "no": 21,
+      "word": "poll",
+      "sentence": "A poll shows strong support, so the council discusses bike lanes."
+    },
+    {
+      "wordId": "DAY12-22",
+      "no": 22,
+      "word": "pitch",
+      "sentence": "Today, the player will pitch the soft ball to a friend."
+    },
+    {
+      "wordId": "DAY12-23",
+      "no": 23,
+      "word": "eager",
+      "sentence": "Today, the eager puppy waited by the door for a walk."
+    },
+    {
+      "wordId": "DAY12-24",
+      "no": 24,
+      "word": "silly",
+      "sentence": "Today, the clown wore silly shoes that squeaked with each step."
+    },
+    {
+      "wordId": "DAY12-25",
+      "no": 25,
+      "word": "furious",
+      "sentence": "Today, the cartoon dragon looked furious about the empty cookie jar."
+    },
+    {
+      "wordId": "DAY12-26",
+      "no": 26,
+      "word": "barely",
+      "sentence": "Today, the kitten could barely reach the toy under the sofa."
+    },
+    {
+      "wordId": "DAY12-27",
+      "no": 27,
+      "word": "thrill",
+      "sentence": "The first snowfall offered the students a wonderful thrill."
+    },
+    {
+      "wordId": "DAY12-28",
+      "no": 28,
+      "word": "particular",
+      "sentence": "Today, this particular seashell has a perfect pink spiral shape."
+    },
+    {
+      "wordId": "DAY12-29",
+      "no": 29,
+      "word": "constant",
+      "sentence": "Today, the constant hum of bees filled the flower garden."
+    },
+    {
+      "wordId": "DAY12-30",
+      "no": 30,
+      "word": "consistent",
+      "sentence": "Today, the baker keeps a consistent taste in every honey loaf."
+    }
+  ]
+}

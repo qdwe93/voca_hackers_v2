@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 14,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY14-21",
+      "no": 21,
+      "word": "routine",
+      "sentence": "The farmer's morning routine started with feeding two brown cows."
+    },
+    {
+      "wordId": "DAY14-22",
+      "no": 22,
+      "word": "numerous",
+      "sentence": "Numerous clay jars filled the storage room behind the kitchen."
+    },
+    {
+      "wordId": "DAY14-23",
+      "no": 23,
+      "word": "legend",
+      "sentence": "This legend about a stone turtle appears in two old books."
+    },
+    {
+      "wordId": "DAY14-24",
+      "no": 24,
+      "word": "military",
+      "sentence": "The museum shows military uniforms worn hundreds of years ago."
+    },
+    {
+      "wordId": "DAY14-25",
+      "no": 25,
+      "word": "weapon",
+      "sentence": "One old wooden weapon rests inside the museum's glass case."
+    },
+    {
+      "wordId": "DAY14-26",
+      "no": 26,
+      "word": "celebrate",
+      "sentence": "Neighbors celebrate the harvest with rice cakes and folk songs."
+    },
+    {
+      "wordId": "DAY14-27",
+      "no": 27,
+      "word": "combat",
+      "sentence": "History books describe one famous combat between two old kingdoms."
+    },
+    {
+      "wordId": "DAY14-28",
+      "no": 28,
+      "word": "historical",
+      "sentence": "The historical setting shows why the family moved to the port."
+    },
+    {
+      "wordId": "DAY14-29",
+      "no": 29,
+      "word": "royal",
+      "sentence": "Visitors walk through the royal garden behind the old palace."
+    },
+    {
+      "wordId": "DAY14-30",
+      "no": 30,
+      "word": "loyal",
+      "sentence": "A loyal dog waited beside the gate for many years."
+    }
+  ]
+}

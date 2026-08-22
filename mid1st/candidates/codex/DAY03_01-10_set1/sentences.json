@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 3,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY03-01",
+      "no": 1,
+      "word": "journey",
+      "sentence": "The small turtle began a long journey across the meadow."
+    },
+    {
+      "wordId": "DAY03-02",
+      "no": 2,
+      "word": "theater",
+      "sentence": "The entire family watched a puppet show at the theater."
+    },
+    {
+      "wordId": "DAY03-03",
+      "no": 3,
+      "word": "fee",
+      "sentence": "Today, the zoo asked a small fee for the boat ride."
+    },
+    {
+      "wordId": "DAY03-04",
+      "no": 4,
+      "word": "prepare",
+      "sentence": "Before the morning market opens, the bakers prepare warm bread."
+    },
+    {
+      "wordId": "DAY03-05",
+      "no": 5,
+      "word": "surprised",
+      "sentence": "When the balloon floated up high, the kitten looked surprised."
+    },
+    {
+      "wordId": "DAY03-06",
+      "no": 6,
+      "word": "receive",
+      "sentence": "The small robot will receive a gleaming medal this afternoon."
+    },
+    {
+      "wordId": "DAY03-07",
+      "no": 7,
+      "word": "nervous",
+      "sentence": "Before stepping onto the stage, the young singer felt nervous."
+    },
+    {
+      "wordId": "DAY03-08",
+      "no": 8,
+      "word": "stage",
+      "sentence": "Dancers spun cheerfully across the colorful wooden stage tonight."
+    },
+    {
+      "wordId": "DAY03-09",
+      "no": 9,
+      "word": "vacation",
+      "sentence": "A family spent their summer vacation beside a warm sea."
+    },
+    {
+      "wordId": "DAY03-10",
+      "no": 10,
+      "word": "vocation",
+      "sentence": "Today, baking bread became the happy vocation of the cheerful bear."
+    }
+  ]
+}

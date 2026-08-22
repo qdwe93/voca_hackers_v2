@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 16,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 16 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "planet",
+      "partOfSpeech": "n.",
+      "meaningKo": "행성",
+      "ipa": "/ˈplæn.ɪt/",
+      "definition": "a large round object that moves around a sun in space",
+      "sentence": "Earth is the third planet from the sun in our galaxy.",
+      "wordImage": "images/11_planet_word.png",
+      "sentenceImage": "images/11_planet_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "conduct",
+      "partOfSpeech": "v.",
+      "meaningKo": "수행하다, 지휘하다",
+      "ipa": "/kənˈdʌkt/",
+      "definition": "to organize and carry out a particular activity or experiment",
+      "sentence": "Young scientists will conduct a simple magnet experiment in class.",
+      "wordImage": "images/12_conduct_word.png",
+      "sentenceImage": "images/12_conduct_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "solid",
+      "partOfSpeech": "adj.",
+      "meaningKo": "고체의, 단단한",
+      "ipa": "/ˈsɑː.lɪd/",
+      "definition": "hard and firm, not liquid or gas in physical state",
+      "sentence": "Water turns into solid ice cubes when frozen inside freezer.",
+      "wordImage": "images/13_solid_word.png",
+      "sentenceImage": "images/13_solid_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "eternal",
+      "partOfSpeech": "adj.",
+      "meaningKo": "영원한, 끝없는",
+      "ipa": "/ɪˈtɝː.nəl/",
+      "definition": "lasting forever or seeming to be without any end",
+      "sentence": "The high mountain peak was covered in eternal white snow.",
+      "wordImage": "images/14_eternal_word.png",
+      "sentenceImage": "images/14_eternal_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "gravity",
+      "partOfSpeech": "n.",
+      "meaningKo": "중력",
+      "ipa": "/ˈɡræv.ə.t̬i/",
+      "definition": "the natural force that makes objects fall toward the ground",
+      "sentence": "Earth’s strong gravity keeps the atmosphere securely around the planet.",
+      "wordImage": "images/15_gravity_word.png",
+      "sentenceImage": "images/15_gravity_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "melt",
+      "partOfSpeech": "v.",
+      "meaningKo": "녹다, 녹이다",
+      "ipa": "/melt/",
+      "definition": "to change from a solid into a liquid because of heat",
+      "sentence": "The warm spring sunshine will melt the snowmen in garden.",
+      "wordImage": "images/16_melt_word.png",
+      "sentenceImage": "images/16_melt_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "astronaut",
+      "partOfSpeech": "n.",
+      "meaningKo": "우주비행사",
+      "ipa": "/ˈæs.trə.nɑːt/",
+      "definition": "a person trained to travel in a spacecraft into space",
+      "sentence": "The brave astronaut floated weightlessly outside the modern space station.",
+      "wordImage": "images/17_astronaut_word.png",
+      "sentenceImage": "images/17_astronaut_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "smooth",
+      "partOfSpeech": "adj.",
+      "meaningKo": "매끄러운, 부드러운",
+      "ipa": "/smuːð/",
+      "definition": "having an even surface with no rough points or bumps",
+      "sentence": "River water polished the grey stone until it was completely smooth.",
+      "wordImage": "images/18_smooth_word.png",
+      "sentenceImage": "images/18_smooth_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "oxygen",
+      "partOfSpeech": "n.",
+      "meaningKo": "산소",
+      "ipa": "/ˈɑːk.sɪ.dʒən/",
+      "definition": "a gas with no smell or color that humans must breathe",
+      "sentence": "Green forest trees produce fresh oxygen for all living creatures.",
+      "wordImage": "images/19_oxygen_word.png",
+      "sentenceImage": "images/19_oxygen_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "support",
+      "partOfSpeech": "v.",
+      "meaningKo": "지지하다, 뒷받침하다",
+      "ipa": "/səˈpɔːrt/",
+      "definition": "to hold the weight of something or give encouragement",
+      "sentence": "Strong wooden pillars support the heavy roof of the gazebo.",
+      "wordImage": "images/20_support_word.png",
+      "sentenceImage": "images/20_support_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

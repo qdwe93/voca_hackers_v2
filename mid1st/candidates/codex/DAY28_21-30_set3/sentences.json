@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 28,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY28-21",
+      "no": 21,
+      "word": "cancel",
+      "sentence": "Today, heavy fog made the sailors cancel the morning trip."
+    },
+    {
+      "wordId": "DAY28-22",
+      "no": 22,
+      "word": "replace",
+      "sentence": "Now, the carpenter will replace the cracked wooden step today."
+    },
+    {
+      "wordId": "DAY28-23",
+      "no": 23,
+      "word": "property",
+      "sentence": "A property dispute between neighbors belongs to private law."
+    },
+    {
+      "wordId": "DAY28-24",
+      "no": 24,
+      "word": "refund",
+      "sentence": "The shop offered a refund for the broken umbrella."
+    },
+    {
+      "wordId": "DAY28-25",
+      "no": 25,
+      "word": "branch",
+      "sentence": "One robin sang on the highest branch this morning."
+    },
+    {
+      "wordId": "DAY28-26",
+      "no": 26,
+      "word": "recover",
+      "sentence": "The garden will recover rapidly after the gentle rain."
+    },
+    {
+      "wordId": "DAY28-27",
+      "no": 27,
+      "word": "hardship",
+      "sentence": "Today, the long winter hardship ended with warm spring days."
+    },
+    {
+      "wordId": "DAY28-28",
+      "no": 28,
+      "word": "assemble",
+      "sentence": "Several children assemble a wooden model of a windmill."
+    },
+    {
+      "wordId": "DAY28-29",
+      "no": 29,
+      "word": "proceed",
+      "sentence": "Today, the parade will proceed along the main street now."
+    },
+    {
+      "wordId": "DAY28-30",
+      "no": 30,
+      "word": "precede",
+      "sentence": "Today, bright lightning will precede the sound of the thunder."
+    }
+  ]
+}

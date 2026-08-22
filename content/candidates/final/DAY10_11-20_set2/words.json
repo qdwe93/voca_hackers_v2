@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 10,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 10 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "half",
+      "partOfSpeech": "n.",
+      "meaningKo": "절반",
+      "ipa": "/hæf/",
+      "definition": "one of two equal parts",
+      "sentence": "The rabbit ate half of the sweet orange carrot.",
+      "wordImage": "images/11_half_word.png",
+      "sentenceImage": "images/11_half_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "concern",
+      "partOfSpeech": "n.",
+      "meaningKo": "걱정",
+      "ipa": "/kənˈsɜːrn/",
+      "definition": "a worried feeling about something",
+      "sentence": "Her main concern was the tiny bird in the rain.",
+      "wordImage": "images/12_concern_word.png",
+      "sentenceImage": "images/12_concern_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "rescue",
+      "partOfSpeech": "v.",
+      "meaningKo": "구조하다",
+      "ipa": "/ˈreskjuː/",
+      "definition": "to save someone from a difficult place",
+      "sentence": "Firefighters will rescue the kitten from the tall oak tree.",
+      "wordImage": "images/13_rescue_word.png",
+      "sentenceImage": "images/13_rescue_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "critic",
+      "partOfSpeech": "n.",
+      "meaningKo": "비평가",
+      "ipa": "/ˈkrɪtɪk/",
+      "definition": "someone who says what is good or bad",
+      "sentence": "The food critic tasted every soup at the village fair.",
+      "wordImage": "images/14_critic_word.png",
+      "sentenceImage": "images/14_critic_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "charity",
+      "partOfSpeech": "n.",
+      "meaningKo": "자선",
+      "ipa": "/ˈtʃærəti/",
+      "definition": "a group that helps people who need help",
+      "sentence": "The charity sent warm blankets to the cold mountain village.",
+      "wordImage": "images/15_charity_word.png",
+      "sentenceImage": "images/15_charity_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "rage",
+      "partOfSpeech": "n.",
+      "meaningKo": "분노",
+      "ipa": "/reɪdʒ/",
+      "definition": "a very strong angry feeling",
+      "sentence": "The storybook giant's rage melted when someone offered cake.",
+      "wordImage": "images/16_rage_word.png",
+      "sentenceImage": "images/16_rage_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "afford",
+      "partOfSpeech": "v.",
+      "meaningKo": "여유가 되다",
+      "ipa": "/əˈfɔːrd/",
+      "definition": "to have enough money to buy something",
+      "sentence": "The mouse could afford one small cheese with its coins.",
+      "wordImage": "images/17_afford_word.png",
+      "sentenceImage": "images/17_afford_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "unite",
+      "partOfSpeech": "v.",
+      "meaningKo": "연합하다",
+      "ipa": "/juˈnaɪt/",
+      "definition": "to join together as one group",
+      "sentence": "The villages unite to build a bridge across the stream.",
+      "wordImage": "images/18_unite_word.png",
+      "sentenceImage": "images/18_unite_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "orphan",
+      "partOfSpeech": "n.",
+      "meaningKo": "고아",
+      "ipa": "/ˈɔːrfn/",
+      "definition": "a young animal or child with no parents",
+      "sentence": "The kind farmer raised an orphan lamb with warm milk.",
+      "wordImage": "images/19_orphan_word.png",
+      "sentenceImage": "images/19_orphan_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "bear",
+      "partOfSpeech": "v.",
+      "meaningKo": "참다",
+      "ipa": "/ber/",
+      "definition": "to keep going through something hard",
+      "sentence": "Camels can bear the long hot walk across sand.",
+      "wordImage": "images/20_bear_word.png",
+      "sentenceImage": "images/20_bear_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

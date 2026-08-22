@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 15,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY15-11",
+      "no": 11,
+      "word": "theory",
+      "sentence": "The scientific theory of gravity explains how planetary orbits function."
+    },
+    {
+      "wordId": "DAY15-12",
+      "no": 12,
+      "word": "philosophy",
+      "sentence": "Ancient Greek philosophy explored fundamental questions about ethics and truth."
+    },
+    {
+      "wordId": "DAY15-13",
+      "no": 13,
+      "word": "method",
+      "sentence": "The scientific method involves formulating testable hypotheses and gathering data."
+    },
+    {
+      "wordId": "DAY15-14",
+      "no": 14,
+      "word": "praise",
+      "sentence": "Teachers praise students who demonstrate honest effort and creative thinking."
+    },
+    {
+      "wordId": "DAY15-15",
+      "no": 15,
+      "word": "standard",
+      "sentence": "The laboratory maintains a strict standard for clean water testing."
+    },
+    {
+      "wordId": "DAY15-16",
+      "no": 16,
+      "word": "character",
+      "sentence": "Honesty and perseverance are admirable traits of good moral character."
+    },
+    {
+      "wordId": "DAY15-17",
+      "no": 17,
+      "word": "throw",
+      "sentence": "Athletes throw the heavy javelin across the open grassy field."
+    },
+    {
+      "wordId": "DAY15-18",
+      "no": 18,
+      "word": "psychology",
+      "sentence": "Developmental psychology investigates how children acquire language and social skills."
+    },
+    {
+      "wordId": "DAY15-19",
+      "no": 19,
+      "word": "intention",
+      "sentence": "He stated his sincere intention to study environmental engineering abroad."
+    },
+    {
+      "wordId": "DAY15-20",
+      "no": 20,
+      "word": "apply",
+      "sentence": "High school graduates apply for university admission before the deadline."
+    }
+  ]
+}

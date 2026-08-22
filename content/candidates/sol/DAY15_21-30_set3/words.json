@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 15,
+  "range": "21-30",
+  "set": 3,
+  "title": "DAY 15 · 21-30",
+  "words": [
+    {
+      "no": 21,
+      "word": "tune",
+      "partOfSpeech": "n.",
+      "meaningKo": "곡조",
+      "definition": "a series of musical notes forming a melody",
+      "sentence": "The bird whistles a cheerful tune from the branch.",
+      "ipa": "/tun/",
+      "wordImage": "images/21_tune_word.png",
+      "sentenceImage": "images/21_tune_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 22,
+      "word": "submit",
+      "partOfSpeech": "v.",
+      "meaningKo": "제출하다",
+      "definition": "to formally hand in work for review",
+      "sentence": "The student will submit the completed project before noon.",
+      "ipa": "/səbmɪt/",
+      "wordImage": "images/22_submit_word.png",
+      "sentenceImage": "images/22_submit_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 23,
+      "word": "logical",
+      "partOfSpeech": "adj.",
+      "meaningKo": "논리적인",
+      "definition": "following clear and sensible reasoning",
+      "sentence": "The detective follows a logical path through the clues.",
+      "ipa": "/lɑdʒɪkəl/",
+      "wordImage": "images/23_logical_word.png",
+      "sentenceImage": "images/23_logical_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 24,
+      "word": "blame",
+      "partOfSpeech": "v.",
+      "meaningKo": "탓하다",
+      "definition": "to say someone caused a problem",
+      "sentence": "The rabbit may blame the wind for the fallen blocks.",
+      "ipa": "/bleɪm/",
+      "wordImage": "images/24_blame_word.png",
+      "sentenceImage": "images/24_blame_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 25,
+      "word": "display",
+      "partOfSpeech": "v.",
+      "meaningKo": "전시하다",
+      "definition": "to put something where people can see it",
+      "sentence": "The museum will display the giant crystal behind glass.",
+      "ipa": "/dɪspleɪ/",
+      "wordImage": "images/25_display_word.png",
+      "sentenceImage": "images/25_display_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 26,
+      "word": "likewise",
+      "partOfSpeech": "adv.",
+      "meaningKo": "마찬가지로",
+      "definition": "in the same way",
+      "sentence": "One twin raises a hand and the other does likewise.",
+      "ipa": "/laɪkwaɪz/",
+      "wordImage": "images/26_likewise_word.png",
+      "sentenceImage": "images/26_likewise_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 27,
+      "word": "discipline",
+      "partOfSpeech": "n.",
+      "meaningKo": "학문 분야",
+      "definition": "a particular field of study",
+      "sentence": "Biology is the discipline studied in the plant laboratory.",
+      "ipa": "/dɪsəplən/",
+      "wordImage": "images/27_discipline_word.png",
+      "sentenceImage": "images/27_discipline_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 28,
+      "word": "boost",
+      "partOfSpeech": "v.",
+      "meaningKo": "높이다",
+      "definition": "to increase or improve something",
+      "sentence": "Sunlight will boost the growth of the small plant.",
+      "ipa": "/bust/",
+      "wordImage": "images/28_boost_word.png",
+      "sentenceImage": "images/28_boost_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 29,
+      "word": "shallow",
+      "partOfSpeech": "adj.",
+      "meaningKo": "얕은",
+      "definition": "not deep",
+      "sentence": "The duck walks easily through the shallow pond.",
+      "ipa": "/ʃæloʊ/",
+      "wordImage": "images/29_shallow_word.png",
+      "sentenceImage": "images/29_shallow_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 30,
+      "word": "swallow",
+      "partOfSpeech": "v.",
+      "meaningKo": "삼키다",
+      "definition": "to move food or drink down the throat",
+      "sentence": "The giraffe will swallow the soft leaf after chewing.",
+      "ipa": "/swɑloʊ/",
+      "wordImage": "images/30_swallow_word.png",
+      "sentenceImage": "images/30_swallow_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

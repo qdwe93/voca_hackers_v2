@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 8,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY08-21",
+      "no": 21,
+      "word": "conclude",
+      "sentence": "Scientists conclude their research report with verified evidence and data."
+    },
+    {
+      "wordId": "DAY08-22",
+      "no": 22,
+      "word": "intend",
+      "sentence": "I intend to finish my science project before the weekend."
+    },
+    {
+      "wordId": "DAY08-23",
+      "no": 23,
+      "word": "worth",
+      "sentence": "This rare historical coin is worth five hundred thousand won."
+    },
+    {
+      "wordId": "DAY08-24",
+      "no": 24,
+      "word": "outcome",
+      "sentence": "The election outcome was announced on the evening news broadcast."
+    },
+    {
+      "wordId": "DAY08-25",
+      "no": 25,
+      "word": "honor",
+      "sentence": "Winning the fair play award was a great team honor."
+    },
+    {
+      "wordId": "DAY08-26",
+      "no": 26,
+      "word": "internal",
+      "sentence": "The human heart is an essential internal organ for circulation."
+    },
+    {
+      "wordId": "DAY08-27",
+      "no": 27,
+      "word": "verbal",
+      "sentence": "The teacher gave clear verbal instructions before the science experiment."
+    },
+    {
+      "wordId": "DAY08-28",
+      "no": 28,
+      "word": "besides",
+      "sentence": "Besides playing basketball, he enjoys practicing classical guitar on weekends."
+    },
+    {
+      "wordId": "DAY08-29",
+      "no": 29,
+      "word": "cure",
+      "sentence": "Medical scientists search for an effective cure for viral diseases."
+    },
+    {
+      "wordId": "DAY08-30",
+      "no": 30,
+      "word": "core",
+      "sentence": "The heavy iron core lies at the center of Earth."
+    }
+  ]
+}

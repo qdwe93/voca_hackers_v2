@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 7,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY07-01",
+      "no": 1,
+      "word": "similar",
+      "sentence": "The twins wear similar jackets but choose different shoes."
+    },
+    {
+      "wordId": "DAY07-02",
+      "no": 2,
+      "word": "situation",
+      "sentence": "In this situation, two friends must share one small umbrella."
+    },
+    {
+      "wordId": "DAY07-03",
+      "no": 3,
+      "word": "related",
+      "sentence": "My question is related to yesterday's group project plan."
+    },
+    {
+      "wordId": "DAY07-04",
+      "no": 4,
+      "word": "suppose",
+      "sentence": "From the muddy shoes, we suppose our friend walked home."
+    },
+    {
+      "wordId": "DAY07-05",
+      "no": 5,
+      "word": "social",
+      "sentence": "At social club meetings, new members learn the group's turn-taking rules."
+    },
+    {
+      "wordId": "DAY07-06",
+      "no": 6,
+      "word": "unique",
+      "sentence": "Each fingerprint pattern is unique, so nobody else shares it."
+    },
+    {
+      "wordId": "DAY07-07",
+      "no": 7,
+      "word": "prefer",
+      "sentence": "Some classmates prefer quiet reading over noisy playground games."
+    },
+    {
+      "wordId": "DAY07-08",
+      "no": 8,
+      "word": "remain",
+      "sentence": "Two students remain in the classroom to finish the poster."
+    },
+    {
+      "wordId": "DAY07-09",
+      "no": 9,
+      "word": "distract",
+      "sentence": "Whispering friends can distract someone who is solving problems."
+    },
+    {
+      "wordId": "DAY07-10",
+      "no": 10,
+      "word": "district",
+      "sentence": "Our school district holds one friendly sports meeting each spring."
+    }
+  ]
+}

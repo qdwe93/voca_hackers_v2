@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 10,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY10-11",
+      "no": 11,
+      "word": "half",
+      "sentence": "She cut the round apple into half to share equally."
+    },
+    {
+      "wordId": "DAY10-12",
+      "no": 12,
+      "word": "concern",
+      "sentence": "Air quality is a growing concern for modern city residents."
+    },
+    {
+      "wordId": "DAY10-13",
+      "no": 13,
+      "word": "rescue",
+      "sentence": "Firefighters rushed to rescue the trapped cat from tall tree."
+    },
+    {
+      "wordId": "DAY10-14",
+      "no": 14,
+      "word": "critic",
+      "sentence": "The film critic wrote a balanced review of the movie."
+    },
+    {
+      "wordId": "DAY10-15",
+      "no": 15,
+      "word": "charity",
+      "sentence": "The local charity provides hot meals to homeless people daily."
+    },
+    {
+      "wordId": "DAY10-16",
+      "no": 16,
+      "word": "rage",
+      "sentence": "He controlled his rage by taking several slow deep breaths."
+    },
+    {
+      "wordId": "DAY10-17",
+      "no": 17,
+      "word": "afford",
+      "sentence": "The family could afford to buy a small second-hand car."
+    },
+    {
+      "wordId": "DAY10-18",
+      "no": 18,
+      "word": "unite",
+      "sentence": "Nations unite their efforts to fight against global climate change."
+    },
+    {
+      "wordId": "DAY10-19",
+      "no": 19,
+      "word": "orphan",
+      "sentence": "The animal shelter took care of the lonely puppy orphan."
+    },
+    {
+      "wordId": "DAY10-20",
+      "no": 20,
+      "word": "bear",
+      "sentence": "He learned to bear the cold winter temperatures with patience."
+    }
+  ]
+}

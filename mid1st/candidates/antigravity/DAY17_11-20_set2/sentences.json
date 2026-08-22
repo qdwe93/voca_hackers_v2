@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 17,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY17-11",
+      "no": 11,
+      "word": "insect",
+      "sentence": "A honeybee is a helpful insect that pollinates bright orchard flowers."
+    },
+    {
+      "wordId": "DAY17-12",
+      "no": 12,
+      "word": "circumstance",
+      "sentence": "Desert animals adapt to the harsh circumstance of scarce freshwater supplies."
+    },
+    {
+      "wordId": "DAY17-13",
+      "no": 13,
+      "word": "normal",
+      "sentence": "A healthy human body maintains a normal temperature around thirty-seven degrees."
+    },
+    {
+      "wordId": "DAY17-14",
+      "no": 14,
+      "word": "threat",
+      "sentence": "Habitat loss poses a serious environmental threat to endangered forest wildlife."
+    },
+    {
+      "wordId": "DAY17-15",
+      "no": 15,
+      "word": "improve",
+      "sentence": "Selective breeding can improve crop yield and resistance to common pests."
+    },
+    {
+      "wordId": "DAY17-16",
+      "no": 16,
+      "word": "repeat",
+      "sentence": "Researchers repeat the genetic experiment three times to ensure consistent data."
+    },
+    {
+      "wordId": "DAY17-17",
+      "no": 17,
+      "word": "resemble",
+      "sentence": "Young offspring closely resemble their biological parents in physical facial features."
+    },
+    {
+      "wordId": "DAY17-18",
+      "no": 18,
+      "word": "protein",
+      "sentence": "Soybeans provide a rich source of plant protein for healthy diets."
+    },
+    {
+      "wordId": "DAY17-19",
+      "no": 19,
+      "word": "hatch",
+      "sentence": "Baby sea turtles hatch from eggs buried in warm beach sand."
+    },
+    {
+      "wordId": "DAY17-20",
+      "no": 20,
+      "word": "direct",
+      "sentence": "Sunlight provides a direct source of energy for green plant leaves."
+    }
+  ]
+}

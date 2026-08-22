@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 11,
+  "range": "31-40",
+  "set": 4,
+  "items": [
+    {
+      "wordId": "DAY11-31",
+      "no": 31,
+      "word": "calculate",
+      "sentence": "Students calculate the final sum by adding positive and negative integers."
+    },
+    {
+      "wordId": "DAY11-32",
+      "no": 32,
+      "word": "opportunity",
+      "sentence": "Summer camp offers a wonderful opportunity to learn outdoor survival."
+    },
+    {
+      "wordId": "DAY11-33",
+      "no": 33,
+      "word": "poetry",
+      "sentence": "Students read classical lyrical poetry aloud to enjoy rhythmic sounds."
+    },
+    {
+      "wordId": "DAY11-34",
+      "no": 34,
+      "word": "recall",
+      "sentence": "He tried to recall the phone number from memory quickly."
+    },
+    {
+      "wordId": "DAY11-35",
+      "no": 35,
+      "word": "inferior",
+      "sentence": "Cheap plastic tools are often inferior in durability to steel."
+    },
+    {
+      "wordId": "DAY11-36",
+      "no": 36,
+      "word": "spirit",
+      "sentence": "The athletic team displayed great team spirit throughout the match."
+    },
+    {
+      "wordId": "DAY11-37",
+      "no": 37,
+      "word": "fade",
+      "sentence": "Bright clothing colors gradually fade after many wash cycles in water."
+    },
+    {
+      "wordId": "DAY11-38",
+      "no": 38,
+      "word": "generation",
+      "sentence": "A population pyramid displays each generation within the national census."
+    },
+    {
+      "wordId": "DAY11-39",
+      "no": 39,
+      "word": "masterpiece",
+      "sentence": "The museum displayed a timeless artistic masterpiece from the Renaissance."
+    },
+    {
+      "wordId": "DAY11-40",
+      "no": 40,
+      "word": "figure",
+      "sentence": "Can you figure out the correct answer to this puzzle?"
+    }
+  ]
+}

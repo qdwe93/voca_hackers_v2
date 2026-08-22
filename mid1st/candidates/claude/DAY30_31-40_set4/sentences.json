@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 30,
+  "range": "31-40",
+  "set": 4,
+  "items": [
+    {
+      "wordId": "DAY30-31",
+      "no": 31,
+      "word": "deceive",
+      "sentence": "Fake photos can deceive readers, so we check the original source."
+    },
+    {
+      "wordId": "DAY30-32",
+      "no": 32,
+      "word": "external",
+      "sentence": "The external cover of this camera has small rubber grips."
+    },
+    {
+      "wordId": "DAY30-33",
+      "no": 33,
+      "word": "instantly",
+      "sentence": "The printer starts instantly when we press the green button."
+    },
+    {
+      "wordId": "DAY30-34",
+      "no": 34,
+      "word": "norm",
+      "sentence": "Greeting elders first is a norm students learn at home."
+    },
+    {
+      "wordId": "DAY30-35",
+      "no": 35,
+      "word": "analyze",
+      "sentence": "We analyze the headline, the source, and the missing numbers separately."
+    },
+    {
+      "wordId": "DAY30-36",
+      "no": 36,
+      "word": "clarify",
+      "sentence": "One added sentence will clarify why the road closed yesterday."
+    },
+    {
+      "wordId": "DAY30-37",
+      "no": 37,
+      "word": "defend",
+      "sentence": "Thick covers defend these old newspapers from sunlight and dust."
+    },
+    {
+      "wordId": "DAY30-38",
+      "no": 38,
+      "word": "reputation",
+      "sentence": "This bakery earned a good reputation for fresh morning bread."
+    },
+    {
+      "wordId": "DAY30-39",
+      "no": 39,
+      "word": "exclude",
+      "sentence": "Editors exclude any photograph without a clear date and place."
+    },
+    {
+      "wordId": "DAY30-40",
+      "no": 40,
+      "word": "net",
+      "sentence": "Fishers pulled the wide net onto the wooden boat deck."
+    }
+  ]
+}

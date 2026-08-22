@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 10,
+  "range": "31-40",
+  "set": 4,
+  "items": [
+    {
+      "wordId": "DAY10-31",
+      "no": 31,
+      "word": "capture",
+      "sentence": "The camera can capture the exact moment the seed sprouts."
+    },
+    {
+      "wordId": "DAY10-32",
+      "no": 32,
+      "word": "perspective",
+      "sentence": "From the younger sister's perspective, the same argument looks different."
+    },
+    {
+      "wordId": "DAY10-33",
+      "no": 33,
+      "word": "desperate",
+      "sentence": "Farmers were desperate for rain after two very dry weeks."
+    },
+    {
+      "wordId": "DAY10-34",
+      "no": 34,
+      "word": "apparent",
+      "sentence": "The reason for the flood became apparent after checking the drain."
+    },
+    {
+      "wordId": "DAY10-35",
+      "no": 35,
+      "word": "contradict",
+      "sentence": "New measurements contradict the claim that the pond is shrinking."
+    },
+    {
+      "wordId": "DAY10-36",
+      "no": 36,
+      "word": "aggressive",
+      "sentence": "Aggressive words made the group argument worse, so we set turns."
+    },
+    {
+      "wordId": "DAY10-37",
+      "no": 37,
+      "word": "companion",
+      "sentence": "My hiking companion carried the map during the whole trail."
+    },
+    {
+      "wordId": "DAY10-38",
+      "no": 38,
+      "word": "compromise",
+      "sentence": "Our compromise gives the field to soccer players every other day."
+    },
+    {
+      "wordId": "DAY10-39",
+      "no": 39,
+      "word": "commitment",
+      "sentence": "This club's commitment to feeding stray cats continued through winter."
+    },
+    {
+      "wordId": "DAY10-40",
+      "no": 40,
+      "word": "stock",
+      "sentence": "The shop's stock of notebooks ran low before the new semester."
+    }
+  ]
+}

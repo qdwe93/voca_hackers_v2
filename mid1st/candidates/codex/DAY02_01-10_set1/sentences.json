@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 2,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY02-01",
+      "no": 1,
+      "word": "active",
+      "sentence": "Today, the active puppy ran across the field all morning."
+    },
+    {
+      "wordId": "DAY02-02",
+      "no": 2,
+      "word": "excellent",
+      "sentence": "Today, the young painter did an excellent job on the mural."
+    },
+    {
+      "wordId": "DAY02-03",
+      "no": 3,
+      "word": "lecture",
+      "sentence": "The speaker gives a lecture using three pictures in order."
+    },
+    {
+      "wordId": "DAY02-04",
+      "no": 4,
+      "word": "academic",
+      "sentence": "A robot won a prize for its academic work."
+    },
+    {
+      "wordId": "DAY02-05",
+      "no": 5,
+      "word": "encourage",
+      "sentence": "A sports teacher will encourage every runner before the large race."
+    },
+    {
+      "wordId": "DAY02-06",
+      "no": 6,
+      "word": "debate",
+      "sentence": "Each debate team answers the other's claim with evidence."
+    },
+    {
+      "wordId": "DAY02-07",
+      "no": 7,
+      "word": "president",
+      "sentence": "The club president leads meetings and listens to members."
+    },
+    {
+      "wordId": "DAY02-08",
+      "no": 8,
+      "word": "assignment",
+      "sentence": "The students carried their science assignment into the colorful classroom."
+    },
+    {
+      "wordId": "DAY02-09",
+      "no": 9,
+      "word": "principal",
+      "sentence": "The principal manages school rules and supports teachers."
+    },
+    {
+      "wordId": "DAY02-10",
+      "no": 10,
+      "word": "principle",
+      "sentence": "Today, sharing fairly is an important principle in every team game."
+    }
+  ]
+}

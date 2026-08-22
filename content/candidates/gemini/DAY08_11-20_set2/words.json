@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 8,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 08 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "range",
+      "partOfSpeech": "n.",
+      "meaningKo": "범위, 다양성",
+      "ipa": "/reɪndʒ/",
+      "definition": "a group or series of different things of the same type",
+      "sentence": "The art store offers a wide range of colorful paints.",
+      "wordImage": "images/11_range_word.png",
+      "sentenceImage": "images/11_range_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "stuff",
+      "partOfSpeech": "n.",
+      "meaningKo": "물건, 물질",
+      "ipa": "/stʌf/",
+      "definition": "things that people have, use, or talk about in general",
+      "sentence": "He packed all his camping stuff into a large green backpack.",
+      "wordImage": "images/12_stuff_word.png",
+      "sentenceImage": "images/12_stuff_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "journal",
+      "partOfSpeech": "n.",
+      "meaningKo": "일기, 저널",
+      "ipa": "/ˈdʒɝː.nəl/",
+      "definition": "a book in which you write personal thoughts and events",
+      "sentence": "She writes three sentences in her nature journal every evening.",
+      "wordImage": "images/13_journal_word.png",
+      "sentenceImage": "images/13_journal_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "describe",
+      "partOfSpeech": "v.",
+      "meaningKo": "묘사하다, 설명하다",
+      "ipa": "/dɪˈskraɪb/",
+      "definition": "to say what someone or something is like using words",
+      "sentence": "Can you describe the missing cartoon cat to the detective?",
+      "wordImage": "images/14_describe_word.png",
+      "sentenceImage": "images/14_describe_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "otherwise",
+      "partOfSpeech": "adv.",
+      "meaningKo": "그렇지 않으면",
+      "ipa": "/ˈʌð.ɚ.waɪz/",
+      "definition": "if not or in a different situation",
+      "sentence": "Put on your warm raincoat, otherwise you will get wet.",
+      "wordImage": "images/15_otherwise_word.png",
+      "sentenceImage": "images/15_otherwise_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "share",
+      "partOfSpeech": "v.",
+      "meaningKo": "공유하다, 나누다",
+      "ipa": "/ʃer/",
+      "definition": "to give a part of something to others to use",
+      "sentence": "It is kind to share your coloring markers with friends.",
+      "wordImage": "images/16_share_word.png",
+      "sentenceImage": "images/16_share_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "jealous",
+      "partOfSpeech": "adj.",
+      "meaningKo": "질투하는, 시기하는",
+      "ipa": "/ˈdʒel.əs/",
+      "definition": "feeling unhappy because someone has something that you want",
+      "sentence": "The little kitten was jealous of the puppy’s new blanket.",
+      "wordImage": "images/17_jealous_word.png",
+      "sentenceImage": "images/17_jealous_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "translate",
+      "partOfSpeech": "v.",
+      "meaningKo": "번역하다, 통역하다",
+      "ipa": "/trænsˈleɪt/",
+      "definition": "to change words from one language into another language",
+      "sentence": "The digital dictionary can translate English phrases into Korean instantly.",
+      "wordImage": "images/18_translate_word.png",
+      "sentenceImage": "images/18_translate_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "nod",
+      "partOfSpeech": "v.",
+      "meaningKo": "고개를 끄덕이다",
+      "ipa": "/nɑːd/",
+      "definition": "to move your head down and up to show agreement",
+      "sentence": "The polite student will nod his head to show understanding.",
+      "wordImage": "images/19_nod_word.png",
+      "sentenceImage": "images/19_nod_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "mean",
+      "partOfSpeech": "v.",
+      "meaningKo": "의미하다, 뜻하다",
+      "ipa": "/miːn/",
+      "definition": "to express or have a particular meaning or intention",
+      "sentence": "Red traffic lights always mean that vehicles must stop safely.",
+      "wordImage": "images/20_mean_word.png",
+      "sentenceImage": "images/20_mean_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

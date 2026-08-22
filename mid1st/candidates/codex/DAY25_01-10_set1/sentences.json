@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 25,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY25-01",
+      "no": 1,
+      "word": "environment",
+      "sentence": "The environment includes natural rivers and human roads across the valley."
+    },
+    {
+      "wordId": "DAY25-02",
+      "no": 2,
+      "word": "release",
+      "sentence": "Several children release the butterfly into the sunny garden."
+    },
+    {
+      "wordId": "DAY25-03",
+      "no": 3,
+      "word": "disaster",
+      "sentence": "Today, the spilled paint was a small kitchen disaster."
+    },
+    {
+      "wordId": "DAY25-04",
+      "no": 4,
+      "word": "destroy",
+      "sentence": "Today, strong waves can destroy a sandcastle in one minute."
+    },
+    {
+      "wordId": "DAY25-05",
+      "no": 5,
+      "word": "waste",
+      "sentence": "Kindly turn off the lights so we do not waste electricity."
+    },
+    {
+      "wordId": "DAY25-06",
+      "no": 6,
+      "word": "period",
+      "sentence": "Today, the rainy period lasted for three whole cool weeks."
+    },
+    {
+      "wordId": "DAY25-07",
+      "no": 7,
+      "word": "announce",
+      "sentence": "An instructor will announce the winner after the contest."
+    },
+    {
+      "wordId": "DAY25-08",
+      "no": 8,
+      "word": "occur",
+      "sentence": "When sunlight shines through falling rain drops, rainbows occur."
+    },
+    {
+      "wordId": "DAY25-09",
+      "no": 9,
+      "word": "quality",
+      "sentence": "Today, the quality of this wool blanket is truly excellent."
+    },
+    {
+      "wordId": "DAY25-10",
+      "no": 10,
+      "word": "quantity",
+      "sentence": "One large quantity of apples filled the wooden crates."
+    }
+  ]
+}

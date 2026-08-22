@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 5,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 05 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "rather",
+      "partOfSpeech": "adv.",
+      "meaningKo": "꽤",
+      "ipa": "/ˈræðər/",
+      "definition": "more than a little; quite",
+      "sentence": "The soup tasted rather salty for the hungry little fox.",
+      "wordImage": "images/11_rather_word.png",
+      "sentenceImage": "images/11_rather_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "straight",
+      "partOfSpeech": "adj.",
+      "meaningKo": "곧은",
+      "ipa": "/streɪt/",
+      "definition": "going one way without any bends",
+      "sentence": "The road stayed straight across the wide golden wheat field.",
+      "wordImage": "images/12_straight_word.png",
+      "sentenceImage": "images/12_straight_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "meanwhile",
+      "partOfSpeech": "adv.",
+      "meaningKo": "그동안",
+      "ipa": "/ˈmiːnwaɪl/",
+      "definition": "at the same time as something else",
+      "sentence": "The bread baked; meanwhile, the soup simmered on the stove.",
+      "wordImage": "images/13_meanwhile_word.png",
+      "sentenceImage": "images/13_meanwhile_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "continuous",
+      "partOfSpeech": "adj.",
+      "meaningKo": "계속되는",
+      "ipa": "/kənˈtɪnjuəs/",
+      "definition": "going on without stopping",
+      "sentence": "A continuous stream of water fell from the mossy rocks.",
+      "wordImage": "images/14_continuous_word.png",
+      "sentenceImage": "images/14_continuous_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "ordinary",
+      "partOfSpeech": "adj.",
+      "meaningKo": "평범한",
+      "ipa": "/ˈɔːrdneri/",
+      "definition": "normal and not special",
+      "sentence": "It was an ordinary morning until the balloons appeared.",
+      "wordImage": "images/15_ordinary_word.png",
+      "sentenceImage": "images/15_ordinary_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "relationship",
+      "partOfSpeech": "n.",
+      "meaningKo": "관계",
+      "ipa": "/rɪˈleɪʃnʃɪp/",
+      "definition": "the way two people or things connect",
+      "sentence": "The gentle relationship between the dog and cat grew stronger.",
+      "wordImage": "images/16_relationship_word.png",
+      "sentenceImage": "images/16_relationship_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "throat",
+      "partOfSpeech": "n.",
+      "meaningKo": "목구멍",
+      "ipa": "/θroʊt/",
+      "definition": "the part inside your neck for swallowing",
+      "sentence": "Warm honey tea soothed the singing bird's sore throat.",
+      "wordImage": "images/17_throat_word.png",
+      "sentenceImage": "images/17_throat_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "encounter",
+      "partOfSpeech": "v.",
+      "meaningKo": "마주치다",
+      "ipa": "/ɪnˈkaʊntər/",
+      "definition": "to meet someone or something by chance",
+      "sentence": "Hikers sometimes encounter friendly deer near the quiet mountain stream.",
+      "wordImage": "images/18_encounter_word.png",
+      "sentenceImage": "images/18_encounter_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "disturb",
+      "partOfSpeech": "v.",
+      "meaningKo": "방해하다",
+      "ipa": "/dɪˈstɜːrb/",
+      "definition": "to bother someone who is busy or resting",
+      "sentence": "Please do not disturb the sleeping bear in the cave.",
+      "wordImage": "images/19_disturb_word.png",
+      "sentenceImage": "images/19_disturb_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "lead",
+      "partOfSpeech": "v.",
+      "meaningKo": "이끌다",
+      "ipa": "/liːd/",
+      "definition": "to go first and show the way",
+      "sentence": "The oldest goose will lead the flock toward warm lakes.",
+      "wordImage": "images/20_lead_word.png",
+      "sentenceImage": "images/20_lead_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

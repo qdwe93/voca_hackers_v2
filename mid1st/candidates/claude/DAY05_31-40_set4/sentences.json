@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 5,
+  "range": "31-40",
+  "set": 4,
+  "items": [
+    {
+      "wordId": "DAY05-31",
+      "no": 31,
+      "word": "sufficient",
+      "sentence": "One water bottle is sufficient for this thirty minute walk."
+    },
+    {
+      "wordId": "DAY05-32",
+      "no": 32,
+      "word": "fulfill",
+      "sentence": "Finishing the race helped our club fulfill its winter goal."
+    },
+    {
+      "wordId": "DAY05-33",
+      "no": 33,
+      "word": "suggest",
+      "sentence": "Teammates suggest a shorter warm-up before the cold morning game."
+    },
+    {
+      "wordId": "DAY05-34",
+      "no": 34,
+      "word": "fatigue",
+      "sentence": "Deep breathing and rest slowly removed the fatigue in my legs."
+    },
+    {
+      "wordId": "DAY05-35",
+      "no": 35,
+      "word": "intake",
+      "sentence": "The nurse wrote down my daily water intake for one week."
+    },
+    {
+      "wordId": "DAY05-36",
+      "no": 36,
+      "word": "pace",
+      "sentence": "Our runner kept a steady pace during the last two laps."
+    },
+    {
+      "wordId": "DAY05-37",
+      "no": 37,
+      "word": "disorder",
+      "sentence": "The gym locker room was in disorder after the noisy match."
+    },
+    {
+      "wordId": "DAY05-38",
+      "no": 38,
+      "word": "flexible",
+      "sentence": "This flexible rubber band stretches, then returns to its first shape."
+    },
+    {
+      "wordId": "DAY05-39",
+      "no": 39,
+      "word": "supplement",
+      "sentence": "A vitamin supplement sits beside the cereal bowl each morning."
+    },
+    {
+      "wordId": "DAY05-40",
+      "no": 40,
+      "word": "physical",
+      "sentence": "Daily physical activity keeps our bones and heart healthy."
+    }
+  ]
+}

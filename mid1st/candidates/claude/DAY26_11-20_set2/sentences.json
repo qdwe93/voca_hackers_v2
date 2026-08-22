@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 26,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY26-11",
+      "no": 11,
+      "word": "search",
+      "sentence": "Librarians search the shelves for the missing history book."
+    },
+    {
+      "wordId": "DAY26-12",
+      "no": 12,
+      "word": "raise",
+      "sentence": "Please raise your hand before answering the guest speaker."
+    },
+    {
+      "wordId": "DAY26-13",
+      "no": 13,
+      "word": "aim",
+      "sentence": "Players aim the beanbag toward the center of the target."
+    },
+    {
+      "wordId": "DAY26-14",
+      "no": 14,
+      "word": "criminal",
+      "sentence": "In the detective story, the criminal returned the stolen painting."
+    },
+    {
+      "wordId": "DAY26-15",
+      "no": 15,
+      "word": "suspect",
+      "sentence": "The suspect explained where the missing bicycle had been parked."
+    },
+    {
+      "wordId": "DAY26-16",
+      "no": 16,
+      "word": "neutral",
+      "sentence": "Court judges stay neutral, so outside pressure cannot change decisions."
+    },
+    {
+      "wordId": "DAY26-17",
+      "no": 17,
+      "word": "accuse",
+      "sentence": "Do not accuse anyone before hearing what really happened."
+    },
+    {
+      "wordId": "DAY26-18",
+      "no": 18,
+      "word": "firm",
+      "sentence": "The teacher was firm about returning library books on time."
+    },
+    {
+      "wordId": "DAY26-19",
+      "no": 19,
+      "word": "aid",
+      "sentence": "Two groups sent aid, so families received blankets and rice."
+    },
+    {
+      "wordId": "DAY26-20",
+      "no": 20,
+      "word": "interest",
+      "sentence": "My interest in old coins started at the school museum."
+    }
+  ]
+}

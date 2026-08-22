@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 26,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY26-01",
+      "no": 1,
+      "word": "legal",
+      "sentence": "Every citizen has a legal duty to follow established traffic safety rules."
+    },
+    {
+      "wordId": "DAY26-02",
+      "no": 2,
+      "word": "obey",
+      "sentence": "Responsible drivers obey traffic signals to protect pedestrians crossing streets safely."
+    },
+    {
+      "wordId": "DAY26-03",
+      "no": 3,
+      "word": "arrest",
+      "sentence": "Police officers arrest the criminal suspect based on solid forensic evidence."
+    },
+    {
+      "wordId": "DAY26-04",
+      "no": 4,
+      "word": "report",
+      "sentence": "Journalists report factual news events accurately in the evening newspaper article."
+    },
+    {
+      "wordId": "DAY26-05",
+      "no": 5,
+      "word": "innocent",
+      "sentence": "The jury found the innocent defendant not guilty of the crime."
+    },
+    {
+      "wordId": "DAY26-06",
+      "no": 6,
+      "word": "caution",
+      "sentence": "Pedestrians should exercise caution when crossing icy roads in winter mornings."
+    },
+    {
+      "wordId": "DAY26-07",
+      "no": 7,
+      "word": "charge",
+      "sentence": "Electric vehicle owners charge their car battery at local charging stations."
+    },
+    {
+      "wordId": "DAY26-08",
+      "no": 8,
+      "word": "violate",
+      "sentence": "Drivers who violate speed limits receive a monetary fine from police."
+    },
+    {
+      "wordId": "DAY26-09",
+      "no": 9,
+      "word": "law",
+      "sentence": "Democratic society relies on the fair rule of constitutional public law."
+    },
+    {
+      "wordId": "DAY26-10",
+      "no": 10,
+      "word": "raw",
+      "sentence": "Eating raw meat can cause severe food poisoning from harmful bacteria."
+    }
+  ]
+}

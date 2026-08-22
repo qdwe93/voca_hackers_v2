@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 12,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY12-11",
+      "no": 11,
+      "word": "upset",
+      "sentence": "The singer felt upset when the microphone stopped working."
+    },
+    {
+      "wordId": "DAY12-12",
+      "no": 12,
+      "word": "respond",
+      "sentence": "Listeners respond to the caller's worry with a calm, matching answer."
+    },
+    {
+      "wordId": "DAY12-13",
+      "no": 13,
+      "word": "steady",
+      "sentence": "The drummer kept a steady beat through the whole song."
+    },
+    {
+      "wordId": "DAY12-14",
+      "no": 14,
+      "word": "dislike",
+      "sentence": "Some listeners dislike loud endings and prefer quiet final notes."
+    },
+    {
+      "wordId": "DAY12-15",
+      "no": 15,
+      "word": "define",
+      "sentence": "Let us define 'chorus' as the part that repeats after verses."
+    },
+    {
+      "wordId": "DAY12-16",
+      "no": 16,
+      "word": "celebrity",
+      "sentence": "One celebrity answered fan questions on a live video channel."
+    },
+    {
+      "wordId": "DAY12-17",
+      "no": 17,
+      "word": "genius",
+      "sentence": "That young violin genius practiced eight hours every day."
+    },
+    {
+      "wordId": "DAY12-18",
+      "no": 18,
+      "word": "visual",
+      "sentence": "The visual chart and the written text explain the same result."
+    },
+    {
+      "wordId": "DAY12-19",
+      "no": 19,
+      "word": "compose",
+      "sentence": "Two students compose the background music for our class video."
+    },
+    {
+      "wordId": "DAY12-20",
+      "no": 20,
+      "word": "deal",
+      "sentence": "Both sides signed a deal for two free school concerts."
+    }
+  ]
+}

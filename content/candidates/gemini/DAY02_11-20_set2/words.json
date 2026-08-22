@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 2,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 02 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "graduate",
+      "partOfSpeech": "v.",
+      "meaningKo": "졸업하다",
+      "ipa": "/ˈɡrædʒ.u.eɪt/",
+      "definition": "to complete school, college, or university studies successfully",
+      "sentence": "My older sister will graduate from middle school soon.",
+      "wordImage": "images/11_graduate_word.png",
+      "sentenceImage": "images/11_graduate_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "sense",
+      "partOfSpeech": "n.",
+      "meaningKo": "감각, 느낌",
+      "ipa": "/sens/",
+      "definition": "an ability to see, hear, smell, taste, or touch",
+      "sentence": "Dogs have a sharp sense of smell for tracking.",
+      "wordImage": "images/12_sense_word.png",
+      "sentenceImage": "images/12_sense_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "real",
+      "partOfSpeech": "adj.",
+      "meaningKo": "진짜의, 실제의",
+      "ipa": "/ˈriː.əl/",
+      "definition": "actually existing or not fake",
+      "sentence": "The museum display showed a real dinosaur fossil tooth.",
+      "wordImage": "images/13_real_word.png",
+      "sentenceImage": "images/13_real_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "annual",
+      "partOfSpeech": "adj.",
+      "meaningKo": "매년의, 연례의",
+      "ipa": "/ˈæn.ju.əl/",
+      "definition": "happening once every year",
+      "sentence": "The town celebrated its annual flower parade in May.",
+      "wordImage": "images/14_annual_word.png",
+      "sentenceImage": "images/14_annual_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "collect",
+      "partOfSpeech": "v.",
+      "meaningKo": "모으다, 수집하다",
+      "ipa": "/kəˈlekt/",
+      "definition": "to bring things together from different places",
+      "sentence": "Children love to collect shiny seashells on the sandy beach.",
+      "wordImage": "images/15_collect_word.png",
+      "sentenceImage": "images/15_collect_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "deadline",
+      "partOfSpeech": "n.",
+      "meaningKo": "마감 기한",
+      "ipa": "/ˈded.laɪn/",
+      "definition": "a time or day by which something must be finished",
+      "sentence": "We must submit our science project before the deadline.",
+      "wordImage": "images/16_deadline_word.png",
+      "sentenceImage": "images/16_deadline_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "confident",
+      "partOfSpeech": "adj.",
+      "meaningKo": "자신감 있는, 확신하는",
+      "ipa": "/ˈkɑːn.fə.dənt/",
+      "definition": "sure of your own ability to succeed",
+      "sentence": "The young speaker felt confident on the big stage.",
+      "wordImage": "images/17_confident_word.png",
+      "sentenceImage": "images/17_confident_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "include",
+      "partOfSpeech": "v.",
+      "meaningKo": "포함하다",
+      "ipa": "/ɪnˈkluːd/",
+      "definition": "to make someone or something part of a group",
+      "sentence": "Does the lunch box include fresh fruit and milk?",
+      "wordImage": "images/18_include_word.png",
+      "sentenceImage": "images/18_include_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "shout",
+      "partOfSpeech": "v.",
+      "meaningKo": "소리치다, 외치다",
+      "ipa": "/ʃaʊt/",
+      "definition": "to say something very loudly",
+      "sentence": "Fans began to shout loudly when their team scored.",
+      "wordImage": "images/19_shout_word.png",
+      "sentenceImage": "images/19_shout_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "subject",
+      "partOfSpeech": "n.",
+      "meaningKo": "과목, 주제",
+      "ipa": "/ˈsʌb.dʒɪkt/",
+      "definition": "an area of knowledge studied in a school",
+      "sentence": "Science is my favorite subject in school this year.",
+      "wordImage": "images/20_subject_word.png",
+      "sentenceImage": "images/20_subject_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

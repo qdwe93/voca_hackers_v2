@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 4,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 04 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "familiar",
+      "partOfSpeech": "adj.",
+      "meaningKo": "익숙한",
+      "ipa": "/fəˈmɪliər/",
+      "definition": "known well because you have seen it often",
+      "sentence": "The path home felt familiar even in the evening fog.",
+      "wordImage": "images/11_familiar_word.png",
+      "sentenceImage": "images/11_familiar_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "spread",
+      "partOfSpeech": "v.",
+      "meaningKo": "펼치다",
+      "ipa": "/spred/",
+      "definition": "to open something out flat and wide",
+      "sentence": "The bear will spread a blanket under the tall oak.",
+      "wordImage": "images/12_spread_word.png",
+      "sentenceImage": "images/12_spread_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "divide",
+      "partOfSpeech": "v.",
+      "meaningKo": "나누다",
+      "ipa": "/dɪˈvaɪd/",
+      "definition": "to split something into smaller parts",
+      "sentence": "The friends divide the pizza into eight equal slices.",
+      "wordImage": "images/13_divide_word.png",
+      "sentenceImage": "images/13_divide_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "retire",
+      "partOfSpeech": "v.",
+      "meaningKo": "은퇴하다",
+      "ipa": "/rɪˈtaɪər/",
+      "definition": "to stop working because you are older",
+      "sentence": "The old ship captain plans to retire beside the sea.",
+      "wordImage": "images/14_retire_word.png",
+      "sentenceImage": "images/14_retire_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "vision",
+      "partOfSpeech": "n.",
+      "meaningKo": "시력",
+      "ipa": "/ˈvɪʒn/",
+      "definition": "the power to see things clearly",
+      "sentence": "An owl has sharp vision even on the darkest night.",
+      "wordImage": "images/15_vision_word.png",
+      "sentenceImage": "images/15_vision_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "obstacle",
+      "partOfSpeech": "n.",
+      "meaningKo": "장애물",
+      "ipa": "/ˈɑːbstəkl/",
+      "definition": "something in the way that blocks you",
+      "sentence": "A fallen log became an obstacle on the forest trail.",
+      "wordImage": "images/16_obstacle_word.png",
+      "sentenceImage": "images/16_obstacle_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "contrary",
+      "partOfSpeech": "adj.",
+      "meaningKo": "반대되는",
+      "ipa": "/ˈkɑːntreri/",
+      "definition": "completely different or opposite",
+      "sentence": "The two arrows pointed in contrary directions on the map.",
+      "wordImage": "images/17_contrary_word.png",
+      "sentenceImage": "images/17_contrary_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "arrange",
+      "partOfSpeech": "v.",
+      "meaningKo": "정리하다",
+      "ipa": "/əˈreɪndʒ/",
+      "definition": "to put things in a neat order",
+      "sentence": "The florist will arrange yellow tulips inside a glass vase.",
+      "wordImage": "images/18_arrange_word.png",
+      "sentenceImage": "images/18_arrange_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "attempt",
+      "partOfSpeech": "v.",
+      "meaningKo": "시도하다",
+      "ipa": "/əˈtempt/",
+      "definition": "to try to do something",
+      "sentence": "The young climber will attempt the easy wall today.",
+      "wordImage": "images/19_attempt_word.png",
+      "sentenceImage": "images/19_attempt_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "board",
+      "partOfSpeech": "n.",
+      "meaningKo": "판자",
+      "ipa": "/bɔːrd/",
+      "definition": "a flat piece of wood used for something",
+      "sentence": "The players moved wooden pieces across the checkered board.",
+      "wordImage": "images/20_board_word.png",
+      "sentenceImage": "images/20_board_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 21,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 21 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "shape",
+      "partOfSpeech": "n.",
+      "meaningKo": "모양",
+      "definition": "the outer form of something",
+      "sentence": "Each cloud has a different shape above the field.",
+      "ipa": "/ʃeɪp/",
+      "wordImage": "images/11_shape_word.png",
+      "sentenceImage": "images/11_shape_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "fierce",
+      "partOfSpeech": "adj.",
+      "meaningKo": "사나운",
+      "definition": "strong aggressive and frightening",
+      "sentence": "A fierce fantasy lion guards treasure without attacking anyone.",
+      "ipa": "/fɪrs/",
+      "wordImage": "images/12_fierce_word.png",
+      "sentenceImage": "images/12_fierce_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "ripe",
+      "partOfSpeech": "adj.",
+      "meaningKo": "익은",
+      "definition": "fully grown and ready to eat",
+      "sentence": "The ripe tomato is red beside the green ones.",
+      "ipa": "/raɪp/",
+      "wordImage": "images/13_ripe_word.png",
+      "sentenceImage": "images/13_ripe_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "lay",
+      "partOfSpeech": "v.",
+      "meaningKo": "놓다",
+      "definition": "to put something down carefully",
+      "sentence": "The bird will lay a twig across the nest.",
+      "ipa": "/leɪ/",
+      "wordImage": "images/14_lay_word.png",
+      "sentenceImage": "images/14_lay_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "male",
+      "partOfSpeech": "adj.",
+      "meaningKo": "수컷의",
+      "definition": "belonging to the sex that produces sperm",
+      "sentence": "The male peacock displays its colorful tail feathers.",
+      "ipa": "/meɪl/",
+      "wordImage": "images/15_male_word.png",
+      "sentenceImage": "images/15_male_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "foster",
+      "partOfSpeech": "v.",
+      "meaningKo": "촉진하다",
+      "definition": "to encourage growth or development",
+      "sentence": "Shared games foster friendship among the new students.",
+      "ipa": "/fɑstɚ/",
+      "wordImage": "images/16_foster_word.png",
+      "sentenceImage": "images/16_foster_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "surface",
+      "partOfSpeech": "n.",
+      "meaningKo": "표면",
+      "definition": "the outside or top layer of something",
+      "sentence": "A leaf floats on the pond's smooth surface.",
+      "ipa": "/sɝfəs/",
+      "wordImage": "images/17_surface_word.png",
+      "sentenceImage": "images/17_surface_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "engage",
+      "partOfSpeech": "v.",
+      "meaningKo": "참여시키다",
+      "definition": "to attract and hold someone's attention",
+      "sentence": "The colorful puzzle will engage the curious children.",
+      "ipa": "/ɛnɡeɪdʒ/",
+      "wordImage": "images/18_engage_word.png",
+      "sentenceImage": "images/18_engage_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "location",
+      "partOfSpeech": "n.",
+      "meaningKo": "위치",
+      "definition": "a particular place or position",
+      "sentence": "The map shows the treasure's location beside the waterfall.",
+      "ipa": "/loʊkeɪʃən/",
+      "wordImage": "images/19_location_word.png",
+      "sentenceImage": "images/19_location_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "store",
+      "partOfSpeech": "v.",
+      "meaningKo": "저장하다",
+      "definition": "to keep something for future use",
+      "sentence": "The squirrel will store acorns inside the hollow tree.",
+      "ipa": "/stɔr/",
+      "wordImage": "images/20_store_word.png",
+      "sentenceImage": "images/20_store_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

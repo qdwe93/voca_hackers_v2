@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 24,
+  "range": "31-40",
+  "set": 4,
+  "items": [
+    {
+      "wordId": "DAY24-31",
+      "no": 31,
+      "word": "aspect",
+      "sentence": "One aspect of this plan saves money; another saves water."
+    },
+    {
+      "wordId": "DAY24-32",
+      "no": 32,
+      "word": "float",
+      "sentence": "The wooden block will float because it pushes aside enough water."
+    },
+    {
+      "wordId": "DAY24-33",
+      "no": 33,
+      "word": "ingredient",
+      "sentence": "Ginger is the strongest ingredient in this warm winter soup."
+    },
+    {
+      "wordId": "DAY24-34",
+      "no": 34,
+      "word": "ban",
+      "sentence": "Park rules ban fires but still allow small camping stoves."
+    },
+    {
+      "wordId": "DAY24-35",
+      "no": 35,
+      "word": "witness",
+      "sentence": "The witness spoke in court about the broken fence dispute."
+    },
+    {
+      "wordId": "DAY24-36",
+      "no": 36,
+      "word": "solar",
+      "sentence": "These solar panels change sunlight into electricity for our library."
+    },
+    {
+      "wordId": "DAY24-37",
+      "no": 37,
+      "word": "starve",
+      "sentence": "Winter birds may starve, so we refill the feeder daily."
+    },
+    {
+      "wordId": "DAY24-38",
+      "no": 38,
+      "word": "attribute",
+      "sentence": "Hardness is one attribute we test in these rock samples."
+    },
+    {
+      "wordId": "DAY24-39",
+      "no": 39,
+      "word": "appliance",
+      "sentence": "This refrigerator is the appliance using the most electricity here."
+    },
+    {
+      "wordId": "DAY24-40",
+      "no": 40,
+      "word": "plant",
+      "sentence": "We plant bean seeds two centimeters under the soft soil."
+    }
+  ]
+}

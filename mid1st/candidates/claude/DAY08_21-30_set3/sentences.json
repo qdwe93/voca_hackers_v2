@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 8,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY08-21",
+      "no": 21,
+      "word": "conclude",
+      "sentence": "The story's last hint lets readers conclude who found the key."
+    },
+    {
+      "wordId": "DAY08-22",
+      "no": 22,
+      "word": "intend",
+      "sentence": "We intend to write thank-you cards for the school cooks."
+    },
+    {
+      "wordId": "DAY08-23",
+      "no": 23,
+      "word": "worth",
+      "sentence": "A careful rewrite is worth the extra twenty minutes."
+    },
+    {
+      "wordId": "DAY08-24",
+      "no": 24,
+      "word": "outcome",
+      "sentence": "The final outcome of our class vote was a tie."
+    },
+    {
+      "wordId": "DAY08-25",
+      "no": 25,
+      "word": "honor",
+      "sentence": "Reading the school poem aloud was a great honor."
+    },
+    {
+      "wordId": "DAY08-26",
+      "no": 26,
+      "word": "internal",
+      "sentence": "This clock's internal gears turn quietly behind the glass cover."
+    },
+    {
+      "wordId": "DAY08-27",
+      "no": 27,
+      "word": "verbal",
+      "sentence": "A quick verbal answer works better than silence during discussions."
+    },
+    {
+      "wordId": "DAY08-28",
+      "no": 28,
+      "word": "besides",
+      "sentence": "The poem rhymes well; besides, it uses very simple words."
+    },
+    {
+      "wordId": "DAY08-29",
+      "no": 29,
+      "word": "cure",
+      "sentence": "Warm rest and medicine will cure this common cold."
+    },
+    {
+      "wordId": "DAY08-30",
+      "no": 30,
+      "word": "core",
+      "sentence": "Cutting the apple showed the core with five brown seeds."
+    }
+  ]
+}

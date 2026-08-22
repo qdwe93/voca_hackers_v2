@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 4,
+  "range": "21-30",
+  "set": 3,
+  "title": "DAY 04 · 21-30",
+  "words": [
+    {
+      "no": 21,
+      "word": "presentation",
+      "partOfSpeech": "n.",
+      "meaningKo": "발표",
+      "definition": "a talk that explains something to an audience",
+      "sentence": "A student gives a presentation beside a model planet.",
+      "ipa": "/prɛzənteɪʃən/",
+      "wordImage": "images/21_presentation_word.png",
+      "sentenceImage": "images/21_presentation_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 22,
+      "word": "accomplish",
+      "partOfSpeech": "v.",
+      "meaningKo": "성취하다",
+      "definition": "to successfully finish something difficult",
+      "sentence": "The team will accomplish the puzzle by fitting every piece.",
+      "ipa": "/əkɑmplɪʃ/",
+      "wordImage": "images/22_accomplish_word.png",
+      "sentenceImage": "images/22_accomplish_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 23,
+      "word": "convince",
+      "partOfSpeech": "v.",
+      "meaningKo": "납득시키다",
+      "definition": "to make someone believe or agree",
+      "sentence": "A child uses evidence to convince friends about the experiment.",
+      "ipa": "/kənvɪns/",
+      "wordImage": "images/23_convince_word.png",
+      "sentenceImage": "images/23_convince_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 24,
+      "word": "audience",
+      "partOfSpeech": "n.",
+      "meaningKo": "관객",
+      "definition": "the people watching or listening to a performance",
+      "sentence": "The audience watches the dancers from rows of seats.",
+      "ipa": "/ɑdiəns/",
+      "wordImage": "images/24_audience_word.png",
+      "sentenceImage": "images/24_audience_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 25,
+      "word": "wage",
+      "partOfSpeech": "n.",
+      "meaningKo": "임금",
+      "definition": "money paid regularly for work",
+      "sentence": "The worker receives a weekly wage in a plain envelope.",
+      "ipa": "/weɪdʒ/",
+      "wordImage": "images/25_wage_word.png",
+      "sentenceImage": "images/25_wage_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 26,
+      "word": "previous",
+      "partOfSpeech": "adj.",
+      "meaningKo": "이전의",
+      "definition": "happening or existing before the present time",
+      "sentence": "The previous champion stands beside the new winner.",
+      "ipa": "/priviəs/",
+      "wordImage": "images/26_previous_word.png",
+      "sentenceImage": "images/26_previous_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 27,
+      "word": "spend",
+      "partOfSpeech": "v.",
+      "meaningKo": "쓰다",
+      "definition": "to use money or time for something",
+      "sentence": "The shopper will spend five coins on fresh bread.",
+      "ipa": "/spɛnd/",
+      "wordImage": "images/27_spend_word.png",
+      "sentenceImage": "images/27_spend_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 28,
+      "word": "distinguish",
+      "partOfSpeech": "v.",
+      "meaningKo": "구별하다",
+      "definition": "to recognize the difference between things",
+      "sentence": "The child can distinguish the red twin from the blue one.",
+      "ipa": "/dɪstɪŋɡwɪʃ/",
+      "wordImage": "images/28_distinguish_word.png",
+      "sentenceImage": "images/28_distinguish_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 29,
+      "word": "former",
+      "partOfSpeech": "adj.",
+      "meaningKo": "이전의",
+      "definition": "having held a position or existed before",
+      "sentence": "The former captain passes the whistle to a new leader.",
+      "ipa": "/fɔrmɚ/",
+      "wordImage": "images/29_former_word.png",
+      "sentenceImage": "images/29_former_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 30,
+      "word": "formal",
+      "partOfSpeech": "adj.",
+      "meaningKo": "격식을 차린",
+      "definition": "suitable for serious or official events",
+      "sentence": "The guests wear formal clothes at the evening ceremony.",
+      "ipa": "/fɔrməl/",
+      "wordImage": "images/30_formal_word.png",
+      "sentenceImage": "images/30_formal_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

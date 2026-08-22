@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 5,
+  "range": "31-40",
+  "set": 4,
+  "title": "DAY 05 · 31-40",
+  "words": [
+    {
+      "no": 31,
+      "word": "sufficient",
+      "partOfSpeech": "adj.",
+      "meaningKo": "충분한",
+      "ipa": "/səˈfɪʃ.ənt/",
+      "definition": "enough for a particular purpose or need",
+      "sentence": "Make sure you get sufficient sleep before the big exam.",
+      "wordImage": "images/31_sufficient_word.png",
+      "sentenceImage": "images/31_sufficient_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 32,
+      "word": "fulfill",
+      "partOfSpeech": "v.",
+      "meaningKo": "이행하다, 성취하다",
+      "ipa": "/fʊlˈfɪl/",
+      "definition": "to do or achieve what was promised or expected",
+      "sentence": "The hard-working student was able to fulfill all her promises.",
+      "wordImage": "images/32_fulfill_word.png",
+      "sentenceImage": "images/32_fulfill_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 33,
+      "word": "suggest",
+      "partOfSpeech": "v.",
+      "meaningKo": "제안하다, 추천하다",
+      "ipa": "/səˈdʒest/",
+      "definition": "to mention an idea or plan for consideration",
+      "sentence": "Can you suggest a good adventure book for our club?",
+      "wordImage": "images/33_suggest_word.png",
+      "sentenceImage": "images/33_suggest_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 34,
+      "word": "fatigue",
+      "partOfSpeech": "n.",
+      "meaningKo": "피로, 피곤",
+      "ipa": "/fəˈtiːɡ/",
+      "definition": "extreme tiredness resulting from mental or physical work",
+      "sentence": "A short afternoon nap helped relieve his mild body fatigue.",
+      "wordImage": "images/34_fatigue_word.png",
+      "sentenceImage": "images/34_fatigue_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 35,
+      "word": "intake",
+      "partOfSpeech": "n.",
+      "meaningKo": "섭취, 섭취량",
+      "ipa": "/ˈɪn.teɪk/",
+      "definition": "the amount of food, drink, or air taken in",
+      "sentence": "Drinking eight glasses of water provides healthy daily fluid intake.",
+      "wordImage": "images/35_intake_word.png",
+      "sentenceImage": "images/35_intake_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 36,
+      "word": "pace",
+      "partOfSpeech": "n.",
+      "meaningKo": "속도, 보폭",
+      "ipa": "/peɪs/",
+      "definition": "the speed at which someone walks, runs, or moves",
+      "sentence": "The runner kept a steady pace throughout the long race.",
+      "wordImage": "images/36_pace_word.png",
+      "sentenceImage": "images/36_pace_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 37,
+      "word": "disorder",
+      "partOfSpeech": "n.",
+      "meaningKo": "무질서, 혼란",
+      "ipa": "/dɪˈsɔːr.dɚ/",
+      "definition": "a state of untidiness or lack of organization",
+      "sentence": "She organized the messy playroom and cleared away the disorder.",
+      "wordImage": "images/37_disorder_word.png",
+      "sentenceImage": "images/37_disorder_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 38,
+      "word": "flexible",
+      "partOfSpeech": "adj.",
+      "meaningKo": "유연한, 융통성 있는",
+      "ipa": "/ˈflek.sə.bəl/",
+      "definition": "able to bend easily without breaking",
+      "sentence": "The gymnast is very flexible and can do high splits.",
+      "wordImage": "images/38_flexible_word.png",
+      "sentenceImage": "images/38_flexible_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 39,
+      "word": "supplement",
+      "partOfSpeech": "n.",
+      "meaningKo": "보충제, 보충",
+      "ipa": "/ˈsʌp.lə.mənt/",
+      "definition": "something added to complete something or make it better",
+      "sentence": "He took a vitamin supplement with breakfast every single morning.",
+      "wordImage": "images/39_supplement_word.png",
+      "sentenceImage": "images/39_supplement_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 40,
+      "word": "physical",
+      "partOfSpeech": "adj.",
+      "meaningKo": "신체의, 물리적인",
+      "ipa": "/ˈfɪz.ɪ.kəl/",
+      "definition": "relating to the body rather than the mind",
+      "sentence": "Regular physical exercise keeps your heart and body strong forever.",
+      "wordImage": "images/40_physical_word.png",
+      "sentenceImage": "images/40_physical_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

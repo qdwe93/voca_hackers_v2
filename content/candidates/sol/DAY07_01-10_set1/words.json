@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 7,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 07 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "similar",
+      "partOfSpeech": "adj.",
+      "meaningKo": "비슷한",
+      "definition": "almost the same but not exactly alike",
+      "sentence": "Two similar robots have different colored buttons nearby.",
+      "ipa": "/sɪməlɚ/",
+      "wordImage": "images/01_similar_word.png",
+      "sentenceImage": "images/01_similar_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "situation",
+      "partOfSpeech": "n.",
+      "meaningKo": "상황",
+      "definition": "the conditions happening at a particular time and place",
+      "sentence": "The rainy situation makes every picnic guest open an umbrella.",
+      "ipa": "/sɪtʃueɪʃən/",
+      "wordImage": "images/02_situation_word.png",
+      "sentenceImage": "images/02_situation_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "related",
+      "partOfSpeech": "adj.",
+      "meaningKo": "관련된",
+      "definition": "connected with someone or something",
+      "sentence": "The related puzzle pieces show parts of one large picture.",
+      "ipa": "/rɪleɪtɪd/",
+      "wordImage": "images/03_related_word.png",
+      "sentenceImage": "images/03_related_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "suppose",
+      "partOfSpeech": "v.",
+      "meaningKo": "추측하다",
+      "definition": "to think something is probably true",
+      "sentence": "The child may suppose the hidden box contains a ball.",
+      "ipa": "/səpoʊz/",
+      "wordImage": "images/04_suppose_word.png",
+      "sentenceImage": "images/04_suppose_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "social",
+      "partOfSpeech": "adj.",
+      "meaningKo": "사교적인",
+      "definition": "related to meeting and spending time with others",
+      "sentence": "The social puppy happily greets every dog in the park.",
+      "ipa": "/soʊʃəl/",
+      "wordImage": "images/05_social_word.png",
+      "sentenceImage": "images/05_social_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "unique",
+      "partOfSpeech": "adj.",
+      "meaningKo": "독특한",
+      "definition": "being the only one of its kind",
+      "sentence": "One unique shell has a star shape among round shells.",
+      "ipa": "/junik/",
+      "wordImage": "images/06_unique_word.png",
+      "sentenceImage": "images/06_unique_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "prefer",
+      "partOfSpeech": "v.",
+      "meaningKo": "더 좋아하다",
+      "definition": "to like one thing more than another",
+      "sentence": "The rabbit will prefer fresh carrots over dry crackers.",
+      "ipa": "/prəfɝ/",
+      "wordImage": "images/07_prefer_word.png",
+      "sentenceImage": "images/07_prefer_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "remain",
+      "partOfSpeech": "v.",
+      "meaningKo": "남아 있다",
+      "definition": "to continue being in the same place or condition",
+      "sentence": "One red balloon will remain after the others float away.",
+      "ipa": "/rɪmeɪn/",
+      "wordImage": "images/08_remain_word.png",
+      "sentenceImage": "images/08_remain_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "distract",
+      "partOfSpeech": "v.",
+      "meaningKo": "산만하게 하다",
+      "definition": "to take attention away from something",
+      "sentence": "A buzzing fly may distract the student from the puzzle.",
+      "ipa": "/dɪstrækt/",
+      "wordImage": "images/09_distract_word.png",
+      "sentenceImage": "images/09_distract_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "district",
+      "partOfSpeech": "n.",
+      "meaningKo": "구역",
+      "definition": "a particular area of a town or country",
+      "sentence": "The market district contains many shops along narrow streets.",
+      "ipa": "/dɪstrɪkt/",
+      "wordImage": "images/10_district_word.png",
+      "sentenceImage": "images/10_district_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

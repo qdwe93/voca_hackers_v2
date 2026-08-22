@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 20,
+  "range": "31-40",
+  "set": 4,
+  "items": [
+    {
+      "wordId": "DAY20-31",
+      "no": 31,
+      "word": "drag",
+      "sentence": "Two students drag the heavy sled while friction pulls backward."
+    },
+    {
+      "wordId": "DAY20-32",
+      "no": 32,
+      "word": "fasten",
+      "sentence": "Passengers fasten their seat belts before the bus leaves."
+    },
+    {
+      "wordId": "DAY20-33",
+      "no": 33,
+      "word": "precise",
+      "sentence": "With a compass we made a precise copy of that angle."
+    },
+    {
+      "wordId": "DAY20-34",
+      "no": 34,
+      "word": "vital",
+      "sentence": "Working brake lights are vital for safe night driving."
+    },
+    {
+      "wordId": "DAY20-35",
+      "no": 35,
+      "word": "component",
+      "sentence": "One small component inside the radio stopped working yesterday."
+    },
+    {
+      "wordId": "DAY20-36",
+      "no": 36,
+      "word": "seldom",
+      "sentence": "This quiet village road seldom carries more than five cars."
+    },
+    {
+      "wordId": "DAY20-37",
+      "no": 37,
+      "word": "enhance",
+      "sentence": "New street lamps enhance how well drivers see the crossing."
+    },
+    {
+      "wordId": "DAY20-38",
+      "no": 38,
+      "word": "sink",
+      "sentence": "A heavy stone will sink, but the light cork floats."
+    },
+    {
+      "wordId": "DAY20-39",
+      "no": 39,
+      "word": "destination",
+      "sentence": "Our destination sits north of the river and east of the hill."
+    },
+    {
+      "wordId": "DAY20-40",
+      "no": 40,
+      "word": "station",
+      "sentence": "Three buses wait outside the small country train station."
+    }
+  ]
+}

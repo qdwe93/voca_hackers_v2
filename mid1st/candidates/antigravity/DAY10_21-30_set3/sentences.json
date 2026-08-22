@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 10,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY10-21",
+      "no": 21,
+      "word": "abandon",
+      "sentence": "Do not abandon your pets when you move to cities."
+    },
+    {
+      "wordId": "DAY10-22",
+      "no": 22,
+      "word": "crash",
+      "sentence": "Two bumper cars crash gently into each other during ride."
+    },
+    {
+      "wordId": "DAY10-23",
+      "no": 23,
+      "word": "promote",
+      "sentence": "The manager decided to promote the hardworking cashier to supervisor."
+    },
+    {
+      "wordId": "DAY10-24",
+      "no": 24,
+      "word": "decade",
+      "sentence": "Our town has changed significantly over the past single decade."
+    },
+    {
+      "wordId": "DAY10-25",
+      "no": 25,
+      "word": "establish",
+      "sentence": "The government helped establish a new national park for wildlife."
+    },
+    {
+      "wordId": "DAY10-26",
+      "no": 26,
+      "word": "burden",
+      "sentence": "Carrying the heavy backpack was a difficult burden for him."
+    },
+    {
+      "wordId": "DAY10-27",
+      "no": 27,
+      "word": "assist",
+      "sentence": "Volunteers assist elderly citizens with their heavy weekly grocery bags."
+    },
+    {
+      "wordId": "DAY10-28",
+      "no": 28,
+      "word": "resolve",
+      "sentence": "Diplomats worked together to resolve the border dispute peacefully today."
+    },
+    {
+      "wordId": "DAY10-29",
+      "no": 29,
+      "word": "detect",
+      "sentence": "Sensitive smoke alarms detect tiny smoke particles in the kitchen."
+    },
+    {
+      "wordId": "DAY10-30",
+      "no": 30,
+      "word": "defeat",
+      "sentence": "Our soccer team worked hard to defeat our strongest rivals."
+    }
+  ]
+}

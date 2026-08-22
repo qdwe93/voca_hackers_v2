@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 23,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 23 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "valley",
+      "partOfSpeech": "n.",
+      "meaningKo": "계곡",
+      "ipa": "/ˈvæli/",
+      "definition": "low land between two hills or mountains",
+      "sentence": "A quiet valley lay between the two green mountains.",
+      "wordImage": "images/11_valley_word.png",
+      "sentenceImage": "images/11_valley_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "influence",
+      "partOfSpeech": "v.",
+      "meaningKo": "영향을 주다",
+      "ipa": "/ˈɪnfluəns/",
+      "definition": "to change how something acts or grows",
+      "sentence": "Ocean winds influence the weather along this rocky coast.",
+      "wordImage": "images/12_influence_word.png",
+      "sentenceImage": "images/12_influence_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "damage",
+      "partOfSpeech": "n.",
+      "meaningKo": "손상",
+      "ipa": "/ˈdæmɪdʒ/",
+      "definition": "harm that makes something less good",
+      "sentence": "The storm caused small damage to the garden fence.",
+      "wordImage": "images/13_damage_word.png",
+      "sentenceImage": "images/13_damage_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "lack",
+      "partOfSpeech": "n.",
+      "meaningKo": "부족",
+      "ipa": "/læk/",
+      "definition": "not having enough of something",
+      "sentence": "A lack of rain made the grass turn brown.",
+      "wordImage": "images/14_lack_word.png",
+      "sentenceImage": "images/14_lack_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "predict",
+      "partOfSpeech": "v.",
+      "meaningKo": "예측하다",
+      "ipa": "/prɪˈdɪkt/",
+      "definition": "to say what will happen later",
+      "sentence": "Scientists predict warm sunny weather for the whole weekend.",
+      "wordImage": "images/15_predict_word.png",
+      "sentenceImage": "images/15_predict_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "aware",
+      "partOfSpeech": "adj.",
+      "meaningKo": "알고 있는",
+      "ipa": "/əˈwer/",
+      "definition": "knowing that something is happening",
+      "sentence": "The hikers were aware of the changing evening sky.",
+      "wordImage": "images/16_aware_word.png",
+      "sentenceImage": "images/16_aware_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "correct",
+      "partOfSpeech": "adj.",
+      "meaningKo": "올바른",
+      "ipa": "/kəˈrekt/",
+      "definition": "right, with nothing wrong",
+      "sentence": "That was the correct answer to the weather question.",
+      "wordImage": "images/17_correct_word.png",
+      "sentenceImage": "images/17_correct_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "earthquake",
+      "partOfSpeech": "n.",
+      "meaningKo": "지진",
+      "ipa": "/ˈɜːrθkweɪk/",
+      "definition": "a shaking of the ground below us",
+      "sentence": "A tiny earthquake made the teacups rattle very softly.",
+      "wordImage": "images/18_earthquake_word.png",
+      "sentenceImage": "images/18_earthquake_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "due",
+      "partOfSpeech": "adj.",
+      "meaningKo": "예정인",
+      "ipa": "/duː/",
+      "definition": "expected to happen at a time",
+      "sentence": "The rain is due before the evening picnic begins.",
+      "wordImage": "images/19_due_word.png",
+      "sentenceImage": "images/19_due_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "level",
+      "partOfSpeech": "n.",
+      "meaningKo": "수준",
+      "ipa": "/ˈlevl/",
+      "definition": "how high something is",
+      "sentence": "The water level in the pond rose after rain.",
+      "wordImage": "images/20_level_word.png",
+      "sentenceImage": "images/20_level_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

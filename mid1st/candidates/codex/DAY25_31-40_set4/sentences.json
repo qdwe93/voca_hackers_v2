@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 25,
+  "range": "31-40",
+  "set": 4,
+  "items": [
+    {
+      "wordId": "DAY25-31",
+      "no": 31,
+      "word": "extinction",
+      "sentence": "Today, careful protection saved the rare bird from extinction."
+    },
+    {
+      "wordId": "DAY25-32",
+      "no": 32,
+      "word": "superior",
+      "sentence": "Today, this rope is superior to the thin old one."
+    },
+    {
+      "wordId": "DAY25-33",
+      "no": 33,
+      "word": "consequence",
+      "sentence": "Today, one happy consequence of rain is a greener garden."
+    },
+    {
+      "wordId": "DAY25-34",
+      "no": 34,
+      "word": "fabric",
+      "sentence": "Today, soft cotton fabric became a warm winter scarf."
+    },
+    {
+      "wordId": "DAY25-35",
+      "no": 35,
+      "word": "interrupt",
+      "sentence": "Kindly do not interrupt while the storyteller is speaking."
+    },
+    {
+      "wordId": "DAY25-36",
+      "no": 36,
+      "word": "concrete",
+      "sentence": "The concrete path remained cool under the shady trees."
+    },
+    {
+      "wordId": "DAY25-37",
+      "no": 37,
+      "word": "acknowledge",
+      "sentence": "The club will acknowledge every helper at the picnic."
+    },
+    {
+      "wordId": "DAY25-38",
+      "no": 38,
+      "word": "considerable",
+      "sentence": "One considerable pile of leaves covered the whole yard."
+    },
+    {
+      "wordId": "DAY25-39",
+      "no": 39,
+      "word": "discard",
+      "sentence": "Kindly discard the broken pieces into the correct bin."
+    },
+    {
+      "wordId": "DAY25-40",
+      "no": 40,
+      "word": "matter",
+      "sentence": "Students classify matter as solid, liquid, or gas by shape."
+    }
+  ]
+}

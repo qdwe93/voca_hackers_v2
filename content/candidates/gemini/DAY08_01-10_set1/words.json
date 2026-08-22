@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 8,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 08 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "comment",
+      "partOfSpeech": "n.",
+      "meaningKo": "의견, 논평",
+      "ipa": "/ˈkɑː.ment/",
+      "definition": "something that you say or write expressing your opinion",
+      "sentence": "The teacher wrote a encouraging positive comment on his paper.",
+      "wordImage": "images/01_comment_word.png",
+      "sentenceImage": "images/01_comment_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "popular",
+      "partOfSpeech": "adj.",
+      "meaningKo": "인기 있는, 대중적인",
+      "ipa": "/ˈpɑː.pjə.lɚ/",
+      "definition": "liked, enjoyed, or supported by many people",
+      "sentence": "Soccer is the most popular outdoor sport at our school.",
+      "wordImage": "images/02_popular_word.png",
+      "sentenceImage": "images/02_popular_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "develop",
+      "partOfSpeech": "v.",
+      "meaningKo": "발달시키다, 개발하다",
+      "ipa": "/dɪˈvel.əp/",
+      "definition": "to grow or change into something bigger or better",
+      "sentence": "Daily reading habits help develop a rich English vocabulary naturally.",
+      "wordImage": "images/03_develop_word.png",
+      "sentenceImage": "images/03_develop_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "moment",
+      "partOfSpeech": "n.",
+      "meaningKo": "순간, 잠깐",
+      "ipa": "/ˈmoʊ.mənt/",
+      "definition": "a very short period of time",
+      "sentence": "Please wait one moment while I tie my running shoelaces.",
+      "wordImage": "images/04_moment_word.png",
+      "sentenceImage": "images/04_moment_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "public",
+      "partOfSpeech": "adj.",
+      "meaningKo": "공공의, 대중의",
+      "ipa": "/ˈpʌb.lɪk/",
+      "definition": "provided for the use of all people in a community",
+      "sentence": "Our town has a quiet public library with great books.",
+      "wordImage": "images/05_public_word.png",
+      "sentenceImage": "images/05_public_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "promise",
+      "partOfSpeech": "n.",
+      "meaningKo": "약속",
+      "ipa": "/ˈprɑː.mɪs/",
+      "definition": "a statement telling someone that you will certainly do something",
+      "sentence": "He kept his promise to walk the family dog every afternoon.",
+      "wordImage": "images/06_promise_word.png",
+      "sentenceImage": "images/06_promise_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "select",
+      "partOfSpeech": "v.",
+      "meaningKo": "선택하다, 고르다",
+      "ipa": "/səˈlekt/",
+      "definition": "to choose someone or something carefully from a group",
+      "sentence": "You can select three colorful toppings for your frozen yogurt.",
+      "wordImage": "images/07_select_word.png",
+      "sentenceImage": "images/07_select_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "pleasure",
+      "partOfSpeech": "n.",
+      "meaningKo": "기쁨, 즐거움",
+      "ipa": "/ˈpleʒ.ɚ/",
+      "definition": "a feeling of happy satisfaction and enjoyment",
+      "sentence": "It was a true pleasure to meet the friendly author today.",
+      "wordImage": "images/08_pleasure_word.png",
+      "sentenceImage": "images/08_pleasure_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "involve",
+      "partOfSpeech": "v.",
+      "meaningKo": "포함하다, 수반하다",
+      "ipa": "/ɪnˈvɑːlv/",
+      "definition": "to include someone or something as a necessary part",
+      "sentence": "Science fair projects usually involve doing experiments and recording data.",
+      "wordImage": "images/09_involve_word.png",
+      "sentenceImage": "images/09_involve_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "evolve",
+      "partOfSpeech": "v.",
+      "meaningKo": "진화하다, 발전하다",
+      "ipa": "/ɪˈvɑːlv/",
+      "definition": "to develop gradually over time into more advanced forms",
+      "sentence": "Modern smartphones continue to evolve with faster chips and cameras.",
+      "wordImage": "images/10_evolve_word.png",
+      "sentenceImage": "images/10_evolve_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

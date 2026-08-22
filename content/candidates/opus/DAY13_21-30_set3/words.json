@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 13,
+  "range": "21-30",
+  "set": 3,
+  "title": "DAY 13 · 21-30",
+  "words": [
+    {
+      "no": 21,
+      "word": "punish",
+      "partOfSpeech": "v.",
+      "meaningKo": "벌하다",
+      "ipa": "/ˈpʌnɪʃ/",
+      "definition": "to give someone trouble for breaking rules",
+      "sentence": "The game will punish a wrong move with lost points.",
+      "wordImage": "images/21_punish_word.png",
+      "sentenceImage": "images/21_punish_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 22,
+      "word": "tie",
+      "partOfSpeech": "v.",
+      "meaningKo": "묶다",
+      "ipa": "/taɪ/",
+      "definition": "to join things with string or rope",
+      "sentence": "Please tie the balloons to the back of the chair.",
+      "wordImage": "images/22_tie_word.png",
+      "sentenceImage": "images/22_tie_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 23,
+      "word": "indicate",
+      "partOfSpeech": "v.",
+      "meaningKo": "나타내다",
+      "ipa": "/ˈɪndɪkeɪt/",
+      "definition": "to show or point at something",
+      "sentence": "Dark clouds indicate that rain is coming very soon.",
+      "wordImage": "images/23_indicate_word.png",
+      "sentenceImage": "images/23_indicate_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 24,
+      "word": "humor",
+      "partOfSpeech": "n.",
+      "meaningKo": "유머",
+      "ipa": "/ˈhjuːmər/",
+      "definition": "the funny quality that makes people laugh",
+      "sentence": "The clown's gentle humor made the whole room giggle.",
+      "wordImage": "images/24_humor_word.png",
+      "sentenceImage": "images/24_humor_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 25,
+      "word": "stack",
+      "partOfSpeech": "v.",
+      "meaningKo": "쌓다",
+      "ipa": "/stæk/",
+      "definition": "to put things on top of each other",
+      "sentence": "The baker will stack ten pancakes on one plate.",
+      "wordImage": "images/25_stack_word.png",
+      "sentenceImage": "images/25_stack_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 26,
+      "word": "odd",
+      "partOfSpeech": "adj.",
+      "meaningKo": "이상한",
+      "ipa": "/ɑːd/",
+      "definition": "strange and not usual",
+      "sentence": "An odd blue mushroom grew beside the garden path.",
+      "wordImage": "images/26_odd_word.png",
+      "sentenceImage": "images/26_odd_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 27,
+      "word": "persist",
+      "partOfSpeech": "v.",
+      "meaningKo": "계속하다",
+      "ipa": "/pərˈsɪst/",
+      "definition": "to keep trying without giving up",
+      "sentence": "The little ants persist until the crumb reaches home.",
+      "wordImage": "images/27_persist_word.png",
+      "sentenceImage": "images/27_persist_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 28,
+      "word": "insight",
+      "partOfSpeech": "n.",
+      "meaningKo": "통찰",
+      "ipa": "/ˈɪnsaɪt/",
+      "definition": "a clear understanding of something",
+      "sentence": "One sudden insight helped the inventor finish the machine.",
+      "wordImage": "images/28_insight_word.png",
+      "sentenceImage": "images/28_insight_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 29,
+      "word": "novel",
+      "partOfSpeech": "n.",
+      "meaningKo": "소설",
+      "ipa": "/ˈnɑːvl/",
+      "definition": "a long story book about made up people",
+      "sentence": "She read the whole novel during one rainy weekend.",
+      "wordImage": "images/29_novel_word.png",
+      "sentenceImage": "images/29_novel_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 30,
+      "word": "noble",
+      "partOfSpeech": "adj.",
+      "meaningKo": "고귀한",
+      "ipa": "/ˈnoʊbl/",
+      "definition": "kind and honest in a great way",
+      "sentence": "The noble knight helped villagers carry heavy water buckets.",
+      "wordImage": "images/30_noble_word.png",
+      "sentenceImage": "images/30_noble_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

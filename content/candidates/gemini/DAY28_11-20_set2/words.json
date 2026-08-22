@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 28,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 28 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "invest",
+      "partOfSpeech": "v.",
+      "meaningKo": "투자하다, 쏟다",
+      "ipa": "/ɪnˈvest/",
+      "definition": "to put time, effort, or money into something for growth",
+      "sentence": "It is always wise to invest time in reading good books.",
+      "wordImage": "images/11_invest_word.png",
+      "sentenceImage": "images/11_invest_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "wealth",
+      "partOfSpeech": "n.",
+      "meaningKo": "부, 재산, 풍부함",
+      "ipa": "/welθ/",
+      "definition": "a large amount of money, valuable possessions, or rich resources",
+      "sentence": "The public library holds a wealth of knowledge for young readers.",
+      "wordImage": "images/12_wealth_word.png",
+      "sentenceImage": "images/12_wealth_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "provide",
+      "partOfSpeech": "v.",
+      "meaningKo": "제공하다, 공급하다",
+      "ipa": "/prəˈvaɪd/",
+      "definition": "to give something that is needed or wanted to someone",
+      "sentence": "Big leafy oak trees provide cool comforting shade during hot summer.",
+      "wordImage": "images/13_provide_word.png",
+      "sentenceImage": "images/13_provide_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "merchant",
+      "partOfSpeech": "n.",
+      "meaningKo": "상인, 무역상",
+      "ipa": "/ˈmɝː.tʃənt/",
+      "definition": "a person whose job is buying and selling goods in shop",
+      "sentence": "The friendly silk merchant displayed rolls of colorful embroidered fabrics.",
+      "wordImage": "images/14_merchant_word.png",
+      "sentenceImage": "images/14_merchant_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "finance",
+      "partOfSpeech": "n.",
+      "meaningKo": "재정, 금융, 자금",
+      "ipa": "/ˈfaɪ.næns/",
+      "definition": "the management of large amounts of money by businesses or states",
+      "sentence": "She took a fun junior finance class to learn about savings.",
+      "wordImage": "images/15_finance_word.png",
+      "sentenceImage": "images/15_finance_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "derive",
+      "partOfSpeech": "v.",
+      "meaningKo": "끌어내다, 얻다",
+      "ipa": "/dɪˈraɪv/",
+      "definition": "to get something from a specified source or origin",
+      "sentence": "Many modern herbal medicines derive their healing properties from wild plants.",
+      "wordImage": "images/16_derive_word.png",
+      "sentenceImage": "images/16_derive_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "credit",
+      "partOfSpeech": "n.",
+      "meaningKo": "신용, 칭찬, 학점",
+      "ipa": "/ˈkred.ɪt/",
+      "definition": "praise or approval given to someone for an achievement",
+      "sentence": "The teacher gave him credit for his creative science poster idea.",
+      "wordImage": "images/17_credit_word.png",
+      "sentenceImage": "images/17_credit_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "substitute",
+      "partOfSpeech": "n.",
+      "meaningKo": "대체물, 대리자",
+      "ipa": "/ˈsʌb.stə.tuːt/",
+      "definition": "a person or thing that takes the place of another",
+      "sentence": "Applesauce is a delicious healthy substitute for sugar in muffin baking.",
+      "wordImage": "images/18_substitute_word.png",
+      "sentenceImage": "images/18_substitute_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "debt",
+      "partOfSpeech": "n.",
+      "meaningKo": "빚, 부채, 은혜",
+      "ipa": "/det/",
+      "definition": "something, especially money, that is owed to someone else",
+      "sentence": "He returned borrowed library books promptly to clear any small debt.",
+      "wordImage": "images/19_debt_word.png",
+      "sentenceImage": "images/19_debt_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "bill",
+      "partOfSpeech": "n.",
+      "meaningKo": "청구서, 지폐, 부리",
+      "ipa": "/bɪl/",
+      "definition": "a request for payment, or the beak of a bird",
+      "sentence": "The toucan used its colorful curved bill to pick berries.",
+      "wordImage": "images/20_bill_word.png",
+      "sentenceImage": "images/20_bill_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

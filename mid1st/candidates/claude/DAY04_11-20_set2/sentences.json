@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 4,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY04-11",
+      "no": 11,
+      "word": "familiar",
+      "sentence": "This delivery route feels familiar after three months of work."
+    },
+    {
+      "wordId": "DAY04-12",
+      "no": 12,
+      "word": "spread",
+      "sentence": "Workers spread a large blue sheet across the wet floor."
+    },
+    {
+      "wordId": "DAY04-13",
+      "no": 13,
+      "word": "divide",
+      "sentence": "We divide twelve apples equally among four workers, giving three each."
+    },
+    {
+      "wordId": "DAY04-14",
+      "no": 14,
+      "word": "retire",
+      "sentence": "Our school cook will retire next spring after thirty years."
+    },
+    {
+      "wordId": "DAY04-15",
+      "no": 15,
+      "word": "vision",
+      "sentence": "Good vision helps the fruit picker spot ripe berries far away."
+    },
+    {
+      "wordId": "DAY04-16",
+      "no": 16,
+      "word": "obstacle",
+      "sentence": "In the story, a locked gate is the hero's main obstacle."
+    },
+    {
+      "wordId": "DAY04-17",
+      "no": 17,
+      "word": "contrary",
+      "sentence": "The new plan is contrary to the old delivery schedule."
+    },
+    {
+      "wordId": "DAY04-18",
+      "no": 18,
+      "word": "arrange",
+      "sentence": "Clerks arrange the shoes by size on the front table."
+    },
+    {
+      "wordId": "DAY04-19",
+      "no": 19,
+      "word": "attempt",
+      "sentence": "Young bakers attempt the braided bread for the first time."
+    },
+    {
+      "wordId": "DAY04-20",
+      "no": 20,
+      "word": "board",
+      "sentence": "Passengers board the morning ferry with heavy fishing boxes."
+    }
+  ]
+}

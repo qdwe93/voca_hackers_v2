@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 25,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY25-01",
+      "no": 1,
+      "word": "environment",
+      "sentence": "Human industrial activities transform the natural environment across entire regional landscapes."
+    },
+    {
+      "wordId": "DAY25-02",
+      "no": 2,
+      "word": "release",
+      "sentence": "Wildlife veterinarians release the rehabilitated eagle back into the mountain forest."
+    },
+    {
+      "wordId": "DAY25-03",
+      "no": 3,
+      "word": "disaster",
+      "sentence": "The devastating flood disaster damaged hundreds of homes along the river."
+    },
+    {
+      "wordId": "DAY25-04",
+      "no": 4,
+      "word": "destroy",
+      "sentence": "Wildfires can destroy thousands of hectares of pine forest within days."
+    },
+    {
+      "wordId": "DAY25-05",
+      "no": 5,
+      "word": "waste",
+      "sentence": "Turn off running water taps so you do not waste resources."
+    },
+    {
+      "wordId": "DAY25-06",
+      "no": 6,
+      "word": "period",
+      "sentence": "The region experienced a prolonged dry period with zero rainfall months."
+    },
+    {
+      "wordId": "DAY25-07",
+      "no": 7,
+      "word": "announce",
+      "sentence": "Government officials will announce new environmental protection policies on national television."
+    },
+    {
+      "wordId": "DAY25-08",
+      "no": 8,
+      "word": "occur",
+      "sentence": "Severe oceanic storm surges occur during high autumn king tide cycles."
+    },
+    {
+      "wordId": "DAY25-09",
+      "no": 9,
+      "word": "quality",
+      "sentence": "Inspectors test municipal tap water quality to ensure safe drinking standards."
+    },
+    {
+      "wordId": "DAY25-10",
+      "no": 10,
+      "word": "quantity",
+      "sentence": "Factories monitor the quantity of industrial wastewater discharged into local rivers."
+    }
+  ]
+}

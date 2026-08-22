@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 12,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 12 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "perform",
+      "partOfSpeech": "v.",
+      "meaningKo": "공연하다, 수행하다",
+      "ipa": "/pɚˈfɔːrm/",
+      "definition": "to entertain an audience by singing, dancing, or acting",
+      "sentence": "The young musicians will perform three classical songs on stage.",
+      "wordImage": "images/01_perform_word.png",
+      "sentenceImage": "images/01_perform_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "feature",
+      "partOfSpeech": "n.",
+      "meaningKo": "특징, 특색",
+      "ipa": "/ˈfiː.tʃɚ/",
+      "definition": "a noticeable or important part or characteristic of something",
+      "sentence": "A long trunk is the most noticeable physical feature of elephants.",
+      "wordImage": "images/02_feature_word.png",
+      "sentenceImage": "images/02_feature_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "genre",
+      "partOfSpeech": "n.",
+      "meaningKo": "장르, 유형",
+      "ipa": "/ˈʒɑːn.rə/",
+      "definition": "a particular style or category of art, music, or literature",
+      "sentence": "Fantasy is her favorite book genre with magical talking animals.",
+      "wordImage": "images/03_genre_word.png",
+      "sentenceImage": "images/03_genre_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "instrument",
+      "partOfSpeech": "n.",
+      "meaningKo": "악기, 도구",
+      "ipa": "/ˈɪn.strə.mənt/",
+      "definition": "an object used for producing musical sounds, or a tool",
+      "sentence": "He chose the acoustic guitar as his main musical instrument.",
+      "wordImage": "images/04_instrument_word.png",
+      "sentenceImage": "images/04_instrument_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "broadcast",
+      "partOfSpeech": "v.",
+      "meaningKo": "방송하다, 방영하다",
+      "ipa": "/ˈbrɑːd.kæst/",
+      "definition": "to send out sound or pictures by radio or television",
+      "sentence": "The school station will broadcast morning news announcements to classrooms.",
+      "wordImage": "images/05_broadcast_word.png",
+      "sentenceImage": "images/05_broadcast_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "artwork",
+      "partOfSpeech": "n.",
+      "meaningKo": "미술품, 예술 작품",
+      "ipa": "/ˈɑːrt.wɝːk/",
+      "definition": "paintings, sculptures, and drawings created by an artist",
+      "sentence": "Students displayed their colorful ceramic artwork in the school hallway.",
+      "wordImage": "images/06_artwork_word.png",
+      "sentenceImage": "images/06_artwork_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "suit",
+      "partOfSpeech": "v.",
+      "meaningKo": "어울리다, 적합하다",
+      "ipa": "/suːt/",
+      "definition": "to look good on someone or be convenient for them",
+      "sentence": "Bright yellow colors suit her cheerful and energetic personality well.",
+      "wordImage": "images/07_suit_word.png",
+      "sentenceImage": "images/07_suit_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "inspire",
+      "partOfSpeech": "v.",
+      "meaningKo": "영감을 주다, 고무하다",
+      "ipa": "/ɪnˈspaɪr/",
+      "definition": "to make someone feel that they want to do something creative",
+      "sentence": "Beautiful nature scenes inspire the young painter to create art.",
+      "wordImage": "images/08_inspire_word.png",
+      "sentenceImage": "images/08_inspire_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "belief",
+      "partOfSpeech": "n.",
+      "meaningKo": "신념, 믿음",
+      "ipa": "/bɪˈliːf/",
+      "definition": "a feeling of certainty that something exists or is true",
+      "sentence": "She had a strong belief in the power of kindness.",
+      "wordImage": "images/09_belief_word.png",
+      "sentenceImage": "images/09_belief_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "brief",
+      "partOfSpeech": "adj.",
+      "meaningKo": "짧은, 간단한",
+      "ipa": "/briːf/",
+      "definition": "lasting only a short time or using few words",
+      "sentence": "The coach gave a brief talk before the soccer kickoff.",
+      "wordImage": "images/10_brief_word.png",
+      "sentenceImage": "images/10_brief_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 27,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 27 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "politics",
+      "partOfSpeech": "n.",
+      "meaningKo": "정치, 정치학",
+      "ipa": "/ˈpɑː.lə.tɪks/",
+      "definition": "the activities associated with the governance of a country or area",
+      "sentence": "Students learned about local community government in their politics class.",
+      "wordImage": "images/01_politics_word.png",
+      "sentenceImage": "images/01_politics_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "facility",
+      "partOfSpeech": "n.",
+      "meaningKo": "시설, 기관",
+      "ipa": "/fəˈsɪl.ə.t̬i/",
+      "definition": "a place, amenity, or piece of equipment provided for a purpose",
+      "sentence": "The modern sports facility has a heated indoor swimming pool.",
+      "wordImage": "images/02_facility_word.png",
+      "sentenceImage": "images/02_facility_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "vote",
+      "partOfSpeech": "v.",
+      "meaningKo": "투표하다",
+      "ipa": "/voʊt/",
+      "definition": "to express a choice in an election or opinion poll",
+      "sentence": "Classmates will vote to choose our new student council president.",
+      "wordImage": "images/03_vote_word.png",
+      "sentenceImage": "images/03_vote_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "candidate",
+      "partOfSpeech": "n.",
+      "meaningKo": "후보자, 지원자",
+      "ipa": "/ˈkæn.dɪ.deɪt/",
+      "definition": "a person who is competing to get a job or elected position",
+      "sentence": "Each presidential candidate presented creative ideas for improving the school.",
+      "wordImage": "images/04_candidate_word.png",
+      "sentenceImage": "images/04_candidate_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "civil",
+      "partOfSpeech": "adj.",
+      "meaningKo": "시민의, 민간의, 정중한",
+      "ipa": "/ˈsɪv.əl/",
+      "definition": "relating to ordinary citizens and their concerns, polite",
+      "sentence": "Every citizen has important civil rights and civic responsibilities today.",
+      "wordImage": "images/05_civil_word.png",
+      "sentenceImage": "images/05_civil_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "limit",
+      "partOfSpeech": "n.",
+      "meaningKo": "한계, 한도, 제한",
+      "ipa": "/ˈlɪm.ɪt/",
+      "definition": "the greatest amount, number, or level of something allowed",
+      "sentence": "The speed limit on our quiet neighborhood street is thirty kilometers.",
+      "wordImage": "images/06_limit_word.png",
+      "sentenceImage": "images/06_limit_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "conservative",
+      "partOfSpeech": "adj.",
+      "meaningKo": "보수적인, 조심스러운",
+      "ipa": "/kənˈsɝː.və.t̬ɪv/",
+      "definition": "preferring traditional values and cautious about changes",
+      "sentence": "The architect chose a classic conservative design for the town library.",
+      "wordImage": "images/07_conservative_word.png",
+      "sentenceImage": "images/07_conservative_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "belong",
+      "partOfSpeech": "v.",
+      "meaningKo": "속하다, 제자리에 있다",
+      "ipa": "/bɪˈlɑːŋ/",
+      "definition": "to be the property of, or be in the right place",
+      "sentence": "These colorful picture storybooks belong on the lower library shelf.",
+      "wordImage": "images/08_belong_word.png",
+      "sentenceImage": "images/08_belong_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "official",
+      "partOfSpeech": "adj.",
+      "meaningKo": "공식적인, 공인의",
+      "ipa": "/əˈfɪʃ.əl/",
+      "definition": "agreed to or confirmed by the government or an authority",
+      "sentence": "The school principal signed the official certificate with golden seal.",
+      "wordImage": "images/09_official_word.png",
+      "sentenceImage": "images/09_official_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "officer",
+      "partOfSpeech": "n.",
+      "meaningKo": "경찰관, 장교, 임원",
+      "ipa": "/ˈɑː.fɪ.sɚ/",
+      "definition": "a person who holds a position of authority in organization/police",
+      "sentence": "The friendly police officer helped children cross the busy avenue safely.",
+      "wordImage": "images/10_officer_word.png",
+      "sentenceImage": "images/10_officer_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 13,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY13-01",
+      "no": 1,
+      "word": "represent",
+      "sentence": "Elected representatives represent the interests of their local community members."
+    },
+    {
+      "wordId": "DAY13-02",
+      "no": 2,
+      "word": "exhibit",
+      "sentence": "Museums exhibit traditional folk costumes from various global cultural regions."
+    },
+    {
+      "wordId": "DAY13-03",
+      "no": 3,
+      "word": "minister",
+      "sentence": "The education minister announced new policies to support public schools."
+    },
+    {
+      "wordId": "DAY13-04",
+      "no": 4,
+      "word": "vary",
+      "sentence": "Traditional festival customs vary greatly across different regions and cultures."
+    },
+    {
+      "wordId": "DAY13-05",
+      "no": 5,
+      "word": "tribe",
+      "sentence": "The isolated mountain tribe preserves its unique ancient dialect traditions."
+    },
+    {
+      "wordId": "DAY13-06",
+      "no": 6,
+      "word": "community",
+      "sentence": "Residents in the community met to discuss local traffic safety."
+    },
+    {
+      "wordId": "DAY13-07",
+      "no": 7,
+      "word": "consider",
+      "sentence": "You should consider all possible options before making final choices."
+    },
+    {
+      "wordId": "DAY13-08",
+      "no": 8,
+      "word": "concept",
+      "sentence": "The teacher explained the basic scientific concept of energy conservation."
+    },
+    {
+      "wordId": "DAY13-09",
+      "no": 9,
+      "word": "pray",
+      "sentence": "Devout worshippers pray together peacefully inside the historic city cathedral."
+    },
+    {
+      "wordId": "DAY13-10",
+      "no": 10,
+      "word": "prey",
+      "sentence": "Hawks spot small prey from high up in the sky."
+    }
+  ]
+}

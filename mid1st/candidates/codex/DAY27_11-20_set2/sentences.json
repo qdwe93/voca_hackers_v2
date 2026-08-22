@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 27,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY27-11",
+      "no": 11,
+      "word": "result",
+      "sentence": "Today, the result of the sunny week was ripe berries."
+    },
+    {
+      "wordId": "DAY27-12",
+      "no": 12,
+      "word": "survey",
+      "sentence": "A survey shows public opinion about the new bus route."
+    },
+    {
+      "wordId": "DAY27-13",
+      "no": 13,
+      "word": "notice",
+      "sentence": "An instructor pinned an important field trip notice on board."
+    },
+    {
+      "wordId": "DAY27-14",
+      "no": 14,
+      "word": "guard",
+      "sentence": "Today, two friendly dogs guard the sheep in the meadow."
+    },
+    {
+      "wordId": "DAY27-15",
+      "no": 15,
+      "word": "profit",
+      "sentence": "The factory's profit equals sales money after production costs."
+    },
+    {
+      "wordId": "DAY27-16",
+      "no": 16,
+      "word": "deny",
+      "sentence": "Today, the kitten cannot deny the crumbs on its whiskers."
+    },
+    {
+      "wordId": "DAY27-17",
+      "no": 17,
+      "word": "opinion",
+      "sentence": "The council uses each opinion from surveys to shape policy."
+    },
+    {
+      "wordId": "DAY27-18",
+      "no": 18,
+      "word": "rural",
+      "sentence": "A rural landscape has fields, villages, and fewer tall buildings."
+    },
+    {
+      "wordId": "DAY27-19",
+      "no": 19,
+      "word": "urban",
+      "sentence": "An urban landscape has dense roads, homes, and offices."
+    },
+    {
+      "wordId": "DAY27-20",
+      "no": 20,
+      "word": "issue",
+      "sentence": "Citizens discuss the issue before the council sets policy."
+    }
+  ]
+}

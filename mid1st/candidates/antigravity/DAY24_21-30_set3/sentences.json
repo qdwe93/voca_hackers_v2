@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 24,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY24-21",
+      "no": 21,
+      "word": "shortage",
+      "sentence": "The regional water shortage required households to reduce lawn watering hours."
+    },
+    {
+      "wordId": "DAY24-22",
+      "no": 22,
+      "word": "renewable",
+      "sentence": "Wind and sunlight are renewable energy resources that never run out."
+    },
+    {
+      "wordId": "DAY24-23",
+      "no": 23,
+      "word": "potential",
+      "sentence": "The vast sunny desert has great potential for solar power generation."
+    },
+    {
+      "wordId": "DAY24-24",
+      "no": 24,
+      "word": "native",
+      "sentence": "We must protect native oak trees from invasive insect pest species."
+    },
+    {
+      "wordId": "DAY24-25",
+      "no": 25,
+      "word": "grain",
+      "sentence": "Rice is a staple food grain cultivated across broad Asian riverbanks."
+    },
+    {
+      "wordId": "DAY24-26",
+      "no": 26,
+      "word": "extreme",
+      "sentence": "Polar explorers endure extreme freezing temperatures during long winter field expeditions."
+    },
+    {
+      "wordId": "DAY24-27",
+      "no": 27,
+      "word": "typical",
+      "sentence": "A typical wind turbine tower stands eighty meters above the ground."
+    },
+    {
+      "wordId": "DAY24-28",
+      "no": 28,
+      "word": "contact",
+      "sentence": "Direct contact between cold ice and warm skin causes thermal transfer."
+    },
+    {
+      "wordId": "DAY24-29",
+      "no": 29,
+      "word": "content",
+      "sentence": "Check the fat content on the back of the milk carton."
+    },
+    {
+      "wordId": "DAY24-30",
+      "no": 30,
+      "word": "context",
+      "sentence": "Historical words must be understood within their original cultural time context."
+    }
+  ]
+}

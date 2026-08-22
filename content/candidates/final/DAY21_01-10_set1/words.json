@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 21,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 21 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "wild",
+      "partOfSpeech": "adj.",
+      "meaningKo": "야생의",
+      "ipa": "/waɪld/",
+      "definition": "living freely in nature, not with people",
+      "sentence": "Wild horses ran across the open grassy plain.",
+      "wordImage": "images/01_wild_word.png",
+      "sentenceImage": "images/01_wild_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "species",
+      "partOfSpeech": "n.",
+      "meaningKo": "종",
+      "ipa": "/ˈspiːʃiːz/",
+      "definition": "one kind of animal or plant",
+      "sentence": "This forest holds over twenty species of colorful birds.",
+      "wordImage": "images/02_species_word.png",
+      "sentenceImage": "images/02_species_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "bark",
+      "partOfSpeech": "v.",
+      "meaningKo": "짖다",
+      "ipa": "/bɑːrk/",
+      "definition": "to make the loud sound a dog makes",
+      "sentence": "The puppies bark happily whenever the mail arrives.",
+      "wordImage": "images/03_bark_word.png",
+      "sentenceImage": "images/03_bark_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "nest",
+      "partOfSpeech": "n.",
+      "meaningKo": "둥지",
+      "ipa": "/nest/",
+      "definition": "a home birds build for their eggs",
+      "sentence": "A robin built a small nest inside the hedge.",
+      "wordImage": "images/04_nest_word.png",
+      "sentenceImage": "images/04_nest_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "certain",
+      "partOfSpeech": "adj.",
+      "meaningKo": "확실한",
+      "ipa": "/ˈsɜːrtn/",
+      "definition": "completely sure about something",
+      "sentence": "The guide felt certain about the path through the woods.",
+      "wordImage": "images/05_certain_word.png",
+      "sentenceImage": "images/05_certain_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "greet",
+      "partOfSpeech": "v.",
+      "meaningKo": "인사하다",
+      "ipa": "/ɡriːt/",
+      "definition": "to say hello in a friendly way",
+      "sentence": "The neighbors greet each other every bright spring morning.",
+      "wordImage": "images/06_greet_word.png",
+      "sentenceImage": "images/06_greet_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "seed",
+      "partOfSpeech": "n.",
+      "meaningKo": "씨앗",
+      "ipa": "/siːd/",
+      "definition": "the small part a new plant grows from",
+      "sentence": "One sunflower seed grew into a very tall plant.",
+      "wordImage": "images/07_seed_word.png",
+      "sentenceImage": "images/07_seed_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "predator",
+      "partOfSpeech": "n.",
+      "meaningKo": "포식자",
+      "ipa": "/ˈpredətər/",
+      "definition": "an animal that hunts other animals for food",
+      "sentence": "An owl is a quiet predator of the night forest.",
+      "wordImage": "images/08_predator_word.png",
+      "sentenceImage": "images/08_predator_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "scene",
+      "partOfSpeech": "n.",
+      "meaningKo": "장면",
+      "ipa": "/siːn/",
+      "definition": "a view or a part of a story",
+      "sentence": "The mountain scene looked beautiful at soft golden sunrise.",
+      "wordImage": "images/09_scene_word.png",
+      "sentenceImage": "images/09_scene_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "scent",
+      "partOfSpeech": "n.",
+      "meaningKo": "향기",
+      "ipa": "/sent/",
+      "definition": "a smell, often a pleasant one",
+      "sentence": "The scent of fresh bread filled the whole kitchen.",
+      "wordImage": "images/10_scent_word.png",
+      "sentenceImage": "images/10_scent_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

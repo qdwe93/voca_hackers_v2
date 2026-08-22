@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 29,
+  "range": "31-40",
+  "set": 4,
+  "items": [
+    {
+      "wordId": "DAY29-31",
+      "no": 31,
+      "word": "advance",
+      "sentence": "The parade will advance slowly toward the market square."
+    },
+    {
+      "wordId": "DAY29-32",
+      "no": 32,
+      "word": "imply",
+      "sentence": "Empty shelves imply that this bread sold out very early."
+    },
+    {
+      "wordId": "DAY29-33",
+      "no": 33,
+      "word": "guarantee",
+      "sentence": "This shop will guarantee the umbrella for one whole year."
+    },
+    {
+      "wordId": "DAY29-34",
+      "no": 34,
+      "word": "chief",
+      "sentence": "The chief reason for the delay was heavy morning traffic."
+    },
+    {
+      "wordId": "DAY29-35",
+      "no": 35,
+      "word": "thrive",
+      "sentence": "Small tea shops thrive near the busy train station."
+    },
+    {
+      "wordId": "DAY29-36",
+      "no": 36,
+      "word": "gain",
+      "sentence": "Careful workers gain more skill after each training week."
+    },
+    {
+      "wordId": "DAY29-37",
+      "no": 37,
+      "word": "overlook",
+      "sentence": "Do not overlook the small crack inside this wooden box."
+    },
+    {
+      "wordId": "DAY29-38",
+      "no": 38,
+      "word": "disappear",
+      "sentence": "Morning fog will disappear once sunlight reaches the valley floor."
+    },
+    {
+      "wordId": "DAY29-39",
+      "no": 39,
+      "word": "initial",
+      "sentence": "Our initial plan used ten boxes, but twelve arrived instead."
+    },
+    {
+      "wordId": "DAY29-40",
+      "no": 40,
+      "word": "domestic",
+      "sentence": "These domestic tools include a broom, a mop, and buckets."
+    }
+  ]
+}

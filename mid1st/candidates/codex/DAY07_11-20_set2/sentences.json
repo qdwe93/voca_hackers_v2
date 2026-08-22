@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 7,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY07-11",
+      "no": 11,
+      "word": "apologize",
+      "sentence": "The student will apologize, and her partner accepts the response."
+    },
+    {
+      "wordId": "DAY07-12",
+      "no": 12,
+      "word": "refer",
+      "sentence": "When clouds cover the moon, sailors refer to the stars."
+    },
+    {
+      "wordId": "DAY07-13",
+      "no": 13,
+      "word": "colleague",
+      "sentence": "Today, the baker greeted a colleague at the early morning market."
+    },
+    {
+      "wordId": "DAY07-14",
+      "no": 14,
+      "word": "rely",
+      "sentence": "Young ducklings rely on their mother close to the wide pond."
+    },
+    {
+      "wordId": "DAY07-15",
+      "no": 15,
+      "word": "mistake",
+      "sentence": "Today, one small mistake turned the blue paint into bright green."
+    },
+    {
+      "wordId": "DAY07-16",
+      "no": 16,
+      "word": "request",
+      "sentence": "His polite request receives a clear answer from the teacher."
+    },
+    {
+      "wordId": "DAY07-17",
+      "no": 17,
+      "word": "assume",
+      "sentence": "Before looking inside, do not assume the box is empty."
+    },
+    {
+      "wordId": "DAY07-18",
+      "no": 18,
+      "word": "refuse",
+      "sentence": "She can refuse politely and explain her reason during dialogue."
+    },
+    {
+      "wordId": "DAY07-19",
+      "no": 19,
+      "word": "reply",
+      "sentence": "The listener will reply after checking the speaker's meaning."
+    },
+    {
+      "wordId": "DAY07-20",
+      "no": 20,
+      "word": "degree",
+      "sentence": "Students record the degree measure of each angle with a protractor."
+    }
+  ]
+}

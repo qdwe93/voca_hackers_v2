@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 22,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 22 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "huge",
+      "partOfSpeech": "adj.",
+      "meaningKo": "거대한",
+      "ipa": "/hjuːdʒ/",
+      "definition": "very, very big",
+      "sentence": "A huge pumpkin sat proudly in the autumn field.",
+      "wordImage": "images/11_huge_word.png",
+      "sentenceImage": "images/11_huge_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "pile",
+      "partOfSpeech": "n.",
+      "meaningKo": "더미",
+      "ipa": "/paɪl/",
+      "definition": "many things stacked on top of each other",
+      "sentence": "A pile of golden leaves grew beside the path.",
+      "wordImage": "images/12_pile_word.png",
+      "sentenceImage": "images/12_pile_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "react",
+      "partOfSpeech": "v.",
+      "meaningKo": "반응하다",
+      "ipa": "/riˈækt/",
+      "definition": "to act because of something that happened",
+      "sentence": "Sunflowers react to sunlight by turning their bright heads.",
+      "wordImage": "images/13_react_word.png",
+      "sentenceImage": "images/13_react_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "exist",
+      "partOfSpeech": "v.",
+      "meaningKo": "존재하다",
+      "ipa": "/ɪɡˈzɪst/",
+      "definition": "to be real and alive somewhere",
+      "sentence": "Deep sea creatures exist far below the ocean waves.",
+      "wordImage": "images/14_exist_word.png",
+      "sentenceImage": "images/14_exist_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "shade",
+      "partOfSpeech": "n.",
+      "meaningKo": "그늘",
+      "ipa": "/ʃeɪd/",
+      "definition": "a cool dark place out of sunlight",
+      "sentence": "The cows rested in the shade of the tree.",
+      "wordImage": "images/15_shade_word.png",
+      "sentenceImage": "images/15_shade_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "element",
+      "partOfSpeech": "n.",
+      "meaningKo": "요소",
+      "ipa": "/ˈelɪmənt/",
+      "definition": "one basic part of something bigger",
+      "sentence": "Water is an important element of every healthy garden.",
+      "wordImage": "images/16_element_word.png",
+      "sentenceImage": "images/16_element_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "layer",
+      "partOfSpeech": "n.",
+      "meaningKo": "층",
+      "ipa": "/ˈleɪər/",
+      "definition": "one flat level lying over another",
+      "sentence": "A thin layer of snow covered the sleeping garden.",
+      "wordImage": "images/17_layer_word.png",
+      "sentenceImage": "images/17_layer_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "horizon",
+      "partOfSpeech": "n.",
+      "meaningKo": "수평선",
+      "ipa": "/həˈraɪzn/",
+      "definition": "the line where sky meets land or sea",
+      "sentence": "The sun sank slowly below the far blue horizon.",
+      "wordImage": "images/18_horizon_word.png",
+      "sentenceImage": "images/18_horizon_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "observe",
+      "partOfSpeech": "v.",
+      "meaningKo": "관찰하다",
+      "ipa": "/əbˈzɜːrv/",
+      "definition": "to watch something closely and carefully",
+      "sentence": "Students observe tiny insects using a strong magnifying glass.",
+      "wordImage": "images/19_observe_word.png",
+      "sentenceImage": "images/19_observe_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "block",
+      "partOfSpeech": "v.",
+      "meaningKo": "막다",
+      "ipa": "/blɑːk/",
+      "definition": "to stop something from getting through",
+      "sentence": "Tall trees block the strong wind near the house.",
+      "wordImage": "images/20_block_word.png",
+      "sentenceImage": "images/20_block_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

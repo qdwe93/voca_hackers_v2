@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 9,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 09 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "pause",
+      "partOfSpeech": "v.",
+      "meaningKo": "잠시 멈추다",
+      "ipa": "/pɑːz/",
+      "definition": "to stop what you are doing for a short time",
+      "sentence": "Let us pause the music and listen to the announcement.",
+      "wordImage": "images/11_pause_word.png",
+      "sentenceImage": "images/11_pause_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "incentive",
+      "partOfSpeech": "n.",
+      "meaningKo": "동기, 혜택, 장려책",
+      "ipa": "/ɪnˈsen.tɪv/",
+      "definition": "something that encourages you to work harder or do something",
+      "sentence": "A shiny gold star is a great incentive for students.",
+      "wordImage": "images/12_incentive_word.png",
+      "sentenceImage": "images/12_incentive_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "sacrifice",
+      "partOfSpeech": "v.",
+      "meaningKo": "희생하다, 포기하다",
+      "ipa": "/ˈsæk.rə.faɪs/",
+      "definition": "to give up something valuable to help someone else",
+      "sentence": "The team captain chose to sacrifice free time for practice.",
+      "wordImage": "images/13_sacrifice_word.png",
+      "sentenceImage": "images/13_sacrifice_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "generous",
+      "partOfSpeech": "adj.",
+      "meaningKo": "관대한, 아낌없는",
+      "ipa": "/ˈdʒen.ər.əs/",
+      "definition": "willing to give money, help, or time freely to others",
+      "sentence": "The generous baker gave extra warm muffins to the children.",
+      "wordImage": "images/14_generous_word.png",
+      "sentenceImage": "images/14_generous_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "appropriate",
+      "partOfSpeech": "adj.",
+      "meaningKo": "적절한, 알맞은",
+      "ipa": "/əˈproʊ.pri.ət/",
+      "definition": "suitable or right for a particular situation or person",
+      "sentence": "Wear an appropriate warm coat for the snowy mountain hike.",
+      "wordImage": "images/15_appropriate_word.png",
+      "sentenceImage": "images/15_appropriate_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "chase",
+      "partOfSpeech": "v.",
+      "meaningKo": "뒤쫓다, 추적하다",
+      "ipa": "/tʃeɪs/",
+      "definition": "to run after someone or something in order to catch them",
+      "sentence": "Playful kittens love to chase a colorful yarn ball indoors.",
+      "wordImage": "images/16_chase_word.png",
+      "sentenceImage": "images/16_chase_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "deserve",
+      "partOfSpeech": "v.",
+      "meaningKo": "~받을 만하다, 자격이 있다",
+      "ipa": "/dɪˈzɝːv/",
+      "definition": "to have earned something because of your good qualities or actions",
+      "sentence": "After hours of hard work, you deserve a healthy snack.",
+      "wordImage": "images/17_deserve_word.png",
+      "sentenceImage": "images/17_deserve_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "pretend",
+      "partOfSpeech": "v.",
+      "meaningKo": "~인 척하다, 가장하다",
+      "ipa": "/prɪˈtend/",
+      "definition": "to behave as if something is true when it is not",
+      "sentence": "Children like to pretend to be space explorers in games.",
+      "wordImage": "images/18_pretend_word.png",
+      "sentenceImage": "images/18_pretend_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "neglect",
+      "partOfSpeech": "v.",
+      "meaningKo": "방치하다, 소홀히 하다",
+      "ipa": "/nɪˈɡlekt/",
+      "definition": "to fail to look after or give enough care to something",
+      "sentence": "Do not neglect to water your green houseplants every week.",
+      "wordImage": "images/19_neglect_word.png",
+      "sentenceImage": "images/19_neglect_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "lie",
+      "partOfSpeech": "v.",
+      "meaningKo": "거짓말하다, 눕다",
+      "ipa": "/laɪ/",
+      "definition": "to say something you know is not true",
+      "sentence": "It is always best to be honest and never lie.",
+      "wordImage": "images/20_lie_word.png",
+      "sentenceImage": "images/20_lie_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

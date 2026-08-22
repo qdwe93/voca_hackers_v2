@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 6,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY06-01",
+      "no": 1,
+      "word": "relax",
+      "sentence": "Students like to relax on the grass after gym class."
+    },
+    {
+      "wordId": "DAY06-02",
+      "no": 2,
+      "word": "grateful",
+      "sentence": "She was grateful for the helpful guidance from her teacher."
+    },
+    {
+      "wordId": "DAY06-03",
+      "no": 3,
+      "word": "complain",
+      "sentence": "Polite customers do not complain about small delays in service."
+    },
+    {
+      "wordId": "DAY06-04",
+      "no": 4,
+      "word": "delighted",
+      "sentence": "The delighted girl smiled when receiving her new art supplies."
+    },
+    {
+      "wordId": "DAY06-05",
+      "no": 5,
+      "word": "express",
+      "sentence": "Students express their feelings by writing descriptive sentences in personal journals."
+    },
+    {
+      "wordId": "DAY06-06",
+      "no": 6,
+      "word": "reward",
+      "sentence": "Receiving a shiny trophy was a great reward for effort."
+    },
+    {
+      "wordId": "DAY06-07",
+      "no": 7,
+      "word": "frustrated",
+      "sentence": "He felt frustrated when the math equation remained unsolved today."
+    },
+    {
+      "wordId": "DAY06-08",
+      "no": 8,
+      "word": "recognize",
+      "sentence": "I could easily recognize my friend in the crowded auditorium."
+    },
+    {
+      "wordId": "DAY06-09",
+      "no": 9,
+      "word": "temper",
+      "sentence": "He tried hard to control his quick temper during debate."
+    },
+    {
+      "wordId": "DAY06-10",
+      "no": 10,
+      "word": "temple",
+      "sentence": "The monks live peacefully in the quiet ancient mountain temple."
+    }
+  ]
+}

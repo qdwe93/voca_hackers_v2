@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 2,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY02-01",
+      "no": 1,
+      "word": "active",
+      "sentence": "Active first graders run and jump during the morning break."
+    },
+    {
+      "wordId": "DAY02-02",
+      "no": 2,
+      "word": "excellent",
+      "sentence": "The class chorus sounded excellent after four weeks of practice."
+    },
+    {
+      "wordId": "DAY02-03",
+      "no": 3,
+      "word": "lecture",
+      "sentence": "A guest scientist gave a lecture with slides about ocean animals."
+    },
+    {
+      "wordId": "DAY02-04",
+      "no": 4,
+      "word": "academic",
+      "sentence": "My academic goal this year is reading thirty English books."
+    },
+    {
+      "wordId": "DAY02-05",
+      "no": 5,
+      "word": "encourage",
+      "sentence": "Classmates clap to encourage the runner who finished last."
+    },
+    {
+      "wordId": "DAY02-06",
+      "no": 6,
+      "word": "debate",
+      "sentence": "In the debate, one side answered the other side's reason with evidence."
+    },
+    {
+      "wordId": "DAY02-07",
+      "no": 7,
+      "word": "president",
+      "sentence": "The class president has one title but many duties, including leading meetings."
+    },
+    {
+      "wordId": "DAY02-08",
+      "no": 8,
+      "word": "assignment",
+      "sentence": "Our math assignment asks us to finish ten problems tonight."
+    },
+    {
+      "wordId": "DAY02-09",
+      "no": 9,
+      "word": "principal",
+      "sentence": "A school principal welcomes new students and signs official letters."
+    },
+    {
+      "wordId": "DAY02-10",
+      "no": 10,
+      "word": "principle",
+      "sentence": "Telling the truth is a principle our class follows daily."
+    }
+  ]
+}

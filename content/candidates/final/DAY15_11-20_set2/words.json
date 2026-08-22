@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 15,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 15 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "theory",
+      "partOfSpeech": "n.",
+      "meaningKo": "이론",
+      "ipa": "/ˈθiːəri/",
+      "definition": "an idea that explains why something happens",
+      "sentence": "One theory says the moon was once part of earth.",
+      "wordImage": "images/11_theory_word.png",
+      "sentenceImage": "images/11_theory_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "philosophy",
+      "partOfSpeech": "n.",
+      "meaningKo": "철학",
+      "ipa": "/fəˈlɑːsəfi/",
+      "definition": "deep thinking about life and what is true",
+      "sentence": "The old thinker taught philosophy under a shady olive tree.",
+      "wordImage": "images/12_philosophy_word.png",
+      "sentenceImage": "images/12_philosophy_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "method",
+      "partOfSpeech": "n.",
+      "meaningKo": "방법",
+      "ipa": "/ˈmeθəd/",
+      "definition": "a way of doing something",
+      "sentence": "This simple method makes paper boats float much longer.",
+      "wordImage": "images/13_method_word.png",
+      "sentenceImage": "images/13_method_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "praise",
+      "partOfSpeech": "v.",
+      "meaningKo": "칭찬하다",
+      "ipa": "/preɪz/",
+      "definition": "to say kind words about someone's work",
+      "sentence": "The teacher will praise every student who tried hard today.",
+      "wordImage": "images/14_praise_word.png",
+      "sentenceImage": "images/14_praise_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "standard",
+      "partOfSpeech": "n.",
+      "meaningKo": "기준",
+      "ipa": "/ˈstændərd/",
+      "definition": "a level that things should reach",
+      "sentence": "The bakery keeps a high standard for every fruit tart.",
+      "wordImage": "images/15_standard_word.png",
+      "sentenceImage": "images/15_standard_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "character",
+      "partOfSpeech": "n.",
+      "meaningKo": "성격",
+      "definition": "the qualities that make a person behave a certain way",
+      "sentence": "Helping smaller animals shows the bear's kind character.",
+      "ipa": "/kɛrɪktɚ/",
+      "wordImage": "images/16_character_word.png",
+      "sentenceImage": "images/16_character_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "throw",
+      "partOfSpeech": "v.",
+      "meaningKo": "던지다",
+      "ipa": "/θroʊ/",
+      "definition": "to send something through the air",
+      "sentence": "Please throw the soft ball to the waiting puppy.",
+      "wordImage": "images/17_throw_word.png",
+      "sentenceImage": "images/17_throw_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "psychology",
+      "partOfSpeech": "n.",
+      "meaningKo": "심리학",
+      "ipa": "/saɪˈkɑːlədʒi/",
+      "definition": "the study of how minds work",
+      "sentence": "Psychology helps us understand why people feel certain ways.",
+      "wordImage": "images/18_psychology_word.png",
+      "sentenceImage": "images/18_psychology_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "intention",
+      "partOfSpeech": "n.",
+      "meaningKo": "의도",
+      "ipa": "/ɪnˈtenʃn/",
+      "definition": "what you plan to do",
+      "sentence": "Her intention was to finish the painting before sunset.",
+      "wordImage": "images/19_intention_word.png",
+      "sentenceImage": "images/19_intention_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "apply",
+      "partOfSpeech": "v.",
+      "meaningKo": "지원하다",
+      "definition": "to formally ask for a job or place",
+      "sentence": "The student will apply for a place in the art club.",
+      "ipa": "/əplaɪ/",
+      "wordImage": "images/20_apply_word.png",
+      "sentenceImage": "images/20_apply_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

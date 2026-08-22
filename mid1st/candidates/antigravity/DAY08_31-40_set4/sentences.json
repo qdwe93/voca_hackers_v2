@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 8,
+  "range": "31-40",
+  "set": 4,
+  "items": [
+    {
+      "wordId": "DAY08-31",
+      "no": 31,
+      "word": "strike",
+      "sentence": "The clock began to strike twelve times at bright noon."
+    },
+    {
+      "wordId": "DAY08-32",
+      "no": 32,
+      "word": "channel",
+      "sentence": "The ship navigated safely through the narrow deep water channel."
+    },
+    {
+      "wordId": "DAY08-33",
+      "no": 33,
+      "word": "gratitude",
+      "sentence": "She wrote a thank-you letter to express her sincere gratitude."
+    },
+    {
+      "wordId": "DAY08-34",
+      "no": 34,
+      "word": "metaphor",
+      "sentence": "The poet used a subtle metaphor in the second stanza."
+    },
+    {
+      "wordId": "DAY08-35",
+      "no": 35,
+      "word": "interpret",
+      "sentence": "Students interpret the meaning of the historical text using evidence."
+    },
+    {
+      "wordId": "DAY08-36",
+      "no": 36,
+      "word": "insult",
+      "sentence": "Using a hurtful insult damages trust among close school friends."
+    },
+    {
+      "wordId": "DAY08-37",
+      "no": 37,
+      "word": "weird",
+      "sentence": "The strange nocturnal bird made a weird whistling sound tonight."
+    },
+    {
+      "wordId": "DAY08-38",
+      "no": 38,
+      "word": "random",
+      "sentence": "Gas particles move in a random direction inside the container."
+    },
+    {
+      "wordId": "DAY08-39",
+      "no": 39,
+      "word": "remark",
+      "sentence": "His polite remark opened the discussion in a friendly way."
+    },
+    {
+      "wordId": "DAY08-40",
+      "no": 40,
+      "word": "sentence",
+      "sentence": "Write a complete English sentence with a subject and verb."
+    }
+  ]
+}

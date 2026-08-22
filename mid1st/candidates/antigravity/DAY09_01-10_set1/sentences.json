@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 9,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY09-01",
+      "no": 1,
+      "word": "just",
+      "sentence": "A just referee treats both competing teams equally without favoritism."
+    },
+    {
+      "wordId": "DAY09-02",
+      "no": 2,
+      "word": "moral",
+      "sentence": "Citizens respect both formal laws and shared moral values."
+    },
+    {
+      "wordId": "DAY09-03",
+      "no": 3,
+      "word": "peer",
+      "sentence": "Students learn teamwork by working with each peer in class."
+    },
+    {
+      "wordId": "DAY09-04",
+      "no": 4,
+      "word": "achieve",
+      "sentence": "Hard work helps honest people achieve their important life goals."
+    },
+    {
+      "wordId": "DAY09-05",
+      "no": 5,
+      "word": "path",
+      "sentence": "Walk along the designated path to protect the fragile flowers."
+    },
+    {
+      "wordId": "DAY09-06",
+      "no": 6,
+      "word": "necessary",
+      "sentence": "Clean drinking water is necessary for all living creatures everywhere."
+    },
+    {
+      "wordId": "DAY09-07",
+      "no": 7,
+      "word": "selfish",
+      "sentence": "A selfish person refuses to share shared toys with others."
+    },
+    {
+      "wordId": "DAY09-08",
+      "no": 8,
+      "word": "penalty",
+      "sentence": "The referee gave a penalty for breaking the game rule."
+    },
+    {
+      "wordId": "DAY09-09",
+      "no": 9,
+      "word": "adopt",
+      "sentence": "The caring family decided to adopt a rescue puppy today."
+    },
+    {
+      "wordId": "DAY09-10",
+      "no": 10,
+      "word": "adapt",
+      "sentence": "Immigrants adapt to new customs while preserving their native traditions."
+    }
+  ]
+}

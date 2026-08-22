@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 10,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY10-21",
+      "no": 21,
+      "word": "abandon",
+      "sentence": "Please never abandon a pet beside the river path."
+    },
+    {
+      "wordId": "DAY10-22",
+      "no": 22,
+      "word": "crash",
+      "sentence": "The toy car will crash into the wall without brakes."
+    },
+    {
+      "wordId": "DAY10-23",
+      "no": 23,
+      "word": "promote",
+      "sentence": "The bakery owner will promote the careful baker to manager."
+    },
+    {
+      "wordId": "DAY10-24",
+      "no": 24,
+      "word": "decade",
+      "sentence": "This old bridge has carried buses for one whole decade."
+    },
+    {
+      "wordId": "DAY10-25",
+      "no": 25,
+      "word": "establish",
+      "sentence": "Students will establish a repair club for broken school chairs."
+    },
+    {
+      "wordId": "DAY10-26",
+      "no": 26,
+      "word": "burden",
+      "sentence": "That heavy water burden slowed the donkey on the hill."
+    },
+    {
+      "wordId": "DAY10-27",
+      "no": 27,
+      "word": "assist",
+      "sentence": "Older students assist beginners who cannot tie climbing knots."
+    },
+    {
+      "wordId": "DAY10-28",
+      "no": 28,
+      "word": "resolve",
+      "sentence": "We resolve the seating problem by drawing numbers from a box."
+    },
+    {
+      "wordId": "DAY10-29",
+      "no": 29,
+      "word": "detect",
+      "sentence": "We detect a small temperature change after watching the thermometer hourly."
+    },
+    {
+      "wordId": "DAY10-30",
+      "no": 30,
+      "word": "defeat",
+      "sentence": "Our board game team can defeat the champions with careful moves."
+    }
+  ]
+}

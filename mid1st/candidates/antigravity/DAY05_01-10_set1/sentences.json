@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 5,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY05-01",
+      "no": 1,
+      "word": "muscle",
+      "sentence": "Lifting light weights helps build strong arm muscle and stamina."
+    },
+    {
+      "wordId": "DAY05-02",
+      "no": 2,
+      "word": "regular",
+      "sentence": "Doctors recommend regular aerobic exercise for maintaining good cardiovascular health."
+    },
+    {
+      "wordId": "DAY05-03",
+      "no": 3,
+      "word": "stretch",
+      "sentence": "Runners stretch their leg muscles carefully before starting the race."
+    },
+    {
+      "wordId": "DAY05-04",
+      "no": 4,
+      "word": "reduce",
+      "sentence": "Eating fresh vegetables can reduce health risks over a lifetime."
+    },
+    {
+      "wordId": "DAY05-05",
+      "no": 5,
+      "word": "opponent",
+      "sentence": "The tennis player shook hands warmly with her skillful opponent."
+    },
+    {
+      "wordId": "DAY05-06",
+      "no": 6,
+      "word": "recommend",
+      "sentence": "Nutrition experts recommend drinking plenty of fresh water every day."
+    },
+    {
+      "wordId": "DAY05-07",
+      "no": 7,
+      "word": "warn",
+      "sentence": "Lifeguards warn swimmers about strong ocean currents near the pier."
+    },
+    {
+      "wordId": "DAY05-08",
+      "no": 8,
+      "word": "cause",
+      "sentence": "Lack of sleep is often the main cause of headaches."
+    },
+    {
+      "wordId": "DAY05-09",
+      "no": 9,
+      "word": "lose",
+      "sentence": "Athletes try hard not to lose their focus during matches."
+    },
+    {
+      "wordId": "DAY05-10",
+      "no": 10,
+      "word": "loose",
+      "sentence": "Wear comfortable loose clothing when practicing yoga in the morning."
+    }
+  ]
+}

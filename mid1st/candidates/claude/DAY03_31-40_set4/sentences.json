@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 3,
+  "range": "31-40",
+  "set": 4,
+  "items": [
+    {
+      "wordId": "DAY03-31",
+      "no": 31,
+      "word": "capital",
+      "sentence": "Seoul is the capital of Korea, so many tourists visit it."
+    },
+    {
+      "wordId": "DAY03-32",
+      "no": 32,
+      "word": "absolute",
+      "sentence": "The night campsite was in absolute darkness until we lit lanterns."
+    },
+    {
+      "wordId": "DAY03-33",
+      "no": 33,
+      "word": "anticipate",
+      "sentence": "Fans anticipate the concert and buy tickets three months early."
+    },
+    {
+      "wordId": "DAY03-34",
+      "no": 34,
+      "word": "leisure",
+      "sentence": "Weekend leisure hours are best for growing tomatoes on our balcony."
+    },
+    {
+      "wordId": "DAY03-35",
+      "no": 35,
+      "word": "undergo",
+      "sentence": "Old bicycles undergo repairs before the club's spring riding trip."
+    },
+    {
+      "wordId": "DAY03-36",
+      "no": 36,
+      "word": "spare",
+      "sentence": "I keep a spare battery in my camera bag."
+    },
+    {
+      "wordId": "DAY03-37",
+      "no": 37,
+      "word": "aquarium",
+      "sentence": "Small striped fish swim behind the thick glass of the aquarium."
+    },
+    {
+      "wordId": "DAY03-38",
+      "no": 38,
+      "word": "applaud",
+      "sentence": "Parents applaud loudly when the school band finishes its song."
+    },
+    {
+      "wordId": "DAY03-39",
+      "no": 39,
+      "word": "insurance",
+      "sentence": "Travel insurance paid for the doctor visit during our trip."
+    },
+    {
+      "wordId": "DAY03-40",
+      "no": 40,
+      "word": "return",
+      "sentence": "After the picnic, we return to the parking lot together."
+    }
+  ]
+}

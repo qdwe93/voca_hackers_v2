@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 4,
+  "range": "31-40",
+  "set": 4,
+  "items": [
+    {
+      "wordId": "DAY04-31",
+      "no": 31,
+      "word": "envious",
+      "sentence": "Do not feel envious of other people's success or achievements."
+    },
+    {
+      "wordId": "DAY04-32",
+      "no": 32,
+      "word": "vice",
+      "sentence": "The vice president managed the meeting while the director traveled."
+    },
+    {
+      "wordId": "DAY04-33",
+      "no": 33,
+      "word": "architect",
+      "sentence": "The skilled architect designed an energy-efficient modern school building."
+    },
+    {
+      "wordId": "DAY04-34",
+      "no": 34,
+      "word": "relevant",
+      "sentence": "Please provide only relevant information on your official job application."
+    },
+    {
+      "wordId": "DAY04-35",
+      "no": 35,
+      "word": "enthusiasm",
+      "sentence": "The young scientist showed great enthusiasm for her ocean research."
+    },
+    {
+      "wordId": "DAY04-36",
+      "no": 36,
+      "word": "desirable",
+      "sentence": "Punctuality is a desirable quality for all new workplace employees."
+    },
+    {
+      "wordId": "DAY04-37",
+      "no": 37,
+      "word": "dismiss",
+      "sentence": "The supervisor will dismiss the workers after safety inspection finishes."
+    },
+    {
+      "wordId": "DAY04-38",
+      "no": 38,
+      "word": "competent",
+      "sentence": "The hospital hired a competent surgeon with ten years experience."
+    },
+    {
+      "wordId": "DAY04-39",
+      "no": 39,
+      "word": "memorize",
+      "sentence": "Actors must memorize their script lines before the opening night."
+    },
+    {
+      "wordId": "DAY04-40",
+      "no": 40,
+      "word": "fix",
+      "sentence": "The skilled mechanic used wrench tools to fix the engine."
+    }
+  ]
+}

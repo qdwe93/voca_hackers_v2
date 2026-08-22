@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 13,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY13-01",
+      "no": 1,
+      "word": "represent",
+      "sentence": "Two elected students represent our class at the school meeting."
+    },
+    {
+      "wordId": "DAY13-02",
+      "no": 2,
+      "word": "exhibit",
+      "sentence": "The museum will exhibit old wedding clothes from three regions."
+    },
+    {
+      "wordId": "DAY13-03",
+      "no": 3,
+      "word": "minister",
+      "sentence": "The culture minister opened the festival and explained new library plans."
+    },
+    {
+      "wordId": "DAY13-04",
+      "no": 4,
+      "word": "vary",
+      "sentence": "Holiday foods vary from village to village across this country."
+    },
+    {
+      "wordId": "DAY13-05",
+      "no": 5,
+      "word": "tribe",
+      "sentence": "This tribe builds round houses and wears woven grass hats."
+    },
+    {
+      "wordId": "DAY13-06",
+      "no": 6,
+      "word": "community",
+      "sentence": "People in our community joined the town meeting about the old market."
+    },
+    {
+      "wordId": "DAY13-07",
+      "no": 7,
+      "word": "consider",
+      "sentence": "We consider the weather before choosing the festival date."
+    },
+    {
+      "wordId": "DAY13-08",
+      "no": 8,
+      "word": "concept",
+      "sentence": "The concept of sharing food appears in many harvest festivals."
+    },
+    {
+      "wordId": "DAY13-09",
+      "no": 9,
+      "word": "pray",
+      "sentence": "Visitors pray quietly beside the candles in the stone hall."
+    },
+    {
+      "wordId": "DAY13-10",
+      "no": 10,
+      "word": "prey",
+      "sentence": "A hawk searches for prey above the wide golden field."
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 1,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 01 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "chore",
+      "partOfSpeech": "n.",
+      "meaningKo": "집안일",
+      "ipa": "/tʃɔːr/",
+      "definition": "a small job you must do at home",
+      "sentence": "The little robot finished every morning chore with a smile.",
+      "wordImage": "images/01_chore_word.png",
+      "sentenceImage": "images/01_chore_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "laundry",
+      "partOfSpeech": "n.",
+      "meaningKo": "세탁물, 빨래",
+      "ipa": "/ˈlɔːn.dri/",
+      "definition": "clothes that need washing or are already washed",
+      "sentence": "She carried a heavy basket of fresh laundry outside.",
+      "wordImage": "images/02_laundry_word.png",
+      "sentenceImage": "images/02_laundry_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "flavor",
+      "partOfSpeech": "n.",
+      "meaningKo": "맛, 풍미",
+      "ipa": "/ˈfleɪ.vər/",
+      "definition": "the particular taste of food or drink",
+      "sentence": "The chef added sweet berry flavor to the cold juice.",
+      "wordImage": "images/03_flavor_word.png",
+      "sentenceImage": "images/03_flavor_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "recipe",
+      "partOfSpeech": "n.",
+      "meaningKo": "조리법, 레시피",
+      "ipa": "/ˈres.ə.pi/",
+      "definition": "a set of instructions for cooking food",
+      "sentence": "The baker read an old family recipe for warm bread.",
+      "wordImage": "images/04_recipe_word.png",
+      "sentenceImage": "images/04_recipe_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "beverage",
+      "partOfSpeech": "n.",
+      "meaningKo": "음료",
+      "ipa": "/ˈbev.ər.ɪdʒ/",
+      "definition": "any liquid drink other than water",
+      "sentence": "They enjoyed a cold fruity beverage on a hot afternoon.",
+      "wordImage": "images/05_beverage_word.png",
+      "sentenceImage": "images/05_beverage_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "operate",
+      "partOfSpeech": "v.",
+      "meaningKo": "작동하다, 조작하다",
+      "ipa": "/ˈɑː.pə.reɪt/",
+      "definition": "to use or control a machine or tool",
+      "sentence": "The young mechanic learned how to operate the giant telescope.",
+      "wordImage": "images/06_operate_word.png",
+      "sentenceImage": "images/06_operate_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "edible",
+      "partOfSpeech": "adj.",
+      "meaningKo": "먹을 수 있는, 식용의",
+      "ipa": "/ˈed.ə.bəl/",
+      "definition": "safe or suitable to be eaten",
+      "sentence": "These forest mushrooms are safe and edible for our dinner.",
+      "wordImage": "images/07_edible_word.png",
+      "sentenceImage": "images/07_edible_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "shelf",
+      "partOfSpeech": "n.",
+      "meaningKo": "선반",
+      "ipa": "/ʃelf/",
+      "definition": "a flat board for holding objects",
+      "sentence": "He placed a heavy dictionary on the highest wooden shelf.",
+      "wordImage": "images/08_shelf_word.png",
+      "sentenceImage": "images/08_shelf_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "quite",
+      "partOfSpeech": "adv.",
+      "meaningKo": "꽤, 상당히",
+      "ipa": "/kwaɪt/",
+      "definition": "to a large degree or very much",
+      "sentence": "The giant library puzzle was quite difficult to solve quickly.",
+      "wordImage": "images/09_quite_word.png",
+      "sentenceImage": "images/09_quite_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "quiet",
+      "partOfSpeech": "adj.",
+      "meaningKo": "조용한",
+      "ipa": "/ˈkwaɪ.ət/",
+      "definition": "making very little noise or sound",
+      "sentence": "The cozy reading corner remained quiet throughout the snowy afternoon.",
+      "wordImage": "images/10_quiet_word.png",
+      "sentenceImage": "images/10_quiet_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 10,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 10 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "welfare",
+      "partOfSpeech": "n.",
+      "meaningKo": "복지, 안녕",
+      "ipa": "/ˈwel.fer/",
+      "definition": "the health, happiness, and fortunes of a person or group",
+      "sentence": "The community center works hard for the welfare of all residents.",
+      "wordImage": "images/01_welfare_word.png",
+      "sentenceImage": "images/01_welfare_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "victim",
+      "partOfSpeech": "n.",
+      "meaningKo": "피해자, 희생자",
+      "ipa": "/ˈvɪk.tɪm/",
+      "definition": "a person harmed, injured, or who suffered a trick in game",
+      "sentence": "He was the funny victim of his sister’s April Fools joke.",
+      "wordImage": "images/02_victim_word.png",
+      "sentenceImage": "images/02_victim_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "population",
+      "partOfSpeech": "n.",
+      "meaningKo": "인구, 개체 수",
+      "ipa": "/ˌpɑː.pjəˈleɪ.ʃən/",
+      "definition": "all the people living in a particular area or country",
+      "sentence": "The city has a growing population of over one million residents.",
+      "wordImage": "images/03_population_word.png",
+      "sentenceImage": "images/03_population_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "neighbor",
+      "partOfSpeech": "n.",
+      "meaningKo": "이웃",
+      "ipa": "/ˈneɪ.bɚ/",
+      "definition": "someone who lives next door or near your home",
+      "sentence": "Our kind neighbor brought us a basket of freshly picked peaches.",
+      "wordImage": "images/04_neighbor_word.png",
+      "sentenceImage": "images/04_neighbor_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "ignore",
+      "partOfSpeech": "v.",
+      "meaningKo": "무시하다, 신경 쓰지 않다",
+      "ipa": "/ɪɡˈnɔːr/",
+      "definition": "to pay no attention to someone or something",
+      "sentence": "Try to ignore the noisy traffic and focus on your reading.",
+      "wordImage": "images/05_ignore_word.png",
+      "sentenceImage": "images/05_ignore_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "donate",
+      "partOfSpeech": "v.",
+      "meaningKo": "기부하다, 기증하다",
+      "ipa": "/ˈdoʊ.neɪt/",
+      "definition": "to give money, food, or clothes to help people in need",
+      "sentence": "Students love to donate old warm clothes to the winter shelter.",
+      "wordImage": "images/06_donate_word.png",
+      "sentenceImage": "images/06_donate_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "serious",
+      "partOfSpeech": "adj.",
+      "meaningKo": "진지한, 심각한",
+      "ipa": "/ˈsɪr.i.əs/",
+      "definition": "thinking carefully and not joking or making fun",
+      "sentence": "The doctor gave serious attention to every patient in the clinic.",
+      "wordImage": "images/07_serious_word.png",
+      "sentenceImage": "images/07_serious_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "fund",
+      "partOfSpeech": "n.",
+      "meaningKo": "기금, 자금",
+      "ipa": "/fʌnd/",
+      "definition": "an amount of money saved or collected for a particular purpose",
+      "sentence": "Our bake sale created a fund to buy new soccer balls.",
+      "wordImage": "images/08_fund_word.png",
+      "sentenceImage": "images/08_fund_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "personal",
+      "partOfSpeech": "adj.",
+      "meaningKo": "개인의, 사적인",
+      "ipa": "/ˈpɝː.sən.əl/",
+      "definition": "belonging to or connected with one particular person only",
+      "sentence": "She wrote her secret recipe in a small personal notebook today.",
+      "wordImage": "images/09_personal_word.png",
+      "sentenceImage": "images/09_personal_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "personnel",
+      "partOfSpeech": "n.",
+      "meaningKo": "직원들, 인원",
+      "ipa": "/ˌpɝː.sənˈel/",
+      "definition": "the people who work for an organization or business",
+      "sentence": "Medical personnel arrived quickly at the park to help the runner.",
+      "wordImage": "images/10_personnel_word.png",
+      "sentenceImage": "images/10_personnel_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

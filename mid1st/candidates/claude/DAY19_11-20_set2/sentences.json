@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 19,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY19-11",
+      "no": 11,
+      "word": "imagine",
+      "sentence": "Close your eyes and imagine a robot folding paper cranes."
+    },
+    {
+      "wordId": "DAY19-12",
+      "no": 12,
+      "word": "artificial",
+      "sentence": "This artificial helper learned rules from thousands of weather records."
+    },
+    {
+      "wordId": "DAY19-13",
+      "no": 13,
+      "word": "adjust",
+      "sentence": "Please adjust the chair height before you start typing."
+    },
+    {
+      "wordId": "DAY19-14",
+      "no": 14,
+      "word": "ideal",
+      "sentence": "A cool dry room is ideal for storing these batteries."
+    },
+    {
+      "wordId": "DAY19-15",
+      "no": 15,
+      "word": "gather",
+      "sentence": "Students gather rainfall numbers from three different school sensors."
+    },
+    {
+      "wordId": "DAY19-16",
+      "no": 16,
+      "word": "mechanic",
+      "sentence": "The mechanic opened the engine cover and checked each belt."
+    },
+    {
+      "wordId": "DAY19-17",
+      "no": 17,
+      "word": "portable",
+      "sentence": "This portable water filter fits inside one small backpack."
+    },
+    {
+      "wordId": "DAY19-18",
+      "no": 18,
+      "word": "remove",
+      "sentence": "Please remove the dust from the keyboard with a brush."
+    },
+    {
+      "wordId": "DAY19-19",
+      "no": 19,
+      "word": "master",
+      "sentence": "Young coders master simple loops after many practice sessions."
+    },
+    {
+      "wordId": "DAY19-20",
+      "no": 20,
+      "word": "screen",
+      "sentence": "Touching the screen changes the map, and the program answers back."
+    }
+  ]
+}

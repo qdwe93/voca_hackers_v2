@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 15,
+  "range": "31-40",
+  "set": 4,
+  "items": [
+    {
+      "wordId": "DAY15-31",
+      "no": 31,
+      "word": "bias",
+      "sentence": "Critical news readers check multiple sources to identify media bias."
+    },
+    {
+      "wordId": "DAY15-32",
+      "no": 32,
+      "word": "string",
+      "sentence": "Tie a piece of sturdy string around the paper package."
+    },
+    {
+      "wordId": "DAY15-33",
+      "no": 33,
+      "word": "examination",
+      "sentence": "Students prepared diligently for their final statewide mathematics examination today."
+    },
+    {
+      "wordId": "DAY15-34",
+      "no": 34,
+      "word": "rational",
+      "sentence": "Judges make rational decisions based strictly on evidence and law."
+    },
+    {
+      "wordId": "DAY15-35",
+      "no": 35,
+      "word": "laboratory",
+      "sentence": "Scientists conduct genetic experiments inside a sterile research laboratory environment."
+    },
+    {
+      "wordId": "DAY15-36",
+      "no": 36,
+      "word": "authority",
+      "sentence": "Elected officials exercise legal authority granted by the nation's constitution."
+    },
+    {
+      "wordId": "DAY15-37",
+      "no": 37,
+      "word": "misunderstanding",
+      "sentence": "Clear honest communication clears up any lingering misunderstanding between friends."
+    },
+    {
+      "wordId": "DAY15-38",
+      "no": 38,
+      "word": "pursue",
+      "sentence": "Graduates pursue rewarding careers in technology, medicine, and public education."
+    },
+    {
+      "wordId": "DAY15-39",
+      "no": 39,
+      "word": "deprived",
+      "sentence": "Social welfare programs support children from economically deprived background environments."
+    },
+    {
+      "wordId": "DAY15-40",
+      "no": 40,
+      "word": "spell",
+      "sentence": "Can you spell the difficult scientific vocabulary word correctly aloud?"
+    }
+  ]
+}

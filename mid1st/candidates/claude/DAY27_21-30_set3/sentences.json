@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 27,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY27-21",
+      "no": 21,
+      "word": "simplify",
+      "sentence": "We simplify the long form so parents finish it quickly."
+    },
+    {
+      "wordId": "DAY27-22",
+      "no": 22,
+      "word": "committee",
+      "sentence": "The elected committee listens to residents before choosing the park design."
+    },
+    {
+      "wordId": "DAY27-23",
+      "no": 23,
+      "word": "accompany",
+      "sentence": "One teacher will accompany the students to the city hall."
+    },
+    {
+      "wordId": "DAY27-24",
+      "no": 24,
+      "word": "proportion",
+      "sentence": "As tickets double, the total price rises in the same proportion."
+    },
+    {
+      "wordId": "DAY27-25",
+      "no": 25,
+      "word": "household",
+      "sentence": "Each household received one recycling bin from the city office."
+    },
+    {
+      "wordId": "DAY27-26",
+      "no": 26,
+      "word": "absence",
+      "sentence": "In the mayor's absence, the deputy answered the residents' questions."
+    },
+    {
+      "wordId": "DAY27-27",
+      "no": 27,
+      "word": "primary",
+      "sentence": "Our primary goal this month is finishing the playground repair."
+    },
+    {
+      "wordId": "DAY27-28",
+      "no": 28,
+      "word": "spot",
+      "sentence": "Sharp eyes spot the small crack near the stair rail."
+    },
+    {
+      "wordId": "DAY27-29",
+      "no": 29,
+      "word": "bother",
+      "sentence": "Please do not bother the clerk while the forms are counted."
+    },
+    {
+      "wordId": "DAY27-30",
+      "no": 30,
+      "word": "border",
+      "sentence": "Travelers show passports at the border before entering the country."
+    }
+  ]
+}

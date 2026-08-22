@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 24,
+  "range": "31-40",
+  "set": 4,
+  "title": "DAY 24 · 31-40",
+  "words": [
+    {
+      "no": 31,
+      "word": "aspect",
+      "partOfSpeech": "n.",
+      "meaningKo": "측면, 양상",
+      "ipa": "/ˈæs.pekt/",
+      "definition": "one particular part or feature of a situation, problem, or idea",
+      "sentence": "Teamwork is an important aspect of playing soccer and winning games.",
+      "wordImage": "images/31_aspect_word.png",
+      "sentenceImage": "images/31_aspect_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 32,
+      "word": "float",
+      "partOfSpeech": "v.",
+      "meaningKo": "뜨다, 떠다니다",
+      "ipa": "/floʊt/",
+      "definition": "to stay on the surface of a liquid and not sink",
+      "sentence": "A yellow rubber duck will float happily in the bath water.",
+      "wordImage": "images/32_float_word.png",
+      "sentenceImage": "images/32_float_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 33,
+      "word": "ingredient",
+      "partOfSpeech": "n.",
+      "meaningKo": "재료, 성분",
+      "ipa": "/ɪnˈɡriː.di.ənt/",
+      "definition": "one of the foods or substances that make up a dish",
+      "sentence": "Fresh sweet strawberries are the key ingredient in this fruit pie.",
+      "wordImage": "images/33_ingredient_word.png",
+      "sentenceImage": "images/33_ingredient_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 34,
+      "word": "ban",
+      "partOfSpeech": "v.",
+      "meaningKo": "금지하다",
+      "ipa": "/bæn/",
+      "definition": "to officially forbid something from being done or used",
+      "sentence": "Park rules will ban single-use plastic bottles to protect local wildlife.",
+      "wordImage": "images/34_ban_word.png",
+      "sentenceImage": "images/34_ban_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 35,
+      "word": "witness",
+      "partOfSpeech": "v.",
+      "meaningKo": "목격하다, 보다",
+      "ipa": "/ˈwɪt.nəs/",
+      "definition": "to see something happen, especially an accident, event, or change",
+      "sentence": "Early morning hikers were lucky to witness a magnificent golden sunrise.",
+      "wordImage": "images/35_witness_word.png",
+      "sentenceImage": "images/35_witness_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 36,
+      "word": "solar",
+      "partOfSpeech": "adj.",
+      "meaningKo": "태양의, 태양열의",
+      "ipa": "/ˈsoʊ.lɚ/",
+      "definition": "relating to or determined by the sun, or using sun energy",
+      "sentence": "Our rooftop solar panels absorb bright sunshine to power the school.",
+      "wordImage": "images/36_solar_word.png",
+      "sentenceImage": "images/36_solar_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 37,
+      "word": "starve",
+      "partOfSpeech": "v.",
+      "meaningKo": "굶주리다, 몹시 배고프다",
+      "ipa": "/stɑːrv/",
+      "definition": "to suffer or become very hungry from lack of food",
+      "sentence": "The playful puppy looked as if he would starve before lunchtime.",
+      "wordImage": "images/37_starve_word.png",
+      "sentenceImage": "images/37_starve_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 38,
+      "word": "attribute",
+      "partOfSpeech": "v.",
+      "meaningKo": "~의 탓으로 돌리다, 기인하다",
+      "ipa": "/əˈtrɪb.juːt/",
+      "definition": "to say or think that something is the result of something",
+      "sentence": "Athletes attribute their winning success to hard work and team cooperation.",
+      "wordImage": "images/38_attribute_word.png",
+      "sentenceImage": "images/38_attribute_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 39,
+      "word": "appliance",
+      "partOfSpeech": "n.",
+      "meaningKo": "가전제품, 기기",
+      "ipa": "/əˈplaɪ.əns/",
+      "definition": "a machine or device used in the home for daily tasks",
+      "sentence": "The modern energy-efficient refrigerator is a useful household kitchen appliance.",
+      "wordImage": "images/39_appliance_word.png",
+      "sentenceImage": "images/39_appliance_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 40,
+      "word": "plant",
+      "partOfSpeech": "v.",
+      "meaningKo": "심다, 식물",
+      "ipa": "/plænt/",
+      "definition": "to put a seed, bulb, or plant into soil to grow",
+      "sentence": "Students will plant sunflower seedlings in the sunny school garden today.",
+      "wordImage": "images/40_plant_word.png",
+      "sentenceImage": "images/40_plant_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

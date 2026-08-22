@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 10,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 10 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "half",
+      "partOfSpeech": "n.",
+      "meaningKo": "절반, 반",
+      "ipa": "/hæf/",
+      "definition": "one of two equal parts that together make a whole",
+      "sentence": "He gave half of his fresh sandwich to his hungry friend.",
+      "wordImage": "images/11_half_word.png",
+      "sentenceImage": "images/11_half_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "concern",
+      "partOfSpeech": "n.",
+      "meaningKo": "걱정, 염려, 관심사",
+      "ipa": "/kənˈsɝːn/",
+      "definition": "a feeling of worry about something or a matter of interest",
+      "sentence": "Clean drinking water is a major concern for all island residents.",
+      "wordImage": "images/12_concern_word.png",
+      "sentenceImage": "images/12_concern_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "rescue",
+      "partOfSpeech": "v.",
+      "meaningKo": "구조하다, 구출하다",
+      "ipa": "/ˈres.kjuː/",
+      "definition": "to save someone from a dangerous or unpleasant situation",
+      "sentence": "Firefighters climbed the tall ladder to rescue a stranded kitten safely.",
+      "wordImage": "images/13_rescue_word.png",
+      "sentenceImage": "images/13_rescue_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "critic",
+      "partOfSpeech": "n.",
+      "meaningKo": "비평가, 평론가",
+      "ipa": "/ˈkrɪt.ɪk/",
+      "definition": "a person whose job is giving opinions about books, movies, or food",
+      "sentence": "The food critic praised the bakery for its delicious warm croissants.",
+      "wordImage": "images/14_critic_word.png",
+      "sentenceImage": "images/14_critic_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "charity",
+      "partOfSpeech": "n.",
+      "meaningKo": "자선 단체, 자선",
+      "ipa": "/ˈtʃer.ə.t̬i/",
+      "definition": "an organization giving money, food, or help to people in need",
+      "sentence": "Our school donated winter blankets to a local animal charity today.",
+      "wordImage": "images/15_charity_word.png",
+      "sentenceImage": "images/15_charity_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "rage",
+      "partOfSpeech": "n.",
+      "meaningKo": "격노, 맹렬함",
+      "ipa": "/reɪdʒ/",
+      "definition": "extreme anger or intense wild energy in nature",
+      "sentence": "The wild storm blew with tremendous rage against the coastal cliffs.",
+      "wordImage": "images/16_rage_word.png",
+      "sentenceImage": "images/16_rage_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "afford",
+      "partOfSpeech": "v.",
+      "meaningKo": "~할 여유가 있다",
+      "ipa": "/əˈfɔːrd/",
+      "definition": "to have enough money or time to buy or do something",
+      "sentence": "He saved his pocket money to afford a new bicycle helmet.",
+      "wordImage": "images/17_afford_word.png",
+      "sentenceImage": "images/17_afford_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "unite",
+      "partOfSpeech": "v.",
+      "meaningKo": "결합하다, 단결하다",
+      "ipa": "/juːˈnaɪt/",
+      "definition": "to join together as a group to achieve a common goal",
+      "sentence": "Citizens unite to clean up the neighborhood park every single spring.",
+      "wordImage": "images/18_unite_word.png",
+      "sentenceImage": "images/18_unite_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "orphan",
+      "partOfSpeech": "n.",
+      "meaningKo": "고아, 어미 잃은 동물",
+      "ipa": "/ˈɔːr.fən/",
+      "definition": "a child or young animal whose parents have died",
+      "sentence": "The wildlife rescue center looked after the sweet orphan bear cub.",
+      "wordImage": "images/19_orphan_word.png",
+      "sentenceImage": "images/19_orphan_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "bear",
+      "partOfSpeech": "v.",
+      "meaningKo": "견디다, 참다, 낳다",
+      "ipa": "/ber/",
+      "definition": "to accept, tolerate, or endure something unpleasant",
+      "sentence": "The brave little sled dog can bear freezing arctic temperatures easily.",
+      "wordImage": "images/20_bear_word.png",
+      "sentenceImage": "images/20_bear_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 29,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY29-21",
+      "no": 21,
+      "word": "consult",
+      "sentence": "Patients should consult a certified physician before starting new herbal medications."
+    },
+    {
+      "wordId": "DAY29-22",
+      "no": 22,
+      "word": "organic",
+      "sentence": "Farms grow delicious organic apples without using synthetic chemical fertilizer sprays."
+    },
+    {
+      "wordId": "DAY29-23",
+      "no": 23,
+      "word": "manufacture",
+      "sentence": "Automated robotic factories manufacture precision medical surgical instruments with microscopic accuracy."
+    },
+    {
+      "wordId": "DAY29-24",
+      "no": 24,
+      "word": "negative",
+      "sentence": "Harsh negative reviews can discourage young authors from publishing new books."
+    },
+    {
+      "wordId": "DAY29-25",
+      "no": 25,
+      "word": "peasant",
+      "sentence": "In feudal times, every peasant worked the land for the lord."
+    },
+    {
+      "wordId": "DAY29-26",
+      "no": 26,
+      "word": "agriculture",
+      "sentence": "Modern sustainable agriculture utilizes drip irrigation systems to conserve freshwater resources."
+    },
+    {
+      "wordId": "DAY29-27",
+      "no": 27,
+      "word": "alter",
+      "sentence": "Extreme heat will alter the physical shape of soft plastic containers."
+    },
+    {
+      "wordId": "DAY29-28",
+      "no": 28,
+      "word": "combine",
+      "sentence": "Chefs combine fresh basil, pine nuts, and olive oil for sauce."
+    },
+    {
+      "wordId": "DAY29-29",
+      "no": 29,
+      "word": "compete",
+      "sentence": "Athletes compete with great determination during the annual statewide track championship."
+    },
+    {
+      "wordId": "DAY29-30",
+      "no": 30,
+      "word": "complete",
+      "sentence": "Students must complete their assigned homework tasks before playing video games."
+    }
+  ]
+}

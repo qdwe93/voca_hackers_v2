@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 17,
+  "range": "31-40",
+  "set": 4,
+  "items": [
+    {
+      "wordId": "DAY17-31",
+      "no": 31,
+      "word": "crawl",
+      "sentence": "The baby turtles crawl gently across the warm sand."
+    },
+    {
+      "wordId": "DAY17-32",
+      "no": 32,
+      "word": "sensation",
+      "sentence": "When the breeze touched her face, a cool sensation spread."
+    },
+    {
+      "wordId": "DAY17-33",
+      "no": 33,
+      "word": "sequence",
+      "sentence": "Today, the dance follows a simple sequence of five steps."
+    },
+    {
+      "wordId": "DAY17-34",
+      "no": 34,
+      "word": "blink",
+      "sentence": "The small owl did not blink while watching the colorful moon."
+    },
+    {
+      "wordId": "DAY17-35",
+      "no": 35,
+      "word": "interfere",
+      "sentence": "Today, tall weeds interfere with the growth of small carrots."
+    },
+    {
+      "wordId": "DAY17-36",
+      "no": 36,
+      "word": "identical",
+      "sentence": "Two identical triangles match when placed directly together."
+    },
+    {
+      "wordId": "DAY17-37",
+      "no": 37,
+      "word": "empathy",
+      "sentence": "She shows empathy by restating her friend's worry before answering."
+    },
+    {
+      "wordId": "DAY17-38",
+      "no": 38,
+      "word": "dramatic",
+      "sentence": "One dramatic sunset painted the whole sky bright orange."
+    },
+    {
+      "wordId": "DAY17-39",
+      "no": 39,
+      "word": "explicit",
+      "sentence": "The explicit map displayed every turn along the trail."
+    },
+    {
+      "wordId": "DAY17-40",
+      "no": 40,
+      "word": "tissue",
+      "sentence": "The child uses a tissue to wipe spilled juice."
+    }
+  ]
+}

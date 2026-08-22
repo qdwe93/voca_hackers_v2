@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 12,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY12-11",
+      "no": 11,
+      "word": "upset",
+      "sentence": "She felt upset when she lost her favorite library book."
+    },
+    {
+      "wordId": "DAY12-12",
+      "no": 12,
+      "word": "respond",
+      "sentence": "Listeners must respond politely when someone asks a direct question."
+    },
+    {
+      "wordId": "DAY12-13",
+      "no": 13,
+      "word": "steady",
+      "sentence": "He maintained a steady study habit throughout the entire semester."
+    },
+    {
+      "wordId": "DAY12-14",
+      "no": 14,
+      "word": "dislike",
+      "sentence": "Some young children strongly dislike bitter green vegetable dishes."
+    },
+    {
+      "wordId": "DAY12-15",
+      "no": 15,
+      "word": "define",
+      "sentence": "Dictionaries clearly define each vocabulary word with accurate explanations."
+    },
+    {
+      "wordId": "DAY12-16",
+      "no": 16,
+      "word": "celebrity",
+      "sentence": "The famous sports celebrity appeared in a public safety commercial."
+    },
+    {
+      "wordId": "DAY12-17",
+      "no": 17,
+      "word": "genius",
+      "sentence": "The young mathematical genius solved the complex equation in seconds."
+    },
+    {
+      "wordId": "DAY12-18",
+      "no": 18,
+      "word": "visual",
+      "sentence": "Graphic charts provide helpful visual evidence to support written arguments."
+    },
+    {
+      "wordId": "DAY12-19",
+      "no": 19,
+      "word": "compose",
+      "sentence": "Musicians compose beautiful background melodies for student short film projects."
+    },
+    {
+      "wordId": "DAY12-20",
+      "no": 20,
+      "word": "deal",
+      "sentence": "The two trading companies signed an important business deal today."
+    }
+  ]
+}

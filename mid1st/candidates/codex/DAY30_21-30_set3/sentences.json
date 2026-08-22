@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 30,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY30-21",
+      "no": 21,
+      "word": "depress",
+      "sentence": "Bad exam results usually depress students, but warm pizza fixes everything rapidly."
+    },
+    {
+      "wordId": "DAY30-22",
+      "no": 22,
+      "word": "demand",
+      "sentence": "Residents demand safer crossings during the town meeting."
+    },
+    {
+      "wordId": "DAY30-23",
+      "no": 23,
+      "word": "identify",
+      "sentence": "Today, can you identify this bird by its blue feathers?"
+    },
+    {
+      "wordId": "DAY30-24",
+      "no": 24,
+      "word": "award",
+      "sentence": "Today, the young painter received an award for her mural."
+    },
+    {
+      "wordId": "DAY30-25",
+      "no": 25,
+      "word": "regret",
+      "sentence": "The small rabbit may regret eating the whole carrot cake."
+    },
+    {
+      "wordId": "DAY30-26",
+      "no": 26,
+      "word": "regard",
+      "sentence": "Today, villagers regard the old oak as a special friend."
+    },
+    {
+      "wordId": "DAY30-27",
+      "no": 27,
+      "word": "inquire",
+      "sentence": "Interviewers inquire about one answer, then record a follow-up."
+    },
+    {
+      "wordId": "DAY30-28",
+      "no": 28,
+      "word": "script",
+      "sentence": "The script guides actors, sound, and pictures in one video."
+    },
+    {
+      "wordId": "DAY30-29",
+      "no": 29,
+      "word": "decline",
+      "sentence": "Students mark where values decline fastest on the graph."
+    },
+    {
+      "wordId": "DAY30-30",
+      "no": 30,
+      "word": "declare",
+      "sentence": "After one hour, the judges will declare the winner."
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 8,
+  "range": "21-30",
+  "set": 3,
+  "title": "DAY 08 · 21-30",
+  "words": [
+    {
+      "no": 21,
+      "word": "conclude",
+      "partOfSpeech": "v.",
+      "meaningKo": "결론짓다",
+      "ipa": "/kənˈkluːd/",
+      "definition": "to decide something after thinking carefully",
+      "sentence": "The young detective will conclude that the cat took it.",
+      "wordImage": "images/21_conclude_word.png",
+      "sentenceImage": "images/21_conclude_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 22,
+      "word": "intend",
+      "partOfSpeech": "v.",
+      "meaningKo": "의도하다",
+      "ipa": "/ɪnˈtend/",
+      "definition": "to plan to do something",
+      "sentence": "The squirrels intend to build a nest before winter comes.",
+      "wordImage": "images/22_intend_word.png",
+      "sentenceImage": "images/22_intend_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 23,
+      "word": "worth",
+      "partOfSpeech": "adj.",
+      "meaningKo": "가치 있는",
+      "ipa": "/wɜːrθ/",
+      "definition": "good enough for the time or money",
+      "sentence": "The long climb was worth the beautiful mountain view.",
+      "wordImage": "images/23_worth_word.png",
+      "sentenceImage": "images/23_worth_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 24,
+      "word": "outcome",
+      "partOfSpeech": "n.",
+      "meaningKo": "결과",
+      "ipa": "/ˈaʊtkʌm/",
+      "definition": "what finally happens at the end",
+      "sentence": "The outcome of the friendly game made everybody smile happily.",
+      "wordImage": "images/24_outcome_word.png",
+      "sentenceImage": "images/24_outcome_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 25,
+      "word": "honor",
+      "partOfSpeech": "n.",
+      "meaningKo": "명예",
+      "ipa": "/ˈɑːnər/",
+      "definition": "great respect given for doing something good",
+      "sentence": "Winning the kindness badge was a real honor for her.",
+      "wordImage": "images/25_honor_word.png",
+      "sentenceImage": "images/25_honor_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 26,
+      "word": "internal",
+      "partOfSpeech": "adj.",
+      "meaningKo": "내부의",
+      "ipa": "/ɪnˈtɜːrnl/",
+      "definition": "on the inside of something",
+      "sentence": "The clock's internal gears turned smoothly behind the glass door.",
+      "wordImage": "images/26_internal_word.png",
+      "sentenceImage": "images/26_internal_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 27,
+      "word": "verbal",
+      "partOfSpeech": "adj.",
+      "meaningKo": "말의",
+      "ipa": "/ˈvɜːrbl/",
+      "definition": "using spoken words",
+      "sentence": "The coach gave verbal directions during the swimming lesson today.",
+      "wordImage": "images/27_verbal_word.png",
+      "sentenceImage": "images/27_verbal_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 28,
+      "word": "besides",
+      "partOfSpeech": "adv.",
+      "meaningKo": "게다가",
+      "ipa": "/bɪˈsaɪdz/",
+      "definition": "also, in addition to that",
+      "sentence": "The soup smelled great; besides, it was warm and healthy.",
+      "wordImage": "images/28_besides_word.png",
+      "sentenceImage": "images/28_besides_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 29,
+      "word": "cure",
+      "partOfSpeech": "v.",
+      "meaningKo": "치료하다",
+      "ipa": "/kjʊr/",
+      "definition": "to make a sick person well again",
+      "sentence": "Warm soup helped cure the little dragon's sniffly nose.",
+      "wordImage": "images/29_cure_word.png",
+      "sentenceImage": "images/29_cure_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 30,
+      "word": "core",
+      "partOfSpeech": "n.",
+      "meaningKo": "핵심",
+      "ipa": "/kɔːr/",
+      "definition": "the middle part of something",
+      "sentence": "The apple core sat neatly on the small white plate.",
+      "wordImage": "images/30_core_word.png",
+      "sentenceImage": "images/30_core_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

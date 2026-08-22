@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 15,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 15 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "university",
+      "partOfSpeech": "n.",
+      "meaningKo": "대학교",
+      "definition": "a school for advanced study after high school",
+      "sentence": "Students walk between large buildings on the university campus.",
+      "ipa": "/junəvɝsəti/",
+      "wordImage": "images/01_university_word.png",
+      "sentenceImage": "images/01_university_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "education",
+      "partOfSpeech": "n.",
+      "meaningKo": "교육",
+      "definition": "the process of teaching and learning",
+      "sentence": "Books and experiments support the child's formal education.",
+      "ipa": "/ɛdʒəkeɪʃən/",
+      "wordImage": "images/02_education_word.png",
+      "sentenceImage": "images/02_education_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "focus",
+      "partOfSpeech": "v.",
+      "meaningKo": "집중하다",
+      "definition": "to give full attention to something",
+      "sentence": "The student will focus on the puzzle despite nearby noise.",
+      "ipa": "/foʊkəs/",
+      "wordImage": "images/03_focus_word.png",
+      "sentenceImage": "images/03_focus_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "entry",
+      "partOfSpeech": "n.",
+      "meaningKo": "입학",
+      "definition": "the act or right of entering a place",
+      "sentence": "The student receives entry into the science academy.",
+      "ipa": "/ɛntri/",
+      "wordImage": "images/04_entry_word.png",
+      "sentenceImage": "images/04_entry_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "medical",
+      "partOfSpeech": "adj.",
+      "meaningKo": "의학의",
+      "definition": "related to treating illness and injury",
+      "sentence": "The nurse checks medical equipment beside the clean bed.",
+      "ipa": "/mɛdəkəl/",
+      "wordImage": "images/05_medical_word.png",
+      "sentenceImage": "images/05_medical_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "accept",
+      "partOfSpeech": "v.",
+      "meaningKo": "받아들이다",
+      "definition": "to agree to receive or allow something",
+      "sentence": "The winner will accept the medal with both hands.",
+      "ipa": "/æksɛpt/",
+      "wordImage": "images/06_accept_word.png",
+      "sentenceImage": "images/06_accept_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "pioneer",
+      "partOfSpeech": "n.",
+      "meaningKo": "개척자",
+      "definition": "a person who is first to develop something",
+      "sentence": "The space pioneer steps onto a newly explored moon.",
+      "ipa": "/paɪənɪr/",
+      "wordImage": "images/07_pioneer_word.png",
+      "sentenceImage": "images/07_pioneer_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "mathematics",
+      "partOfSpeech": "n.",
+      "meaningKo": "수학",
+      "definition": "the study of numbers shapes and patterns",
+      "sentence": "The class uses colorful blocks to learn basic mathematics.",
+      "ipa": "/mæθəmætɪks/",
+      "wordImage": "images/08_mathematics_word.png",
+      "sentenceImage": "images/08_mathematics_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "professor",
+      "partOfSpeech": "n.",
+      "meaningKo": "교수",
+      "definition": "a teacher at a college or university",
+      "sentence": "The professor demonstrates a safe experiment to university students.",
+      "ipa": "/prəfɛsɚ/",
+      "wordImage": "images/09_professor_word.png",
+      "sentenceImage": "images/09_professor_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "profession",
+      "partOfSpeech": "n.",
+      "meaningKo": "전문직",
+      "definition": "a job requiring special education or training",
+      "sentence": "Medicine is a profession requiring years of study.",
+      "ipa": "/prəfɛʃən/",
+      "wordImage": "images/10_profession_word.png",
+      "sentenceImage": "images/10_profession_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

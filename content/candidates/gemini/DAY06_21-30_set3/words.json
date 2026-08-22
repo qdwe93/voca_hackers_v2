@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 6,
+  "range": "21-30",
+  "set": 3,
+  "title": "DAY 06 · 21-30",
+  "words": [
+    {
+      "no": 21,
+      "word": "discouraged",
+      "partOfSpeech": "adj.",
+      "meaningKo": "낙담한, 풀이 죽은",
+      "ipa": "/dɪˈskɝː.ɪdʒd/",
+      "definition": "feeling less confident or less hopeful about something",
+      "sentence": "Do not feel discouraged if you miss the soccer goal.",
+      "wordImage": "images/21_discouraged_word.png",
+      "sentenceImage": "images/21_discouraged_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 22,
+      "word": "stare",
+      "partOfSpeech": "v.",
+      "meaningKo": "응시하다, 빤히 쳐다보다",
+      "ipa": "/ster/",
+      "definition": "to look directly at someone or something for a long time",
+      "sentence": "The curious owl continued to stare from the pine branch.",
+      "wordImage": "images/22_stare_word.png",
+      "sentenceImage": "images/22_stare_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 23,
+      "word": "burst",
+      "partOfSpeech": "v.",
+      "meaningKo": "터지다, 갑자기 나타나다",
+      "ipa": "/bɝːst/",
+      "definition": "to break open suddenly or appear with great energy",
+      "sentence": "Colorful soap bubbles burst into tiny drops in the air.",
+      "wordImage": "images/23_burst_word.png",
+      "sentenceImage": "images/23_burst_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 24,
+      "word": "miserable",
+      "partOfSpeech": "adj.",
+      "meaningKo": "비참한, 매우 불행한",
+      "ipa": "/ˈmɪz.ɚ.ə.bəl/",
+      "definition": "very unhappy, uncomfortable, or in bad condition",
+      "sentence": "The drenched little puppy looked miserable until wrapped in towels.",
+      "wordImage": "images/24_miserable_word.png",
+      "sentenceImage": "images/24_miserable_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 25,
+      "word": "embarrassed",
+      "partOfSpeech": "adj.",
+      "meaningKo": "당황스러운, 부끄러운",
+      "ipa": "/ɪmˈber.əst/",
+      "definition": "feeling shy, awkward, or ashamed about something",
+      "sentence": "He felt slightly embarrassed when his voice squeaked in class.",
+      "wordImage": "images/25_embarrassed_word.png",
+      "sentenceImage": "images/25_embarrassed_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 26,
+      "word": "hardly",
+      "partOfSpeech": "adv.",
+      "meaningKo": "거의 ~않다",
+      "ipa": "/ˈhɑːrd.li/",
+      "definition": "scarcely or almost not at all",
+      "sentence": "There was hardly any noise in the quiet study room.",
+      "wordImage": "images/26_hardly_word.png",
+      "sentenceImage": "images/26_hardly_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 27,
+      "word": "panic",
+      "partOfSpeech": "n.",
+      "meaningKo": "공황, 극심한 공포",
+      "ipa": "/ˈpæn.ɪk/",
+      "definition": "a sudden strong feeling of fear that prevents calm thought",
+      "sentence": "Stay calm and avoid panic during the school fire drill.",
+      "wordImage": "images/27_panic_word.png",
+      "sentenceImage": "images/27_panic_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 28,
+      "word": "correspond",
+      "partOfSpeech": "v.",
+      "meaningKo": "일치하다, 편지를 주고받다",
+      "ipa": "/ˌkɔːr.əˈspɑːnd/",
+      "definition": "to match something or communicate by writing letters",
+      "sentence": "The numbers on the map correspond to our list of landmarks.",
+      "wordImage": "images/28_correspond_word.png",
+      "sentenceImage": "images/28_correspond_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 29,
+      "word": "cruel",
+      "partOfSpeech": "adj.",
+      "meaningKo": "잔인한, 잔혹한",
+      "ipa": "/ˈkruː.əl/",
+      "definition": "causing pain or suffering to others without feeling bad",
+      "sentence": "It is very cruel to leave pets outside in snow.",
+      "wordImage": "images/29_cruel_word.png",
+      "sentenceImage": "images/29_cruel_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 30,
+      "word": "crucial",
+      "partOfSpeech": "adj.",
+      "meaningKo": "결정적인, 중대한",
+      "ipa": "/ˈkruː.ʃəl/",
+      "definition": "extremely important or necessary for success",
+      "sentence": "Good communication is a crucial part of any team project.",
+      "wordImage": "images/30_crucial_word.png",
+      "sentenceImage": "images/30_crucial_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

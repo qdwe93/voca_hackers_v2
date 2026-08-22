@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 19,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 19 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "modern",
+      "partOfSpeech": "adj.",
+      "meaningKo": "현대의",
+      "ipa": "/ˈmɑːdərn/",
+      "definition": "new and from the present time",
+      "sentence": "The modern kitchen had shiny buttons on every drawer.",
+      "wordImage": "images/01_modern_word.png",
+      "sentenceImage": "images/01_modern_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "mobile",
+      "partOfSpeech": "adj.",
+      "meaningKo": "이동하는",
+      "ipa": "/ˈmoʊbl/",
+      "definition": "able to be moved from place to place",
+      "sentence": "A mobile library visits the village every second week.",
+      "wordImage": "images/02_mobile_word.png",
+      "sentenceImage": "images/02_mobile_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "function",
+      "partOfSpeech": "n.",
+      "meaningKo": "기능",
+      "ipa": "/ˈfʌŋkʃn/",
+      "definition": "the job that a thing does",
+      "sentence": "The main function of an umbrella is blocking rain.",
+      "wordImage": "images/03_function_word.png",
+      "sentenceImage": "images/03_function_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "machine",
+      "partOfSpeech": "n.",
+      "meaningKo": "기계",
+      "ipa": "/məˈʃiːn/",
+      "definition": "a tool with parts that does work",
+      "sentence": "A friendly machine washed every dish after the dinner.",
+      "wordImage": "images/04_machine_word.png",
+      "sentenceImage": "images/04_machine_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "repair",
+      "partOfSpeech": "v.",
+      "meaningKo": "수리하다",
+      "ipa": "/rɪˈper/",
+      "definition": "to fix something that is broken",
+      "sentence": "The mechanic will repair the squeaky old garden gate.",
+      "wordImage": "images/05_repair_word.png",
+      "sentenceImage": "images/05_repair_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "efficient",
+      "partOfSpeech": "adj.",
+      "meaningKo": "효율적인",
+      "ipa": "/ɪˈfɪʃnt/",
+      "definition": "doing a job well without wasting anything",
+      "sentence": "The efficient robot cleaned the whole hallway in minutes.",
+      "wordImage": "images/06_efficient_word.png",
+      "sentenceImage": "images/06_efficient_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "install",
+      "partOfSpeech": "v.",
+      "meaningKo": "설치하다",
+      "ipa": "/ɪnˈstɔːl/",
+      "definition": "to put something in place so it works",
+      "sentence": "Workers will install new lamps along the quiet park path.",
+      "wordImage": "images/07_install_word.png",
+      "sentenceImage": "images/07_install_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "innovation",
+      "partOfSpeech": "n.",
+      "meaningKo": "혁신",
+      "ipa": "/ˌɪnəˈveɪʃn/",
+      "definition": "a clever new idea or invention",
+      "sentence": "This little innovation saves water in every village home.",
+      "wordImage": "images/08_innovation_word.png",
+      "sentenceImage": "images/08_innovation_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "trust",
+      "partOfSpeech": "v.",
+      "meaningKo": "신뢰하다",
+      "ipa": "/trʌst/",
+      "definition": "to believe someone will do the right thing",
+      "sentence": "The ducklings trust the old goose to lead them.",
+      "wordImage": "images/09_trust_word.png",
+      "sentenceImage": "images/09_trust_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "truth",
+      "partOfSpeech": "n.",
+      "meaningKo": "진실",
+      "ipa": "/truːθ/",
+      "definition": "what is really true",
+      "sentence": "The truth about the missing pie made everyone laugh.",
+      "wordImage": "images/10_truth_word.png",
+      "sentenceImage": "images/10_truth_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

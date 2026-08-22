@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 12,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 12 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "upset",
+      "partOfSpeech": "adj.",
+      "meaningKo": "속상한",
+      "definition": "unhappy worried or disappointed",
+      "sentence": "The upset child sits beside the broken toy airplane.",
+      "ipa": "/əpsɛt/",
+      "wordImage": "images/11_upset_word.png",
+      "sentenceImage": "images/11_upset_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "respond",
+      "partOfSpeech": "v.",
+      "meaningKo": "반응하다",
+      "definition": "to answer or react to someone or something",
+      "sentence": "The trained dog will respond to the whistle immediately.",
+      "ipa": "/rɪspɑnd/",
+      "wordImage": "images/12_respond_word.png",
+      "sentenceImage": "images/12_respond_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "steady",
+      "partOfSpeech": "adj.",
+      "meaningKo": "꾸준한",
+      "definition": "firm regular and not changing suddenly",
+      "sentence": "The painter keeps a steady hand while drawing a line.",
+      "ipa": "/stɛdi/",
+      "wordImage": "images/13_steady_word.png",
+      "sentenceImage": "images/13_steady_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "dislike",
+      "partOfSpeech": "v.",
+      "meaningKo": "싫어하다",
+      "definition": "to not like someone or something",
+      "sentence": "The cat will dislike walking through the shallow puddle.",
+      "ipa": "/dɪslaɪk/",
+      "wordImage": "images/14_dislike_word.png",
+      "sentenceImage": "images/14_dislike_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "define",
+      "partOfSpeech": "v.",
+      "meaningKo": "정의하다",
+      "definition": "to explain the exact meaning of something",
+      "sentence": "The teacher will define balance using a level seesaw.",
+      "ipa": "/dɪfaɪn/",
+      "wordImage": "images/15_define_word.png",
+      "sentenceImage": "images/15_define_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "celebrity",
+      "partOfSpeech": "n.",
+      "meaningKo": "유명인",
+      "definition": "a famous person known by many people",
+      "sentence": "A celebrity waves to cameras outside the theater.",
+      "ipa": "/səlɛbrɪti/",
+      "wordImage": "images/16_celebrity_word.png",
+      "sentenceImage": "images/16_celebrity_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "genius",
+      "partOfSpeech": "n.",
+      "meaningKo": "천재",
+      "definition": "a person with exceptional intelligence or talent",
+      "sentence": "The young genius builds a working robot from spare parts.",
+      "ipa": "/dʒinjəs/",
+      "wordImage": "images/17_genius_word.png",
+      "sentenceImage": "images/17_genius_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "visual",
+      "partOfSpeech": "adj.",
+      "meaningKo": "시각의",
+      "definition": "related to seeing or images",
+      "sentence": "The colorful chart provides a visual explanation of plant growth.",
+      "ipa": "/vɪʒəwəl/",
+      "wordImage": "images/18_visual_word.png",
+      "sentenceImage": "images/18_visual_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "compose",
+      "partOfSpeech": "v.",
+      "meaningKo": "작곡하다",
+      "definition": "to create music or writing",
+      "sentence": "The musician will compose a melody at the piano.",
+      "ipa": "/kəmpoʊz/",
+      "wordImage": "images/19_compose_word.png",
+      "sentenceImage": "images/19_compose_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "deal",
+      "partOfSpeech": "n.",
+      "meaningKo": "거래",
+      "definition": "an agreement especially in business",
+      "sentence": "Two shopkeepers make a deal by exchanging equal baskets.",
+      "ipa": "/dil/",
+      "wordImage": "images/20_deal_word.png",
+      "sentenceImage": "images/20_deal_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

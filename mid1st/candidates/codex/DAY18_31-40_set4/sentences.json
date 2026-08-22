@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 18,
+  "range": "31-40",
+  "set": 4,
+  "items": [
+    {
+      "wordId": "DAY18-31",
+      "no": 31,
+      "word": "rare",
+      "sentence": "One rare blue butterfly landed on the garden gate."
+    },
+    {
+      "wordId": "DAY18-32",
+      "no": 32,
+      "word": "beat",
+      "sentence": "Doctors hear the patient's heart beat steadily through a stethoscope."
+    },
+    {
+      "wordId": "DAY18-33",
+      "no": 33,
+      "word": "indifferent",
+      "sentence": "Today, the sleepy cat seemed indifferent to the noisy parade."
+    },
+    {
+      "wordId": "DAY18-34",
+      "no": 34,
+      "word": "sew",
+      "sentence": "Today, the tailor will sew a button onto the coat."
+    },
+    {
+      "wordId": "DAY18-35",
+      "no": 35,
+      "word": "antibiotic",
+      "sentence": "Today, the vet used an antibiotic to help the kitten heal."
+    },
+    {
+      "wordId": "DAY18-36",
+      "no": 36,
+      "word": "chronic",
+      "sentence": "Today, the old tree had a chronic lean toward the pond."
+    },
+    {
+      "wordId": "DAY18-37",
+      "no": 37,
+      "word": "sight",
+      "sentence": "Today, an eagle has amazing sight from very high above."
+    },
+    {
+      "wordId": "DAY18-38",
+      "no": 38,
+      "word": "fatal",
+      "sentence": "A plant disease became fatal after its leaves turned brown."
+    },
+    {
+      "wordId": "DAY18-39",
+      "no": 39,
+      "word": "tremble",
+      "sentence": "Today, leaves tremble whenever a soft wind passes the branch."
+    },
+    {
+      "wordId": "DAY18-40",
+      "no": 40,
+      "word": "patient",
+      "sentence": "A nurse brings warm soup to the recovering patient."
+    }
+  ]
+}

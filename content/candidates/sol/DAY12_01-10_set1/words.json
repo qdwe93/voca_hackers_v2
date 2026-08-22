@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 12,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 12 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "perform",
+      "partOfSpeech": "v.",
+      "meaningKo": "공연하다",
+      "definition": "to entertain people by acting singing or playing music",
+      "sentence": "The band will perform cheerful music on the outdoor stage.",
+      "ipa": "/pɚfɔrm/",
+      "wordImage": "images/01_perform_word.png",
+      "sentenceImage": "images/01_perform_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "feature",
+      "partOfSpeech": "n.",
+      "meaningKo": "특징",
+      "definition": "an important or noticeable part of something",
+      "sentence": "The robot's best feature is its long flexible arm.",
+      "ipa": "/fitʃɚ/",
+      "wordImage": "images/02_feature_word.png",
+      "sentenceImage": "images/02_feature_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "genre",
+      "partOfSpeech": "n.",
+      "meaningKo": "장르",
+      "definition": "a particular type of art music or literature",
+      "sentence": "Adventure is the genre of the book with a sailing ship.",
+      "ipa": "/ʒɑnrə/",
+      "wordImage": "images/03_genre_word.png",
+      "sentenceImage": "images/03_genre_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "instrument",
+      "partOfSpeech": "n.",
+      "meaningKo": "악기",
+      "definition": "an object used for making music",
+      "sentence": "The musician plays a brass instrument beside the drums.",
+      "ipa": "/ɪnstrəmənt/",
+      "wordImage": "images/04_instrument_word.png",
+      "sentenceImage": "images/04_instrument_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "broadcast",
+      "partOfSpeech": "v.",
+      "meaningKo": "방송하다",
+      "definition": "to send a program by television or radio",
+      "sentence": "The station will broadcast the concert from the small studio.",
+      "ipa": "/brɔdkæst/",
+      "wordImage": "images/05_broadcast_word.png",
+      "sentenceImage": "images/05_broadcast_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "artwork",
+      "partOfSpeech": "n.",
+      "meaningKo": "예술 작품",
+      "definition": "a painting sculpture or other artistic creation",
+      "sentence": "Colorful artwork covers the walls of the school gallery.",
+      "ipa": "/ɑrtwɚk/",
+      "wordImage": "images/06_artwork_word.png",
+      "sentenceImage": "images/06_artwork_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "suit",
+      "partOfSpeech": "v.",
+      "meaningKo": "어울리다",
+      "definition": "to be right or convenient for someone",
+      "sentence": "The waterproof boots suit the explorer's rainy journey.",
+      "ipa": "/sut/",
+      "wordImage": "images/07_suit_word.png",
+      "sentenceImage": "images/07_suit_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "inspire",
+      "partOfSpeech": "v.",
+      "meaningKo": "영감을 주다",
+      "definition": "to give someone the desire to create or act",
+      "sentence": "The night sky may inspire the child to paint stars.",
+      "ipa": "/ɪnspaɪr/",
+      "wordImage": "images/08_inspire_word.png",
+      "sentenceImage": "images/08_inspire_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "belief",
+      "partOfSpeech": "n.",
+      "meaningKo": "믿음",
+      "definition": "an idea accepted as true",
+      "sentence": "The explorer's belief in hidden treasure keeps him searching.",
+      "ipa": "/bɪlif/",
+      "wordImage": "images/09_belief_word.png",
+      "sentenceImage": "images/09_belief_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "brief",
+      "partOfSpeech": "adj.",
+      "meaningKo": "짧은",
+      "definition": "lasting only a short time",
+      "sentence": "A brief shower leaves small puddles on the path.",
+      "ipa": "/brif/",
+      "wordImage": "images/10_brief_word.png",
+      "sentenceImage": "images/10_brief_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 29,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 29 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "industry",
+      "partOfSpeech": "n.",
+      "meaningKo": "산업, 공업",
+      "ipa": "/ˈɪn.də.stri/",
+      "definition": "economic activity concerned with the processing of raw materials",
+      "sentence": "The clean solar power industry creates many green jobs today.",
+      "wordImage": "images/01_industry_word.png",
+      "sentenceImage": "images/01_industry_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "policy",
+      "partOfSpeech": "n.",
+      "meaningKo": "정책, 방침",
+      "ipa": "/ˈpɑː.lə.si/",
+      "definition": "a course or principle of action adopted by organization",
+      "sentence": "The school has a strict anti-littering policy for all playgrounds.",
+      "wordImage": "images/02_policy_word.png",
+      "sentenceImage": "images/02_policy_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "commercial",
+      "partOfSpeech": "adj.",
+      "meaningKo": "상업의, 상업적인",
+      "ipa": "/kəˈmɝː.ʃəl/",
+      "definition": "concerned with or engaged in commerce or business profit",
+      "sentence": "The busy harbor handles both fishing boats and commercial cargo ships.",
+      "wordImage": "images/03_commercial_word.png",
+      "sentenceImage": "images/03_commercial_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "convey",
+      "partOfSpeech": "v.",
+      "meaningKo": "전달하다, 운반하다",
+      "ipa": "/kənˈveɪ/",
+      "definition": "to communicate a message or idea, or transport something",
+      "sentence": "Illustrations help convey the warm emotional message of the storybook.",
+      "wordImage": "images/04_convey_word.png",
+      "sentenceImage": "images/04_convey_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "international",
+      "partOfSpeech": "adj.",
+      "meaningKo": "국제의, 세계적인",
+      "ipa": "/ˌɪn.t̬ɚˈnæʃ.ən.əl/",
+      "definition": "existing, occurring, or carried on between two or more nations",
+      "sentence": "Students shared traditional folk dances at the international culture festival.",
+      "wordImage": "images/05_international_word.png",
+      "sentenceImage": "images/05_international_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "reveal",
+      "partOfSpeech": "v.",
+      "meaningKo": "드러내다, 밝히다",
+      "ipa": "/rɪˈviːl/",
+      "definition": "to make known to others, or uncover something hidden",
+      "sentence": "Pulling back the stage velvet curtains will reveal the set.",
+      "wordImage": "images/06_reveal_word.png",
+      "sentenceImage": "images/06_reveal_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "increase",
+      "partOfSpeech": "v.",
+      "meaningKo": "증가하다, 늘리다",
+      "ipa": "/ɪnˈkriːs/",
+      "definition": "to become or make greater in size, amount, or degree",
+      "sentence": "Regular daily reading will increase your English vocabulary quickly.",
+      "wordImage": "images/07_increase_word.png",
+      "sentenceImage": "images/07_increase_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "depend",
+      "partOfSpeech": "v.",
+      "meaningKo": "의존하다, 달려 있다",
+      "ipa": "/dɪˈpend/",
+      "definition": "to rely on someone or something for support or help",
+      "sentence": "Baby bird chicks depend completely on their parents for food.",
+      "wordImage": "images/08_depend_word.png",
+      "sentenceImage": "images/08_depend_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "transfer",
+      "partOfSpeech": "v.",
+      "meaningKo": "이동하다, 옮기다, 환승하다",
+      "ipa": "/trænsˈfɝː/",
+      "definition": "to move from one place, vehicle, or group to another",
+      "sentence": "Passengers transfer to the green electric tram at central station.",
+      "wordImage": "images/09_transfer_word.png",
+      "sentenceImage": "images/09_transfer_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "transform",
+      "partOfSpeech": "v.",
+      "meaningKo": "변형시키다, 탈바꿈하다",
+      "ipa": "/trænˈsfɔːrm/",
+      "definition": "to make a thorough or dramatic change in form/appearance",
+      "sentence": "A tiny green caterpillar will transform into a magnificent butterfly.",
+      "wordImage": "images/10_transform_word.png",
+      "sentenceImage": "images/10_transform_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

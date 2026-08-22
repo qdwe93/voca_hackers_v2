@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 24,
+  "range": "31-40",
+  "set": 4,
+  "items": [
+    {
+      "wordId": "DAY24-31",
+      "no": 31,
+      "word": "aspect",
+      "sentence": "Today, the best aspect of camping is the starry sky."
+    },
+    {
+      "wordId": "DAY24-32",
+      "no": 32,
+      "word": "float",
+      "sentence": "The cork will float after displacing enough water for its weight."
+    },
+    {
+      "wordId": "DAY24-33",
+      "no": 33,
+      "word": "ingredient",
+      "sentence": "Today, butter is the secret ingredient in this soft bread."
+    },
+    {
+      "wordId": "DAY24-34",
+      "no": 34,
+      "word": "ban",
+      "sentence": "Officials ban loud boats only near nesting birds."
+    },
+    {
+      "wordId": "DAY24-35",
+      "no": 35,
+      "word": "witness",
+      "sentence": "A witness describes evidence during the criminal trial."
+    },
+    {
+      "wordId": "DAY24-36",
+      "no": 36,
+      "word": "solar",
+      "sentence": "Solar panels change sunlight into electricity for garden lamps."
+    },
+    {
+      "wordId": "DAY24-37",
+      "no": 37,
+      "word": "starve",
+      "sentence": "Today, plants starve without good soil and enough sunlight."
+    },
+    {
+      "wordId": "DAY24-38",
+      "no": 38,
+      "word": "attribute",
+      "sentence": "Today, softness is the best attribute of this wool blanket."
+    },
+    {
+      "wordId": "DAY24-39",
+      "no": 39,
+      "word": "appliance",
+      "sentence": "The new kitchen appliance mixed the cake batter rapidly."
+    },
+    {
+      "wordId": "DAY24-40",
+      "no": 40,
+      "word": "plant",
+      "sentence": "Students plant sunflower seeds where they can receive enough sunlight."
+    }
+  ]
+}

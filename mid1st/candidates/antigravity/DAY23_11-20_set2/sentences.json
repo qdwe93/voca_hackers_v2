@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 23,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY23-11",
+      "no": 11,
+      "word": "valley",
+      "sentence": "A clear freshwater river meanders peacefully through the deep mountain valley."
+    },
+    {
+      "wordId": "DAY23-12",
+      "no": 12,
+      "word": "influence",
+      "sentence": "Ocean current patterns influence regional weather systems and seasonal coastal temperatures."
+    },
+    {
+      "wordId": "DAY23-13",
+      "no": 13,
+      "word": "damage",
+      "sentence": "The severe hurricane caused extensive damage to coastal harbor infrastructure buildings."
+    },
+    {
+      "wordId": "DAY23-14",
+      "no": 14,
+      "word": "lack",
+      "sentence": "The lack of fresh drinking water created severe hardship for residents."
+    },
+    {
+      "wordId": "DAY23-15",
+      "no": 15,
+      "word": "predict",
+      "sentence": "Meteorologists use computer models to predict typhoon paths several days ahead."
+    },
+    {
+      "wordId": "DAY23-16",
+      "no": 16,
+      "word": "aware",
+      "sentence": "Hikers must remain aware of changing weather conditions on high summits."
+    },
+    {
+      "wordId": "DAY23-17",
+      "no": 17,
+      "word": "correct",
+      "sentence": "Select the correct compass heading to navigate toward the coastal lighthouse."
+    },
+    {
+      "wordId": "DAY23-18",
+      "no": 18,
+      "word": "earthquake",
+      "sentence": "The underwater earthquake triggered a powerful tsunami across the open ocean."
+    },
+    {
+      "wordId": "DAY23-19",
+      "no": 19,
+      "word": "due",
+      "sentence": "The meteorological expedition is due to depart for the arctic tomorrow."
+    },
+    {
+      "wordId": "DAY23-20",
+      "no": 20,
+      "word": "level",
+      "sentence": "Sea level rise poses a threat to low-lying coastal island communities."
+    }
+  ]
+}

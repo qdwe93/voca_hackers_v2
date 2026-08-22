@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 30,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY30-01",
+      "no": 1,
+      "word": "magazine",
+      "sentence": "She subscribed to a monthly science magazine filled with colorful photographs."
+    },
+    {
+      "wordId": "DAY30-02",
+      "no": 2,
+      "word": "article",
+      "sentence": "The journalist published an informative article about regional wildlife conservation efforts."
+    },
+    {
+      "wordId": "DAY30-03",
+      "no": 3,
+      "word": "press",
+      "sentence": "Use your palm to press the dough flat on the board."
+    },
+    {
+      "wordId": "DAY30-04",
+      "no": 4,
+      "word": "advertise",
+      "sentence": "Companies advertise their latest electronic products through online video streaming platforms."
+    },
+    {
+      "wordId": "DAY30-05",
+      "no": 5,
+      "word": "recent",
+      "sentence": "Check the recent publication date to ensure the source is current."
+    },
+    {
+      "wordId": "DAY30-06",
+      "no": 6,
+      "word": "diverse",
+      "sentence": "Media broadcasts should include diverse cultural perspectives without unfair stereotyping prejudice."
+    },
+    {
+      "wordId": "DAY30-07",
+      "no": 7,
+      "word": "document",
+      "sentence": "The official government document was signed by all five international delegates."
+    },
+    {
+      "wordId": "DAY30-08",
+      "no": 8,
+      "word": "expert",
+      "sentence": "A medical expert verified the scientific accuracy of the health report."
+    },
+    {
+      "wordId": "DAY30-09",
+      "no": 9,
+      "word": "explore",
+      "sentence": "Underwater robotic vehicles explore deep oceanic trenches beneath miles of water."
+    },
+    {
+      "wordId": "DAY30-10",
+      "no": 10,
+      "word": "explode",
+      "sentence": "Volatile gas leaks can explode if exposed to open candle flames."
+    }
+  ]
+}

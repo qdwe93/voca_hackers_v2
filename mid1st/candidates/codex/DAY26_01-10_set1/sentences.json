@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 26,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY26-01",
+      "no": 1,
+      "word": "legal",
+      "sentence": "Both sides follow the same legal steps during the fair trial."
+    },
+    {
+      "wordId": "DAY26-02",
+      "no": 2,
+      "word": "obey",
+      "sentence": "Drivers obey the law, while kindness remains a moral duty."
+    },
+    {
+      "wordId": "DAY26-03",
+      "no": 3,
+      "word": "arrest",
+      "sentence": "In the courtroom story, police arrest a suspect after finding evidence."
+    },
+    {
+      "wordId": "DAY26-04",
+      "no": 4,
+      "word": "report",
+      "sentence": "Students report each experiment step and result in clear order."
+    },
+    {
+      "wordId": "DAY26-05",
+      "no": 5,
+      "word": "innocent",
+      "sentence": "Evidence shows the suspect is innocent during the criminal trial."
+    },
+    {
+      "wordId": "DAY26-06",
+      "no": 6,
+      "word": "caution",
+      "sentence": "Walk with caution close to the slippery mossy stone steps."
+    },
+    {
+      "wordId": "DAY26-07",
+      "no": 7,
+      "word": "charge",
+      "sentence": "The campsite will charge each visitor five dollars per night."
+    },
+    {
+      "wordId": "DAY26-08",
+      "no": 8,
+      "word": "violate",
+      "sentence": "Players violate a written rule and receive the same penalty."
+    },
+    {
+      "wordId": "DAY26-09",
+      "no": 9,
+      "word": "law",
+      "sentence": "A law requires drivers to stop, while kindness is moral."
+    },
+    {
+      "wordId": "DAY26-10",
+      "no": 10,
+      "word": "raw",
+      "sentence": "Today, raw carrots taste crunchy and sweet in a salad."
+    }
+  ]
+}

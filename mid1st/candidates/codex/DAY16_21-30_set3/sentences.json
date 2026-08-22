@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 16,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY16-21",
+      "no": 21,
+      "word": "acid",
+      "sentence": "Today, lemon juice is a mild acid found in kitchens."
+    },
+    {
+      "wordId": "DAY16-22",
+      "no": 22,
+      "word": "orbit",
+      "sentence": "The small moon follows a wide orbit around the planet."
+    },
+    {
+      "wordId": "DAY16-23",
+      "no": 23,
+      "word": "toxic",
+      "sentence": "Today, some bright berries are toxic, so nobody should taste them."
+    },
+    {
+      "wordId": "DAY16-24",
+      "no": 24,
+      "word": "atom",
+      "sentence": "Today, every single atom is far too small to see."
+    },
+    {
+      "wordId": "DAY16-25",
+      "no": 25,
+      "word": "liquid",
+      "sentence": "A liquid keeps its volume but changes shape in each container."
+    },
+    {
+      "wordId": "DAY16-26",
+      "no": 26,
+      "word": "universe",
+      "sentence": "Our universe contains stars, planets, moons, and asteroids."
+    },
+    {
+      "wordId": "DAY16-27",
+      "no": 27,
+      "word": "reverse",
+      "sentence": "Today, you can reverse the pattern to make a new design."
+    },
+    {
+      "wordId": "DAY16-28",
+      "no": 28,
+      "word": "extend",
+      "sentence": "The metal rod will extend slightly when heated."
+    },
+    {
+      "wordId": "DAY16-29",
+      "no": 29,
+      "word": "extent",
+      "sentence": "Today, nobody knew the full extent of the underground cave."
+    },
+    {
+      "wordId": "DAY16-30",
+      "no": 30,
+      "word": "expand",
+      "sentence": "Today, warm air makes the balloon expand into a round shape."
+    }
+  ]
+}

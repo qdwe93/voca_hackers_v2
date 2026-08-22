@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 19,
+  "range": "31-40",
+  "set": 4,
+  "items": [
+    {
+      "wordId": "DAY19-31",
+      "no": 31,
+      "word": "navigate",
+      "sentence": "Sailors navigate toward the harbor using a map and compass."
+    },
+    {
+      "wordId": "DAY19-32",
+      "no": 32,
+      "word": "reproduce",
+      "sentence": "Today, the printer can reproduce the drawing in perfect color."
+    },
+    {
+      "wordId": "DAY19-33",
+      "no": 33,
+      "word": "differ",
+      "sentence": "Today, these two leaves differ in shape and green color."
+    },
+    {
+      "wordId": "DAY19-34",
+      "no": 34,
+      "word": "instruction",
+      "sentence": "Each instruction gives one clear step for folding the crane."
+    },
+    {
+      "wordId": "DAY19-35",
+      "no": 35,
+      "word": "significant",
+      "sentence": "After the garden got sunlight, a significant change happened."
+    },
+    {
+      "wordId": "DAY19-36",
+      "no": 36,
+      "word": "satellite",
+      "sentence": "A satellite orbits a planet, unlike an asteroid around the Sun."
+    },
+    {
+      "wordId": "DAY19-37",
+      "no": 37,
+      "word": "demonstrate",
+      "sentence": "An instructor will demonstrate how magnets pull metal pins."
+    },
+    {
+      "wordId": "DAY19-38",
+      "no": 38,
+      "word": "emerge",
+      "sentence": "After warm rain, green shoots emerge from the soil."
+    },
+    {
+      "wordId": "DAY19-39",
+      "no": 39,
+      "word": "trigger",
+      "sentence": "Today, bright light can trigger the flowers to open wide."
+    },
+    {
+      "wordId": "DAY19-40",
+      "no": 40,
+      "word": "current",
+      "sentence": "Today, the current weather is perfect for a long walk."
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 8,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY08-21",
+      "no": 21,
+      "word": "conclude",
+      "sentence": "Readers conclude the cat escaped after finding paw prints outside."
+    },
+    {
+      "wordId": "DAY08-22",
+      "no": 22,
+      "word": "intend",
+      "sentence": "Before winter comes, the squirrels intend to build a nest."
+    },
+    {
+      "wordId": "DAY08-23",
+      "no": 23,
+      "word": "worth",
+      "sentence": "Today, the long climb was worth the beautiful mountain view."
+    },
+    {
+      "wordId": "DAY08-24",
+      "no": 24,
+      "word": "outcome",
+      "sentence": "The outcome of the helpful game made everybody smile cheerfully."
+    },
+    {
+      "wordId": "DAY08-25",
+      "no": 25,
+      "word": "honor",
+      "sentence": "Today, winning the kindness badge was a real honor for her."
+    },
+    {
+      "wordId": "DAY08-26",
+      "no": 26,
+      "word": "internal",
+      "sentence": "Today, the clock's internal gears turned smoothly behind the glass door."
+    },
+    {
+      "wordId": "DAY08-27",
+      "no": 27,
+      "word": "verbal",
+      "sentence": "The coach gives verbal directions, then the swimmer repeats them."
+    },
+    {
+      "wordId": "DAY08-28",
+      "no": 28,
+      "word": "besides",
+      "sentence": "Today, the soup smelled great; besides, it was warm and healthy."
+    },
+    {
+      "wordId": "DAY08-29",
+      "no": 29,
+      "word": "cure",
+      "sentence": "Warm soup helped cure the small dragon's sniffly nose."
+    },
+    {
+      "wordId": "DAY08-30",
+      "no": 30,
+      "word": "core",
+      "sentence": "Today, the apple core sat neatly on the small white plate."
+    }
+  ]
+}

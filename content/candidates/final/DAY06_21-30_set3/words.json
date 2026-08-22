@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 6,
+  "range": "21-30",
+  "set": 3,
+  "title": "DAY 06 · 21-30",
+  "words": [
+    {
+      "no": 21,
+      "word": "discouraged",
+      "partOfSpeech": "adj.",
+      "meaningKo": "낙담한",
+      "ipa": "/dɪsˈkɜːrɪdʒd/",
+      "definition": "feeling that you cannot succeed",
+      "sentence": "The young penguin felt discouraged after missing the first jump.",
+      "wordImage": "images/21_discouraged_word.png",
+      "sentenceImage": "images/21_discouraged_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 22,
+      "word": "stare",
+      "partOfSpeech": "v.",
+      "meaningKo": "응시하다",
+      "ipa": "/ster/",
+      "definition": "to look at something for a long time",
+      "sentence": "The owl will stare at the moon all night long.",
+      "wordImage": "images/22_stare_word.png",
+      "sentenceImage": "images/22_stare_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 23,
+      "word": "burst",
+      "partOfSpeech": "v.",
+      "meaningKo": "터지다",
+      "ipa": "/bɜːrst/",
+      "definition": "to break open suddenly",
+      "sentence": "The balloon may burst if you squeeze it too hard.",
+      "wordImage": "images/23_burst_word.png",
+      "sentenceImage": "images/23_burst_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 24,
+      "word": "miserable",
+      "partOfSpeech": "adj.",
+      "meaningKo": "비참한",
+      "ipa": "/ˈmɪzrəbl/",
+      "definition": "feeling very sad and uncomfortable",
+      "sentence": "The soggy scarecrow looked miserable in the long gray rain.",
+      "wordImage": "images/24_miserable_word.png",
+      "sentenceImage": "images/24_miserable_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 25,
+      "word": "embarrassed",
+      "partOfSpeech": "adj.",
+      "meaningKo": "당황한",
+      "ipa": "/ɪmˈbærəst/",
+      "definition": "feeling shy after doing something silly",
+      "sentence": "The clown felt embarrassed after tripping over his own shoes.",
+      "wordImage": "images/25_embarrassed_word.png",
+      "sentenceImage": "images/25_embarrassed_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 26,
+      "word": "hardly",
+      "partOfSpeech": "adv.",
+      "meaningKo": "거의 않다",
+      "ipa": "/ˈhɑːrdli/",
+      "definition": "almost not at all",
+      "sentence": "The tiny mouse could hardly reach the top shelf.",
+      "wordImage": "images/26_hardly_word.png",
+      "sentenceImage": "images/26_hardly_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 27,
+      "word": "panic",
+      "partOfSpeech": "n.",
+      "meaningKo": "당황",
+      "ipa": "/ˈpænɪk/",
+      "definition": "a sudden strong feeling of worry",
+      "sentence": "A small panic spread when the picnic basket went missing.",
+      "wordImage": "images/27_panic_word.png",
+      "sentenceImage": "images/27_panic_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 28,
+      "word": "correspond",
+      "partOfSpeech": "v.",
+      "meaningKo": "일치하다, 편지를 주고받다",
+      "ipa": "/ˌkɔːr.əˈspɑːnd/",
+      "definition": "to match something or communicate by writing letters",
+      "sentence": "The numbers on the map correspond to our list of landmarks.",
+      "wordImage": "images/28_correspond_word.png",
+      "sentenceImage": "images/28_correspond_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 29,
+      "word": "cruel",
+      "partOfSpeech": "adj.",
+      "meaningKo": "잔인한",
+      "ipa": "/ˈkruːəl/",
+      "definition": "not kind to others at all",
+      "sentence": "The story dragon was never cruel, only very shy.",
+      "wordImage": "images/29_cruel_word.png",
+      "sentenceImage": "images/29_cruel_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 30,
+      "word": "crucial",
+      "partOfSpeech": "adj.",
+      "meaningKo": "결정적인",
+      "ipa": "/ˈkruːʃl/",
+      "definition": "very important for something to work",
+      "sentence": "Water is a crucial part of every growing green plant.",
+      "wordImage": "images/30_crucial_word.png",
+      "sentenceImage": "images/30_crucial_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

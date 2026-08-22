@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 16,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY16-11",
+      "no": 11,
+      "word": "planet",
+      "sentence": "Mars is a rocky planet orbiting between Earth and giant Jupiter."
+    },
+    {
+      "wordId": "DAY16-12",
+      "no": 12,
+      "word": "conduct",
+      "sentence": "Students conduct a fair science test by changing only one variable."
+    },
+    {
+      "wordId": "DAY16-13",
+      "no": 13,
+      "word": "solid",
+      "sentence": "Ice is the solid form of water at low cold temperatures."
+    },
+    {
+      "wordId": "DAY16-14",
+      "no": 14,
+      "word": "eternal",
+      "sentence": "The stone pyramid seemed to stand in eternal stillness under stars."
+    },
+    {
+      "wordId": "DAY16-15",
+      "no": 15,
+      "word": "gravity",
+      "sentence": "Earth's gravity pulls the dropped apple downward toward the grassy lawn."
+    },
+    {
+      "wordId": "DAY16-16",
+      "no": 16,
+      "word": "melt",
+      "sentence": "Solid ice cubes melt quickly when placed in warm drinking water."
+    },
+    {
+      "wordId": "DAY16-17",
+      "no": 17,
+      "word": "astronaut",
+      "sentence": "The brave astronaut floated weightlessly outside the orbiting space station lab."
+    },
+    {
+      "wordId": "DAY16-18",
+      "no": 18,
+      "word": "smooth",
+      "sentence": "Wooden blocks slide easily across the smooth surface of the ramp."
+    },
+    {
+      "wordId": "DAY16-19",
+      "no": 19,
+      "word": "oxygen",
+      "sentence": "Green plants release fresh oxygen into the air during sunny daylight."
+    },
+    {
+      "wordId": "DAY16-20",
+      "no": 20,
+      "word": "support",
+      "sentence": "Four sturdy wooden legs support the heavy science laboratory work table."
+    }
+  ]
+}

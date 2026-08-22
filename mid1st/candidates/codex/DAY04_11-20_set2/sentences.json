@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 4,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY04-11",
+      "no": 11,
+      "word": "familiar",
+      "sentence": "Today, the path home felt familiar even in the evening fog."
+    },
+    {
+      "wordId": "DAY04-12",
+      "no": 12,
+      "word": "spread",
+      "sentence": "The brown bear will spread a blanket under the tall oak."
+    },
+    {
+      "wordId": "DAY04-13",
+      "no": 13,
+      "word": "divide",
+      "sentence": "Students divide twelve counters into three equal groups."
+    },
+    {
+      "wordId": "DAY04-14",
+      "no": 14,
+      "word": "retire",
+      "sentence": "The old ship captain plans to retire next to the sea."
+    },
+    {
+      "wordId": "DAY04-15",
+      "no": 15,
+      "word": "vision",
+      "sentence": "Today, an owl has sharp vision even on the darkest night."
+    },
+    {
+      "wordId": "DAY04-16",
+      "no": 16,
+      "word": "obstacle",
+      "sentence": "A fallen tree becomes the obstacle blocking the hero's goal."
+    },
+    {
+      "wordId": "DAY04-17",
+      "no": 17,
+      "word": "contrary",
+      "sentence": "Today, the two arrows pointed in contrary directions on the map."
+    },
+    {
+      "wordId": "DAY04-18",
+      "no": 18,
+      "word": "arrange",
+      "sentence": "Today, the florist will arrange yellow tulips inside a glass vase."
+    },
+    {
+      "wordId": "DAY04-19",
+      "no": 19,
+      "word": "attempt",
+      "sentence": "Now, the young climber will attempt the easy wall today."
+    },
+    {
+      "wordId": "DAY04-20",
+      "no": 20,
+      "word": "board",
+      "sentence": "Passengers board the bus after the driver opens its doors."
+    }
+  ]
+}

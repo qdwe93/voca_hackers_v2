@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 9,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY09-21",
+      "no": 21,
+      "word": "devote",
+      "sentence": "A student gardener will devote each morning to the rose beds."
+    },
+    {
+      "wordId": "DAY09-22",
+      "no": 22,
+      "word": "admit",
+      "sentence": "The young dog will admit that it ate the last biscuit."
+    },
+    {
+      "wordId": "DAY09-23",
+      "no": 23,
+      "word": "gender",
+      "sentence": "Students discuss how family and friends shape gender roles."
+    },
+    {
+      "wordId": "DAY09-24",
+      "no": 24,
+      "word": "permit",
+      "sentence": "The rule may permit speech unless it harms another student."
+    },
+    {
+      "wordId": "DAY09-25",
+      "no": 25,
+      "word": "spouse",
+      "sentence": "Today, the farmer and her spouse planted apple trees together."
+    },
+    {
+      "wordId": "DAY09-26",
+      "no": 26,
+      "word": "ultimate",
+      "sentence": "Now, reaching the sunny peak was the ultimate goal today."
+    },
+    {
+      "wordId": "DAY09-27",
+      "no": 27,
+      "word": "cheat",
+      "sentence": "Nobody wants to cheat during the helpful board game."
+    },
+    {
+      "wordId": "DAY09-28",
+      "no": 28,
+      "word": "extraordinary",
+      "sentence": "The small bird made an extraordinary nest from bright threads."
+    },
+    {
+      "wordId": "DAY09-29",
+      "no": 29,
+      "word": "ethnic",
+      "sentence": "The festival displayed ethnic dances from many faraway lands."
+    },
+    {
+      "wordId": "DAY09-30",
+      "no": 30,
+      "word": "ethical",
+      "sentence": "The ethical player returns extra points awarded by mistake."
+    }
+  ]
+}

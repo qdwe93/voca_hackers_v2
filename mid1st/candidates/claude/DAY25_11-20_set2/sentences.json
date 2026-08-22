@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 25,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY25-11",
+      "no": 11,
+      "word": "protect",
+      "sentence": "Fences protect the nesting beach so fewer turtle eggs disappear."
+    },
+    {
+      "wordId": "DAY25-12",
+      "no": 12,
+      "word": "loss",
+      "sentence": "The loss of old trees left this hillside bare."
+    },
+    {
+      "wordId": "DAY25-13",
+      "no": 13,
+      "word": "generate",
+      "sentence": "These panels generate electricity whenever bright sunlight hits them."
+    },
+    {
+      "wordId": "DAY25-14",
+      "no": 14,
+      "word": "amazed",
+      "sentence": "Students looked amazed when the cleaned stream showed small fish."
+    },
+    {
+      "wordId": "DAY25-15",
+      "no": 15,
+      "word": "harm",
+      "sentence": "Plastic rings can harm birds, so we cut them first."
+    },
+    {
+      "wordId": "DAY25-16",
+      "no": 16,
+      "word": "intense",
+      "sentence": "Intense afternoon sunlight dried the young rice plants quickly."
+    },
+    {
+      "wordId": "DAY25-17",
+      "no": 17,
+      "word": "amount",
+      "sentence": "We measured the amount of paper our class recycled weekly."
+    },
+    {
+      "wordId": "DAY25-18",
+      "no": 18,
+      "word": "marine",
+      "sentence": "Rising seas and plastic threaten marine life around small Pacific islands."
+    },
+    {
+      "wordId": "DAY25-19",
+      "no": 19,
+      "word": "permanent",
+      "sentence": "The new stone wall is permanent, unlike the summer sandbags."
+    },
+    {
+      "wordId": "DAY25-20",
+      "no": 20,
+      "word": "fine",
+      "sentence": "Anyone who dumps trash here pays the same fine."
+    }
+  ]
+}

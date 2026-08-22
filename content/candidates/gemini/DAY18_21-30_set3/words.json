@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 18,
+  "range": "21-30",
+  "set": 3,
+  "title": "DAY 18 · 21-30",
+  "words": [
+    {
+      "no": 21,
+      "word": "track",
+      "partOfSpeech": "n.",
+      "meaningKo": "경주로, 자국, 트랙",
+      "ipa": "/træk/",
+      "definition": "a prepared path for running races, or footprint trail marks",
+      "sentence": "Athletes ran around the red circular running track at stadium.",
+      "wordImage": "images/21_track_word.png",
+      "sentenceImage": "images/21_track_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 22,
+      "word": "perhaps",
+      "partOfSpeech": "adv.",
+      "meaningKo": "아마도, 어쩌면",
+      "ipa": "/pɚˈhæps/",
+      "definition": "used to say that something is possible or may happen",
+      "sentence": "Perhaps we can visit the science museum on sunny Saturday morning.",
+      "wordImage": "images/22_perhaps_word.png",
+      "sentenceImage": "images/22_perhaps_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 23,
+      "word": "bump",
+      "partOfSpeech": "v.",
+      "meaningKo": "부딪히다, 찧다",
+      "ipa": "/bʌmp/",
+      "definition": "to hit something with a light blow accidentally",
+      "sentence": "Walk carefully in the dark so you do not bump into furniture.",
+      "wordImage": "images/23_bump_word.png",
+      "sentenceImage": "images/23_bump_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 24,
+      "word": "alert",
+      "partOfSpeech": "adj.",
+      "meaningKo": "기민한, 방심하지 않는",
+      "ipa": "/əˈlɝːt/",
+      "definition": "quick to see, understand, and act in a particular situation",
+      "sentence": "The guard dog remained alert and listened to every rustling leaf.",
+      "wordImage": "images/24_alert_word.png",
+      "sentenceImage": "images/24_alert_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 25,
+      "word": "slip",
+      "partOfSpeech": "v.",
+      "meaningKo": "미끄러지다, 살짝 들어가다",
+      "ipa": "/slɪp/",
+      "definition": "to slide accidentally on a wet or smooth surface",
+      "sentence": "Walk slowly on the icy sidewalk so you do not slip.",
+      "wordImage": "images/25_slip_word.png",
+      "sentenceImage": "images/25_slip_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 26,
+      "word": "modest",
+      "partOfSpeech": "adj.",
+      "meaningKo": "겸손한, 알맞은",
+      "ipa": "/ˈmɑː.dɪst/",
+      "definition": "not talking proudly about your own abilities or possessions",
+      "sentence": "The talented chess champion gave a modest smile after winning.",
+      "wordImage": "images/26_modest_word.png",
+      "sentenceImage": "images/26_modest_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 27,
+      "word": "disabled",
+      "partOfSpeech": "adj.",
+      "meaningKo": "장애가 있는",
+      "ipa": "/dɪˈseɪ.bəld/",
+      "definition": "having an illness or condition that makes some activities difficult",
+      "sentence": "The modern school has wide ramps to assist disabled wheelchair students.",
+      "wordImage": "images/27_disabled_word.png",
+      "sentenceImage": "images/27_disabled_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 28,
+      "word": "rapid",
+      "partOfSpeech": "adj.",
+      "meaningKo": "빠른, 신속한",
+      "ipa": "/ˈræp.ɪd/",
+      "definition": "happening in a short time or at a great speed",
+      "sentence": "The cheetah made a rapid dash across the sunny savanna grass.",
+      "wordImage": "images/28_rapid_word.png",
+      "sentenceImage": "images/28_rapid_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 29,
+      "word": "spin",
+      "partOfSpeech": "v.",
+      "meaningKo": "회전하다, 돌리다",
+      "ipa": "/spɪn/",
+      "definition": "to turn around and around quickly in a circular motion",
+      "sentence": "Children love to spin the colorful spinning top on wooden floor.",
+      "wordImage": "images/29_spin_word.png",
+      "sentenceImage": "images/29_spin_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 30,
+      "word": "spine",
+      "partOfSpeech": "n.",
+      "meaningKo": "척추, 등뼈, 책등",
+      "ipa": "/spaɪn/",
+      "definition": "the line of bones down the center of the back",
+      "sentence": "Sitting with good posture keeps your backbone spine healthy and straight.",
+      "wordImage": "images/30_spine_word.png",
+      "sentenceImage": "images/30_spine_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

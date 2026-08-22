@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 28,
+  "range": "21-30",
+  "set": 3,
+  "title": "DAY 28 · 21-30",
+  "words": [
+    {
+      "no": 21,
+      "word": "cancel",
+      "partOfSpeech": "v.",
+      "meaningKo": "취소하다",
+      "ipa": "/ˈkænsl/",
+      "definition": "to stop a plan that was made",
+      "sentence": "Heavy fog made the sailors cancel the morning trip.",
+      "wordImage": "images/21_cancel_word.png",
+      "sentenceImage": "images/21_cancel_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 22,
+      "word": "replace",
+      "partOfSpeech": "v.",
+      "meaningKo": "교체하다",
+      "ipa": "/rɪˈpleɪs/",
+      "definition": "to put a new thing in place",
+      "sentence": "The carpenter will replace the cracked wooden step today.",
+      "wordImage": "images/22_replace_word.png",
+      "sentenceImage": "images/22_replace_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 23,
+      "word": "property",
+      "partOfSpeech": "n.",
+      "meaningKo": "재산",
+      "ipa": "/ˈprɑːpərti/",
+      "definition": "things that belong to a person",
+      "sentence": "The old bicycle was her favorite property of all.",
+      "wordImage": "images/23_property_word.png",
+      "sentenceImage": "images/23_property_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 24,
+      "word": "refund",
+      "partOfSpeech": "n.",
+      "meaningKo": "환불",
+      "ipa": "/ˈriːfʌnd/",
+      "definition": "money given back to a buyer",
+      "sentence": "The shop gave a refund for the broken umbrella.",
+      "wordImage": "images/24_refund_word.png",
+      "sentenceImage": "images/24_refund_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 25,
+      "word": "branch",
+      "partOfSpeech": "n.",
+      "meaningKo": "나뭇가지",
+      "ipa": "/bræntʃ/",
+      "definition": "an arm of a tree with leaves",
+      "sentence": "A robin sang on the highest branch this morning.",
+      "wordImage": "images/25_branch_word.png",
+      "sentenceImage": "images/25_branch_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 26,
+      "word": "recover",
+      "partOfSpeech": "v.",
+      "meaningKo": "회복하다",
+      "ipa": "/rɪˈkʌvər/",
+      "definition": "to get better after a hard time",
+      "sentence": "The garden will recover quickly after the gentle rain.",
+      "wordImage": "images/26_recover_word.png",
+      "sentenceImage": "images/26_recover_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 27,
+      "word": "hardship",
+      "partOfSpeech": "n.",
+      "meaningKo": "어려움",
+      "ipa": "/ˈhɑːrdʃɪp/",
+      "definition": "a time when life is difficult",
+      "sentence": "The long winter hardship ended with warm spring days.",
+      "wordImage": "images/27_hardship_word.png",
+      "sentenceImage": "images/27_hardship_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 28,
+      "word": "assemble",
+      "partOfSpeech": "v.",
+      "meaningKo": "조립하다",
+      "ipa": "/əˈsembl/",
+      "definition": "to put parts together to make something",
+      "sentence": "The children assemble a wooden model of a windmill.",
+      "wordImage": "images/28_assemble_word.png",
+      "sentenceImage": "images/28_assemble_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 29,
+      "word": "proceed",
+      "partOfSpeech": "v.",
+      "meaningKo": "진행하다",
+      "ipa": "/prəˈsiːd/",
+      "definition": "to keep going forward with something",
+      "sentence": "The parade will proceed along the main street now.",
+      "wordImage": "images/29_proceed_word.png",
+      "sentenceImage": "images/29_proceed_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 30,
+      "word": "precede",
+      "partOfSpeech": "v.",
+      "meaningKo": "앞서다",
+      "ipa": "/prɪˈsiːd/",
+      "definition": "to come before something else",
+      "sentence": "Bright lightning will precede the sound of the thunder.",
+      "wordImage": "images/30_precede_word.png",
+      "sentenceImage": "images/30_precede_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

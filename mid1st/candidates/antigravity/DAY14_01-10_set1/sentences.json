@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 14,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY14-01",
+      "no": 1,
+      "word": "ancient",
+      "sentence": "Archaeologists uncovered ancient stone tools in the deep mountain cave."
+    },
+    {
+      "wordId": "DAY14-02",
+      "no": 2,
+      "word": "tradition",
+      "sentence": "Making kimchi together in autumn is a long-standing Korean tradition."
+    },
+    {
+      "wordId": "DAY14-03",
+      "no": 3,
+      "word": "origin",
+      "sentence": "Scholars research the historical origin of the ancient silk trade."
+    },
+    {
+      "wordId": "DAY14-04",
+      "no": 4,
+      "word": "folk",
+      "sentence": "The museum displayed colorful folk paintings from the rural countryside."
+    },
+    {
+      "wordId": "DAY14-05",
+      "no": 5,
+      "word": "device",
+      "sentence": "Inventors designed an ingenious mechanical device to measure solar time."
+    },
+    {
+      "wordId": "DAY14-06",
+      "no": 6,
+      "word": "usual",
+      "sentence": "He woke up at his usual early hour before sunrise."
+    },
+    {
+      "wordId": "DAY14-07",
+      "no": 7,
+      "word": "ritual",
+      "sentence": "Villagers performed an ancient ritual to pray for abundant rain."
+    },
+    {
+      "wordId": "DAY14-08",
+      "no": 8,
+      "word": "entire",
+      "sentence": "The wildfire destroyed the entire forest habitat within three days."
+    },
+    {
+      "wordId": "DAY14-09",
+      "no": 9,
+      "word": "region",
+      "sentence": "This arid region receives very little annual rainfall throughout seasons."
+    },
+    {
+      "wordId": "DAY14-10",
+      "no": 10,
+      "word": "religion",
+      "sentence": "Buddhism is a prominent religion practiced across many Asian nations."
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 6,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY06-11",
+      "no": 11,
+      "word": "object",
+      "sentence": "The smallest object in the box is a wooden button."
+    },
+    {
+      "wordId": "DAY06-12",
+      "no": 12,
+      "word": "disappointed",
+      "sentence": "Fans looked disappointed when the concert ended after two songs."
+    },
+    {
+      "wordId": "DAY06-13",
+      "no": 13,
+      "word": "anxious",
+      "sentence": "Waiting for test results made my brother anxious all morning."
+    },
+    {
+      "wordId": "DAY06-14",
+      "no": 14,
+      "word": "insist",
+      "sentence": "Some speakers insist loudly, but good talkers wait for their turn."
+    },
+    {
+      "wordId": "DAY06-15",
+      "no": 15,
+      "word": "sudden",
+      "sentence": "A sudden rain shower stopped our picnic in one minute."
+    },
+    {
+      "wordId": "DAY06-16",
+      "no": 16,
+      "word": "immediate",
+      "sentence": "Pressing this button brings an immediate answer from the front desk."
+    },
+    {
+      "wordId": "DAY06-17",
+      "no": 17,
+      "word": "appreciate",
+      "sentence": "We appreciate the volunteers who carried our heavy boxes upstairs."
+    },
+    {
+      "wordId": "DAY06-18",
+      "no": 18,
+      "word": "pale",
+      "sentence": "The morning sky turned a pale pink above the hills."
+    },
+    {
+      "wordId": "DAY06-19",
+      "no": 19,
+      "word": "purpose",
+      "sentence": "Our purpose today is choosing next month's reading book."
+    },
+    {
+      "wordId": "DAY06-20",
+      "no": 20,
+      "word": "race",
+      "sentence": "Two turtles finished the slow race side by side."
+    }
+  ]
+}

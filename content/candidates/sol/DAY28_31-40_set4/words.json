@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 28,
+  "range": "31-40",
+  "set": 4,
+  "title": "DAY 28 · 31-40",
+  "words": [
+    {
+      "no": 31,
+      "word": "stir",
+      "partOfSpeech": "v.",
+      "meaningKo": "젓다",
+      "definition": "to mix something by moving a tool around",
+      "sentence": "The cook will stir the soup with a wooden spoon.",
+      "ipa": "/stɝ/",
+      "wordImage": "images/31_stir_word.png",
+      "sentenceImage": "images/31_stir_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 32,
+      "word": "independent",
+      "partOfSpeech": "adj.",
+      "meaningKo": "독립적인",
+      "definition": "free from control or help by others",
+      "sentence": "The independent robot completes every household task alone.",
+      "ipa": "/ɪndɪpɛndənt/",
+      "wordImage": "images/32_independent_word.png",
+      "sentenceImage": "images/32_independent_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 33,
+      "word": "overall",
+      "partOfSpeech": "adj.",
+      "meaningKo": "전체적인",
+      "definition": "considering everything or the whole",
+      "sentence": "The overall shape of the building resembles a circle.",
+      "ipa": "/oʊvɚɔl/",
+      "wordImage": "images/33_overall_word.png",
+      "sentenceImage": "images/33_overall_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 34,
+      "word": "approach",
+      "partOfSpeech": "v.",
+      "meaningKo": "다가가다",
+      "definition": "to move closer to someone or something",
+      "sentence": "The train will approach the station along the curved track.",
+      "ipa": "/əproʊtʃ/",
+      "wordImage": "images/34_approach_word.png",
+      "sentenceImage": "images/34_approach_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 35,
+      "word": "challenge",
+      "partOfSpeech": "n.",
+      "meaningKo": "도전",
+      "definition": "a difficult task testing ability",
+      "sentence": "The tall climbing wall presents a challenge for the athlete.",
+      "ipa": "/tʃæləndʒ/",
+      "wordImage": "images/35_challenge_word.png",
+      "sentenceImage": "images/35_challenge_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 36,
+      "word": "impact",
+      "partOfSpeech": "n.",
+      "meaningKo": "영향",
+      "definition": "a strong effect on someone or something",
+      "sentence": "The new bridge has a positive impact on village travel.",
+      "ipa": "/ɪmpækt/",
+      "wordImage": "images/36_impact_word.png",
+      "sentenceImage": "images/36_impact_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 37,
+      "word": "accelerate",
+      "partOfSpeech": "v.",
+      "meaningKo": "속도를 높이다",
+      "definition": "to begin moving faster",
+      "sentence": "The bicycle will accelerate down the gentle slope.",
+      "ipa": "/æksɛlɚeɪt/",
+      "wordImage": "images/37_accelerate_word.png",
+      "sentenceImage": "images/37_accelerate_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 38,
+      "word": "collapse",
+      "partOfSpeech": "v.",
+      "meaningKo": "무너지다",
+      "definition": "to suddenly fall down",
+      "sentence": "The unstable block tower will collapse onto the soft mat.",
+      "ipa": "/kəlæps/",
+      "wordImage": "images/38_collapse_word.png",
+      "sentenceImage": "images/38_collapse_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 39,
+      "word": "purchase",
+      "partOfSpeech": "v.",
+      "meaningKo": "구매하다",
+      "definition": "to buy something",
+      "sentence": "The shopper will purchase fresh bread with three coins.",
+      "ipa": "/pɝtʃəs/",
+      "wordImage": "images/39_purchase_word.png",
+      "sentenceImage": "images/39_purchase_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 40,
+      "word": "account",
+      "partOfSpeech": "n.",
+      "meaningKo": "계좌",
+      "definition": "a record of money kept by a bank",
+      "sentence": "The child saves coins in a new bank account.",
+      "ipa": "/əkaʊnt/",
+      "wordImage": "images/40_account_word.png",
+      "sentenceImage": "images/40_account_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

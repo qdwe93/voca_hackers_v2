@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 22,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY22-11",
+      "no": 11,
+      "word": "huge",
+      "sentence": "A huge blue whale surfaced to breathe in chilly ocean waters."
+    },
+    {
+      "wordId": "DAY22-12",
+      "no": 12,
+      "word": "pile",
+      "sentence": "Workers stacked a neat pile of dry firewood near the cabin."
+    },
+    {
+      "wordId": "DAY22-13",
+      "no": 13,
+      "word": "react",
+      "sentence": "Plant leaves react to sunlight by turning slowly toward the window."
+    },
+    {
+      "wordId": "DAY22-14",
+      "no": 14,
+      "word": "exist",
+      "sentence": "Countless microscopic bacterial organisms exist within rich fertile forest soil layers."
+    },
+    {
+      "wordId": "DAY22-15",
+      "no": 15,
+      "word": "shade",
+      "sentence": "Hikers rested under the cooling shade of a tall pine tree."
+    },
+    {
+      "wordId": "DAY22-16",
+      "no": 16,
+      "word": "element",
+      "sentence": "Carbon is a fundamental chemical element in all organic living molecules."
+    },
+    {
+      "wordId": "DAY22-17",
+      "no": 17,
+      "word": "layer",
+      "sentence": "Fallen leaves form a thick protective layer over garden soil beds."
+    },
+    {
+      "wordId": "DAY22-18",
+      "no": 18,
+      "word": "horizon",
+      "sentence": "The sun dipped below the distant ocean horizon at twilight hour."
+    },
+    {
+      "wordId": "DAY22-19",
+      "no": 19,
+      "word": "observe",
+      "sentence": "Scientists observe animal behavior in natural habitats to record daily habits."
+    },
+    {
+      "wordId": "DAY22-20",
+      "no": 20,
+      "word": "block",
+      "sentence": "Tall mountain ridges block cold polar winds from entering the valley."
+    }
+  ]
+}

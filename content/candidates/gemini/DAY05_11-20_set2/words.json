@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 5,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 05 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "rather",
+      "partOfSpeech": "adv.",
+      "meaningKo": "오히려, 다소",
+      "ipa": "/ˈræð.ɚ/",
+      "definition": "more accurately or to some degree",
+      "sentence": "She would rather read a mystery book than watch TV.",
+      "wordImage": "images/11_rather_word.png",
+      "sentenceImage": "images/11_rather_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "straight",
+      "partOfSpeech": "adj.",
+      "meaningKo": "똑바른, 곧은",
+      "ipa": "/streɪt/",
+      "definition": "continuing in one direction without bending or turning",
+      "sentence": "Draw a straight line across the paper with a ruler.",
+      "wordImage": "images/12_straight_word.png",
+      "sentenceImage": "images/12_straight_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "meanwhile",
+      "partOfSpeech": "adv.",
+      "meaningKo": "그동안에, 한편",
+      "ipa": "/ˈmiːn.waɪl/",
+      "definition": "in the period of time between two events",
+      "sentence": "The soup simmered, and meanwhile she chopped fresh green lettuce.",
+      "wordImage": "images/13_meanwhile_word.png",
+      "sentenceImage": "images/13_meanwhile_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "continuous",
+      "partOfSpeech": "adj.",
+      "meaningKo": "연속적인, 끊임없는",
+      "ipa": "/kənˈtɪn.ju.əs/",
+      "definition": "going on without stopping or having any breaks",
+      "sentence": "The garden fountain produces a peaceful continuous sound of water.",
+      "wordImage": "images/14_continuous_word.png",
+      "sentenceImage": "images/14_continuous_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "ordinary",
+      "partOfSpeech": "adj.",
+      "meaningKo": "평범한, 보통의",
+      "ipa": "/ˈɔːr.dən.er.i/",
+      "definition": "not special, different, or unusual in any way",
+      "sentence": "It looked like an ordinary brown pebble until it sparkled.",
+      "wordImage": "images/15_ordinary_word.png",
+      "sentenceImage": "images/15_ordinary_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "relationship",
+      "partOfSpeech": "n.",
+      "meaningKo": "관계",
+      "ipa": "/rɪˈleɪ.ʃən.ʃɪp/",
+      "definition": "the way in which two people or things are connected",
+      "sentence": "The two classmates built a strong friendly relationship this year.",
+      "wordImage": "images/16_relationship_word.png",
+      "sentenceImage": "images/16_relationship_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "throat",
+      "partOfSpeech": "n.",
+      "meaningKo": "목구멍, 목",
+      "ipa": "/θroʊt/",
+      "definition": "the front of the neck or passage inside for swallowing",
+      "sentence": "A spoonful of sweet honey soothed his dry sore throat.",
+      "wordImage": "images/17_throat_word.png",
+      "sentenceImage": "images/17_throat_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "encounter",
+      "partOfSpeech": "v.",
+      "meaningKo": "마주치다, 우연히 만나다",
+      "ipa": "/ɪnˈkaʊn.t̬ɚ/",
+      "definition": "to meet someone or experience something unexpectedly",
+      "sentence": "Hikers may encounter curious deer while walking along this trail.",
+      "wordImage": "images/18_encounter_word.png",
+      "sentenceImage": "images/18_encounter_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "disturb",
+      "partOfSpeech": "v.",
+      "meaningKo": "방해하다, 어지럽히다",
+      "ipa": "/dɪˈstɝːb/",
+      "definition": "to interrupt what someone is doing or make them worry",
+      "sentence": "Please walk quietly so you do not disturb sleeping babies.",
+      "wordImage": "images/19_disturb_word.png",
+      "sentenceImage": "images/19_disturb_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "lead",
+      "partOfSpeech": "v.",
+      "meaningKo": "이끌다, 안내하다",
+      "ipa": "/liːd/",
+      "definition": "to guide someone to a place by going in front",
+      "sentence": "The experienced scout will lead the group through the woods.",
+      "wordImage": "images/20_lead_word.png",
+      "sentenceImage": "images/20_lead_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

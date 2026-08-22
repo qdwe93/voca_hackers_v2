@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 20,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY20-21",
+      "no": 21,
+      "word": "license",
+      "sentence": "Drivers must carry a valid driver's license while operating any vehicle."
+    },
+    {
+      "wordId": "DAY20-22",
+      "no": 22,
+      "word": "construction",
+      "sentence": "Highway construction workers repair asphalt pavement to ensure safe driving conditions."
+    },
+    {
+      "wordId": "DAY20-23",
+      "no": 23,
+      "word": "wireless",
+      "sentence": "Smartphones connect to wireless local area networks for high-speed internet access."
+    },
+    {
+      "wordId": "DAY20-24",
+      "no": 24,
+      "word": "nevertheless",
+      "sentence": "The rain poured heavily; nevertheless, the train arrived exactly on time."
+    },
+    {
+      "wordId": "DAY20-25",
+      "no": 25,
+      "word": "barrier",
+      "sentence": "A concrete sound barrier reduces highway noise for nearby residential neighborhoods."
+    },
+    {
+      "wordId": "DAY20-26",
+      "no": 26,
+      "word": "lift",
+      "sentence": "Cranes lift heavy steel construction girders to the upper building floors."
+    },
+    {
+      "wordId": "DAY20-27",
+      "no": 27,
+      "word": "curved",
+      "sentence": "The highway follows a gently curved path along the scenic coastline."
+    },
+    {
+      "wordId": "DAY20-28",
+      "no": 28,
+      "word": "eliminate",
+      "sentence": "Modern transit authorities work to eliminate unnecessary delays on commuter routes."
+    },
+    {
+      "wordId": "DAY20-29",
+      "no": 29,
+      "word": "commit",
+      "sentence": "Airlines commit to strict maintenance inspection schedules to ensure flight safety."
+    },
+    {
+      "wordId": "DAY20-30",
+      "no": 30,
+      "word": "commute",
+      "sentence": "Thousands of suburban workers commute to downtown offices by subway daily."
+    }
+  ]
+}

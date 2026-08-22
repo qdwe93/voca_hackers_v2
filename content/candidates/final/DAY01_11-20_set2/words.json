@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 1,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 01 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "sweep",
+      "partOfSpeech": "v.",
+      "meaningKo": "쓸다",
+      "ipa": "/swiːp/",
+      "definition": "to clean a floor with a broom",
+      "sentence": "The elephant used its trunk to sweep the dusty porch.",
+      "wordImage": "images/11_sweep_word.png",
+      "sentenceImage": "images/11_sweep_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "glance",
+      "partOfSpeech": "v.",
+      "meaningKo": "흘끗 보다",
+      "ipa": "/ɡlæns/",
+      "definition": "to look at something very quickly",
+      "sentence": "She stopped to glance at the shiny toy in the window.",
+      "wordImage": "images/12_glance_word.png",
+      "sentenceImage": "images/12_glance_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "match",
+      "partOfSpeech": "v.",
+      "meaningKo": "어울리다",
+      "ipa": "/mætʃ/",
+      "definition": "to look good together",
+      "sentence": "Those yellow boots match the color of the raincoat perfectly.",
+      "wordImage": "images/13_match_word.png",
+      "sentenceImage": "images/13_match_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "furniture",
+      "partOfSpeech": "n.",
+      "meaningKo": "가구",
+      "ipa": "/ˈfɜːrnɪtʃər/",
+      "definition": "chairs, tables, and beds inside a home",
+      "sentence": "The mice carried tiny furniture into their cozy tree house.",
+      "wordImage": "images/14_furniture_word.png",
+      "sentenceImage": "images/14_furniture_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "manual",
+      "partOfSpeech": "n.",
+      "meaningKo": "설명서",
+      "ipa": "/ˈmænjuəl/",
+      "definition": "a book that explains how to use something",
+      "sentence": "The robot read a thick manual before building the shelf.",
+      "wordImage": "images/15_manual_word.png",
+      "sentenceImage": "images/15_manual_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "value",
+      "partOfSpeech": "n.",
+      "meaningKo": "가치",
+      "ipa": "/ˈvæljuː/",
+      "definition": "how much something is worth",
+      "sentence": "The old coin has great value to the young collector.",
+      "wordImage": "images/16_value_word.png",
+      "sentenceImage": "images/16_value_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "pot",
+      "partOfSpeech": "n.",
+      "meaningKo": "냄비",
+      "ipa": "/pɑːt/",
+      "definition": "a deep round container used for cooking",
+      "sentence": "A big pot of soup bubbled slowly on the stove.",
+      "wordImage": "images/17_pot_word.png",
+      "sentenceImage": "images/17_pot_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "grocery",
+      "partOfSpeech": "n.",
+      "meaningKo": "식료품",
+      "ipa": "/ˈɡroʊsəri/",
+      "definition": "food and drinks you buy at a store",
+      "sentence": "The fox filled a grocery bag with apples and bread.",
+      "wordImage": "images/18_grocery_word.png",
+      "sentenceImage": "images/18_grocery_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "striped",
+      "partOfSpeech": "adj.",
+      "meaningKo": "줄무늬의",
+      "ipa": "/straɪpt/",
+      "definition": "having lines of different colors",
+      "sentence": "A striped tiger cub rolled happily across the soft grass.",
+      "wordImage": "images/19_striped_word.png",
+      "sentenceImage": "images/19_striped_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "mind",
+      "partOfSpeech": "n.",
+      "meaningKo": "마음",
+      "definition": "the part of a person that thinks and remembers",
+      "sentence": "A student holds a puzzle while ideas fill his mind.",
+      "ipa": "/maɪnd/",
+      "wordImage": "images/20_mind_word.png",
+      "sentenceImage": "images/20_mind_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

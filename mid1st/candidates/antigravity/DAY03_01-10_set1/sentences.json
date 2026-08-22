@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 3,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY03-01",
+      "no": 1,
+      "word": "journey",
+      "sentence": "Our family began a long train journey to the seaside town."
+    },
+    {
+      "wordId": "DAY03-02",
+      "no": 2,
+      "word": "theater",
+      "sentence": "We watched an exciting musical at the downtown city theater."
+    },
+    {
+      "wordId": "DAY03-03",
+      "no": 3,
+      "word": "fee",
+      "sentence": "Visitors must pay an entrance fee before entering the modern museum."
+    },
+    {
+      "wordId": "DAY03-04",
+      "no": 4,
+      "word": "prepare",
+      "sentence": "The young hikers prepare their backpacks before climbing the green mountain."
+    },
+    {
+      "wordId": "DAY03-05",
+      "no": 5,
+      "word": "surprised",
+      "sentence": "He looked surprised when his friends gave him a birthday gift."
+    },
+    {
+      "wordId": "DAY03-06",
+      "no": 6,
+      "word": "receive",
+      "sentence": "Winners will receive a shiny medal at the end of competition."
+    },
+    {
+      "wordId": "DAY03-07",
+      "no": 7,
+      "word": "nervous",
+      "sentence": "The young pianist felt nervous right before walking onto stage."
+    },
+    {
+      "wordId": "DAY03-08",
+      "no": 8,
+      "word": "stage",
+      "sentence": "The actors bowed together on stage after the final scene ended."
+    },
+    {
+      "wordId": "DAY03-09",
+      "no": 9,
+      "word": "vacation",
+      "sentence": "Our family planned a restful summer vacation at the peaceful beach."
+    },
+    {
+      "wordId": "DAY03-10",
+      "no": 10,
+      "word": "vocation",
+      "sentence": "She discovered her true vocation as a caring wildlife photographer."
+    }
+  ]
+}

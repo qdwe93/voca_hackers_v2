@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "selection-row.schema.json",
+  "title": "mid1st final selection JSONL row",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["wordId", "selectedAuthor", "sentenceOverride", "note"],
+  "properties": {
+    "wordId": { "type": "string", "pattern": "^DAY(0[1-9]|[12][0-9]|30)-(0[1-9]|[1-3][0-9]|40)$" },
+    "selectedAuthor": {
+      "enum": ["codex", "antigravity", "claude", "baseline", "manual"]
+    },
+    "sentenceOverride": { "type": ["string", "null"] },
+    "note": { "type": "string", "pattern": "^(auto|reviewRequired):\\s*\\S" }
+  },
+  "allOf": [
+    {
+      "if": { "properties": { "selectedAuthor": { "const": "manual" } } },
+      "then": { "properties": { "sentenceOverride": { "type": "string", "minLength": 1 } } },
+      "else": { "properties": { "sentenceOverride": { "type": "null" } } }
+    }
+  ]
+}

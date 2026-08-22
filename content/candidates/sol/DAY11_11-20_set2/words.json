@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 11,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 11 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "fit",
+      "partOfSpeech": "v.",
+      "meaningKo": "맞다",
+      "definition": "to be the correct size or shape",
+      "sentence": "The final puzzle piece will fit the empty space.",
+      "ipa": "/fɪt/",
+      "wordImage": "images/11_fit_word.png",
+      "sentenceImage": "images/11_fit_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "movement",
+      "partOfSpeech": "n.",
+      "meaningKo": "움직임",
+      "definition": "a change in position or place",
+      "sentence": "The dancer's smooth movement follows the flowing ribbon.",
+      "ipa": "/muvmənt/",
+      "wordImage": "images/12_movement_word.png",
+      "sentenceImage": "images/12_movement_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "brilliant",
+      "partOfSpeech": "adj.",
+      "meaningKo": "훌륭한",
+      "definition": "extremely clever impressive or bright",
+      "sentence": "The inventor presents a brilliant machine that sorts marbles.",
+      "ipa": "/brɪljənt/",
+      "wordImage": "images/13_brilliant_word.png",
+      "sentenceImage": "images/13_brilliant_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "prior",
+      "partOfSpeech": "adj.",
+      "meaningKo": "이전의",
+      "definition": "happening or existing before something else",
+      "sentence": "A prior sketch hangs beside the completed painting.",
+      "ipa": "/praɪɚ/",
+      "wordImage": "images/14_prior_word.png",
+      "sentenceImage": "images/14_prior_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "outline",
+      "partOfSpeech": "n.",
+      "meaningKo": "개요",
+      "definition": "a short plan showing the main ideas",
+      "sentence": "The student arranges picture cards into a story outline.",
+      "ipa": "/aʊtlaɪn/",
+      "wordImage": "images/15_outline_word.png",
+      "sentenceImage": "images/15_outline_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "sort",
+      "partOfSpeech": "v.",
+      "meaningKo": "분류하다",
+      "definition": "to arrange things into groups",
+      "sentence": "The robot will sort blocks by color and shape.",
+      "ipa": "/sɔrt/",
+      "wordImage": "images/16_sort_word.png",
+      "sentenceImage": "images/16_sort_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "portrait",
+      "partOfSpeech": "n.",
+      "meaningKo": "초상화",
+      "definition": "a picture of a particular person",
+      "sentence": "The artist paints a portrait of the seated teacher.",
+      "ipa": "/pɔrtrət/",
+      "wordImage": "images/17_portrait_word.png",
+      "sentenceImage": "images/17_portrait_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "tale",
+      "partOfSpeech": "n.",
+      "meaningKo": "이야기",
+      "definition": "a story about imaginary or exciting events",
+      "sentence": "The grandfather tells a tale about a flying whale.",
+      "ipa": "/teɪl/",
+      "wordImage": "images/18_tale_word.png",
+      "sentenceImage": "images/18_tale_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "add",
+      "partOfSpeech": "v.",
+      "meaningKo": "더하다",
+      "definition": "to put something together with something else",
+      "sentence": "The cook will add chopped carrots to the soup.",
+      "ipa": "/æd/",
+      "wordImage": "images/19_add_word.png",
+      "sentenceImage": "images/19_add_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "volume",
+      "partOfSpeech": "n.",
+      "meaningKo": "권",
+      "definition": "a book that belongs to a larger set",
+      "sentence": "The librarian returns one volume to the encyclopedia shelf.",
+      "ipa": "/vɑljum/",
+      "wordImage": "images/20_volume_word.png",
+      "sentenceImage": "images/20_volume_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

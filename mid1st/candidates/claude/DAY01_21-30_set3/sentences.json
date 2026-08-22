@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 1,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY01-21",
+      "no": 21,
+      "word": "receipt",
+      "sentence": "The store clerk handed me a receipt for two bread loaves."
+    },
+    {
+      "wordId": "DAY01-22",
+      "no": 22,
+      "word": "bitter",
+      "sentence": "This dark chocolate tastes bitter, not sweet at all."
+    },
+    {
+      "wordId": "DAY01-23",
+      "no": 23,
+      "word": "appearance",
+      "sentence": "A new haircut changed the appearance of our friendly neighbor."
+    },
+    {
+      "wordId": "DAY01-24",
+      "no": 24,
+      "word": "iron",
+      "sentence": "Heat moves from the hot iron into the shirt, flattening wrinkles."
+    },
+    {
+      "wordId": "DAY01-25",
+      "no": 25,
+      "word": "palm",
+      "sentence": "Warm rice sits in my palm before I shape it."
+    },
+    {
+      "wordId": "DAY01-26",
+      "no": 26,
+      "word": "fancy",
+      "sentence": "The dining table looks fancy with lace cloth and gold plates."
+    },
+    {
+      "wordId": "DAY01-27",
+      "no": 27,
+      "word": "soak",
+      "sentence": "Before washing, we soak the dirty socks in soapy water."
+    },
+    {
+      "wordId": "DAY01-28",
+      "no": 28,
+      "word": "appeal",
+      "sentence": "Soft cotton pajamas appeal to shoppers who want comfortable sleep."
+    },
+    {
+      "wordId": "DAY01-29",
+      "no": 29,
+      "word": "compare",
+      "sentence": "We compare two winter coats by warmth and name one difference."
+    },
+    {
+      "wordId": "DAY01-30",
+      "no": 30,
+      "word": "compel",
+      "sentence": "Heavy rain can compel us to eat lunch inside today."
+    }
+  ]
+}

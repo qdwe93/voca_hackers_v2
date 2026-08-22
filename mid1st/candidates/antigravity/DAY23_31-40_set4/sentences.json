@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 23,
+  "range": "31-40",
+  "set": 4,
+  "items": [
+    {
+      "wordId": "DAY23-31",
+      "no": 31,
+      "word": "forecast",
+      "sentence": "The weather forecast calls for sunny skies throughout the entire weekend."
+    },
+    {
+      "wordId": "DAY23-32",
+      "no": 32,
+      "word": "incident",
+      "sentence": "The forest ranger reported a minor rockslide incident on the road."
+    },
+    {
+      "wordId": "DAY23-33",
+      "no": 33,
+      "word": "continent",
+      "sentence": "Asia is the largest and most populous continent on planet Earth."
+    },
+    {
+      "wordId": "DAY23-34",
+      "no": 34,
+      "word": "spoil",
+      "sentence": "Warm humid conditions will spoil fresh dairy milk if left unrefrigerated."
+    },
+    {
+      "wordId": "DAY23-35",
+      "no": 35,
+      "word": "tremendous",
+      "sentence": "The melting continental ice sheet releases a tremendous volume of water."
+    },
+    {
+      "wordId": "DAY23-36",
+      "no": 36,
+      "word": "steep",
+      "sentence": "Hikers climbed the steep mountain trail with sturdy walking poles carefully."
+    },
+    {
+      "wordId": "DAY23-37",
+      "no": 37,
+      "word": "territory",
+      "sentence": "Eagles defend a vast hunting territory against other predatory raptor birds."
+    },
+    {
+      "wordId": "DAY23-38",
+      "no": 38,
+      "word": "split",
+      "sentence": "A deep geological rift began to split the ancient continental bedrock."
+    },
+    {
+      "wordId": "DAY23-39",
+      "no": 39,
+      "word": "flash",
+      "sentence": "Bright lightning bolts flash across the dark stormy night sky repeatedly."
+    },
+    {
+      "wordId": "DAY23-40",
+      "no": 40,
+      "word": "deposit",
+      "sentence": "Fast rivers deposit mineral silt along flat coastal floodplains during spring."
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 14,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 14 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "record",
+      "partOfSpeech": "v.",
+      "meaningKo": "기록하다",
+      "ipa": "/rɪˈkɔːrd/",
+      "definition": "to write or save something to keep",
+      "sentence": "Scientists record the temperature every morning at the weather hut.",
+      "wordImage": "images/11_record_word.png",
+      "sentenceImage": "images/11_record_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "settle",
+      "partOfSpeech": "v.",
+      "meaningKo": "정착하다",
+      "ipa": "/ˈsetl/",
+      "definition": "to make a new home in a place",
+      "sentence": "The birds settle on the island before the cold season.",
+      "wordImage": "images/12_settle_word.png",
+      "sentenceImage": "images/12_settle_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "occupation",
+      "partOfSpeech": "n.",
+      "meaningKo": "직업",
+      "ipa": "/ˌɑːkjuˈpeɪʃn/",
+      "definition": "the job a person does every day",
+      "sentence": "Baking bread is the occupation of the cheerful villager.",
+      "wordImage": "images/13_occupation_word.png",
+      "sentenceImage": "images/13_occupation_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "mass",
+      "partOfSpeech": "n.",
+      "meaningKo": "덩어리",
+      "ipa": "/mæs/",
+      "definition": "a large amount of something together",
+      "sentence": "A mass of soft clouds covered the whole blue sky.",
+      "wordImage": "images/14_mass_word.png",
+      "sentenceImage": "images/14_mass_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "tap",
+      "partOfSpeech": "v.",
+      "meaningKo": "가볍게 두드리다",
+      "ipa": "/tæp/",
+      "definition": "to hit something lightly and quickly",
+      "sentence": "The woodpecker will tap gently on the old tree trunk.",
+      "wordImage": "images/15_tap_word.png",
+      "sentenceImage": "images/15_tap_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "grasp",
+      "partOfSpeech": "v.",
+      "meaningKo": "붙잡다",
+      "ipa": "/ɡræsp/",
+      "definition": "to hold something firmly with your hand",
+      "sentence": "The baby monkey will grasp its mother's soft warm fur.",
+      "wordImage": "images/16_grasp_word.png",
+      "sentenceImage": "images/16_grasp_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "fame",
+      "partOfSpeech": "n.",
+      "meaningKo": "명성",
+      "ipa": "/feɪm/",
+      "definition": "being known by very many people",
+      "sentence": "The dancing bear enjoyed fame across the whole forest.",
+      "wordImage": "images/17_fame_word.png",
+      "sentenceImage": "images/17_fame_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "comfort",
+      "partOfSpeech": "n.",
+      "meaningKo": "편안함",
+      "ipa": "/ˈkʌmfərt/",
+      "definition": "a feeling of being warm and relaxed",
+      "sentence": "Thick wool blankets gave comfort during the cold snowy night.",
+      "wordImage": "images/18_comfort_word.png",
+      "sentenceImage": "images/18_comfort_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "hole",
+      "partOfSpeech": "n.",
+      "meaningKo": "구멍",
+      "ipa": "/hoʊl/",
+      "definition": "an empty space or opening in something",
+      "sentence": "A small hole in the fence let the rabbits through.",
+      "wordImage": "images/19_hole_word.png",
+      "sentenceImage": "images/19_hole_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "succeed",
+      "partOfSpeech": "v.",
+      "meaningKo": "성공하다",
+      "ipa": "/səkˈsiːd/",
+      "definition": "to do well at what you tried",
+      "sentence": "The young climbers finally succeed at reaching the tall rock.",
+      "wordImage": "images/20_succeed_word.png",
+      "sentenceImage": "images/20_succeed_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

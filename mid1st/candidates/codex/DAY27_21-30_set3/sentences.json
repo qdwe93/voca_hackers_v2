@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 27,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY27-21",
+      "no": 21,
+      "word": "simplify",
+      "sentence": "An instructor will simplify the long rules for everyone."
+    },
+    {
+      "wordId": "DAY27-22",
+      "no": 22,
+      "word": "committee",
+      "sentence": "Voters choose a committee, while citizens speak directly at meetings."
+    },
+    {
+      "wordId": "DAY27-23",
+      "no": 23,
+      "word": "accompany",
+      "sentence": "One guide will accompany the class into the cave."
+    },
+    {
+      "wordId": "DAY27-24",
+      "no": 24,
+      "word": "proportion",
+      "sentence": "The table shows water increasing in direct proportion to cups."
+    },
+    {
+      "wordId": "DAY27-25",
+      "no": 25,
+      "word": "household",
+      "sentence": "Every household on the street shared garden tools cheerfully."
+    },
+    {
+      "wordId": "DAY27-26",
+      "no": 26,
+      "word": "absence",
+      "sentence": "Today, the absence of wind made the lake perfectly still."
+    },
+    {
+      "wordId": "DAY27-27",
+      "no": 27,
+      "word": "primary",
+      "sentence": "Before winter, the primary goal was finishing the treehouse."
+    },
+    {
+      "wordId": "DAY27-28",
+      "no": 28,
+      "word": "spot",
+      "sentence": "Today, can you spot the poison dart frog among the leaves?"
+    },
+    {
+      "wordId": "DAY27-29",
+      "no": 29,
+      "word": "bother",
+      "sentence": "Kindly do not bother the bees close to the flowers."
+    },
+    {
+      "wordId": "DAY27-30",
+      "no": 30,
+      "word": "border",
+      "sentence": "One river forms the border between two green countries."
+    }
+  ]
+}

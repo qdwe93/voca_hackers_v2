@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 2,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 02 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "graduate",
+      "partOfSpeech": "v.",
+      "meaningKo": "졸업하다",
+      "definition": "to successfully finish a course of study",
+      "sentence": "The students graduate while wearing caps and holding diplomas.",
+      "ipa": "/ˈɡrædʒueɪt/",
+      "wordImage": "images/11_graduate_word.png",
+      "sentenceImage": "images/11_graduate_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "sense",
+      "partOfSpeech": "n.",
+      "meaningKo": "감각",
+      "definition": "an ability to see hear smell taste or feel",
+      "sentence": "A fox uses its sense of smell near the flowers.",
+      "ipa": "/sɛns/",
+      "wordImage": "images/12_sense_word.png",
+      "sentenceImage": "images/12_sense_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "real",
+      "partOfSpeech": "adj.",
+      "meaningKo": "진짜의",
+      "definition": "actually existing and not false or imagined",
+      "sentence": "The child discovers a real butterfly beside the toy one.",
+      "ipa": "/ril/",
+      "wordImage": "images/13_real_word.png",
+      "sentenceImage": "images/13_real_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "annual",
+      "partOfSpeech": "adj.",
+      "meaningKo": "매년의",
+      "definition": "happening once every year",
+      "sentence": "The town holds its annual flower parade each spring.",
+      "ipa": "/ænjuəl/",
+      "wordImage": "images/14_annual_word.png",
+      "sentenceImage": "images/14_annual_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "collect",
+      "partOfSpeech": "v.",
+      "meaningKo": "모으다",
+      "definition": "to bring things together into one place",
+      "sentence": "Children collect smooth stones along the sandy beach.",
+      "ipa": "/kəlɛkt/",
+      "wordImage": "images/15_collect_word.png",
+      "sentenceImage": "images/15_collect_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "deadline",
+      "partOfSpeech": "n.",
+      "meaningKo": "마감 기한",
+      "definition": "the latest time when something must be finished",
+      "sentence": "A clock shows the deadline approaching beside unfinished homework.",
+      "ipa": "/dɛdlaɪn/",
+      "wordImage": "images/16_deadline_word.png",
+      "sentenceImage": "images/16_deadline_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "confident",
+      "partOfSpeech": "adj.",
+      "meaningKo": "자신 있는",
+      "definition": "feeling sure about your abilities or choices",
+      "sentence": "The confident speaker stands straight before the listening class.",
+      "ipa": "/kɑnfədənt/",
+      "wordImage": "images/17_confident_word.png",
+      "sentenceImage": "images/17_confident_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "include",
+      "partOfSpeech": "v.",
+      "meaningKo": "포함하다",
+      "definition": "to have someone or something as part of a group",
+      "sentence": "The picnic basket will include fruit sandwiches and water.",
+      "ipa": "/ɪnklud/",
+      "wordImage": "images/18_include_word.png",
+      "sentenceImage": "images/18_include_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "shout",
+      "partOfSpeech": "v.",
+      "meaningKo": "외치다",
+      "definition": "to speak or call in a very loud voice",
+      "sentence": "The coach will shout directions across the noisy field.",
+      "ipa": "/ʃaʊt/",
+      "wordImage": "images/19_shout_word.png",
+      "sentenceImage": "images/19_shout_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "subject",
+      "partOfSpeech": "n.",
+      "meaningKo": "과목",
+      "definition": "an area of knowledge studied in school",
+      "sentence": "Science is the favorite subject of the student holding magnets.",
+      "ipa": "/ˈsʌbdʒɪkt/",
+      "wordImage": "images/20_subject_word.png",
+      "sentenceImage": "images/20_subject_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

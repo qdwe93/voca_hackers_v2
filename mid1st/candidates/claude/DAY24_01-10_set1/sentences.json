@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 24,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY24-01",
+      "no": 1,
+      "word": "resource",
+      "sentence": "Rain water is one resource we save for the school garden."
+    },
+    {
+      "wordId": "DAY24-02",
+      "no": 2,
+      "word": "fossil",
+      "sentence": "This flat stone shows the fossil of an ancient fish."
+    },
+    {
+      "wordId": "DAY24-03",
+      "no": 3,
+      "word": "supply",
+      "sentence": "Local farms supply beans to the factory that makes tofu."
+    },
+    {
+      "wordId": "DAY24-04",
+      "no": 4,
+      "word": "common",
+      "sentence": "Pine trees are common on the hills around this village."
+    },
+    {
+      "wordId": "DAY24-05",
+      "no": 5,
+      "word": "explanation",
+      "sentence": "The teacher's explanation linked the dark sky to the coming rain."
+    },
+    {
+      "wordId": "DAY24-06",
+      "no": 6,
+      "word": "nuclear",
+      "sentence": "A nuclear power station makes electricity for many nearby towns."
+    },
+    {
+      "wordId": "DAY24-07",
+      "no": 7,
+      "word": "material",
+      "sentence": "Each material warmed at a different speed under the same lamp."
+    },
+    {
+      "wordId": "DAY24-08",
+      "no": 8,
+      "word": "essential",
+      "sentence": "Clean water is essential for every living thing here."
+    },
+    {
+      "wordId": "DAY24-09",
+      "no": 9,
+      "word": "metal",
+      "sentence": "The far end of this metal bar warmed after two minutes."
+    },
+    {
+      "wordId": "DAY24-10",
+      "no": 10,
+      "word": "mental",
+      "sentence": "Chess practice builds mental skills such as planning ahead."
+    }
+  ]
+}

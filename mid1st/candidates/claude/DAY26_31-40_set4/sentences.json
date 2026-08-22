@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 26,
+  "range": "31-40",
+  "set": 4,
+  "items": [
+    {
+      "wordId": "DAY26-31",
+      "no": 31,
+      "word": "stamp",
+      "sentence": "One blue stamp sits in the corner of this envelope."
+    },
+    {
+      "wordId": "DAY26-32",
+      "no": 32,
+      "word": "secure",
+      "sentence": "The bicycle stayed secure because we locked it to the rack."
+    },
+    {
+      "wordId": "DAY26-33",
+      "no": 33,
+      "word": "conference",
+      "sentence": "At the conference each group suggested one plan, then we agreed."
+    },
+    {
+      "wordId": "DAY26-34",
+      "no": 34,
+      "word": "urge",
+      "sentence": "Parents urge the council to add lights near the crossing."
+    },
+    {
+      "wordId": "DAY26-35",
+      "no": 35,
+      "word": "confront",
+      "sentence": "The young hero must confront the difficult puzzle alone."
+    },
+    {
+      "wordId": "DAY26-36",
+      "no": 36,
+      "word": "persuade",
+      "sentence": "Students persuade the principal by showing two years of safety data."
+    },
+    {
+      "wordId": "DAY26-37",
+      "no": 37,
+      "word": "scan",
+      "sentence": "Readers scan the notice quickly to find the meeting time."
+    },
+    {
+      "wordId": "DAY26-38",
+      "no": 38,
+      "word": "prohibit",
+      "sentence": "Park signs prohibit fishing here, and rangers check every visitor."
+    },
+    {
+      "wordId": "DAY26-39",
+      "no": 39,
+      "word": "moreover",
+      "sentence": "The new rule is short; moreover, everyone can understand it."
+    },
+    {
+      "wordId": "DAY26-40",
+      "no": 40,
+      "word": "determine",
+      "sentence": "Judges determine the winner after measuring each paper airplane flight."
+    }
+  ]
+}

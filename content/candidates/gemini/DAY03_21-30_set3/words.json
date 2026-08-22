@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 3,
+  "range": "21-30",
+  "set": 3,
+  "title": "DAY 03 · 21-30",
+  "words": [
+    {
+      "no": 21,
+      "word": "reserve",
+      "partOfSpeech": "v.",
+      "meaningKo": "예약하다, 남겨두다",
+      "ipa": "/rɪˈzɝːv/",
+      "definition": "to keep something for a particular person or future use",
+      "sentence": "They called the restaurant to reserve a table by the window.",
+      "wordImage": "images/21_reserve_word.png",
+      "sentenceImage": "images/21_reserve_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 22,
+      "word": "wrap",
+      "partOfSpeech": "v.",
+      "meaningKo": "싸다, 포장하다",
+      "ipa": "/ræp/",
+      "definition": "to cover something completely in paper or cloth",
+      "sentence": "She used shiny blue paper to wrap the birthday present.",
+      "wordImage": "images/22_wrap_word.png",
+      "sentenceImage": "images/22_wrap_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 23,
+      "word": "occasion",
+      "partOfSpeech": "n.",
+      "meaningKo": "행사, 특별한 때",
+      "ipa": "/əˈkeɪ.ʒən/",
+      "definition": "a particular event, time, or celebration",
+      "sentence": "The graduation ceremony was a truly joyful occasion for everyone.",
+      "wordImage": "images/23_occasion_word.png",
+      "sentenceImage": "images/23_occasion_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 24,
+      "word": "allow",
+      "partOfSpeech": "v.",
+      "meaningKo": "허락하다, 허용하다",
+      "ipa": "/əˈlaʊ/",
+      "definition": "to give permission for someone to do something",
+      "sentence": "The park rules allow visitors to ride bicycles along trails.",
+      "wordImage": "images/24_allow_word.png",
+      "sentenceImage": "images/24_allow_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 25,
+      "word": "ensure",
+      "partOfSpeech": "v.",
+      "meaningKo": "보장하다, 확실하게 하다",
+      "ipa": "/ɪnˈʃʊr/",
+      "definition": "to make certain that something will happen safely",
+      "sentence": "Fasten your seatbelt to ensure your safety during the ride.",
+      "wordImage": "images/25_ensure_word.png",
+      "sentenceImage": "images/25_ensure_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 26,
+      "word": "agent",
+      "partOfSpeech": "n.",
+      "meaningKo": "대리인, 중개인",
+      "ipa": "/ˈeɪ.dʒənt/",
+      "definition": "a person who acts on behalf of another person",
+      "sentence": "The travel agent found us a great hotel near beach.",
+      "wordImage": "images/26_agent_word.png",
+      "sentenceImage": "images/26_agent_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 27,
+      "word": "argue",
+      "partOfSpeech": "v.",
+      "meaningKo": "말다툼하다, 주장하다",
+      "ipa": "/ˈɑːrɡ.juː/",
+      "definition": "to speak angrily to someone because you disagree",
+      "sentence": "Good friends do not argue over small rules in games.",
+      "wordImage": "images/27_argue_word.png",
+      "sentenceImage": "images/27_argue_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 28,
+      "word": "confirm",
+      "partOfSpeech": "v.",
+      "meaningKo": "확인하다, 확정하다",
+      "ipa": "/kənˈfɝːm/",
+      "definition": "to state or show that something is definitely true",
+      "sentence": "Please call the hotel to confirm your room reservation today.",
+      "wordImage": "images/28_confirm_word.png",
+      "sentenceImage": "images/28_confirm_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 29,
+      "word": "wonder",
+      "partOfSpeech": "v.",
+      "meaningKo": "궁금해하다",
+      "ipa": "/ˈwʌn.dər/",
+      "definition": "to want to know something or feel curious",
+      "sentence": "Children wonder how stars can shine so brightly at night.",
+      "wordImage": "images/29_wonder_word.png",
+      "sentenceImage": "images/29_wonder_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 30,
+      "word": "wander",
+      "partOfSpeech": "v.",
+      "meaningKo": "거닐다, 헤매다",
+      "ipa": "/ˈwɑːn.dər/",
+      "definition": "to walk slowly around with no clear destination",
+      "sentence": "They like to wander along the quiet forest trail after lunch.",
+      "wordImage": "images/30_wander_word.png",
+      "sentenceImage": "images/30_wander_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

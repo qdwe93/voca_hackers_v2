@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 24,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY24-01",
+      "no": 1,
+      "word": "resource",
+      "sentence": "Solar radiation is an abundant clean energy resource for our planet."
+    },
+    {
+      "wordId": "DAY24-02",
+      "no": 2,
+      "word": "fossil",
+      "sentence": "Paleontologists discovered a fossil ammonite shell embedded inside sedimentary limestone rock."
+    },
+    {
+      "wordId": "DAY24-03",
+      "no": 3,
+      "word": "supply",
+      "sentence": "Pipelines supply clean fresh water from mountain reservoirs to city homes."
+    },
+    {
+      "wordId": "DAY24-04",
+      "no": 4,
+      "word": "common",
+      "sentence": "Granite is a common igneous rock found in continental mountain crusts."
+    },
+    {
+      "wordId": "DAY24-05",
+      "no": 5,
+      "word": "explanation",
+      "sentence": "The teacher gave a clear scientific explanation of thermal energy transfer."
+    },
+    {
+      "wordId": "DAY24-06",
+      "no": 6,
+      "word": "nuclear",
+      "sentence": "A nuclear reactor generates massive electrical power from controlled atomic fission."
+    },
+    {
+      "wordId": "DAY24-07",
+      "no": 7,
+      "word": "material",
+      "sentence": "Copper is an excellent conductive material for making electrical power cables."
+    },
+    {
+      "wordId": "DAY24-08",
+      "no": 8,
+      "word": "essential",
+      "sentence": "Adequate clean drinking water is essential for sustaining human community health."
+    },
+    {
+      "wordId": "DAY24-09",
+      "no": 9,
+      "word": "metal",
+      "sentence": "Heat conducts rapidly through the solid metal rod when heated flame."
+    },
+    {
+      "wordId": "DAY24-10",
+      "no": 10,
+      "word": "mental",
+      "sentence": "Solving complex math puzzles requires focused mental concentration and creative logic."
+    }
+  ]
+}

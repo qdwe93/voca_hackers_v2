@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 18,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY18-11",
+      "no": 11,
+      "word": "prevent",
+      "sentence": "Washing hands regularly helps prevent the spread of common viral infections."
+    },
+    {
+      "wordId": "DAY18-12",
+      "no": 12,
+      "word": "suffer",
+      "sentence": "Patients suffer from throat discomfort during severe seasonal winter cold infections."
+    },
+    {
+      "wordId": "DAY18-13",
+      "no": 13,
+      "word": "ruin",
+      "sentence": "Leaving food unrefrigerated in summer will ruin its nutritional quality quickly."
+    },
+    {
+      "wordId": "DAY18-14",
+      "no": 14,
+      "word": "organ",
+      "sentence": "The human heart is an essential organ in the circulatory system."
+    },
+    {
+      "wordId": "DAY18-15",
+      "no": 15,
+      "word": "instead",
+      "sentence": "Drink clean fresh water instead of sugary soda drinks with meals."
+    },
+    {
+      "wordId": "DAY18-16",
+      "no": 16,
+      "word": "ankle",
+      "sentence": "The runner wrapped an elastic bandage around his sprained right ankle."
+    },
+    {
+      "wordId": "DAY18-17",
+      "no": 17,
+      "word": "nutrition",
+      "sentence": "Balanced dietary nutrition provides essential vitamins for growing children and teenagers."
+    },
+    {
+      "wordId": "DAY18-18",
+      "no": 18,
+      "word": "decrease",
+      "sentence": "The line graph shows temperatures decrease steadily during late autumn months."
+    },
+    {
+      "wordId": "DAY18-19",
+      "no": 19,
+      "word": "trouble",
+      "sentence": "Faulty wiring caused electrical trouble in the hospital emergency room clinic."
+    },
+    {
+      "wordId": "DAY18-20",
+      "no": 20,
+      "word": "seal",
+      "sentence": "Scientists seal the glass container to measure rising internal gas pressure."
+    }
+  ]
+}

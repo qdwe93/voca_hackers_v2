@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 15,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY15-21",
+      "no": 21,
+      "word": "tune",
+      "sentence": "The flutist played a cheerful folk tune on the stage."
+    },
+    {
+      "wordId": "DAY15-22",
+      "no": 22,
+      "word": "submit",
+      "sentence": "Students submit their completed science lab reports by Friday afternoon."
+    },
+    {
+      "wordId": "DAY15-23",
+      "no": 23,
+      "word": "logical",
+      "sentence": "She constructed a clear logical argument supported by verified facts."
+    },
+    {
+      "wordId": "DAY15-24",
+      "no": 24,
+      "word": "blame",
+      "sentence": "Do not blame others for your own avoidable homework mistakes."
+    },
+    {
+      "wordId": "DAY15-25",
+      "no": 25,
+      "word": "display",
+      "sentence": "Museums display informative historical maps alongside detailed explanatory wall texts."
+    },
+    {
+      "wordId": "DAY15-26",
+      "no": 26,
+      "word": "likewise",
+      "sentence": "Plants require sunlight to grow; likewise, animals need nutritious food."
+    },
+    {
+      "wordId": "DAY15-27",
+      "no": 27,
+      "word": "discipline",
+      "sentence": "Consistent daily discipline helps students achieve high academic learning goals."
+    },
+    {
+      "wordId": "DAY15-28",
+      "no": 28,
+      "word": "boost",
+      "sentence": "Eating healthy meals will boost your immune system and stamina."
+    },
+    {
+      "wordId": "DAY15-29",
+      "no": 29,
+      "word": "shallow",
+      "sentence": "Young children can wade safely in the shallow swimming pool."
+    },
+    {
+      "wordId": "DAY15-30",
+      "no": 30,
+      "word": "swallow",
+      "sentence": "Be sure to chew your food well before you swallow."
+    }
+  ]
+}

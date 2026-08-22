@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 4,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 04 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "career",
+      "partOfSpeech": "n.",
+      "meaningKo": "직업",
+      "ipa": "/kəˈrɪr/",
+      "definition": "the work a person does for many years",
+      "sentence": "The bear dreams of a career baking cakes and pies.",
+      "wordImage": "images/01_career_word.png",
+      "sentenceImage": "images/01_career_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "skill",
+      "partOfSpeech": "n.",
+      "meaningKo": "기술",
+      "ipa": "/skɪl/",
+      "definition": "something you can do well after practice",
+      "sentence": "Juggling three balls is a skill the clown learned quickly.",
+      "wordImage": "images/02_skill_word.png",
+      "sentenceImage": "images/02_skill_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "task",
+      "partOfSpeech": "n.",
+      "meaningKo": "일",
+      "ipa": "/tæsk/",
+      "definition": "a piece of work you must do",
+      "sentence": "The little robot finished each task on the busy morning.",
+      "wordImage": "images/03_task_word.png",
+      "sentenceImage": "images/03_task_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "tend",
+      "partOfSpeech": "v.",
+      "meaningKo": "돌보다",
+      "ipa": "/tend/",
+      "definition": "to take care of something",
+      "sentence": "The gardener will tend the roses every quiet spring morning.",
+      "wordImage": "images/04_tend_word.png",
+      "sentenceImage": "images/04_tend_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "position",
+      "partOfSpeech": "n.",
+      "meaningKo": "자리",
+      "ipa": "/pəˈzɪʃn/",
+      "definition": "the place where someone or something is",
+      "sentence": "The goalkeeper stood in her position beside the wooden net.",
+      "wordImage": "images/05_position_word.png",
+      "sentenceImage": "images/05_position_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "hire",
+      "partOfSpeech": "v.",
+      "meaningKo": "고용하다",
+      "ipa": "/ˈhaɪər/",
+      "definition": "to pay someone to work for you",
+      "sentence": "The bakery will hire two helpers for the busy weekend.",
+      "wordImage": "images/06_hire_word.png",
+      "sentenceImage": "images/06_hire_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "quit",
+      "partOfSpeech": "v.",
+      "meaningKo": "그만두다",
+      "ipa": "/kwɪt/",
+      "definition": "to stop doing something",
+      "sentence": "The tired hamster decided to quit running on its wheel.",
+      "wordImage": "images/07_quit_word.png",
+      "sentenceImage": "images/07_quit_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "proud",
+      "partOfSpeech": "adj.",
+      "meaningKo": "자랑스러운",
+      "ipa": "/praʊd/",
+      "definition": "feeling happy about something good you did",
+      "sentence": "The young painter felt proud of her bright finished picture.",
+      "wordImage": "images/08_proud_word.png",
+      "sentenceImage": "images/08_proud_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "labor",
+      "partOfSpeech": "n.",
+      "meaningKo": "노동",
+      "ipa": "/ˈleɪbər/",
+      "definition": "hard work done with your body",
+      "sentence": "Building the stone bridge took months of careful labor.",
+      "wordImage": "images/09_labor_word.png",
+      "sentenceImage": "images/09_labor_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "label",
+      "partOfSpeech": "n.",
+      "meaningKo": "라벨",
+      "ipa": "/ˈleɪbl/",
+      "definition": "a small tag that tells what something is",
+      "sentence": "A colorful label was stuck on every jam jar.",
+      "wordImage": "images/10_label_word.png",
+      "sentenceImage": "images/10_label_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

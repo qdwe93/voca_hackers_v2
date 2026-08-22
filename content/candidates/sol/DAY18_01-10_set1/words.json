@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 18,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 18 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "stomach",
+      "partOfSpeech": "n.",
+      "meaningKo": "위장",
+      "definition": "the organ where food begins digesting",
+      "sentence": "The hungry bear holds its stomach beside an empty bowl.",
+      "ipa": "/stʌmək/",
+      "wordImage": "images/01_stomach_word.png",
+      "sentenceImage": "images/01_stomach_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "pill",
+      "partOfSpeech": "n.",
+      "meaningKo": "알약",
+      "definition": "a small solid piece of medicine",
+      "sentence": "A single pill rests beside a glass of water.",
+      "ipa": "/pɪl/",
+      "wordImage": "images/02_pill_word.png",
+      "sentenceImage": "images/02_pill_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "thumb",
+      "partOfSpeech": "n.",
+      "meaningKo": "엄지손가락",
+      "definition": "the short thick finger beside the other four",
+      "sentence": "The child raises a thumb beside the finished model.",
+      "ipa": "/θʌm/",
+      "wordImage": "images/03_thumb_word.png",
+      "sentenceImage": "images/03_thumb_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "wound",
+      "partOfSpeech": "n.",
+      "meaningKo": "상처",
+      "definition": "an injury where skin or body tissue is damaged",
+      "sentence": "A clean bandage safely covers the fantasy knight's wound.",
+      "ipa": "/wuːnd/",
+      "wordImage": "images/04_wound_word.png",
+      "sentenceImage": "images/04_wound_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "therapy",
+      "partOfSpeech": "n.",
+      "meaningKo": "치료",
+      "definition": "regular treatment helping someone recover or improve",
+      "sentence": "The patient practices walking during gentle physical therapy.",
+      "ipa": "/θɛrəpi/",
+      "wordImage": "images/05_therapy_word.png",
+      "sentenceImage": "images/05_therapy_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "surgery",
+      "partOfSpeech": "n.",
+      "meaningKo": "수술",
+      "definition": "a medical operation repairing or treating the body",
+      "sentence": "The doctor prepares a clean room for safe surgery.",
+      "ipa": "/sɝdʒɚi/",
+      "wordImage": "images/06_surgery_word.png",
+      "sentenceImage": "images/06_surgery_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "physician",
+      "partOfSpeech": "n.",
+      "meaningKo": "의사",
+      "definition": "a doctor trained to treat illness",
+      "sentence": "The physician carefully listens to the patient's steady heartbeat.",
+      "ipa": "/fəzɪʃən/",
+      "wordImage": "images/07_physician_word.png",
+      "sentenceImage": "images/07_physician_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "positive",
+      "partOfSpeech": "adj.",
+      "meaningKo": "긍정적인",
+      "definition": "hopeful and confident about good results",
+      "sentence": "The positive patient smiles gently during difficult exercises.",
+      "ipa": "/pɑzətɪv/",
+      "wordImage": "images/08_positive_word.png",
+      "sentenceImage": "images/08_positive_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "grab",
+      "partOfSpeech": "v.",
+      "meaningKo": "붙잡다",
+      "definition": "to take hold of something quickly",
+      "sentence": "The goalkeeper will grab the ball with both gloves.",
+      "ipa": "/ɡræb/",
+      "wordImage": "images/09_grab_word.png",
+      "sentenceImage": "images/09_grab_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "grip",
+      "partOfSpeech": "v.",
+      "meaningKo": "꽉 잡다",
+      "definition": "to hold something firmly",
+      "sentence": "The climber will grip the safety rope with both hands.",
+      "ipa": "/ɡrɪp/",
+      "wordImage": "images/10_grip_word.png",
+      "sentenceImage": "images/10_grip_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

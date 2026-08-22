@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 2,
+  "range": "21-30",
+  "set": 3,
+  "title": "DAY 02 · 21-30",
+  "words": [
+    {
+      "no": 21,
+      "word": "participate",
+      "partOfSpeech": "v.",
+      "meaningKo": "참여하다",
+      "ipa": "/pɑːrˈtɪsɪpeɪt/",
+      "definition": "to join others in doing an activity",
+      "sentence": "Every student can participate in the fun school sports day.",
+      "wordImage": "images/21_participate_word.png",
+      "sentenceImage": "images/21_participate_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 22,
+      "word": "auditorium",
+      "partOfSpeech": "n.",
+      "meaningKo": "강당",
+      "ipa": "/ˌɔːdɪˈtɔːriəm/",
+      "definition": "a big room with many seats for shows",
+      "sentence": "The choir sang inside the large school auditorium last night.",
+      "wordImage": "images/22_auditorium_word.png",
+      "sentenceImage": "images/22_auditorium_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 23,
+      "word": "inform",
+      "partOfSpeech": "v.",
+      "meaningKo": "알리다",
+      "ipa": "/ɪnˈfɔːrm/",
+      "definition": "to tell someone something they need to know",
+      "sentence": "A bright sign will inform visitors about the new exhibit.",
+      "wordImage": "images/23_inform_word.png",
+      "sentenceImage": "images/23_inform_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 24,
+      "word": "duty",
+      "partOfSpeech": "n.",
+      "meaningKo": "임무",
+      "ipa": "/ˈduːti/",
+      "definition": "something you must do as your job",
+      "sentence": "Watering the class plants is the duty of one helper.",
+      "wordImage": "images/24_duty_word.png",
+      "sentenceImage": "images/24_duty_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 25,
+      "word": "evaluate",
+      "partOfSpeech": "v.",
+      "meaningKo": "평가하다",
+      "ipa": "/ɪˈvæljueɪt/",
+      "definition": "to look at something and decide how good it is",
+      "sentence": "The judges evaluate each paper airplane before choosing a winner.",
+      "wordImage": "images/25_evaluate_word.png",
+      "sentenceImage": "images/25_evaluate_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 26,
+      "word": "minimum",
+      "partOfSpeech": "adj.",
+      "meaningKo": "최소의",
+      "ipa": "/ˈmɪnɪməm/",
+      "definition": "the smallest amount that is allowed",
+      "sentence": "Each player needs a minimum score to join the next round.",
+      "wordImage": "images/26_minimum_word.png",
+      "sentenceImage": "images/26_minimum_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 27,
+      "word": "introduction",
+      "partOfSpeech": "n.",
+      "meaningKo": "소개",
+      "ipa": "/ˌɪntrəˈdʌkʃn/",
+      "definition": "the first part that tells you about something",
+      "sentence": "The short introduction explained the rules of the friendly contest.",
+      "wordImage": "images/27_introduction_word.png",
+      "sentenceImage": "images/27_introduction_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 28,
+      "word": "photograph",
+      "partOfSpeech": "n.",
+      "meaningKo": "사진",
+      "ipa": "/ˈfoʊtəɡræf/",
+      "definition": "a picture made with a camera",
+      "sentence": "A photograph of the smiling team hung above the door.",
+      "wordImage": "images/28_photograph_word.png",
+      "sentenceImage": "images/28_photograph_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 29,
+      "word": "council",
+      "partOfSpeech": "n.",
+      "meaningKo": "의회",
+      "ipa": "/ˈkaʊnsl/",
+      "definition": "a group chosen to make plans together",
+      "sentence": "The student council planned a garden beside the school playground.",
+      "wordImage": "images/29_council_word.png",
+      "sentenceImage": "images/29_council_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 30,
+      "word": "conceal",
+      "partOfSpeech": "v.",
+      "meaningKo": "숨기다",
+      "ipa": "/kənˈsiːl/",
+      "definition": "to hide something so nobody can see it",
+      "sentence": "The clever fox tried to conceal a gift behind flowers.",
+      "wordImage": "images/30_conceal_word.png",
+      "sentenceImage": "images/30_conceal_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

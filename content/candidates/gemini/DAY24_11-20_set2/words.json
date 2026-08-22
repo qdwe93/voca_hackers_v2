@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 24,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 24 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "solve",
+      "partOfSpeech": "v.",
+      "meaningKo": "해결하다, 풀다",
+      "ipa": "/sɑːlv/",
+      "definition": "to find an answer to a problem or explanation for riddle",
+      "sentence": "Together our group can solve even the trickiest classroom riddles.",
+      "wordImage": "images/11_solve_word.png",
+      "sentenceImage": "images/11_solve_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "survive",
+      "partOfSpeech": "v.",
+      "meaningKo": "살아남다, 생존하다",
+      "ipa": "/sɚˈvaɪv/",
+      "definition": "to continue to live or exist, especially after difficult conditions",
+      "sentence": "Desert plants have thick waxy stems to survive dry summer heat.",
+      "wordImage": "images/12_survive_word.png",
+      "sentenceImage": "images/12_survive_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "source",
+      "partOfSpeech": "n.",
+      "meaningKo": "근원, 출처, 원천",
+      "ipa": "/sɔːrs/",
+      "definition": "a place, person, or thing from which something originates",
+      "sentence": "The bubbling mountain spring was the pure source of the river.",
+      "wordImage": "images/13_source_word.png",
+      "sentenceImage": "images/13_source_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "produce",
+      "partOfSpeech": "v.",
+      "meaningKo": "생산하다, 만들다",
+      "ipa": "/prəˈduːs/",
+      "definition": "to make or create something through a physical or natural process",
+      "sentence": "Sunny green solar panels produce clean electricity for our school.",
+      "wordImage": "images/14_produce_word.png",
+      "sentenceImage": "images/14_produce_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "electronic",
+      "partOfSpeech": "adj.",
+      "meaningKo": "전자의, 전자기기의",
+      "ipa": "/ˌel.ekˈtrɑː.nɪk/",
+      "definition": "operating by means of a computer or microchip circuit device",
+      "sentence": "Students used an electronic digital tablet to sketch colorful animations.",
+      "wordImage": "images/15_electronic_word.png",
+      "sentenceImage": "images/15_electronic_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "coal",
+      "partOfSpeech": "n.",
+      "meaningKo": "석탄",
+      "ipa": "/koʊl/",
+      "definition": "a hard black rock that can be burned to produce energy",
+      "sentence": "Antique steam locomotives were powered by burning dark black coal.",
+      "wordImage": "images/16_coal_word.png",
+      "sentenceImage": "images/16_coal_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "benefit",
+      "partOfSpeech": "n.",
+      "meaningKo": "이점, 혜택",
+      "ipa": "/ˈben.ə.fɪt/",
+      "definition": "a helpful or good effect, or something intended to help",
+      "sentence": "Regular aerobic exercise provides a lasting health benefit for your heart.",
+      "wordImage": "images/17_benefit_word.png",
+      "sentenceImage": "images/17_benefit_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "vacuum",
+      "partOfSpeech": "n.",
+      "meaningKo": "진공, 진공청소기",
+      "ipa": "/ˈvæk.juːm/",
+      "definition": "a completely empty space containing no air or gas, or cleaner",
+      "sentence": "Outer space is a vast near vacuum where sound cannot travel.",
+      "wordImage": "images/18_vacuum_word.png",
+      "sentenceImage": "images/18_vacuum_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "treasure",
+      "partOfSpeech": "n.",
+      "meaningKo": "보물, 소중한 것",
+      "ipa": "/ˈtreʒ.ɚ/",
+      "definition": "a collection of precious things such as gold, silver, or jewels",
+      "sentence": "The story told of a hidden golden treasure on island.",
+      "wordImage": "images/19_treasure_word.png",
+      "sentenceImage": "images/19_treasure_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "address",
+      "partOfSpeech": "v.",
+      "meaningKo": "다루다, 연설하다",
+      "ipa": "/əˈdres/",
+      "definition": "to speak to people or give attention to a problem",
+      "sentence": "The student council president will address the whole assembly today.",
+      "wordImage": "images/20_address_word.png",
+      "sentenceImage": "images/20_address_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

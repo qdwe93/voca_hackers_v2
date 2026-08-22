@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 16,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 16 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "nature",
+      "partOfSpeech": "n.",
+      "meaningKo": "자연",
+      "ipa": "/ˈneɪtʃər/",
+      "definition": "everything outdoors like plants and animals",
+      "sentence": "The hikers enjoyed nature along the quiet forest trail.",
+      "wordImage": "images/01_nature_word.png",
+      "sentenceImage": "images/01_nature_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "experiment",
+      "partOfSpeech": "n.",
+      "meaningKo": "실험",
+      "ipa": "/ɪkˈsperɪmənt/",
+      "definition": "a test to learn how something works",
+      "sentence": "The simple experiment showed how plants drink colored water.",
+      "wordImage": "images/02_experiment_word.png",
+      "sentenceImage": "images/02_experiment_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "condition",
+      "partOfSpeech": "n.",
+      "meaningKo": "상태",
+      "ipa": "/kənˈdɪʃn/",
+      "definition": "how good or bad something is",
+      "sentence": "The old bicycle was in very good condition still.",
+      "wordImage": "images/03_condition_word.png",
+      "sentenceImage": "images/03_condition_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "distance",
+      "partOfSpeech": "n.",
+      "meaningKo": "거리",
+      "ipa": "/ˈdɪstəns/",
+      "definition": "how far one place is from another",
+      "sentence": "The distance between the two islands looked quite short.",
+      "wordImage": "images/04_distance_word.png",
+      "sentenceImage": "images/04_distance_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "evidence",
+      "partOfSpeech": "n.",
+      "meaningKo": "증거",
+      "ipa": "/ˈevɪdəns/",
+      "definition": "facts that show something is true",
+      "sentence": "Muddy paw prints were evidence that the fox visited.",
+      "wordImage": "images/05_evidence_word.png",
+      "sentenceImage": "images/05_evidence_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "chemical",
+      "partOfSpeech": "n.",
+      "meaningKo": "화학 물질",
+      "ipa": "/ˈkemɪkl/",
+      "definition": "a substance used in science experiments",
+      "sentence": "People loved the vivid green color before learning the chemical was arsenic.",
+      "wordImage": "images/06_chemical_word.png",
+      "sentenceImage": "images/06_chemical_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "fluid",
+      "partOfSpeech": "n.",
+      "meaningKo": "액체",
+      "ipa": "/ˈfluːɪd/",
+      "definition": "something that flows, like water or juice",
+      "sentence": "The scientist poured a thick fluid into the glass jar.",
+      "wordImage": "images/07_fluid_word.png",
+      "sentenceImage": "images/07_fluid_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "extensive",
+      "partOfSpeech": "adj.",
+      "meaningKo": "광범위한",
+      "ipa": "/ɪkˈstensɪv/",
+      "definition": "covering a very large area",
+      "sentence": "An extensive forest stretched beyond the tall blue mountains.",
+      "wordImage": "images/08_extensive_word.png",
+      "sentenceImage": "images/08_extensive_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "process",
+      "partOfSpeech": "n.",
+      "meaningKo": "과정",
+      "ipa": "/ˈprɑːses/",
+      "definition": "the steps that make something happen",
+      "sentence": "The baking process takes about one warm quiet hour.",
+      "wordImage": "images/09_process_word.png",
+      "sentenceImage": "images/09_process_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "progress",
+      "partOfSpeech": "n.",
+      "meaningKo": "진전",
+      "ipa": "/ˈprɑːɡres/",
+      "definition": "movement forward toward a goal",
+      "sentence": "The young reader made great progress during the summer.",
+      "wordImage": "images/10_progress_word.png",
+      "sentenceImage": "images/10_progress_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

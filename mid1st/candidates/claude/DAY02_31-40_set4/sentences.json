@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 2,
+  "range": "31-40",
+  "set": 4,
+  "items": [
+    {
+      "wordId": "DAY02-31",
+      "no": 31,
+      "word": "session",
+      "sentence": "A morning reading session lasts thirty minutes in our library."
+    },
+    {
+      "wordId": "DAY02-32",
+      "no": 32,
+      "word": "strict",
+      "sentence": "Our librarian is strict about returning books on the due date."
+    },
+    {
+      "wordId": "DAY02-33",
+      "no": 33,
+      "word": "twist",
+      "sentence": "Please twist the cap slowly to open the glue bottle."
+    },
+    {
+      "wordId": "DAY02-34",
+      "no": 34,
+      "word": "spill",
+      "sentence": "Be careful not to spill paint water on the desk."
+    },
+    {
+      "wordId": "DAY02-35",
+      "no": 35,
+      "word": "union",
+      "sentence": "Factory workers' union asked for safer ladders and shorter night hours."
+    },
+    {
+      "wordId": "DAY02-36",
+      "no": 36,
+      "word": "maximum",
+      "sentence": "Eight kilograms is the maximum weight this science scale allows."
+    },
+    {
+      "wordId": "DAY02-37",
+      "no": 37,
+      "word": "semester",
+      "sentence": "The second semester begins in March with new class schedules."
+    },
+    {
+      "wordId": "DAY02-38",
+      "no": 38,
+      "word": "ceiling",
+      "sentence": "Paper snowflakes hang from the ceiling above our reading corner."
+    },
+    {
+      "wordId": "DAY02-39",
+      "no": 39,
+      "word": "stationery",
+      "sentence": "The school shop sells stationery such as pencils and notebooks."
+    },
+    {
+      "wordId": "DAY02-40",
+      "no": 40,
+      "word": "term",
+      "sentence": "Photosynthesis is a science term that means making food from light."
+    }
+  ]
+}

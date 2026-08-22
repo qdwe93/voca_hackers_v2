@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 18,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY18-21",
+      "no": 21,
+      "word": "track",
+      "sentence": "Nurses track each patient's temperature on a simple daily chart."
+    },
+    {
+      "wordId": "DAY18-22",
+      "no": 22,
+      "word": "perhaps",
+      "sentence": "The clinic opens at nine, or perhaps a little later."
+    },
+    {
+      "wordId": "DAY18-23",
+      "no": 23,
+      "word": "bump",
+      "sentence": "Be careful not to bump your head on the low shelf."
+    },
+    {
+      "wordId": "DAY18-24",
+      "no": 24,
+      "word": "alert",
+      "sentence": "The lifeguard stayed alert and watched every swimmer closely."
+    },
+    {
+      "wordId": "DAY18-25",
+      "no": 25,
+      "word": "slip",
+      "sentence": "Shoes slip on wet tiles but hold on rough mats."
+    },
+    {
+      "wordId": "DAY18-26",
+      "no": 26,
+      "word": "modest",
+      "sentence": "Our young doctor stayed modest about the difficult rescue."
+    },
+    {
+      "wordId": "DAY18-27",
+      "no": 27,
+      "word": "disabled",
+      "sentence": "A new ramp lets disabled visitors enter the library easily."
+    },
+    {
+      "wordId": "DAY18-28",
+      "no": 28,
+      "word": "rapid",
+      "sentence": "Rapid breathing slowed down after the swimmer rested five minutes."
+    },
+    {
+      "wordId": "DAY18-29",
+      "no": 29,
+      "word": "spin",
+      "sentence": "Spin this flat rectangle around one edge to make a cylinder."
+    },
+    {
+      "wordId": "DAY18-30",
+      "no": 30,
+      "word": "spine",
+      "sentence": "Sitting straight keeps the spine in a healthy line."
+    }
+  ]
+}

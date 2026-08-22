@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 16,
+  "range": "31-40",
+  "set": 4,
+  "title": "DAY 16 · 31-40",
+  "words": [
+    {
+      "no": 31,
+      "word": "preserve",
+      "partOfSpeech": "v.",
+      "meaningKo": "보존하다",
+      "ipa": "/prɪˈzɜːrv/",
+      "definition": "to keep something safe from changing",
+      "sentence": "Cold air helps preserve the fresh berries much longer.",
+      "wordImage": "images/31_preserve_word.png",
+      "sentenceImage": "images/31_preserve_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 32,
+      "word": "vapor",
+      "partOfSpeech": "n.",
+      "meaningKo": "증기",
+      "ipa": "/ˈveɪpər/",
+      "definition": "tiny drops of water floating in air",
+      "sentence": "Warm vapor rose slowly from the steaming teapot spout.",
+      "wordImage": "images/32_vapor_word.png",
+      "sentenceImage": "images/32_vapor_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 33,
+      "word": "invisible",
+      "partOfSpeech": "adj.",
+      "meaningKo": "보이지 않는",
+      "ipa": "/ɪnˈvɪzəbl/",
+      "definition": "not able to be seen",
+      "sentence": "The wind is invisible, but leaves show where it goes.",
+      "wordImage": "images/33_invisible_word.png",
+      "sentenceImage": "images/33_invisible_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 34,
+      "word": "substance",
+      "partOfSpeech": "n.",
+      "meaningKo": "물질",
+      "ipa": "/ˈsʌbstəns/",
+      "definition": "any material that things are made of",
+      "sentence": "A sticky substance covered the inside of the honey jar.",
+      "wordImage": "images/34_substance_word.png",
+      "sentenceImage": "images/34_substance_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 35,
+      "word": "particle",
+      "partOfSpeech": "n.",
+      "meaningKo": "입자",
+      "ipa": "/ˈpɑːrtɪkl/",
+      "definition": "a very tiny piece of something",
+      "sentence": "Each dust particle danced inside the bright sunbeam.",
+      "wordImage": "images/35_particle_word.png",
+      "sentenceImage": "images/35_particle_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 36,
+      "word": "moisture",
+      "partOfSpeech": "n.",
+      "meaningKo": "습기",
+      "ipa": "/ˈmɔɪstʃər/",
+      "definition": "small amounts of water in air or soil",
+      "sentence": "Morning moisture made the green grass sparkle everywhere.",
+      "wordImage": "images/36_moisture_word.png",
+      "sentenceImage": "images/36_moisture_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 37,
+      "word": "abstract",
+      "partOfSpeech": "adj.",
+      "meaningKo": "추상적인",
+      "ipa": "/ˈæbstrækt/",
+      "definition": "about ideas, not things you can touch",
+      "sentence": "The abstract painting used only shapes and bright colors.",
+      "wordImage": "images/37_abstract_word.png",
+      "sentenceImage": "images/37_abstract_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 38,
+      "word": "valid",
+      "partOfSpeech": "adj.",
+      "meaningKo": "유효한",
+      "ipa": "/ˈvælɪd/",
+      "definition": "correct and able to be accepted",
+      "sentence": "That was a valid answer to the tricky question.",
+      "wordImage": "images/38_valid_word.png",
+      "sentenceImage": "images/38_valid_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 39,
+      "word": "invention",
+      "partOfSpeech": "n.",
+      "meaningKo": "발명품",
+      "ipa": "/ɪnˈvenʃn/",
+      "definition": "a new thing that someone made first",
+      "sentence": "The clever invention watered every plant while people slept.",
+      "wordImage": "images/39_invention_word.png",
+      "sentenceImage": "images/39_invention_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 40,
+      "word": "stick",
+      "partOfSpeech": "v.",
+      "meaningKo": "붙다",
+      "ipa": "/stɪk/",
+      "definition": "to join to something and stay there",
+      "sentence": "Wet leaves stick to the window after a heavy rain.",
+      "wordImage": "images/40_stick_word.png",
+      "sentenceImage": "images/40_stick_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

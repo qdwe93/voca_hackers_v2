@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 5,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 05 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "muscle",
+      "partOfSpeech": "n.",
+      "meaningKo": "근육",
+      "ipa": "/ˈmʌs.əl/",
+      "definition": "one of the tissues in the body that produces movement",
+      "sentence": "Daily jumping exercise helps build strong leg muscle strength naturally.",
+      "wordImage": "images/01_muscle_word.png",
+      "sentenceImage": "images/01_muscle_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "regular",
+      "partOfSpeech": "adj.",
+      "meaningKo": "규칙적인, 정기적인",
+      "ipa": "/ˈreɡ.jə.lɚ/",
+      "definition": "happening repeatedly with equal time between events",
+      "sentence": "He keeps a regular sleep schedule to stay healthy everyday.",
+      "wordImage": "images/02_regular_word.png",
+      "sentenceImage": "images/02_regular_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "stretch",
+      "partOfSpeech": "v.",
+      "meaningKo": "늘이다, 스트레칭하다",
+      "ipa": "/stretʃ/",
+      "definition": "to make your body or limbs straight and reach out",
+      "sentence": "Remember to stretch your arms before playing basketball today.",
+      "wordImage": "images/03_stretch_word.png",
+      "sentenceImage": "images/03_stretch_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "reduce",
+      "partOfSpeech": "v.",
+      "meaningKo": "줄이다, 낮추다",
+      "ipa": "/rɪˈduːs/",
+      "definition": "to make something smaller in size or amount",
+      "sentence": "Drinking warm water can reduce your throat discomfort quickly.",
+      "wordImage": "images/04_reduce_word.png",
+      "sentenceImage": "images/04_reduce_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "opponent",
+      "partOfSpeech": "n.",
+      "meaningKo": "상대, 적수",
+      "ipa": "/əˈpoʊ.nənt/",
+      "definition": "a person who plays against you in a game",
+      "sentence": "He shook hands with his friendly chess opponent after game.",
+      "wordImage": "images/05_opponent_word.png",
+      "sentenceImage": "images/05_opponent_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "recommend",
+      "partOfSpeech": "v.",
+      "meaningKo": "추천하다, 권하다",
+      "ipa": "/ˌrek.əˈmend/",
+      "definition": "to suggest that someone or something is good or useful",
+      "sentence": "Doctors recommend eating fresh green vegetables and fruits daily.",
+      "wordImage": "images/06_recommend_word.png",
+      "sentenceImage": "images/06_recommend_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "warn",
+      "partOfSpeech": "v.",
+      "meaningKo": "경고하다, 주의를 주다",
+      "ipa": "/wɔːrn/",
+      "definition": "to tell someone about possible danger or difficulty",
+      "sentence": "Bright yellow signs warn hikers about the slippery forest trail.",
+      "wordImage": "images/07_warn_word.png",
+      "sentenceImage": "images/07_warn_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "cause",
+      "partOfSpeech": "v.",
+      "meaningKo": "원인이 되다, 야기하다",
+      "ipa": "/kɑːz/",
+      "definition": "to make something happen, especially something bad",
+      "sentence": "Loud sudden noises can cause the shy puppy to hide.",
+      "wordImage": "images/08_cause_word.png",
+      "sentenceImage": "images/08_cause_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "lose",
+      "partOfSpeech": "v.",
+      "meaningKo": "잃다, 패하다",
+      "ipa": "/luːz/",
+      "definition": "to no longer have something or fail to win a game",
+      "sentence": "Be careful not to lose your house key while jogging.",
+      "wordImage": "images/09_lose_word.png",
+      "sentenceImage": "images/09_lose_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "loose",
+      "partOfSpeech": "adj.",
+      "meaningKo": "헐거운, 느슨한",
+      "ipa": "/luːs/",
+      "definition": "not fitting tightly or not firmly attached",
+      "sentence": "He wore a comfortable loose cotton shirt during the hike.",
+      "wordImage": "images/10_loose_word.png",
+      "sentenceImage": "images/10_loose_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 16,
+  "range": "31-40",
+  "set": 4,
+  "items": [
+    {
+      "wordId": "DAY16-31",
+      "no": 31,
+      "word": "preserve",
+      "sentence": "Careful farmers preserve the forest soil by planting cover grass."
+    },
+    {
+      "wordId": "DAY16-32",
+      "no": 32,
+      "word": "vapor",
+      "sentence": "Water vapor from the kettle turns to drops on cold glass."
+    },
+    {
+      "wordId": "DAY16-33",
+      "no": 33,
+      "word": "invisible",
+      "sentence": "Air is invisible, so we draw its moving particles as dots."
+    },
+    {
+      "wordId": "DAY16-34",
+      "no": 34,
+      "word": "substance",
+      "sentence": "Each substance warmed differently, though we added the same heat."
+    },
+    {
+      "wordId": "DAY16-35",
+      "no": 35,
+      "word": "particle",
+      "sentence": "Every particle moves faster when the water temperature rises."
+    },
+    {
+      "wordId": "DAY16-36",
+      "no": 36,
+      "word": "moisture",
+      "sentence": "Morning moisture collected on the cold window and formed small drops."
+    },
+    {
+      "wordId": "DAY16-37",
+      "no": 37,
+      "word": "abstract",
+      "sentence": "Fairness is an abstract idea; this metal ball is not."
+    },
+    {
+      "wordId": "DAY16-38",
+      "no": 38,
+      "word": "valid",
+      "sentence": "This measurement stays valid because two students checked the same scale."
+    },
+    {
+      "wordId": "DAY16-39",
+      "no": 39,
+      "word": "invention",
+      "sentence": "Our invention lifts books with two pulleys and one string."
+    },
+    {
+      "wordId": "DAY16-40",
+      "no": 40,
+      "word": "stick",
+      "sentence": "Rubbed balloons stick to the wall for a short time."
+    }
+  ]
+}

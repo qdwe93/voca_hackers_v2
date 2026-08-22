@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 15,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY15-21",
+      "no": 21,
+      "word": "tune",
+      "sentence": "Today, the bird sang a cheerful tune outside the open window."
+    },
+    {
+      "wordId": "DAY15-22",
+      "no": 22,
+      "word": "submit",
+      "sentence": "Before the class ends today, students submit their drawings."
+    },
+    {
+      "wordId": "DAY15-23",
+      "no": 23,
+      "word": "logical",
+      "sentence": "Her logical claim connects each reason to clear evidence."
+    },
+    {
+      "wordId": "DAY15-24",
+      "no": 24,
+      "word": "blame",
+      "sentence": "Today, do not blame the wind for the tangled kite string."
+    },
+    {
+      "wordId": "DAY15-25",
+      "no": 25,
+      "word": "display",
+      "sentence": "The display combines captions and pictures to explain the animal."
+    },
+    {
+      "wordId": "DAY15-26",
+      "no": 26,
+      "word": "likewise",
+      "sentence": "Today, the tall bear bowed; likewise, the small fox bowed politely."
+    },
+    {
+      "wordId": "DAY15-27",
+      "no": 27,
+      "word": "discipline",
+      "sentence": "Today, daily discipline helped the young swimmer improve every single week."
+    },
+    {
+      "wordId": "DAY15-28",
+      "no": 28,
+      "word": "boost",
+      "sentence": "Today, sunlight can boost the growth of these young tomato plants."
+    },
+    {
+      "wordId": "DAY15-29",
+      "no": 29,
+      "word": "shallow",
+      "sentence": "Ducklings paddled cheerfully in the shallow end of the pond."
+    },
+    {
+      "wordId": "DAY15-30",
+      "no": 30,
+      "word": "swallow",
+      "sentence": "Chew gently and swallow before you take another bite."
+    }
+  ]
+}

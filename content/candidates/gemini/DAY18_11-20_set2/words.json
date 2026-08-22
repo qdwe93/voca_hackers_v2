@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 18,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 18 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "prevent",
+      "partOfSpeech": "v.",
+      "meaningKo": "예방하다, 막다",
+      "ipa": "/prɪˈvent/",
+      "definition": "to stop something from happening or someone from doing something",
+      "sentence": "Washing hands regularly with soap helps prevent the spread of colds.",
+      "wordImage": "images/11_prevent_word.png",
+      "sentenceImage": "images/11_prevent_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "suffer",
+      "partOfSpeech": "v.",
+      "meaningKo": "고통받다, 겪다",
+      "ipa": "/ˈsʌf.ɚ/",
+      "definition": "to experience physical pain, illness, or unpleasant feelings",
+      "sentence": "Drink warm honey tea so you do not suffer from sore throat.",
+      "wordImage": "images/12_suffer_word.png",
+      "sentenceImage": "images/12_suffer_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "ruin",
+      "partOfSpeech": "v.",
+      "meaningKo": "망치다, 파괴하다",
+      "ipa": "/ˈruː.ɪn/",
+      "definition": "to spoil or destroy something completely or severely",
+      "sentence": "Do not let a sudden rainy shower ruin your picnic mood.",
+      "wordImage": "images/13_ruin_word.png",
+      "sentenceImage": "images/13_ruin_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "organ",
+      "partOfSpeech": "n.",
+      "meaningKo": "장기, 기관, 오르간",
+      "ipa": "/ˈɔːr.ɡən/",
+      "definition": "a part of the body that has a particular purpose",
+      "sentence": "The human heart is an amazing organ that pumps fresh blood.",
+      "wordImage": "images/14_organ_word.png",
+      "sentenceImage": "images/14_organ_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "instead",
+      "partOfSpeech": "adv.",
+      "meaningKo": "대신에",
+      "ipa": "/ɪnˈsted/",
+      "definition": "in place of someone or something else as a substitute",
+      "sentence": "She chose a crunchy fresh apple instead of sweet sugary candy.",
+      "wordImage": "images/15_instead_word.png",
+      "sentenceImage": "images/15_instead_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "ankle",
+      "partOfSpeech": "n.",
+      "meaningKo": "발목",
+      "ipa": "/ˈæŋ.kəl/",
+      "definition": "the joint connecting your foot with your lower leg",
+      "sentence": "He wore high-top athletic shoes to protect his ankle during basketball.",
+      "wordImage": "images/16_ankle_word.png",
+      "sentenceImage": "images/16_ankle_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "nutrition",
+      "partOfSpeech": "n.",
+      "meaningKo": "영양, 영양분",
+      "ipa": "/nuːˈtrɪʃ.ən/",
+      "definition": "the substances you take in through food that promote health",
+      "sentence": "Fresh vegetables and colorful fruits provide essential daily vitamins and nutrition.",
+      "wordImage": "images/17_nutrition_word.png",
+      "sentenceImage": "images/17_nutrition_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "decrease",
+      "partOfSpeech": "v.",
+      "meaningKo": "줄이다, 감소하다",
+      "ipa": "/dɪˈkriːs/",
+      "definition": "to become less, or make something become smaller or lower",
+      "sentence": "Regular aerobic exercise helps decrease stress and promotes peaceful good sleep.",
+      "wordImage": "images/18_decrease_word.png",
+      "sentenceImage": "images/18_decrease_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "trouble",
+      "partOfSpeech": "n.",
+      "meaningKo": "곤란, 문제, 수고",
+      "ipa": "/ˈtrʌb.əl/",
+      "definition": "problems, difficulties, or a situation causing worry",
+      "sentence": "Good friends always help each other when someone is in trouble.",
+      "wordImage": "images/19_trouble_word.png",
+      "sentenceImage": "images/19_trouble_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "seal",
+      "partOfSpeech": "n.",
+      "meaningKo": "물개, 봉인, 직인",
+      "ipa": "/siːl/",
+      "definition": "a sea animal with flippers, or an official wax stamp",
+      "sentence": "A playful spotted seal clapped its flippers on the rocky shore.",
+      "wordImage": "images/20_seal_word.png",
+      "sentenceImage": "images/20_seal_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

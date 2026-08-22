@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 25,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY25-21",
+      "no": 21,
+      "word": "pesticide",
+      "sentence": "This farm sprays less pesticide and welcomes helpful ladybugs instead."
+    },
+    {
+      "wordId": "DAY25-22",
+      "no": 22,
+      "word": "alternative",
+      "sentence": "A cloth bag is one good alternative to plastic ones."
+    },
+    {
+      "wordId": "DAY25-23",
+      "no": 23,
+      "word": "respect",
+      "sentence": "Quiet hikers show respect for animals living beside the trail."
+    },
+    {
+      "wordId": "DAY25-24",
+      "no": 24,
+      "word": "vast",
+      "sentence": "A vast forest covers the hills north of this river."
+    },
+    {
+      "wordId": "DAY25-25",
+      "no": 25,
+      "word": "refreshing",
+      "sentence": "The cool morning air felt refreshing after the long climb."
+    },
+    {
+      "wordId": "DAY25-26",
+      "no": 26,
+      "word": "responsible",
+      "sentence": "Responsible campers carry every wrapper home in their backpacks."
+    },
+    {
+      "wordId": "DAY25-27",
+      "no": 27,
+      "word": "confuse",
+      "sentence": "People often confuse paper cups with plastic ones while sorting."
+    },
+    {
+      "wordId": "DAY25-28",
+      "no": 28,
+      "word": "separate",
+      "sentence": "We separate glass, cans, and paper into three labeled boxes."
+    },
+    {
+      "wordId": "DAY25-29",
+      "no": 29,
+      "word": "delicate",
+      "sentence": "These delicate moss plants tear easily under heavy boots."
+    },
+    {
+      "wordId": "DAY25-30",
+      "no": 30,
+      "word": "dedicate",
+      "sentence": "Our club members dedicate every Saturday morning to river cleaning."
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 15,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 15 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "theory",
+      "partOfSpeech": "n.",
+      "meaningKo": "이론",
+      "definition": "an explanation based on ideas and evidence",
+      "sentence": "The scientist tests a theory using plants and light.",
+      "ipa": "/θɪri/",
+      "wordImage": "images/11_theory_word.png",
+      "sentenceImage": "images/11_theory_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "philosophy",
+      "partOfSpeech": "n.",
+      "meaningKo": "철학",
+      "definition": "the study of knowledge truth and right behavior",
+      "sentence": "The students quietly discuss philosophy beneath a large tree.",
+      "ipa": "/fəlɑsəfi/",
+      "wordImage": "images/12_philosophy_word.png",
+      "sentenceImage": "images/12_philosophy_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "method",
+      "partOfSpeech": "n.",
+      "meaningKo": "방법",
+      "definition": "a particular way of doing something",
+      "sentence": "The cook uses a quick method for peeling potatoes.",
+      "ipa": "/mɛθəd/",
+      "wordImage": "images/13_method_word.png",
+      "sentenceImage": "images/13_method_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "praise",
+      "partOfSpeech": "v.",
+      "meaningKo": "칭찬하다",
+      "definition": "to express approval or admiration",
+      "sentence": "The teacher will praise the student's carefully built model.",
+      "ipa": "/preɪz/",
+      "wordImage": "images/14_praise_word.png",
+      "sentenceImage": "images/14_praise_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "standard",
+      "partOfSpeech": "n.",
+      "meaningKo": "기준",
+      "definition": "a level used for judging quality",
+      "sentence": "The new helmet meets a high safety standard.",
+      "ipa": "/stændɚd/",
+      "wordImage": "images/15_standard_word.png",
+      "sentenceImage": "images/15_standard_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "character",
+      "partOfSpeech": "n.",
+      "meaningKo": "성격",
+      "definition": "the qualities that make a person behave a certain way",
+      "sentence": "Helping smaller animals shows the bear's kind character.",
+      "ipa": "/kɛrɪktɚ/",
+      "wordImage": "images/16_character_word.png",
+      "sentenceImage": "images/16_character_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "throw",
+      "partOfSpeech": "v.",
+      "meaningKo": "던지다",
+      "definition": "to send something through the air with the hand",
+      "sentence": "The player will throw the ball toward the basket.",
+      "ipa": "/θroʊ/",
+      "wordImage": "images/17_throw_word.png",
+      "sentenceImage": "images/17_throw_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "psychology",
+      "partOfSpeech": "n.",
+      "meaningKo": "심리학",
+      "definition": "the scientific study of thoughts feelings and behavior",
+      "sentence": "The class studies psychology by observing facial expressions.",
+      "ipa": "/saɪkɑlədʒi/",
+      "wordImage": "images/18_psychology_word.png",
+      "sentenceImage": "images/18_psychology_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "intention",
+      "partOfSpeech": "n.",
+      "meaningKo": "의도",
+      "definition": "a plan or purpose in someone's mind",
+      "sentence": "The builder's intention is finishing the bridge before sunset.",
+      "ipa": "/ɪntɛntʃən/",
+      "wordImage": "images/19_intention_word.png",
+      "sentenceImage": "images/19_intention_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "apply",
+      "partOfSpeech": "v.",
+      "meaningKo": "지원하다",
+      "definition": "to formally ask for a job or place",
+      "sentence": "The student will apply for a place in the art club.",
+      "ipa": "/əplaɪ/",
+      "wordImage": "images/20_apply_word.png",
+      "sentenceImage": "images/20_apply_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

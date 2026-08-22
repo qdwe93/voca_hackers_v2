@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 20,
+  "range": "31-40",
+  "set": 4,
+  "items": [
+    {
+      "wordId": "DAY20-31",
+      "no": 31,
+      "word": "drag",
+      "sentence": "Workhorses drag heavy wooden timber sleds across snowy winter forest logging."
+    },
+    {
+      "wordId": "DAY20-32",
+      "no": 32,
+      "word": "fasten",
+      "sentence": "Please fasten your airplane seat belt securely before the plane takes."
+    },
+    {
+      "wordId": "DAY20-33",
+      "no": 33,
+      "word": "precise",
+      "sentence": "Use a compass and ruler to construct precise geometric angle bisectors."
+    },
+    {
+      "wordId": "DAY20-34",
+      "no": 34,
+      "word": "vital",
+      "sentence": "Clear communication protocols are vital for safe air traffic control operations."
+    },
+    {
+      "wordId": "DAY20-35",
+      "no": 35,
+      "word": "component",
+      "sentence": "A faulty brake component was replaced by the certified auto mechanic."
+    },
+    {
+      "wordId": "DAY20-36",
+      "no": 36,
+      "word": "seldom",
+      "sentence": "High-speed bullet trains seldom experience mechanical delays during scheduled passenger service."
+    },
+    {
+      "wordId": "DAY20-37",
+      "no": 37,
+      "word": "enhance",
+      "sentence": "Upgrading signal systems will enhance railway safety and increase train frequency."
+    },
+    {
+      "wordId": "DAY20-38",
+      "no": 38,
+      "word": "sink",
+      "sentence": "Heavy metal anchor chains sink rapidly to the muddy ocean floor."
+    },
+    {
+      "wordId": "DAY20-39",
+      "no": 39,
+      "word": "destination",
+      "sentence": "The high-speed ferry reached its coastal destination ahead of schedule today."
+    },
+    {
+      "wordId": "DAY20-40",
+      "no": 40,
+      "word": "station",
+      "sentence": "Commuters wait on the platform at the central subway station terminal."
+    }
+  ]
+}

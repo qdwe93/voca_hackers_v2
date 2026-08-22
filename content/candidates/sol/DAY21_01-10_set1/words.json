@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 21,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 21 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "wild",
+      "partOfSpeech": "adj.",
+      "meaningKo": "야생의",
+      "definition": "living naturally without human control",
+      "sentence": "A wild deer drinks from the forest stream.",
+      "ipa": "/waɪld/",
+      "wordImage": "images/01_wild_word.png",
+      "sentenceImage": "images/01_wild_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "species",
+      "partOfSpeech": "n.",
+      "meaningKo": "종",
+      "definition": "a group of living things with shared features",
+      "sentence": "Several butterfly species rest on different bright flowers.",
+      "ipa": "/spiʃiz/",
+      "wordImage": "images/02_species_word.png",
+      "sentenceImage": "images/02_species_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "bark",
+      "partOfSpeech": "n.",
+      "meaningKo": "나무껍질",
+      "definition": "the hard outer covering of a tree",
+      "sentence": "Rough bark covers the trunk of the old tree.",
+      "ipa": "/bɑrk/",
+      "wordImage": "images/03_bark_word.png",
+      "sentenceImage": "images/03_bark_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "nest",
+      "partOfSpeech": "n.",
+      "meaningKo": "둥지",
+      "definition": "a structure where birds raise their young",
+      "sentence": "Three chicks sit safely inside the woven nest.",
+      "ipa": "/nɛst/",
+      "wordImage": "images/04_nest_word.png",
+      "sentenceImage": "images/04_nest_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "certain",
+      "partOfSpeech": "adj.",
+      "meaningKo": "확실한",
+      "definition": "sure and without doubt",
+      "sentence": "The detective is certain which footprint belongs to the dog.",
+      "ipa": "/sɝtən/",
+      "wordImage": "images/05_certain_word.png",
+      "sentenceImage": "images/05_certain_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "greet",
+      "partOfSpeech": "v.",
+      "meaningKo": "인사하다",
+      "definition": "to welcome someone with words or actions",
+      "sentence": "The friendly dog will greet visitors at the gate.",
+      "ipa": "/ɡrit/",
+      "wordImage": "images/06_greet_word.png",
+      "sentenceImage": "images/06_greet_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "seed",
+      "partOfSpeech": "n.",
+      "meaningKo": "씨앗",
+      "definition": "a small plant part that can grow",
+      "sentence": "A tiny seed sprouts inside the clear soil container.",
+      "ipa": "/sid/",
+      "wordImage": "images/07_seed_word.png",
+      "sentenceImage": "images/07_seed_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "predator",
+      "partOfSpeech": "n.",
+      "meaningKo": "포식자",
+      "definition": "an animal that hunts other animals for food",
+      "sentence": "A fox is a predator watching rabbits from afar.",
+      "ipa": "/prɛdətɚ/",
+      "wordImage": "images/08_predator_word.png",
+      "sentenceImage": "images/08_predator_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "scene",
+      "partOfSpeech": "n.",
+      "meaningKo": "장면",
+      "definition": "a view or event in a particular place",
+      "sentence": "The peaceful scene includes a lake mountains and birds.",
+      "ipa": "/sin/",
+      "wordImage": "images/09_scene_word.png",
+      "sentenceImage": "images/09_scene_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "scent",
+      "partOfSpeech": "n.",
+      "meaningKo": "향기",
+      "definition": "a smell especially one left by something",
+      "sentence": "The dog follows the flower's sweet scent through the garden.",
+      "ipa": "/sɛnt/",
+      "wordImage": "images/10_scent_word.png",
+      "sentenceImage": "images/10_scent_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

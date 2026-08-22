@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 28,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 28 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "invest",
+      "partOfSpeech": "v.",
+      "meaningKo": "투자하다",
+      "ipa": "/ɪnˈvest/",
+      "definition": "to put money into something to grow",
+      "sentence": "The bakers invest their coins in a bigger oven.",
+      "wordImage": "images/11_invest_word.png",
+      "sentenceImage": "images/11_invest_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "wealth",
+      "partOfSpeech": "n.",
+      "meaningKo": "부",
+      "ipa": "/welθ/",
+      "definition": "a large amount of money or goods",
+      "sentence": "The kingdom's wealth was stored in golden grain barns.",
+      "wordImage": "images/12_wealth_word.png",
+      "sentenceImage": "images/12_wealth_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "provide",
+      "partOfSpeech": "v.",
+      "meaningKo": "제공하다",
+      "ipa": "/prəˈvaɪd/",
+      "definition": "to give what someone needs",
+      "sentence": "Tall trees provide cool shade for tired summer walkers.",
+      "wordImage": "images/13_provide_word.png",
+      "sentenceImage": "images/13_provide_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "merchant",
+      "partOfSpeech": "n.",
+      "meaningKo": "상인",
+      "ipa": "/ˈmɜːrtʃənt/",
+      "definition": "a person who buys and sells goods",
+      "sentence": "A traveling merchant sold spices from a colorful cart.",
+      "wordImage": "images/14_merchant_word.png",
+      "sentenceImage": "images/14_merchant_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "finance",
+      "partOfSpeech": "v.",
+      "meaningKo": "자금을 대다",
+      "ipa": "/ˈfaɪnæns/",
+      "definition": "to give money for a big plan",
+      "sentence": "The town will finance a new bridge this year.",
+      "wordImage": "images/15_finance_word.png",
+      "sentenceImage": "images/15_finance_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "derive",
+      "partOfSpeech": "v.",
+      "meaningKo": "얻다",
+      "ipa": "/dɪˈraɪv/",
+      "definition": "to get something from another thing",
+      "sentence": "We derive sweet syrup from tall green maple trees.",
+      "wordImage": "images/16_derive_word.png",
+      "sentenceImage": "images/16_derive_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "credit",
+      "partOfSpeech": "n.",
+      "meaningKo": "신용",
+      "ipa": "/ˈkredɪt/",
+      "definition": "trust that someone will pay later",
+      "sentence": "The shop gave credit to the honest young farmer.",
+      "wordImage": "images/17_credit_word.png",
+      "sentenceImage": "images/17_credit_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "substitute",
+      "partOfSpeech": "v.",
+      "meaningKo": "대체하다",
+      "ipa": "/ˈsʌbstɪtuːt/",
+      "definition": "to use one thing instead of another",
+      "sentence": "You can substitute honey for sugar in this recipe.",
+      "wordImage": "images/18_substitute_word.png",
+      "sentenceImage": "images/18_substitute_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "debt",
+      "partOfSpeech": "n.",
+      "meaningKo": "빚",
+      "ipa": "/det/",
+      "definition": "money that you must pay back",
+      "sentence": "The small debt was repaid with two baskets of eggs.",
+      "wordImage": "images/19_debt_word.png",
+      "sentenceImage": "images/19_debt_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "bill",
+      "partOfSpeech": "n.",
+      "meaningKo": "청구서",
+      "ipa": "/bɪl/",
+      "definition": "a paper showing money you must pay",
+      "sentence": "The bill for the flowers was very small indeed.",
+      "wordImage": "images/20_bill_word.png",
+      "sentenceImage": "images/20_bill_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

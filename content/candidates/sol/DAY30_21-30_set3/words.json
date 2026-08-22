@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 30,
+  "range": "21-30",
+  "set": 3,
+  "title": "DAY 30 · 21-30",
+  "words": [
+    {
+      "no": 21,
+      "word": "depress",
+      "partOfSpeech": "v.",
+      "meaningKo": "우울하게 하다",
+      "definition": "to make someone feel sad",
+      "sentence": "The endless rain may depress the lonely cartoon cloud.",
+      "ipa": "/dɪprɛs/",
+      "wordImage": "images/21_depress_word.png",
+      "sentenceImage": "images/21_depress_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 22,
+      "word": "demand",
+      "partOfSpeech": "v.",
+      "meaningKo": "요구하다",
+      "definition": "to ask firmly for something",
+      "sentence": "The hungry chicks demand food with wide open beaks.",
+      "ipa": "/dɪmænd/",
+      "wordImage": "images/22_demand_word.png",
+      "sentenceImage": "images/22_demand_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 23,
+      "word": "identify",
+      "partOfSpeech": "v.",
+      "meaningKo": "확인하다",
+      "definition": "to recognize and name someone or something",
+      "sentence": "The ranger will identify the bird by its feathers.",
+      "ipa": "/aɪdɛntəfaɪ/",
+      "wordImage": "images/23_identify_word.png",
+      "sentenceImage": "images/23_identify_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 24,
+      "word": "award",
+      "partOfSpeech": "n.",
+      "meaningKo": "상",
+      "definition": "an honor given for achievement",
+      "sentence": "The scientist receives an award beside the successful invention.",
+      "ipa": "/əwɔrd/",
+      "wordImage": "images/24_award_word.png",
+      "sentenceImage": "images/24_award_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 25,
+      "word": "regret",
+      "partOfSpeech": "v.",
+      "meaningKo": "후회하다",
+      "definition": "to feel sorry about a past action",
+      "sentence": "The child will regret leaving the toy outside in rain.",
+      "ipa": "/rəɡrɛt/",
+      "wordImage": "images/25_regret_word.png",
+      "sentenceImage": "images/25_regret_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 26,
+      "word": "regard",
+      "partOfSpeech": "v.",
+      "meaningKo": "여기다",
+      "definition": "to consider someone or something in a certain way",
+      "sentence": "The team will regard the old coach with respect.",
+      "ipa": "/rɪɡɑrd/",
+      "wordImage": "images/26_regard_word.png",
+      "sentenceImage": "images/26_regard_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 27,
+      "word": "inquire",
+      "partOfSpeech": "v.",
+      "meaningKo": "문의하다",
+      "definition": "to ask for information",
+      "sentence": "The traveler will inquire about the next train.",
+      "ipa": "/ɪnkwaɪr/",
+      "wordImage": "images/27_inquire_word.png",
+      "sentenceImage": "images/27_inquire_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 28,
+      "word": "script",
+      "partOfSpeech": "n.",
+      "meaningKo": "대본",
+      "definition": "the written words for a play or film",
+      "sentence": "The actor holds a blank script during rehearsal.",
+      "ipa": "/skrɪpt/",
+      "wordImage": "images/28_script_word.png",
+      "sentenceImage": "images/28_script_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 29,
+      "word": "decline",
+      "partOfSpeech": "v.",
+      "meaningKo": "감소하다",
+      "definition": "to become smaller fewer or weaker",
+      "sentence": "The water level will decline during the dry week.",
+      "ipa": "/dɪklaɪn/",
+      "wordImage": "images/29_decline_word.png",
+      "sentenceImage": "images/29_decline_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 30,
+      "word": "declare",
+      "partOfSpeech": "v.",
+      "meaningKo": "선언하다",
+      "definition": "to announce something clearly and officially",
+      "sentence": "The judge will declare the blue robot the winner.",
+      "ipa": "/dɪklɛr/",
+      "wordImage": "images/30_declare_word.png",
+      "sentenceImage": "images/30_declare_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

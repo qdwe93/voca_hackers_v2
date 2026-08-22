@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 21,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY21-21",
+      "no": 21,
+      "word": "attract",
+      "sentence": "Bright petals attract bees toward the center of the flower."
+    },
+    {
+      "wordId": "DAY21-22",
+      "no": 22,
+      "word": "poison",
+      "sentence": "Some mushrooms carry poison, so we never pick them."
+    },
+    {
+      "wordId": "DAY21-23",
+      "no": 23,
+      "word": "weigh",
+      "sentence": "These two apples weigh the same on the kitchen scale."
+    },
+    {
+      "wordId": "DAY21-24",
+      "no": 24,
+      "word": "automatic",
+      "sentence": "This automatic feeder drops seeds for the birds each morning."
+    },
+    {
+      "wordId": "DAY21-25",
+      "no": 25,
+      "word": "role",
+      "sentence": "The club leader's role includes watering plants every Friday."
+    },
+    {
+      "wordId": "DAY21-26",
+      "no": 26,
+      "word": "exchange",
+      "sentence": "Two gardeners exchange tomato seeds for pumpkin seeds today."
+    },
+    {
+      "wordId": "DAY21-27",
+      "no": 27,
+      "word": "contain",
+      "sentence": "These small pods contain four dark beans inside them."
+    },
+    {
+      "wordId": "DAY21-28",
+      "no": 28,
+      "word": "trail",
+      "sentence": "A narrow trail leads through the pine woods to the pond."
+    },
+    {
+      "wordId": "DAY21-29",
+      "no": 29,
+      "word": "trait",
+      "sentence": "Curly fur is one trait some rabbits inherit from parents."
+    },
+    {
+      "wordId": "DAY21-30",
+      "no": 30,
+      "word": "trial",
+      "sentence": "Our first trial with cold water failed, so we tried warm."
+    }
+  ]
+}

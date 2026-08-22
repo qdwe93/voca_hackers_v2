@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 18,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 18 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "stomach",
+      "partOfSpeech": "n.",
+      "meaningKo": "위",
+      "ipa": "/ˈstʌmək/",
+      "definition": "the body part where food goes",
+      "sentence": "The hungry dragon rubbed its round stomach before breakfast.",
+      "wordImage": "images/01_stomach_word.png",
+      "sentenceImage": "images/01_stomach_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "pill",
+      "partOfSpeech": "n.",
+      "meaningKo": "알약",
+      "ipa": "/pɪl/",
+      "definition": "a small round medicine you swallow",
+      "sentence": "The vet gave one tiny pill to the sleepy hamster.",
+      "wordImage": "images/02_pill_word.png",
+      "sentenceImage": "images/02_pill_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "thumb",
+      "partOfSpeech": "n.",
+      "meaningKo": "엄지손가락",
+      "ipa": "/θʌm/",
+      "definition": "the short thick finger on your hand",
+      "sentence": "She raised her thumb to show the plan was fine.",
+      "wordImage": "images/03_thumb_word.png",
+      "sentenceImage": "images/03_thumb_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "wound",
+      "partOfSpeech": "n.",
+      "meaningKo": "상처",
+      "ipa": "/wuːnd/",
+      "definition": "a sore place on skin that is healing",
+      "sentence": "A small bandage covered the wound on the puppy's paw.",
+      "wordImage": "images/04_wound_word.png",
+      "sentenceImage": "images/04_wound_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "therapy",
+      "partOfSpeech": "n.",
+      "meaningKo": "치료",
+      "ipa": "/ˈθerəpi/",
+      "definition": "special care that helps someone get better",
+      "sentence": "Gentle swimming therapy helped the old dog walk again.",
+      "wordImage": "images/05_therapy_word.png",
+      "sentenceImage": "images/05_therapy_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "surgery",
+      "partOfSpeech": "n.",
+      "meaningKo": "수술",
+      "ipa": "/ˈsɜːrdʒəri/",
+      "definition": "medical work doctors do to fix a body",
+      "sentence": "The toy bear needed simple surgery from a young doctor.",
+      "wordImage": "images/06_surgery_word.png",
+      "sentenceImage": "images/06_surgery_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "physician",
+      "partOfSpeech": "n.",
+      "meaningKo": "의사",
+      "ipa": "/fɪˈzɪʃn/",
+      "definition": "a doctor who helps sick people",
+      "sentence": "The kind physician listened to the child's steady heartbeat.",
+      "wordImage": "images/07_physician_word.png",
+      "sentenceImage": "images/07_physician_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "positive",
+      "partOfSpeech": "adj.",
+      "meaningKo": "긍정적인",
+      "ipa": "/ˈpɑːzətɪv/",
+      "definition": "hopeful and looking at good things",
+      "sentence": "A positive attitude helped the team finish the long hike.",
+      "wordImage": "images/08_positive_word.png",
+      "sentenceImage": "images/08_positive_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "grab",
+      "partOfSpeech": "v.",
+      "meaningKo": "붙잡다",
+      "ipa": "/ɡræb/",
+      "definition": "to take hold of something quickly",
+      "sentence": "The monkey will grab a banana from the low branch.",
+      "wordImage": "images/09_grab_word.png",
+      "sentenceImage": "images/09_grab_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "grip",
+      "partOfSpeech": "v.",
+      "meaningKo": "꽉 잡다",
+      "ipa": "/ɡrɪp/",
+      "definition": "to hold something very tightly",
+      "sentence": "Climbers grip the rope with both hands going up.",
+      "wordImage": "images/10_grip_word.png",
+      "sentenceImage": "images/10_grip_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

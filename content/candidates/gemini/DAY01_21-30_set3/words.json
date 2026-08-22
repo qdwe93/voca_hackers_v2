@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 1,
+  "range": "21-30",
+  "set": 3,
+  "title": "DAY 01 · 21-30",
+  "words": [
+    {
+      "no": 21,
+      "word": "receipt",
+      "partOfSpeech": "n.",
+      "meaningKo": "영수증",
+      "ipa": "/rɪˈsiːt/",
+      "definition": "a paper showing that you have paid for goods",
+      "sentence": "The cashier handed him a printed receipt after the purchase.",
+      "wordImage": "images/21_receipt_word.png",
+      "sentenceImage": "images/21_receipt_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 22,
+      "word": "bitter",
+      "partOfSpeech": "adj.",
+      "meaningKo": "쓴, 쌉싸름한",
+      "ipa": "/ˈbɪt.ər/",
+      "definition": "having a sharp, strong taste like black coffee",
+      "sentence": "The dark chocolate had a slightly bitter but rich flavor.",
+      "wordImage": "images/22_bitter_word.png",
+      "sentenceImage": "images/22_bitter_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 23,
+      "word": "appearance",
+      "partOfSpeech": "n.",
+      "meaningKo": "외모, 출현",
+      "ipa": "/əˈpɪr.əns/",
+      "definition": "the way that someone or something looks",
+      "sentence": "His neat appearance made a positive impression during the interview.",
+      "wordImage": "images/23_appearance_word.png",
+      "sentenceImage": "images/23_appearance_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 24,
+      "word": "iron",
+      "partOfSpeech": "n.",
+      "meaningKo": "다리미, 철",
+      "ipa": "/ˈaɪ.ərn/",
+      "definition": "a heated tool used to smooth clothes",
+      "sentence": "She used a hot steam iron to smooth the shirt.",
+      "wordImage": "images/24_iron_word.png",
+      "sentenceImage": "images/24_iron_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 25,
+      "word": "palm",
+      "partOfSpeech": "n.",
+      "meaningKo": "손바닥, 야자나무",
+      "ipa": "/pɑːm/",
+      "definition": "the inside flat part of your hand",
+      "sentence": "The little bird sat gently on the open palm today.",
+      "wordImage": "images/25_palm_word.png",
+      "sentenceImage": "images/25_palm_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 26,
+      "word": "fancy",
+      "partOfSpeech": "adj.",
+      "meaningKo": "화려한, 고급스러운",
+      "ipa": "/ˈfæn.si/",
+      "definition": "expensive, decorative, or not plain",
+      "sentence": "They wore fancy costumes for the royal festival in town.",
+      "wordImage": "images/26_fancy_word.png",
+      "sentenceImage": "images/26_fancy_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 27,
+      "word": "soak",
+      "partOfSpeech": "v.",
+      "meaningKo": "담그다, 푹 젖게 하다",
+      "ipa": "/soʊk/",
+      "definition": "to make something very wet in liquid",
+      "sentence": "Please soak the dry seeds in warm water overnight first.",
+      "wordImage": "images/27_soak_word.png",
+      "sentenceImage": "images/27_soak_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 28,
+      "word": "appeal",
+      "partOfSpeech": "v.",
+      "meaningKo": "흥미를 끌다, 호소하다",
+      "ipa": "/əˈpiːl/",
+      "definition": "to be attractive or interesting to someone",
+      "sentence": "The bright colors of the book appeal to young readers.",
+      "wordImage": "images/28_appeal_word.png",
+      "sentenceImage": "images/28_appeal_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 29,
+      "word": "compare",
+      "partOfSpeech": "v.",
+      "meaningKo": "비교하다",
+      "ipa": "/kəmˈper/",
+      "definition": "to examine things to see how they are different",
+      "sentence": "We must compare the two maps before choosing our trail.",
+      "wordImage": "images/29_compare_word.png",
+      "sentenceImage": "images/29_compare_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 30,
+      "word": "compel",
+      "partOfSpeech": "v.",
+      "meaningKo": "강요하다, ~하게 만들다",
+      "ipa": "/kəmˈpel/",
+      "definition": "to force someone to do something",
+      "sentence": "Strong winds compel the sailors to stay in the harbor.",
+      "wordImage": "images/30_compel_word.png",
+      "sentenceImage": "images/30_compel_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 24,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 24 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "resource",
+      "partOfSpeech": "n.",
+      "meaningKo": "자원, 재원",
+      "ipa": "/ˈriː.sɔːrs/",
+      "definition": "a useful supply of material, money, or support for people",
+      "sentence": "Fresh river water is a precious natural resource for our town.",
+      "wordImage": "images/01_resource_word.png",
+      "sentenceImage": "images/01_resource_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "fossil",
+      "partOfSpeech": "n.",
+      "meaningKo": "화석",
+      "ipa": "/ˈfɑː.səl/",
+      "definition": "the preserved remains or impression of an ancient living thing in rock",
+      "sentence": "The museum displayed an ancient ammonite fossil found inside limestone.",
+      "wordImage": "images/02_fossil_word.png",
+      "sentenceImage": "images/02_fossil_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "supply",
+      "partOfSpeech": "n.",
+      "meaningKo": "공급, 보급품",
+      "ipa": "/səˈplaɪ/",
+      "definition": "an amount of something that is available for use",
+      "sentence": "Hikers packed an ample supply of fresh water and crunchy trail snacks.",
+      "wordImage": "images/03_supply_word.png",
+      "sentenceImage": "images/03_supply_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "common",
+      "partOfSpeech": "adj.",
+      "meaningKo": "흔한, 공통의",
+      "ipa": "/ˈkɑː.mən/",
+      "definition": "occurring, found, or done often, shared by people",
+      "sentence": "Dandelions are a common yellow wildflower found in spring meadows.",
+      "wordImage": "images/04_common_word.png",
+      "sentenceImage": "images/04_common_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "explanation",
+      "partOfSpeech": "n.",
+      "meaningKo": "설명, 해명",
+      "ipa": "/ˌek.spləˈneɪ.ʃən/",
+      "definition": "a statement that makes something clear or easy to understand",
+      "sentence": "The science teacher gave a clear explanation of how rainbows form.",
+      "wordImage": "images/05_explanation_word.png",
+      "sentenceImage": "images/05_explanation_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "nuclear",
+      "partOfSpeech": "adj.",
+      "meaningKo": "원자력의, 핵의",
+      "ipa": "/ˈnuː.kliː.ɚ/",
+      "definition": "relating to the nucleus of an atom or atomic energy",
+      "sentence": "Scientists study clean nuclear energy to generate electric power safely.",
+      "wordImage": "images/06_nuclear_word.png",
+      "sentenceImage": "images/06_nuclear_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "material",
+      "partOfSpeech": "n.",
+      "meaningKo": "물질, 재료, 직물",
+      "ipa": "/məˈtɪr.i.əl/",
+      "definition": "matter from which a thing is or can be made",
+      "sentence": "Wood is a natural building material used for crafting cozy furniture.",
+      "wordImage": "images/07_material_word.png",
+      "sentenceImage": "images/07_material_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "essential",
+      "partOfSpeech": "adj.",
+      "meaningKo": "필수적인, 극히 중요한",
+      "ipa": "/ɪˈsen.ʃəl/",
+      "definition": "completely necessary or extremely important in a situation",
+      "sentence": "Drinking plenty of clean water is essential for good health.",
+      "wordImage": "images/08_essential_word.png",
+      "sentenceImage": "images/08_essential_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "metal",
+      "partOfSpeech": "n.",
+      "meaningKo": "금속, 쇠",
+      "ipa": "/ˈmet̬.əl/",
+      "definition": "a solid material that is typically hard, shiny, and conducts heat",
+      "sentence": "The shiny bicycle frame was crafted from strong lightweight metal.",
+      "wordImage": "images/09_metal_word.png",
+      "sentenceImage": "images/09_metal_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "mental",
+      "partOfSpeech": "adj.",
+      "meaningKo": "정신의, 마음의",
+      "ipa": "/ˈmen.təl/",
+      "definition": "relating to the mind or involving the process of thinking",
+      "sentence": "Solving daily crossword puzzles provides great mental exercise for everyone.",
+      "wordImage": "images/10_mental_word.png",
+      "sentenceImage": "images/10_mental_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

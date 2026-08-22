@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 24,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 24 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "solve",
+      "partOfSpeech": "v.",
+      "meaningKo": "해결하다",
+      "definition": "to find the answer to a problem",
+      "sentence": "The detective will solve the mystery using muddy footprints.",
+      "ipa": "/sɑlv/",
+      "wordImage": "images/11_solve_word.png",
+      "sentenceImage": "images/11_solve_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "survive",
+      "partOfSpeech": "v.",
+      "meaningKo": "살아남다",
+      "definition": "to remain alive after difficulty",
+      "sentence": "The cactus can survive long periods without rain.",
+      "ipa": "/sɚvaɪv/",
+      "wordImage": "images/12_survive_word.png",
+      "sentenceImage": "images/12_survive_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "source",
+      "partOfSpeech": "n.",
+      "meaningKo": "원천",
+      "definition": "the place where something begins or comes from",
+      "sentence": "A cold mountain spring is the river's source.",
+      "ipa": "/sɔrs/",
+      "wordImage": "images/13_source_word.png",
+      "sentenceImage": "images/13_source_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "produce",
+      "partOfSpeech": "v.",
+      "meaningKo": "생산하다",
+      "definition": "to make or create something",
+      "sentence": "The solar panels produce clean electricity from sunlight.",
+      "ipa": "/prəˈduːs/",
+      "wordImage": "images/14_produce_word.png",
+      "sentenceImage": "images/14_produce_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "electronic",
+      "partOfSpeech": "adj.",
+      "meaningKo": "전자의",
+      "definition": "using electricity and small computer parts",
+      "sentence": "An electronic lock opens with a wireless key.",
+      "ipa": "/ɪlɛktrɑnɪk/",
+      "wordImage": "images/15_electronic_word.png",
+      "sentenceImage": "images/15_electronic_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "coal",
+      "partOfSpeech": "n.",
+      "meaningKo": "석탄",
+      "definition": "a black rock burned as fuel",
+      "sentence": "Pieces of coal fill the old mining cart.",
+      "ipa": "/koʊl/",
+      "wordImage": "images/16_coal_word.png",
+      "sentenceImage": "images/16_coal_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "benefit",
+      "partOfSpeech": "n.",
+      "meaningKo": "이점",
+      "definition": "a helpful or useful result",
+      "sentence": "Clean air is one benefit of planting trees.",
+      "ipa": "/bɛnəfɪt/",
+      "wordImage": "images/17_benefit_word.png",
+      "sentenceImage": "images/17_benefit_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "vacuum",
+      "partOfSpeech": "n.",
+      "meaningKo": "진공",
+      "definition": "a space containing almost no matter",
+      "sentence": "A feather and ball fall together inside a vacuum.",
+      "ipa": "/vækjum/",
+      "wordImage": "images/18_vacuum_word.png",
+      "sentenceImage": "images/18_vacuum_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "treasure",
+      "partOfSpeech": "n.",
+      "meaningKo": "보물",
+      "definition": "valuable objects kept or hidden",
+      "sentence": "The explorers discover treasure inside an old wooden chest.",
+      "ipa": "/trɛʒɚ/",
+      "wordImage": "images/19_treasure_word.png",
+      "sentenceImage": "images/19_treasure_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "address",
+      "partOfSpeech": "v.",
+      "meaningKo": "다루다",
+      "definition": "to deal with a problem or subject",
+      "sentence": "The town will address litter by adding recycling bins.",
+      "ipa": "/əˈdres/",
+      "wordImage": "images/20_address_word.png",
+      "sentenceImage": "images/20_address_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

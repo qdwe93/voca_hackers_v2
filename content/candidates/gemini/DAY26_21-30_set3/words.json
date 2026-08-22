@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 26,
+  "range": "21-30",
+  "set": 3,
+  "title": "DAY 26 · 21-30",
+  "words": [
+    {
+      "no": 21,
+      "word": "complex",
+      "partOfSpeech": "adj.",
+      "meaningKo": "복잡한",
+      "ipa": "/kɑːmˈpleks/",
+      "definition": "having many different parts and not easy to understand",
+      "sentence": "The wooden clock mechanism had a very complex internal gear design.",
+      "wordImage": "images/21_complex_word.png",
+      "sentenceImage": "images/21_complex_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 22,
+      "word": "organize",
+      "partOfSpeech": "v.",
+      "meaningKo": "정리하다, 조직하다",
+      "ipa": "/ˈɔːr.ɡən.aɪz/",
+      "definition": "to arrange things into a structured or neat order",
+      "sentence": "Please help organize the library books in neat alphabetical order.",
+      "wordImage": "images/22_organize_word.png",
+      "sentenceImage": "images/22_organize_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 23,
+      "word": "plenty",
+      "partOfSpeech": "n.",
+      "meaningKo": "풍부함, 많음",
+      "ipa": "/ˈplen.t̬i/",
+      "definition": "a large or sufficient amount or quantity of something",
+      "sentence": "There was plenty of fresh fruit for everyone at breakfast.",
+      "wordImage": "images/23_plenty_word.png",
+      "sentenceImage": "images/23_plenty_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 24,
+      "word": "phenomenon",
+      "partOfSpeech": "n.",
+      "meaningKo": "현상",
+      "ipa": "/fəˈnɑː.mə.nɑːn/",
+      "definition": "a fact or situation that is observed to exist naturally",
+      "sentence": "The Northern Lights are a breathtaking natural light phenomenon in winter.",
+      "wordImage": "images/24_phenomenon_word.png",
+      "sentenceImage": "images/24_phenomenon_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 25,
+      "word": "mount",
+      "partOfSpeech": "v.",
+      "meaningKo": "올라타다, 설치하다",
+      "ipa": "/maʊnt/",
+      "definition": "to get up on something, or fix something in position",
+      "sentence": "He learned how to mount his new bicycle with balance.",
+      "wordImage": "images/25_mount_word.png",
+      "sentenceImage": "images/25_mount_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 26,
+      "word": "found",
+      "partOfSpeech": "v.",
+      "meaningKo": "설립하다, 세우다",
+      "ipa": "/faʊnd/",
+      "definition": "to bring something into existence, start an organization or school",
+      "sentence": "Town citizens decided to found a public animal shelter this year.",
+      "wordImage": "images/26_found_word.png",
+      "sentenceImage": "images/26_found_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 27,
+      "word": "prove",
+      "partOfSpeech": "v.",
+      "meaningKo": "증명하다, 입증하다",
+      "ipa": "/pruːv/",
+      "definition": "to show that something is true by giving facts or proof",
+      "sentence": "The laboratory experiment will prove that warm air rises above cool.",
+      "wordImage": "images/27_prove_word.png",
+      "sentenceImage": "images/27_prove_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 28,
+      "word": "forbid",
+      "partOfSpeech": "v.",
+      "meaningKo": "금지하다",
+      "ipa": "/fɚˈbɪd/",
+      "definition": "to order someone not to do something officially",
+      "sentence": "School safety rules forbid running along the slippery swimming pool edge.",
+      "wordImage": "images/28_forbid_word.png",
+      "sentenceImage": "images/28_forbid_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 29,
+      "word": "contrast",
+      "partOfSpeech": "n.",
+      "meaningKo": "대조, 차이",
+      "ipa": "/ˈkɑːn.træst/",
+      "definition": "an obvious difference between two or more things",
+      "sentence": "The bright red rose provided a beautiful contrast against white snow.",
+      "wordImage": "images/29_contrast_word.png",
+      "sentenceImage": "images/29_contrast_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 30,
+      "word": "contract",
+      "partOfSpeech": "n.",
+      "meaningKo": "계약, 계약서",
+      "ipa": "/ˈkɑːn.trækt/",
+      "definition": "a legal document stating an agreement between two or more people",
+      "sentence": "The builder signed an official contract to construct the wooden bridge.",
+      "wordImage": "images/30_contract_word.png",
+      "sentenceImage": "images/30_contract_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 7,
+  "range": "21-30",
+  "set": 3,
+  "title": "DAY 07 · 21-30",
+  "words": [
+    {
+      "no": 21,
+      "word": "capacity",
+      "partOfSpeech": "n.",
+      "meaningKo": "수용력, 용량",
+      "ipa": "/kəˈpæs.ə.t̬i/",
+      "definition": "the total amount that can be contained inside something",
+      "sentence": "The stadium was filled to its maximum seating capacity today.",
+      "wordImage": "images/21_capacity_word.png",
+      "sentenceImage": "images/21_capacity_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 22,
+      "word": "passion",
+      "partOfSpeech": "n.",
+      "meaningKo": "열정",
+      "ipa": "/ˈpæʃ.ən/",
+      "definition": "a very powerful feeling of excitement and love for something",
+      "sentence": "She plays the grand piano with true artistry and passion.",
+      "wordImage": "images/22_passion_word.png",
+      "sentenceImage": "images/22_passion_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 23,
+      "word": "surround",
+      "partOfSpeech": "v.",
+      "meaningKo": "둘러싸다, 에워싸다",
+      "ipa": "/səˈraʊnd/",
+      "definition": "to be on all sides of someone or something",
+      "sentence": "Tall green pine trees surround the quiet mountain lake completely.",
+      "wordImage": "images/23_surround_word.png",
+      "sentenceImage": "images/23_surround_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 24,
+      "word": "indeed",
+      "partOfSpeech": "adv.",
+      "meaningKo": "정말로, 참으로",
+      "ipa": "/ɪnˈdiːd/",
+      "definition": "used to emphasize a statement or confirm the truth",
+      "sentence": "The mountain view was indeed as breathtaking as people described.",
+      "wordImage": "images/24_indeed_word.png",
+      "sentenceImage": "images/24_indeed_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 25,
+      "word": "imitate",
+      "partOfSpeech": "v.",
+      "meaningKo": "모방하다, 흉내 내다",
+      "ipa": "/ˈɪm.ə.teɪt/",
+      "definition": "to copy someone’s speech or behavior closely",
+      "sentence": "The clever parrot learned how to imitate human greeting sounds.",
+      "wordImage": "images/25_imitate_word.png",
+      "sentenceImage": "images/25_imitate_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 26,
+      "word": "bond",
+      "partOfSpeech": "n.",
+      "meaningKo": "유대, 결속",
+      "ipa": "/bɑːnd/",
+      "definition": "a close connection joining two or more people together",
+      "sentence": "Playing sports together created a strong friendship bond among teammates.",
+      "wordImage": "images/26_bond_word.png",
+      "sentenceImage": "images/26_bond_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 27,
+      "word": "obtain",
+      "partOfSpeech": "v.",
+      "meaningKo": "얻다, 획득하다",
+      "ipa": "/əbˈteɪn/",
+      "definition": "to get something by making an effort or buying",
+      "sentence": "You must obtain a library card before borrowing story books.",
+      "wordImage": "images/27_obtain_word.png",
+      "sentenceImage": "images/27_obtain_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 28,
+      "word": "precious",
+      "partOfSpeech": "adj.",
+      "meaningKo": "귀중한, 소중한",
+      "ipa": "/ˈpreʃ.əs/",
+      "definition": "of great value because of being rare, expensive, or loved",
+      "sentence": "She keeps a precious family photo album on her shelf.",
+      "wordImage": "images/28_precious_word.png",
+      "sentenceImage": "images/28_precious_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 29,
+      "word": "contribute",
+      "partOfSpeech": "v.",
+      "meaningKo": "기여하다, 기부하다",
+      "ipa": "/kənˈtrɪb.juːt/",
+      "definition": "to give something to help achieve or provide something",
+      "sentence": "Each student will contribute one book to the class library.",
+      "wordImage": "images/29_contribute_word.png",
+      "sentenceImage": "images/29_contribute_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 30,
+      "word": "distribute",
+      "partOfSpeech": "v.",
+      "meaningKo": "나누어 주다, 배포하다",
+      "ipa": "/dɪˈstrɪb.juːt/",
+      "definition": "to give something out to several people or places",
+      "sentence": "The class monitor will distribute new worksheets to every desk.",
+      "wordImage": "images/30_distribute_word.png",
+      "sentenceImage": "images/30_distribute_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

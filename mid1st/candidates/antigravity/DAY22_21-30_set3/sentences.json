@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 22,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY22-21",
+      "no": 21,
+      "word": "reason",
+      "sentence": "The scientist explained the underlying reason for sudden coral bleaching events."
+    },
+    {
+      "wordId": "DAY22-22",
+      "no": 22,
+      "word": "herd",
+      "sentence": "A large herd of wild zebras grazed across grassy plains."
+    },
+    {
+      "wordId": "DAY22-23",
+      "no": 23,
+      "word": "filter",
+      "sentence": "Mangrove roots filter sediment from coastal water to protect coral reefs."
+    },
+    {
+      "wordId": "DAY22-24",
+      "no": 24,
+      "word": "eco-friendly",
+      "sentence": "Solar power is an eco-friendly energy choice that reduces carbon emissions."
+    },
+    {
+      "wordId": "DAY22-25",
+      "no": 25,
+      "word": "portion",
+      "sentence": "A large portion of the ancient rainforest was declared a sanctuary."
+    },
+    {
+      "wordId": "DAY22-26",
+      "no": 26,
+      "word": "deadly",
+      "sentence": "Certain mushroom species contain deadly toxins that cause severe organ failure."
+    },
+    {
+      "wordId": "DAY22-27",
+      "no": 27,
+      "word": "tension",
+      "sentence": "Tension in the rope increases when two teams pull in opposite."
+    },
+    {
+      "wordId": "DAY22-28",
+      "no": 28,
+      "word": "migrate",
+      "sentence": "Geese migrate south across continents to find warmer winter feeding grounds."
+    },
+    {
+      "wordId": "DAY22-29",
+      "no": 29,
+      "word": "access",
+      "sentence": "Urban public transportation provides convenient access to city parks and hospitals."
+    },
+    {
+      "wordId": "DAY22-30",
+      "no": 30,
+      "word": "excess",
+      "sentence": "Drain the excess rainwater from plant pots to prevent root rot."
+    }
+  ]
+}

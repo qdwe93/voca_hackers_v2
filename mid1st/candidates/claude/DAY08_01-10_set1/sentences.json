@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 8,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY08-01",
+      "no": 1,
+      "word": "comment",
+      "sentence": "The teacher wrote a short comment beside my drawing."
+    },
+    {
+      "wordId": "DAY08-02",
+      "no": 2,
+      "word": "popular",
+      "sentence": "This folk song is popular with students in our school."
+    },
+    {
+      "wordId": "DAY08-03",
+      "no": 3,
+      "word": "develop",
+      "sentence": "Reading aloud daily helps children develop clearer speaking habits."
+    },
+    {
+      "wordId": "DAY08-04",
+      "no": 4,
+      "word": "moment",
+      "sentence": "For one short moment, the whole room became completely silent."
+    },
+    {
+      "wordId": "DAY08-05",
+      "no": 5,
+      "word": "public",
+      "sentence": "Anyone may borrow books from this public reading room."
+    },
+    {
+      "wordId": "DAY08-06",
+      "no": 6,
+      "word": "promise",
+      "sentence": "I promise to answer your message before dinner tonight."
+    },
+    {
+      "wordId": "DAY08-07",
+      "no": 7,
+      "word": "select",
+      "sentence": "Speakers select simple words so younger listeners understand easily."
+    },
+    {
+      "wordId": "DAY08-08",
+      "no": 8,
+      "word": "pleasure",
+      "sentence": "Telling funny stories gives my grandmother great pleasure every evening."
+    },
+    {
+      "wordId": "DAY08-09",
+      "no": 9,
+      "word": "involve",
+      "sentence": "Our word game will involve every student in the class."
+    },
+    {
+      "wordId": "DAY08-10",
+      "no": 10,
+      "word": "evolve",
+      "sentence": "Birds with stronger beaks survive, so beak shapes evolve over generations."
+    }
+  ]
+}

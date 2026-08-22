@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 29,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 29 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "launch",
+      "partOfSpeech": "v.",
+      "meaningKo": "시작하다",
+      "ipa": "/lɔːntʃ/",
+      "definition": "to start something new or send it up",
+      "sentence": "The team will launch a small rocket this afternoon.",
+      "wordImage": "images/11_launch_word.png",
+      "sentenceImage": "images/11_launch_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "deliver",
+      "partOfSpeech": "v.",
+      "meaningKo": "배달하다",
+      "ipa": "/dɪˈlɪvər/",
+      "definition": "to bring something to a person",
+      "sentence": "A cheerful rider will deliver bread to every house.",
+      "wordImage": "images/12_deliver_word.png",
+      "sentenceImage": "images/12_deliver_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "measure",
+      "partOfSpeech": "v.",
+      "meaningKo": "측정하다",
+      "ipa": "/ˈmeʒər/",
+      "definition": "to find the size or amount of something",
+      "sentence": "Please measure the wooden board before cutting it carefully.",
+      "wordImage": "images/13_measure_word.png",
+      "sentenceImage": "images/13_measure_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "claim",
+      "partOfSpeech": "v.",
+      "meaningKo": "주장하다",
+      "ipa": "/kleɪm/",
+      "definition": "to say something is true or yours",
+      "sentence": "The children claim this treehouse belongs to everyone here.",
+      "wordImage": "images/14_claim_word.png",
+      "sentenceImage": "images/14_claim_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "satisfy",
+      "partOfSpeech": "v.",
+      "meaningKo": "만족시키다",
+      "ipa": "/ˈsætɪsfaɪ/",
+      "definition": "to make someone happy with something",
+      "sentence": "A warm bowl of soup will satisfy hungry hikers.",
+      "wordImage": "images/15_satisfy_word.png",
+      "sentenceImage": "images/15_satisfy_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "opposite",
+      "partOfSpeech": "adj.",
+      "meaningKo": "반대의",
+      "ipa": "/ˈɑːpəzɪt/",
+      "definition": "completely different from something else",
+      "sentence": "Hot and cold are opposite feelings on your skin.",
+      "wordImage": "images/16_opposite_word.png",
+      "sentenceImage": "images/16_opposite_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "strategy",
+      "partOfSpeech": "n.",
+      "meaningKo": "전략",
+      "ipa": "/ˈstrætədʒi/",
+      "definition": "a careful plan to reach a goal",
+      "sentence": "The team made a clever strategy for the relay.",
+      "wordImage": "images/17_strategy_word.png",
+      "sentenceImage": "images/17_strategy_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "import",
+      "partOfSpeech": "v.",
+      "meaningKo": "수입하다",
+      "ipa": "/ɪmˈpɔːrt/",
+      "definition": "to bring goods in from another country",
+      "sentence": "Some shops import sweet oranges from warm southern islands.",
+      "wordImage": "images/18_import_word.png",
+      "sentenceImage": "images/18_import_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "trap",
+      "partOfSpeech": "n.",
+      "meaningKo": "덫",
+      "ipa": "/træp/",
+      "definition": "a box used to catch something safely",
+      "sentence": "A gentle trap caught the mouse without hurting it.",
+      "wordImage": "images/19_trap_word.png",
+      "sentenceImage": "images/19_trap_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "present",
+      "partOfSpeech": "n.",
+      "meaningKo": "선물",
+      "ipa": "/ˈpreznt/",
+      "definition": "a gift given to someone you like",
+      "sentence": "A wrapped present sat beside the birthday cake plate.",
+      "wordImage": "images/20_present_word.png",
+      "sentenceImage": "images/20_present_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

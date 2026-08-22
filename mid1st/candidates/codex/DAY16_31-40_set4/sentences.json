@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 16,
+  "range": "31-40",
+  "set": 4,
+  "items": [
+    {
+      "wordId": "DAY16-31",
+      "no": 31,
+      "word": "preserve",
+      "sentence": "Families preserve water by fixing leaks and reducing waste."
+    },
+    {
+      "wordId": "DAY16-32",
+      "no": 32,
+      "word": "vapor",
+      "sentence": "Water becomes vapor, then forms drops on a cold lid."
+    },
+    {
+      "wordId": "DAY16-33",
+      "no": 33,
+      "word": "invisible",
+      "sentence": "An invisible gas still has particles that strike container walls."
+    },
+    {
+      "wordId": "DAY16-34",
+      "no": 34,
+      "word": "substance",
+      "sentence": "Each substance warms differently after receiving the same heat."
+    },
+    {
+      "wordId": "DAY16-35",
+      "no": 35,
+      "word": "particle",
+      "sentence": "Each particle moves faster when the model's temperature rises."
+    },
+    {
+      "wordId": "DAY16-36",
+      "no": 36,
+      "word": "moisture",
+      "sentence": "Air moisture forms drops on the cold glass."
+    },
+    {
+      "wordId": "DAY16-37",
+      "no": 37,
+      "word": "abstract",
+      "sentence": "Today, the abstract painting used only shapes and bright colors."
+    },
+    {
+      "wordId": "DAY16-38",
+      "no": 38,
+      "word": "valid",
+      "sentence": "Students call the claim valid after checking two reliable sources."
+    },
+    {
+      "wordId": "DAY16-39",
+      "no": 39,
+      "word": "invention",
+      "sentence": "Students test the invention and record where it fails."
+    },
+    {
+      "wordId": "DAY16-40",
+      "no": 40,
+      "word": "stick",
+      "sentence": "After a heavy rain, wet leaves stick to the window."
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 5,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY05-21",
+      "no": 21,
+      "word": "capable",
+      "sentence": "Today, the capable young sailor tied every knot without any help."
+    },
+    {
+      "wordId": "DAY05-22",
+      "no": 22,
+      "word": "proper",
+      "sentence": "Today, wearing proper boots keeps your feet dry on muddy paths."
+    },
+    {
+      "wordId": "DAY05-23",
+      "no": 23,
+      "word": "frequent",
+      "sentence": "Today, frequent rain kept the garden green all through the summer."
+    },
+    {
+      "wordId": "DAY05-24",
+      "no": 24,
+      "word": "symptom",
+      "sentence": "One runny nose is one common symptom of a cold."
+    },
+    {
+      "wordId": "DAY05-25",
+      "no": 25,
+      "word": "monitor",
+      "sentence": "Scientists monitor turtle crossings and record the count each morning."
+    },
+    {
+      "wordId": "DAY05-26",
+      "no": 26,
+      "word": "consume",
+      "sentence": "Today, growing puppies consume a lot of water every single day."
+    },
+    {
+      "wordId": "DAY05-27",
+      "no": 27,
+      "word": "struggle",
+      "sentence": "The small ant will struggle to carry the heavy crumb."
+    },
+    {
+      "wordId": "DAY05-28",
+      "no": 28,
+      "word": "strengthen",
+      "sentence": "Today, daily swimming will strengthen the young otter's growing legs."
+    },
+    {
+      "wordId": "DAY05-29",
+      "no": 29,
+      "word": "slide",
+      "sentence": "Blocks slide farther on smooth wood because friction is lower."
+    },
+    {
+      "wordId": "DAY05-30",
+      "no": 30,
+      "word": "slice",
+      "sentence": "A young cook will slice the melon into ten sweet pieces."
+    }
+  ]
+}

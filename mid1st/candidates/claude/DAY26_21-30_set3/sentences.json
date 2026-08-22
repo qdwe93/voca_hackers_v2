@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 26,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY26-21",
+      "no": 21,
+      "word": "complex",
+      "sentence": "This rule book is complex, so we made a simple summary."
+    },
+    {
+      "wordId": "DAY26-22",
+      "no": 22,
+      "word": "organize",
+      "sentence": "We organize the club papers by date inside three folders."
+    },
+    {
+      "wordId": "DAY26-23",
+      "no": 23,
+      "word": "plenty",
+      "sentence": "There is plenty of paper left for tomorrow's posters."
+    },
+    {
+      "wordId": "DAY26-24",
+      "no": 24,
+      "word": "phenomenon",
+      "sentence": "We watched this phenomenon and asked why fog forms at dawn."
+    },
+    {
+      "wordId": "DAY26-25",
+      "no": 25,
+      "word": "mount",
+      "sentence": "Riders mount the horse from the left side carefully."
+    },
+    {
+      "wordId": "DAY26-26",
+      "no": 26,
+      "word": "found",
+      "sentence": "Three students will found a reading club this September."
+    },
+    {
+      "wordId": "DAY26-27",
+      "no": 27,
+      "word": "prove",
+      "sentence": "These photographs prove the wall cracked before the storm arrived."
+    },
+    {
+      "wordId": "DAY26-28",
+      "no": 28,
+      "word": "forbid",
+      "sentence": "School rules forbid running, and the same rule covers everyone."
+    },
+    {
+      "wordId": "DAY26-29",
+      "no": 29,
+      "word": "contrast",
+      "sentence": "The contrast between the two drawings is the sky color."
+    },
+    {
+      "wordId": "DAY26-30",
+      "no": 30,
+      "word": "contract",
+      "sentence": "This contract between two neighbors explains who repairs the fence."
+    }
+  ]
+}

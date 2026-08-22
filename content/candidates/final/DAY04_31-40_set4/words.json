@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 4,
+  "range": "31-40",
+  "set": 4,
+  "title": "DAY 04 · 31-40",
+  "words": [
+    {
+      "no": 31,
+      "word": "envious",
+      "partOfSpeech": "adj.",
+      "meaningKo": "부러워하는",
+      "ipa": "/ˈenviəs/",
+      "definition": "wishing you had what someone else has",
+      "sentence": "The squirrel felt envious of the bird's cozy new nest.",
+      "wordImage": "images/31_envious_word.png",
+      "sentenceImage": "images/31_envious_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 32,
+      "word": "vice",
+      "partOfSpeech": "n.",
+      "meaningKo": "부(副), 대리",
+      "ipa": "/vaɪs/",
+      "definition": "acting as a deputy or next in rank to a leader",
+      "sentence": "The vice captain helped lead the team onto the field.",
+      "wordImage": "images/32_vice_word.png",
+      "sentenceImage": "images/32_vice_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 33,
+      "word": "architect",
+      "partOfSpeech": "n.",
+      "meaningKo": "건축가",
+      "ipa": "/ˈɑːrkɪtekt/",
+      "definition": "a person who plans how buildings look",
+      "sentence": "The clever beaver worked as the architect of the dam.",
+      "wordImage": "images/33_architect_word.png",
+      "sentenceImage": "images/33_architect_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 34,
+      "word": "relevant",
+      "partOfSpeech": "adj.",
+      "meaningKo": "관련 있는",
+      "ipa": "/ˈreləvənt/",
+      "definition": "connected to what you are talking about",
+      "sentence": "Only relevant photos went into the ocean animal album.",
+      "wordImage": "images/34_relevant_word.png",
+      "sentenceImage": "images/34_relevant_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 35,
+      "word": "enthusiasm",
+      "partOfSpeech": "n.",
+      "meaningKo": "열정",
+      "ipa": "/ɪnˈθuːziæzəm/",
+      "definition": "a strong happy feeling about something you like",
+      "sentence": "The puppy greeted the mail carrier with pure enthusiasm.",
+      "wordImage": "images/35_enthusiasm_word.png",
+      "sentenceImage": "images/35_enthusiasm_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 36,
+      "word": "desirable",
+      "partOfSpeech": "adj.",
+      "meaningKo": "바람직한",
+      "ipa": "/dɪˈzaɪərəbl/",
+      "definition": "wanted by many people because it is good",
+      "sentence": "A sunny window seat is the most desirable spot here.",
+      "wordImage": "images/36_desirable_word.png",
+      "sentenceImage": "images/36_desirable_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 37,
+      "word": "dismiss",
+      "partOfSpeech": "v.",
+      "meaningKo": "해산시키다",
+      "ipa": "/dɪsˈmɪs/",
+      "definition": "to tell people they may leave",
+      "sentence": "The teacher will dismiss the class after the bell rings.",
+      "wordImage": "images/37_dismiss_word.png",
+      "sentenceImage": "images/37_dismiss_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 38,
+      "word": "competent",
+      "partOfSpeech": "adj.",
+      "meaningKo": "유능한",
+      "ipa": "/ˈkɑːmpɪtənt/",
+      "definition": "able to do something well enough",
+      "sentence": "The competent little robot repaired the clock in minutes.",
+      "wordImage": "images/38_competent_word.png",
+      "sentenceImage": "images/38_competent_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 39,
+      "word": "memorize",
+      "partOfSpeech": "v.",
+      "meaningKo": "암기하다",
+      "ipa": "/ˈmeməraɪz/",
+      "definition": "to learn something so you remember it perfectly",
+      "sentence": "The parrot tried to memorize a cheerful morning song.",
+      "wordImage": "images/39_memorize_word.png",
+      "sentenceImage": "images/39_memorize_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 40,
+      "word": "fix",
+      "partOfSpeech": "v.",
+      "meaningKo": "고치다",
+      "ipa": "/fɪks/",
+      "definition": "to repair something that is broken",
+      "sentence": "The mechanic will fix the wobbly wheel on the wagon.",
+      "wordImage": "images/40_fix_word.png",
+      "sentenceImage": "images/40_fix_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

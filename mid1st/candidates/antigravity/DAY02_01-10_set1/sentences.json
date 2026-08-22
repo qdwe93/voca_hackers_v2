@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 2,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY02-01",
+      "no": 1,
+      "word": "active",
+      "sentence": "The active students run across the soccer field during gym class."
+    },
+    {
+      "wordId": "DAY02-02",
+      "no": 2,
+      "word": "excellent",
+      "sentence": "Her excellent science presentation won first prize at the school fair."
+    },
+    {
+      "wordId": "DAY02-03",
+      "no": 3,
+      "word": "lecture",
+      "sentence": "The guest teacher gave a fascinating lecture about ancient ocean fossils."
+    },
+    {
+      "wordId": "DAY02-04",
+      "no": 4,
+      "word": "academic",
+      "sentence": "Students focus on their academic studies to prepare for high school."
+    },
+    {
+      "wordId": "DAY02-05",
+      "no": 5,
+      "word": "encourage",
+      "sentence": "Teachers encourage young learners to ask curious questions during daily class."
+    },
+    {
+      "wordId": "DAY02-06",
+      "no": 6,
+      "word": "debate",
+      "sentence": "The class held a lively debate about public library funding rules."
+    },
+    {
+      "wordId": "DAY02-07",
+      "no": 7,
+      "word": "president",
+      "sentence": "The class president introduced the new student to everyone this morning."
+    },
+    {
+      "wordId": "DAY02-08",
+      "no": 8,
+      "word": "assignment",
+      "sentence": "The teacher collected our weekly math assignment at nine o'clock."
+    },
+    {
+      "wordId": "DAY02-09",
+      "no": 9,
+      "word": "principal",
+      "sentence": "The middle school principal welcomed all new students in the auditorium."
+    },
+    {
+      "wordId": "DAY02-10",
+      "no": 10,
+      "word": "principle",
+      "sentence": "Fairness is an essential moral principle in our school community."
+    }
+  ]
+}

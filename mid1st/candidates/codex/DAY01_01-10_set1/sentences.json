@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 1,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY01-01",
+      "no": 1,
+      "word": "chore",
+      "sentence": "The robot completed every chore before the family woke up."
+    },
+    {
+      "wordId": "DAY01-02",
+      "no": 2,
+      "word": "laundry",
+      "sentence": "A helpful bear carried the laundry basket down the wooden stairs."
+    },
+    {
+      "wordId": "DAY01-03",
+      "no": 3,
+      "word": "flavor",
+      "sentence": "Today, this ice cream has a sweet strawberry flavor inside."
+    },
+    {
+      "wordId": "DAY01-04",
+      "no": 4,
+      "word": "recipe",
+      "sentence": "A cook checks each recipe step before mixing the batter."
+    },
+    {
+      "wordId": "DAY01-05",
+      "no": 5,
+      "word": "beverage",
+      "sentence": "The young penguin poured a cold beverage into two tall glasses."
+    },
+    {
+      "wordId": "DAY01-06",
+      "no": 6,
+      "word": "operate",
+      "sentence": "Students operate their prototype twice and record its limits."
+    },
+    {
+      "wordId": "DAY01-07",
+      "no": 7,
+      "word": "edible",
+      "sentence": "A young cook displayed which bright flowers are edible and sweet."
+    },
+    {
+      "wordId": "DAY01-08",
+      "no": 8,
+      "word": "shelf",
+      "sentence": "One sleepy cat naps on the top shelf above books."
+    },
+    {
+      "wordId": "DAY01-09",
+      "no": 9,
+      "word": "quite",
+      "sentence": "Today, the dragon's soup was quite hot, so everyone waited patiently."
+    },
+    {
+      "wordId": "DAY01-10",
+      "no": 10,
+      "word": "quiet",
+      "sentence": "Students compare a quiet voice with a loud voice."
+    }
+  ]
+}

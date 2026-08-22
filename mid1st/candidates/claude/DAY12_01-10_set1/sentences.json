@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 12,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY12-01",
+      "no": 1,
+      "word": "perform",
+      "sentence": "Six students perform a short folk song on Friday afternoon."
+    },
+    {
+      "wordId": "DAY12-02",
+      "no": 2,
+      "word": "feature",
+      "sentence": "The loudest feature of this drum is its deep sound."
+    },
+    {
+      "wordId": "DAY12-03",
+      "no": 3,
+      "word": "genre",
+      "sentence": "Folk music is my favorite genre for quiet evening listening."
+    },
+    {
+      "wordId": "DAY12-04",
+      "no": 4,
+      "word": "instrument",
+      "sentence": "My sister plays a small wooden instrument with six strings."
+    },
+    {
+      "wordId": "DAY12-05",
+      "no": 5,
+      "word": "broadcast",
+      "sentence": "Radio stations broadcast the weather, while video makers choose personal stories."
+    },
+    {
+      "wordId": "DAY12-06",
+      "no": 6,
+      "word": "artwork",
+      "sentence": "Our artwork joins painted scenes with recorded drum sounds."
+    },
+    {
+      "wordId": "DAY12-07",
+      "no": 7,
+      "word": "suit",
+      "sentence": "Bright yellow scarves suit the dancers in this stage light."
+    },
+    {
+      "wordId": "DAY12-08",
+      "no": 8,
+      "word": "inspire",
+      "sentence": "The old song can inspire young writers to try new lyrics."
+    },
+    {
+      "wordId": "DAY12-09",
+      "no": 9,
+      "word": "belief",
+      "sentence": "My belief is that practice matters more than natural talent."
+    },
+    {
+      "wordId": "DAY12-10",
+      "no": 10,
+      "word": "brief",
+      "sentence": "A brief drum solo opened the school concert last night."
+    }
+  ]
+}

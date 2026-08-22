@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 15,
+  "range": "21-30",
+  "set": 3,
+  "title": "DAY 15 · 21-30",
+  "words": [
+    {
+      "no": 21,
+      "word": "tune",
+      "partOfSpeech": "n.",
+      "meaningKo": "곡조, 멜로디",
+      "ipa": "/tuːn/",
+      "definition": "a series of musical notes that produce a pleasing song",
+      "sentence": "The cheerful whistling bird whistled a catchy morning musical tune.",
+      "wordImage": "images/21_tune_word.png",
+      "sentenceImage": "images/21_tune_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 22,
+      "word": "submit",
+      "partOfSpeech": "v.",
+      "meaningKo": "제출하다",
+      "ipa": "/səbˈmɪt/",
+      "definition": "to give a document to someone for their approval",
+      "sentence": "Remember to submit your science fair report before noon today.",
+      "wordImage": "images/22_submit_word.png",
+      "sentenceImage": "images/22_submit_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 23,
+      "word": "logical",
+      "partOfSpeech": "adj.",
+      "meaningKo": "논리적인, 타당한",
+      "ipa": "/ˈlɑː.dʒɪ.kəl/",
+      "definition": "using sensible reason and clear thinking to solve problems",
+      "sentence": "Follow a logical step-by-step method to solve the math puzzle.",
+      "wordImage": "images/23_logical_word.png",
+      "sentenceImage": "images/23_logical_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 24,
+      "word": "blame",
+      "partOfSpeech": "v.",
+      "meaningKo": "비난하다, 탓하다",
+      "ipa": "/bleɪm/",
+      "definition": "to say or think that someone is responsible for something",
+      "sentence": "Good teammates never blame others when a match is lost.",
+      "wordImage": "images/24_blame_word.png",
+      "sentenceImage": "images/24_blame_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 25,
+      "word": "display",
+      "partOfSpeech": "v.",
+      "meaningKo": "전시하다, 보여주다",
+      "ipa": "/dɪˈspleɪ/",
+      "definition": "to put something in a prominent place for people to see",
+      "sentence": "Art teachers will display student paintings in the main lobby.",
+      "wordImage": "images/25_display_word.png",
+      "sentenceImage": "images/25_display_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 26,
+      "word": "likewise",
+      "partOfSpeech": "adv.",
+      "meaningKo": "마찬가지로, 똑같이",
+      "ipa": "/ˈlaɪk.waɪz/",
+      "definition": "in the same way or also in similar manner",
+      "sentence": "She was polite to others, and they treated her likewise.",
+      "wordImage": "images/26_likewise_word.png",
+      "sentenceImage": "images/26_likewise_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 27,
+      "word": "discipline",
+      "partOfSpeech": "n.",
+      "meaningKo": "규율, 훈육, 절제",
+      "ipa": "/ˈdɪs.ə.plɪn/",
+      "definition": "the practice of training people to obey rules or self-control",
+      "sentence": "Learning martial arts teaches students patience, respect, and self discipline.",
+      "wordImage": "images/27_discipline_word.png",
+      "sentenceImage": "images/27_discipline_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 28,
+      "word": "boost",
+      "partOfSpeech": "v.",
+      "meaningKo": "증대시키다, 북돋우다",
+      "ipa": "/buːst/",
+      "definition": "to improve or increase something, giving more energy",
+      "sentence": "Eating a fresh ripe apple will boost your afternoon energy.",
+      "wordImage": "images/28_boost_word.png",
+      "sentenceImage": "images/28_boost_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 29,
+      "word": "shallow",
+      "partOfSpeech": "adj.",
+      "meaningKo": "얕은",
+      "ipa": "/ˈʃæl.oʊ/",
+      "definition": "having only a short distance from the top to bottom",
+      "sentence": "Children played safely in the shallow water of the pool.",
+      "wordImage": "images/29_shallow_word.png",
+      "sentenceImage": "images/29_shallow_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 30,
+      "word": "swallow",
+      "partOfSpeech": "v.",
+      "meaningKo": "삼키다, 제비",
+      "ipa": "/ˈswɑː.loʊ/",
+      "definition": "to cause food or drink to pass down the throat",
+      "sentence": "Drink warm water to swallow the small vitamin tablet easily.",
+      "wordImage": "images/30_swallow_word.png",
+      "sentenceImage": "images/30_swallow_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

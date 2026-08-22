@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 7,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 07 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "apologize",
+      "partOfSpeech": "v.",
+      "meaningKo": "사과하다",
+      "definition": "to say you are sorry for doing something wrong",
+      "sentence": "The child will apologize after knocking over the block tower.",
+      "ipa": "/əpɑlədʒaɪz/",
+      "wordImage": "images/11_apologize_word.png",
+      "sentenceImage": "images/11_apologize_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "refer",
+      "partOfSpeech": "v.",
+      "meaningKo": "언급하다",
+      "definition": "to mention or direct attention to something",
+      "sentence": "The guide will refer to the mountain shown on the map.",
+      "ipa": "/rəfɝ/",
+      "wordImage": "images/12_refer_word.png",
+      "sentenceImage": "images/12_refer_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "colleague",
+      "partOfSpeech": "n.",
+      "meaningKo": "동료",
+      "definition": "a person who works with another person",
+      "sentence": "The scientist shares a microscope with her colleague.",
+      "ipa": "/kɑliɡ/",
+      "wordImage": "images/13_colleague_word.png",
+      "sentenceImage": "images/13_colleague_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "rely",
+      "partOfSpeech": "v.",
+      "meaningKo": "의지하다",
+      "definition": "to trust someone or something for help",
+      "sentence": "The climber can rely on the secure safety rope.",
+      "ipa": "/rɪlaɪ/",
+      "wordImage": "images/14_rely_word.png",
+      "sentenceImage": "images/14_rely_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "mistake",
+      "partOfSpeech": "n.",
+      "meaningKo": "실수",
+      "definition": "an action or answer that is not correct",
+      "sentence": "A misplaced blue tile reveals a mistake in the pattern.",
+      "ipa": "/mɪsteɪk/",
+      "wordImage": "images/15_mistake_word.png",
+      "sentenceImage": "images/15_mistake_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "request",
+      "partOfSpeech": "n.",
+      "meaningKo": "요청",
+      "definition": "a polite or formal act of asking",
+      "sentence": "The guest makes a request for another glass of water.",
+      "ipa": "/rɪkwɛst/",
+      "wordImage": "images/16_request_word.png",
+      "sentenceImage": "images/16_request_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "assume",
+      "partOfSpeech": "v.",
+      "meaningKo": "추정하다",
+      "definition": "to accept something as true without proof",
+      "sentence": "The child may assume the closed box is empty.",
+      "ipa": "/əsum/",
+      "wordImage": "images/17_assume_word.png",
+      "sentenceImage": "images/17_assume_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "refuse",
+      "partOfSpeech": "v.",
+      "meaningKo": "거절하다",
+      "definition": "to say that you will not do or accept something",
+      "sentence": "The cat will refuse the bowl of soggy food.",
+      "ipa": "/rɪˈfjuːz/",
+      "wordImage": "images/18_refuse_word.png",
+      "sentenceImage": "images/18_refuse_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "reply",
+      "partOfSpeech": "v.",
+      "meaningKo": "대답하다",
+      "definition": "to answer someone in words or writing",
+      "sentence": "The student will reply by raising a green answer card.",
+      "ipa": "/rɪplaɪ/",
+      "wordImage": "images/19_reply_word.png",
+      "sentenceImage": "images/19_reply_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "degree",
+      "partOfSpeech": "n.",
+      "meaningKo": "정도",
+      "definition": "the amount or level of something",
+      "sentence": "The lamp's brightness changes to a higher degree.",
+      "ipa": "/dɪɡri/",
+      "wordImage": "images/20_degree_word.png",
+      "sentenceImage": "images/20_degree_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

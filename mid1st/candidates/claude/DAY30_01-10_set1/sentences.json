@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 30,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY30-01",
+      "no": 1,
+      "word": "magazine",
+      "sentence": "This magazine lists its writers and sources on every page."
+    },
+    {
+      "wordId": "DAY30-02",
+      "no": 2,
+      "word": "article",
+      "sentence": "The article explains each rescue step in the correct order."
+    },
+    {
+      "wordId": "DAY30-03",
+      "no": 3,
+      "word": "press",
+      "sentence": "We press down on the scale and watch the number rise."
+    },
+    {
+      "wordId": "DAY30-04",
+      "no": 4,
+      "word": "advertise",
+      "sentence": "Shops advertise sales, so we check whether the prices really dropped."
+    },
+    {
+      "wordId": "DAY30-05",
+      "no": 5,
+      "word": "recent",
+      "sentence": "We used the most recent chart because older numbers changed."
+    },
+    {
+      "wordId": "DAY30-06",
+      "no": 6,
+      "word": "diverse",
+      "sentence": "This news program shows diverse voices from young and older residents."
+    },
+    {
+      "wordId": "DAY30-07",
+      "no": 7,
+      "word": "document",
+      "sentence": "One document lists every safety rule in numbered order."
+    },
+    {
+      "wordId": "DAY30-08",
+      "no": 8,
+      "word": "expert",
+      "sentence": "The article quotes a weather expert and names the research center."
+    },
+    {
+      "wordId": "DAY30-09",
+      "no": 9,
+      "word": "explore",
+      "sentence": "Reporters explore the old cave and describe what they find."
+    },
+    {
+      "wordId": "DAY30-10",
+      "no": 10,
+      "word": "explode",
+      "sentence": "Popcorn kernels explode into white puffs inside the hot pot."
+    }
+  ]
+}

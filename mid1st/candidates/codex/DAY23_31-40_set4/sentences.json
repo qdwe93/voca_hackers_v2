@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 23,
+  "range": "31-40",
+  "set": 4,
+  "items": [
+    {
+      "wordId": "DAY23-31",
+      "no": 31,
+      "word": "forecast",
+      "sentence": "Today, the morning forecast promised sunshine for the school trip."
+    },
+    {
+      "wordId": "DAY23-32",
+      "no": 32,
+      "word": "incident",
+      "sentence": "Today, one funny incident made the whole camp laugh together."
+    },
+    {
+      "wordId": "DAY23-33",
+      "no": 33,
+      "word": "continent",
+      "sentence": "Today, each continent has its own special plants and animals."
+    },
+    {
+      "wordId": "DAY23-34",
+      "no": 34,
+      "word": "spoil",
+      "sentence": "Milk will spoil rapidly on a very hot day."
+    },
+    {
+      "wordId": "DAY23-35",
+      "no": 35,
+      "word": "tremendous",
+      "sentence": "One tremendous wave rolled gently toward the sandy shore."
+    },
+    {
+      "wordId": "DAY23-36",
+      "no": 36,
+      "word": "steep",
+      "sentence": "The steep hill path made everyone walk more gently."
+    },
+    {
+      "wordId": "DAY23-37",
+      "no": 37,
+      "word": "territory",
+      "sentence": "The map outlines each territory and its neighboring regions."
+    },
+    {
+      "wordId": "DAY23-38",
+      "no": 38,
+      "word": "split",
+      "sentence": "Two classmates will split the melon into equal halves."
+    },
+    {
+      "wordId": "DAY23-39",
+      "no": 39,
+      "word": "flash",
+      "sentence": "Today, fireflies flash softly above the dark summer meadow."
+    },
+    {
+      "wordId": "DAY23-40",
+      "no": 40,
+      "word": "deposit",
+      "sentence": "Today, rivers deposit fine sand along the curving inner bank."
+    }
+  ]
+}

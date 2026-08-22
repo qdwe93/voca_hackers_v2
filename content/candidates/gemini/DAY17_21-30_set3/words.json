@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 17,
+  "range": "21-30",
+  "set": 3,
+  "title": "DAY 17 · 21-30",
+  "words": [
+    {
+      "no": 21,
+      "word": "individual",
+      "partOfSpeech": "n.",
+      "meaningKo": "개인, 개체",
+      "ipa": "/ˌɪn.dəˈvɪdʒ.u.əl/",
+      "definition": "a single person, animal, or thing considered separately",
+      "sentence": "Each individual student in our class has unique creative talents.",
+      "wordImage": "images/21_individual_word.png",
+      "sentenceImage": "images/21_individual_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 22,
+      "word": "silent",
+      "partOfSpeech": "adj.",
+      "meaningKo": "조용한, 침묵하는",
+      "ipa": "/ˈsaɪ.lənt/",
+      "definition": "without any sound, completely quiet and not speaking",
+      "sentence": "The forest was peaceful and completely silent under falling snow.",
+      "wordImage": "images/22_silent_word.png",
+      "sentenceImage": "images/22_silent_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 23,
+      "word": "fiber",
+      "partOfSpeech": "n.",
+      "meaningKo": "섬유, 섬유질",
+      "ipa": "/ˈfaɪ.bɚ/",
+      "definition": "substance in plant foods that helps digestion, or thin threads",
+      "sentence": "Eating oats and apples provides essential dietary fiber for health.",
+      "wordImage": "images/23_fiber_word.png",
+      "sentenceImage": "images/23_fiber_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 24,
+      "word": "ancestor",
+      "partOfSpeech": "n.",
+      "meaningKo": "조상, 선조",
+      "ipa": "/ˈæn.ses.tɚ/",
+      "definition": "a person related to you who lived a long time ago",
+      "sentence": "His ancient ancestor lived in a stone castle centuries ago.",
+      "wordImage": "images/24_ancestor_word.png",
+      "sentenceImage": "images/24_ancestor_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 25,
+      "word": "yawn",
+      "partOfSpeech": "v.",
+      "meaningKo": "하품하다",
+      "ipa": "/jɑːn/",
+      "definition": "to open your mouth wide and breathe deeply when tired",
+      "sentence": "The sleepy kitten began to yawn before taking an afternoon nap.",
+      "wordImage": "images/25_yawn_word.png",
+      "sentenceImage": "images/25_yawn_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 26,
+      "word": "pregnant",
+      "partOfSpeech": "adj.",
+      "meaningKo": "임신한, 새끼를 밴",
+      "ipa": "/ˈpreɡ.nənt/",
+      "definition": "having an unborn baby or offspring developing inside the body",
+      "sentence": "The pregnant mother cat rested comfortably in her warm cozy box.",
+      "wordImage": "images/26_pregnant_word.png",
+      "sentenceImage": "images/26_pregnant_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 27,
+      "word": "stimulate",
+      "partOfSpeech": "v.",
+      "meaningKo": "자극하다, 촉진하다",
+      "ipa": "/ˈstɪm.jə.leɪt/",
+      "definition": "to encourage something to grow, develop, or become active",
+      "sentence": "Playing chess puzzles can stimulate brain activity and logical thinking.",
+      "wordImage": "images/27_stimulate_word.png",
+      "sentenceImage": "images/27_stimulate_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 28,
+      "word": "slightly",
+      "partOfSpeech": "adv.",
+      "meaningKo": "약간, 조금",
+      "ipa": "/ˈslaɪt.li/",
+      "definition": "a little bit or to a small degree",
+      "sentence": "She smiled slightly when she recognized her friend in crowd.",
+      "wordImage": "images/28_slightly_word.png",
+      "sentenceImage": "images/28_slightly_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 29,
+      "word": "bleed",
+      "partOfSpeech": "v.",
+      "meaningKo": "피가 나다",
+      "ipa": "/bliːd/",
+      "definition": "to lose blood from the body through a cut",
+      "sentence": "A small colorful bandage prevented the scratch to bleed further.",
+      "wordImage": "images/29_bleed_word.png",
+      "sentenceImage": "images/29_bleed_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 30,
+      "word": "breed",
+      "partOfSpeech": "n.",
+      "meaningKo": "품종, 종류",
+      "ipa": "/briːd/",
+      "definition": "a particular type of animal developed by human selection",
+      "sentence": "The golden retriever is a very friendly and gentle dog breed.",
+      "wordImage": "images/30_breed_word.png",
+      "sentenceImage": "images/30_breed_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

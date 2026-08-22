@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 4,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY04-21",
+      "no": 21,
+      "word": "presentation",
+      "sentence": "Her business presentation included helpful charts about company sales growth."
+    },
+    {
+      "wordId": "DAY04-22",
+      "no": 22,
+      "word": "accomplish",
+      "sentence": "Dedicated team members worked hard together to accomplish their project."
+    },
+    {
+      "wordId": "DAY04-23",
+      "no": 23,
+      "word": "convince",
+      "sentence": "The salesman used clear facts to convince the doubtful customer."
+    },
+    {
+      "wordId": "DAY04-24",
+      "no": 24,
+      "word": "audience",
+      "sentence": "The theater audience listened attentively throughout the entire dramatic performance."
+    },
+    {
+      "wordId": "DAY04-25",
+      "no": 25,
+      "word": "wage",
+      "sentence": "Employees receive an hourly wage for their work each week."
+    },
+    {
+      "wordId": "DAY04-26",
+      "no": 26,
+      "word": "previous",
+      "sentence": "His previous work experience in marketing helped him get hired."
+    },
+    {
+      "wordId": "DAY04-27",
+      "no": 27,
+      "word": "spend",
+      "sentence": "Companies spend money to improve product quality and employee training."
+    },
+    {
+      "wordId": "DAY04-28",
+      "no": 28,
+      "word": "distinguish",
+      "sentence": "A trained jeweler can distinguish real diamonds from synthetic gems."
+    },
+    {
+      "wordId": "DAY04-29",
+      "no": 29,
+      "word": "former",
+      "sentence": "The former company president now advises young startup technology founders."
+    },
+    {
+      "wordId": "DAY04-30",
+      "no": 30,
+      "word": "formal",
+      "sentence": "He wore a formal dark suit for the job interview."
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 3,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY03-11",
+      "no": 11,
+      "word": "pack",
+      "sentence": "Please pack your swimsuit and towel for the swimming lesson."
+    },
+    {
+      "wordId": "DAY03-12",
+      "no": 12,
+      "word": "host",
+      "sentence": "Our school will host the regional youth soccer tournament next weekend."
+    },
+    {
+      "wordId": "DAY03-13",
+      "no": 13,
+      "word": "private",
+      "sentence": "He wrote his personal travel memories in a private notebook."
+    },
+    {
+      "wordId": "DAY03-14",
+      "no": 14,
+      "word": "craft",
+      "sentence": "Students learned traditional paper craft during their weekend hobby class."
+    },
+    {
+      "wordId": "DAY03-15",
+      "no": 15,
+      "word": "post",
+      "sentence": "I will post a postcard to my friend from Paris."
+    },
+    {
+      "wordId": "DAY03-16",
+      "no": 16,
+      "word": "relieve",
+      "sentence": "Listening to classical music helps relieve stress after a busy week."
+    },
+    {
+      "wordId": "DAY03-17",
+      "no": 17,
+      "word": "practice",
+      "sentence": "Dancers practice their steps every afternoon in the dance studio."
+    },
+    {
+      "wordId": "DAY03-18",
+      "no": 18,
+      "word": "souvenir",
+      "sentence": "She bought a handmade wooden souvenir during her trip to Jeju."
+    },
+    {
+      "wordId": "DAY03-19",
+      "no": 19,
+      "word": "decorate",
+      "sentence": "We decorate the living room with colorful paper lanterns for party."
+    },
+    {
+      "wordId": "DAY03-20",
+      "no": 20,
+      "word": "book",
+      "sentence": "You can book airline tickets online several weeks before traveling."
+    }
+  ]
+}

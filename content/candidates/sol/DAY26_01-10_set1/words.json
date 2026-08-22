@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 26,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 26 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "legal",
+      "partOfSpeech": "adj.",
+      "meaningKo": "합법적인",
+      "definition": "allowed by law",
+      "sentence": "The legal fishing area lies beyond the protected zone.",
+      "ipa": "/liɡəl/",
+      "wordImage": "images/01_legal_word.png",
+      "sentenceImage": "images/01_legal_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "obey",
+      "partOfSpeech": "v.",
+      "meaningKo": "따르다",
+      "definition": "to do what a rule or person says",
+      "sentence": "Cyclists obey the red light by stopping together.",
+      "ipa": "/oʊbeɪ/",
+      "wordImage": "images/02_obey_word.png",
+      "sentenceImage": "images/02_obey_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "arrest",
+      "partOfSpeech": "v.",
+      "meaningKo": "체포하다",
+      "definition": "to take someone into legal custody",
+      "sentence": "The game officer will arrest the cartoon thief peacefully.",
+      "ipa": "/ɚɛst/",
+      "wordImage": "images/03_arrest_word.png",
+      "sentenceImage": "images/03_arrest_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "report",
+      "partOfSpeech": "v.",
+      "meaningKo": "신고하다",
+      "definition": "to officially tell someone about an event",
+      "sentence": "The witness will report the fallen tree to an officer.",
+      "ipa": "/ripɔrt/",
+      "wordImage": "images/04_report_word.png",
+      "sentenceImage": "images/04_report_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "innocent",
+      "partOfSpeech": "adj.",
+      "meaningKo": "무죄인",
+      "definition": "not guilty of a crime or wrongdoing",
+      "sentence": "The evidence proves the accused rabbit is innocent.",
+      "ipa": "/ɪnəsənt/",
+      "wordImage": "images/05_innocent_word.png",
+      "sentenceImage": "images/05_innocent_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "caution",
+      "partOfSpeech": "n.",
+      "meaningKo": "주의",
+      "definition": "care taken to avoid danger or mistakes",
+      "sentence": "The scientist uses caution while carrying the full glass.",
+      "ipa": "/kɑʃən/",
+      "wordImage": "images/06_caution_word.png",
+      "sentenceImage": "images/06_caution_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "charge",
+      "partOfSpeech": "v.",
+      "meaningKo": "기소하다",
+      "definition": "to officially accuse someone of a crime",
+      "sentence": "The game court may charge the fox with stealing coins.",
+      "ipa": "/tʃɑrdʒ/",
+      "wordImage": "images/07_charge_word.png",
+      "sentenceImage": "images/07_charge_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "violate",
+      "partOfSpeech": "v.",
+      "meaningKo": "위반하다",
+      "definition": "to break a law rule or agreement",
+      "sentence": "The runner will violate the rule by crossing the boundary.",
+      "ipa": "/vaɪəleɪt/",
+      "wordImage": "images/08_violate_word.png",
+      "sentenceImage": "images/08_violate_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "law",
+      "partOfSpeech": "n.",
+      "meaningKo": "법률",
+      "definition": "an official rule made by government",
+      "sentence": "A new law protects the forest from development.",
+      "ipa": "/lɔ/",
+      "wordImage": "images/09_law_word.png",
+      "sentenceImage": "images/09_law_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "raw",
+      "partOfSpeech": "adj.",
+      "meaningKo": "날것의",
+      "definition": "not cooked or processed",
+      "sentence": "Raw vegetables rest beside a bowl of cooked soup.",
+      "ipa": "/rɑ/",
+      "wordImage": "images/10_raw_word.png",
+      "sentenceImage": "images/10_raw_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

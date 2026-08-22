@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 30,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY30-11",
+      "no": 11,
+      "word": "handle",
+      "sentence": "Laboratory assistants handle fragile glass test tubes with utmost delicate care."
+    },
+    {
+      "wordId": "DAY30-12",
+      "no": 12,
+      "word": "phrase",
+      "sentence": "The teacher underlined an important prepositional phrase in the sample sentence."
+    },
+    {
+      "wordId": "DAY30-13",
+      "no": 13,
+      "word": "annoy",
+      "sentence": "Loud background chatter can annoy students trying to study in library."
+    },
+    {
+      "wordId": "DAY30-14",
+      "no": 14,
+      "word": "obvious",
+      "sentence": "It was obvious that the wet grass resulted from morning dew."
+    },
+    {
+      "wordId": "DAY30-15",
+      "no": 15,
+      "word": "mention",
+      "sentence": "Did the speaker mention the scheduled date for our class trip?"
+    },
+    {
+      "wordId": "DAY30-16",
+      "no": 16,
+      "word": "entertain",
+      "sentence": "The amusing puppet show managed to entertain children throughout the afternoon."
+    },
+    {
+      "wordId": "DAY30-17",
+      "no": 17,
+      "word": "detail",
+      "sentence": "The architect explained every architectural detail of the new school building."
+    },
+    {
+      "wordId": "DAY30-18",
+      "no": 18,
+      "word": "conflict",
+      "sentence": "Constructive dialogue helps resolve social conflict between opposing community interest groups."
+    },
+    {
+      "wordId": "DAY30-19",
+      "no": 19,
+      "word": "thus",
+      "sentence": "The experiment conditions were identical; thus, the test results were consistent."
+    },
+    {
+      "wordId": "DAY30-20",
+      "no": 20,
+      "word": "medium",
+      "sentence": "Digital video is an interactive medium for sharing educational science lessons."
+    }
+  ]
+}

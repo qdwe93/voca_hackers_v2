@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 8,
+  "range": "31-40",
+  "set": 4,
+  "items": [
+    {
+      "wordId": "DAY08-31",
+      "no": 31,
+      "word": "strike",
+      "sentence": "Drummers strike the round drum head with soft wooden sticks."
+    },
+    {
+      "wordId": "DAY08-32",
+      "no": 32,
+      "word": "channel",
+      "sentence": "Rain water flows through the narrow channel beside the rice field."
+    },
+    {
+      "wordId": "DAY08-33",
+      "no": 33,
+      "word": "gratitude",
+      "sentence": "The students bowed and spoke words of gratitude to the volunteers."
+    },
+    {
+      "wordId": "DAY08-34",
+      "no": 34,
+      "word": "metaphor",
+      "sentence": "This poem uses one metaphor that calls the moon a lamp."
+    },
+    {
+      "wordId": "DAY08-35",
+      "no": 35,
+      "word": "interpret",
+      "sentence": "Students interpret the last line and connect it to another folk tale."
+    },
+    {
+      "wordId": "DAY08-36",
+      "no": 36,
+      "word": "insult",
+      "sentence": "Calling someone's drawing ugly is an insult, not honest advice."
+    },
+    {
+      "wordId": "DAY08-37",
+      "no": 37,
+      "word": "weird",
+      "sentence": "This purple cloud shape looked weird above the evening hills."
+    },
+    {
+      "wordId": "DAY08-38",
+      "no": 38,
+      "word": "random",
+      "sentence": "Gas particles move in random directions inside the closed bottle."
+    },
+    {
+      "wordId": "DAY08-39",
+      "no": 39,
+      "word": "remark",
+      "sentence": "One kind remark from the listener kept our conversation going."
+    },
+    {
+      "wordId": "DAY08-40",
+      "no": 40,
+      "word": "sentence",
+      "sentence": "We arranged the words so this sentence has a clear subject."
+    }
+  ]
+}

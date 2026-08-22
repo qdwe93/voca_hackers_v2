@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "calibration-selection-row.schema.json",
+  "title": "mid1st calibration selected example JSONL row",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["wordId", "selectedAuthor", "sentence", "preferenceNoteKo"],
+  "properties": {
+    "wordId": { "type": "string", "pattern": "^DAY(0[1-9]|[12][0-9]|30)-(0[1-9]|[1-3][0-9]|40)$" },
+    "selectedAuthor": {
+      "enum": ["codex", "antigravity", "claude", "baseline", "manual"]
+    },
+    "sentence": { "type": "string", "minLength": 1 },
+    "preferenceNoteKo": { "type": "string", "minLength": 1 }
+  }
+}

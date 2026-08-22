@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 30,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY30-11",
+      "no": 11,
+      "word": "handle",
+      "sentence": "Kindly handle these eggs gently on the way home."
+    },
+    {
+      "wordId": "DAY30-12",
+      "no": 12,
+      "word": "phrase",
+      "sentence": "Students place each phrase beside a clear subject and verb."
+    },
+    {
+      "wordId": "DAY30-13",
+      "no": 13,
+      "word": "annoy",
+      "sentence": "Today, buzzing flies annoy the cows in the warm field."
+    },
+    {
+      "wordId": "DAY30-14",
+      "no": 14,
+      "word": "obvious",
+      "sentence": "Today, it was obvious that the puppy wanted a walk."
+    },
+    {
+      "wordId": "DAY30-15",
+      "no": 15,
+      "word": "mention",
+      "sentence": "Today, did the guide mention the old bridge near town?"
+    },
+    {
+      "wordId": "DAY30-16",
+      "no": 16,
+      "word": "entertain",
+      "sentence": "Actors combine script, music, and video to entertain the audience."
+    },
+    {
+      "wordId": "DAY30-17",
+      "no": 17,
+      "word": "detail",
+      "sentence": "Today, every tiny detail of the model ship looked perfect."
+    },
+    {
+      "wordId": "DAY30-18",
+      "no": 18,
+      "word": "conflict",
+      "sentence": "Students find the conflict's cause and choose an equal solution."
+    },
+    {
+      "wordId": "DAY30-19",
+      "no": 19,
+      "word": "thus",
+      "sentence": "Today, rain fell all night; thus, the river rose higher."
+    },
+    {
+      "wordId": "DAY30-20",
+      "no": 20,
+      "word": "medium",
+      "sentence": "Today, radio was the favorite medium in the small village."
+    }
+  ]
+}

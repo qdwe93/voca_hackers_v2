@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 9,
+  "range": "31-40",
+  "set": 4,
+  "title": "DAY 09 · 31-40",
+  "words": [
+    {
+      "no": 31,
+      "word": "fundamental",
+      "partOfSpeech": "adj.",
+      "meaningKo": "근본적인",
+      "ipa": "/ˌfʌndəˈmentl/",
+      "definition": "the most basic and important part",
+      "sentence": "Kindness is a fundamental rule in this friendly classroom.",
+      "wordImage": "images/31_fundamental_word.png",
+      "sentenceImage": "images/31_fundamental_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 32,
+      "word": "modify",
+      "partOfSpeech": "v.",
+      "meaningKo": "수정하다",
+      "ipa": "/ˈmɑːdɪfaɪ/",
+      "definition": "to change a small part of something",
+      "sentence": "The inventor will modify the wheels on the little cart.",
+      "wordImage": "images/32_modify_word.png",
+      "sentenceImage": "images/32_modify_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 33,
+      "word": "instinct",
+      "partOfSpeech": "n.",
+      "meaningKo": "본능",
+      "ipa": "/ˈɪnstɪŋkt/",
+      "definition": "something an animal knows without learning it",
+      "sentence": "Baby turtles follow instinct as they crawl toward the sea.",
+      "wordImage": "images/33_instinct_word.png",
+      "sentenceImage": "images/33_instinct_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 34,
+      "word": "volunteer",
+      "partOfSpeech": "n.",
+      "meaningKo": "자원봉사자",
+      "ipa": "/ˌvɑːlənˈtɪr/",
+      "definition": "someone who helps others without getting paid",
+      "sentence": "A kind volunteer handed out water at the busy race.",
+      "wordImage": "images/34_volunteer_word.png",
+      "sentenceImage": "images/34_volunteer_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 35,
+      "word": "conscious",
+      "partOfSpeech": "adj.",
+      "meaningKo": "의식하는",
+      "ipa": "/ˈkɑːnʃəs/",
+      "definition": "awake and knowing what is happening",
+      "sentence": "The sleepy owl stayed conscious until the sun came up.",
+      "wordImage": "images/35_conscious_word.png",
+      "sentenceImage": "images/35_conscious_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 36,
+      "word": "tempt",
+      "partOfSpeech": "v.",
+      "meaningKo": "유혹하다",
+      "ipa": "/tempt/",
+      "definition": "to make someone want something very much",
+      "sentence": "Warm cookies tempt the hungry raccoon near the open window.",
+      "wordImage": "images/36_tempt_word.png",
+      "sentenceImage": "images/36_tempt_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 37,
+      "word": "humble",
+      "partOfSpeech": "adj.",
+      "meaningKo": "겸손한",
+      "ipa": "/ˈhʌmbl/",
+      "definition": "not proud of yourself in a loud way",
+      "sentence": "The humble champion thanked every teammate after the game.",
+      "wordImage": "images/37_humble_word.png",
+      "sentenceImage": "images/37_humble_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 38,
+      "word": "ashamed",
+      "partOfSpeech": "adj.",
+      "meaningKo": "부끄러워하는",
+      "ipa": "/əˈʃeɪmd/",
+      "definition": "feeling bad about something you did",
+      "sentence": "The kitten felt ashamed after spilling the flour everywhere.",
+      "wordImage": "images/38_ashamed_word.png",
+      "sentenceImage": "images/38_ashamed_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 39,
+      "word": "prejudice",
+      "partOfSpeech": "n.",
+      "meaningKo": "편견",
+      "ipa": "/ˈpredʒudɪs/",
+      "definition": "an unfair idea about people you do not know",
+      "sentence": "The story taught that prejudice makes friendship much harder.",
+      "wordImage": "images/39_prejudice_word.png",
+      "sentenceImage": "images/39_prejudice_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 40,
+      "word": "order",
+      "partOfSpeech": "n.",
+      "meaningKo": "순서",
+      "ipa": "/ˈɔːrdər/",
+      "definition": "the way things are arranged one after another",
+      "sentence": "The books sat in neat order along the wooden shelf.",
+      "wordImage": "images/40_order_word.png",
+      "sentenceImage": "images/40_order_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

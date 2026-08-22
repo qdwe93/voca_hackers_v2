@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 6,
+  "range": "31-40",
+  "set": 4,
+  "title": "DAY 06 · 31-40",
+  "words": [
+    {
+      "no": 31,
+      "word": "isolated",
+      "partOfSpeech": "adj.",
+      "meaningKo": "고립된, 외딴",
+      "ipa": "/ˈaɪ.sə.leɪ.t̬ɪd/",
+      "definition": "far away from other places, buildings, or people",
+      "sentence": "The lonely wooden cabin stood in an isolated mountain valley.",
+      "wordImage": "images/31_isolated_word.png",
+      "sentenceImage": "images/31_isolated_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 32,
+      "word": "awkward",
+      "partOfSpeech": "adj.",
+      "meaningKo": "어색한, 서투른",
+      "ipa": "/ˈɑː.kwɚd/",
+      "definition": "feeling embarrassed or not comfortable with others",
+      "sentence": "There was an awkward silence before someone told a joke.",
+      "wordImage": "images/32_awkward_word.png",
+      "sentenceImage": "images/32_awkward_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 33,
+      "word": "sympathy",
+      "partOfSpeech": "n.",
+      "meaningKo": "동정, 공감",
+      "ipa": "/ˈsɪm.pə.θi/",
+      "definition": "the feeling of being sorry for someone’s bad luck",
+      "sentence": "She expressed deep sympathy for her friend’s lost pet.",
+      "wordImage": "images/33_sympathy_word.png",
+      "sentenceImage": "images/33_sympathy_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 34,
+      "word": "terrifying",
+      "partOfSpeech": "adj.",
+      "meaningKo": "무서운, 겁나는",
+      "ipa": "/ˈter.ə.faɪ.ɪŋ/",
+      "definition": "very frightening and causing great fear",
+      "sentence": "The roller coaster had a terrifying but super exciting drop.",
+      "wordImage": "images/34_terrifying_word.png",
+      "sentenceImage": "images/34_terrifying_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 35,
+      "word": "optimistic",
+      "partOfSpeech": "adj.",
+      "meaningKo": "낙천적인, 긍정적인",
+      "ipa": "/ˌɑːp.təˈmɪs.tɪk/",
+      "definition": "hoping and believing that good things will happen",
+      "sentence": "The cheerful team captain stayed optimistic about winning the match.",
+      "wordImage": "images/35_optimistic_word.png",
+      "sentenceImage": "images/35_optimistic_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 36,
+      "word": "sincere",
+      "partOfSpeech": "adj.",
+      "meaningKo": "진실한, 진심 어린",
+      "ipa": "/sɪnˈsɪr/",
+      "definition": "honest and saying what you really think or feel",
+      "sentence": "He offered a sincere apology after breaking the garden pot.",
+      "wordImage": "images/36_sincere_word.png",
+      "sentenceImage": "images/36_sincere_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 37,
+      "word": "likely",
+      "partOfSpeech": "adj.",
+      "meaningKo": "~할 것 같은, 유망한",
+      "ipa": "/ˈlaɪ.kli/",
+      "definition": "probable or expected to happen",
+      "sentence": "Dark grey clouds mean it is likely to rain soon.",
+      "wordImage": "images/37_likely_word.png",
+      "sentenceImage": "images/37_likely_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 38,
+      "word": "endure",
+      "partOfSpeech": "v.",
+      "meaningKo": "견디다, 참다",
+      "ipa": "/ɪnˈdʊr/",
+      "definition": "to experience and deal with something difficult without giving up",
+      "sentence": "The brave little flower could endure the cold winter frost.",
+      "wordImage": "images/38_endure_word.png",
+      "sentenceImage": "images/38_endure_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 39,
+      "word": "cognitive",
+      "partOfSpeech": "adj.",
+      "meaningKo": "인지의, 인식의",
+      "ipa": "/ˈkɑːɡ.nə.t̬ɪv/",
+      "definition": "connected with thinking or the conscious mental processes",
+      "sentence": "Solving chess puzzles improves your cognitive abilities and memory power.",
+      "wordImage": "images/39_cognitive_word.png",
+      "sentenceImage": "images/39_cognitive_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 40,
+      "word": "reflect",
+      "partOfSpeech": "v.",
+      "meaningKo": "반사하다, 반영하다, 깊이 생각하다",
+      "ipa": "/rɪˈflekt/",
+      "definition": "to show an image of something or think deeply",
+      "sentence": "The calm lake surface can reflect the blue sky clearly.",
+      "wordImage": "images/40_reflect_word.png",
+      "sentenceImage": "images/40_reflect_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

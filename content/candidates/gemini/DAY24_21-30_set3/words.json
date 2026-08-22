@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 24,
+  "range": "21-30",
+  "set": 3,
+  "title": "DAY 24 · 21-30",
+  "words": [
+    {
+      "no": 21,
+      "word": "shortage",
+      "partOfSpeech": "n.",
+      "meaningKo": "부족, 결핍",
+      "ipa": "/ˈʃɔːr.t̬ɪdʒ/",
+      "definition": "a state where there is not enough of something that is needed",
+      "sentence": "Conserving water helps prevent a water shortage during hot dry summer.",
+      "wordImage": "images/21_shortage_word.png",
+      "sentenceImage": "images/21_shortage_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 22,
+      "word": "renewable",
+      "partOfSpeech": "adj.",
+      "meaningKo": "재생 가능한",
+      "ipa": "/rɪˈnuː.ə.bəl/",
+      "definition": "capable of being replaced naturally and continuously, not depleting",
+      "sentence": "Wind and solar power are important forms of clean renewable energy.",
+      "wordImage": "images/22_renewable_word.png",
+      "sentenceImage": "images/22_renewable_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 23,
+      "word": "potential",
+      "partOfSpeech": "n.",
+      "meaningKo": "잠재력, 가능성",
+      "ipa": "/poʊˈten.ʃəl/",
+      "definition": "someone’s or something’s ability to develop, achieve, or succeed",
+      "sentence": "Every young student has the potential to become a great scientist.",
+      "wordImage": "images/23_potential_word.png",
+      "sentenceImage": "images/23_potential_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 24,
+      "word": "native",
+      "partOfSpeech": "adj.",
+      "meaningKo": "토착의, 원산의",
+      "ipa": "/ˈneɪ.t̬ɪv/",
+      "definition": "growing naturally in a particular region, not brought from elsewhere",
+      "sentence": "Planting native wildflowers helps local honeybees and butterflies thrive happily.",
+      "wordImage": "images/24_native_word.png",
+      "sentenceImage": "images/24_native_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 25,
+      "word": "grain",
+      "partOfSpeech": "n.",
+      "meaningKo": "곡물, 알갱이",
+      "ipa": "/ɡreɪn/",
+      "definition": "seeds from plants such as wheat, rice, or oats used for food",
+      "sentence": "Farmers harvested golden ears of wheat grain in late autumn.",
+      "wordImage": "images/25_grain_word.png",
+      "sentenceImage": "images/25_grain_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 26,
+      "word": "extreme",
+      "partOfSpeech": "adj.",
+      "meaningKo": "극심한, 극도의",
+      "ipa": "/ɪkˈstriːm/",
+      "definition": "very large in amount or degree, far from normal or moderate",
+      "sentence": "Polar bears are adapted to survive the extreme freezing polar cold.",
+      "wordImage": "images/26_extreme_word.png",
+      "sentenceImage": "images/26_extreme_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 27,
+      "word": "typical",
+      "partOfSpeech": "adj.",
+      "meaningKo": "전형적인, 대표적인",
+      "ipa": "/ˈtɪp.ɪ.kəl/",
+      "definition": "showing the characteristics of a particular group, normal, expected",
+      "sentence": "A typical school day includes science, reading, math, and outdoor sports.",
+      "wordImage": "images/27_typical_word.png",
+      "sentenceImage": "images/27_typical_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 28,
+      "word": "contact",
+      "partOfSpeech": "n.",
+      "meaningKo": "접촉, 연락",
+      "ipa": "/ˈkɑːn.tækt/",
+      "definition": "communication with someone, or the state of physical touching",
+      "sentence": "Keep in touch and maintain regular contact with your pen pal.",
+      "wordImage": "images/28_contact_word.png",
+      "sentenceImage": "images/28_contact_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 29,
+      "word": "content",
+      "partOfSpeech": "n.",
+      "meaningKo": "내용, 내용물",
+      "ipa": "/ˈkɑːn.tent/",
+      "definition": "the ideas or information contained in a piece of writing",
+      "sentence": "The interesting digital content of the lesson inspired young students.",
+      "wordImage": "images/29_content_word.png",
+      "sentenceImage": "images/29_content_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 30,
+      "word": "context",
+      "partOfSpeech": "n.",
+      "meaningKo": "문맥, 맥락",
+      "ipa": "/ˈkɑːn.tekst/",
+      "definition": "the words surrounding a text that help explain its meaning",
+      "sentence": "Use surrounding context clues to guess the meaning of new words.",
+      "wordImage": "images/30_context_word.png",
+      "sentenceImage": "images/30_context_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

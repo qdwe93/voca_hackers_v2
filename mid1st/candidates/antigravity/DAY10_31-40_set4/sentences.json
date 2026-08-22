@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 10,
+  "range": "31-40",
+  "set": 4,
+  "items": [
+    {
+      "wordId": "DAY10-31",
+      "no": 31,
+      "word": "capture",
+      "sentence": "The photographer managed to capture the sunset over ocean horizon."
+    },
+    {
+      "wordId": "DAY10-32",
+      "no": 32,
+      "word": "perspective",
+      "sentence": "We must consider this social issue from another person's perspective."
+    },
+    {
+      "wordId": "DAY10-33",
+      "no": 33,
+      "word": "desperate",
+      "sentence": "The lost traveler made a desperate search for fresh water."
+    },
+    {
+      "wordId": "DAY10-34",
+      "no": 34,
+      "word": "apparent",
+      "sentence": "The reason for the machine's failure was apparent to engineers."
+    },
+    {
+      "wordId": "DAY10-35",
+      "no": 35,
+      "word": "contradict",
+      "sentence": "Debaters use verified statistics to contradict their opponent's false claims."
+    },
+    {
+      "wordId": "DAY10-36",
+      "no": 36,
+      "word": "aggressive",
+      "sentence": "Aggressive behavior in school hallways violates our student code rules."
+    },
+    {
+      "wordId": "DAY10-37",
+      "no": 37,
+      "word": "companion",
+      "sentence": "Her loyal dog is a wonderful companion on morning walks."
+    },
+    {
+      "wordId": "DAY10-38",
+      "no": 38,
+      "word": "compromise",
+      "sentence": "Both sides reached a sensible compromise after a lengthy meeting."
+    },
+    {
+      "wordId": "DAY10-39",
+      "no": 39,
+      "word": "commitment",
+      "sentence": "Finishing this project requires strong commitment from all team members."
+    },
+    {
+      "wordId": "DAY10-40",
+      "no": 40,
+      "word": "stock",
+      "sentence": "The bookstore keeps a large stock of popular science books."
+    }
+  ]
+}

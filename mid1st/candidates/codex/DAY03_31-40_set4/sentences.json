@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 3,
+  "range": "31-40",
+  "set": 4,
+  "items": [
+    {
+      "wordId": "DAY03-31",
+      "no": 31,
+      "word": "capital",
+      "sentence": "The capital contains the main offices that govern the country."
+    },
+    {
+      "wordId": "DAY03-32",
+      "no": 32,
+      "word": "absolute",
+      "sentence": "Before dawn, the snowy field lay in absolute silence."
+    },
+    {
+      "wordId": "DAY03-33",
+      "no": 33,
+      "word": "anticipate",
+      "sentence": "The young dogs anticipate treats whenever the cupboard door opens."
+    },
+    {
+      "wordId": "DAY03-34",
+      "no": 34,
+      "word": "leisure",
+      "sentence": "Today, fishing by the lake is his favorite leisure activity."
+    },
+    {
+      "wordId": "DAY03-35",
+      "no": 35,
+      "word": "undergo",
+      "sentence": "Today, the caterpillar will undergo an amazing change inside its cocoon."
+    },
+    {
+      "wordId": "DAY03-36",
+      "no": 36,
+      "word": "spare",
+      "sentence": "The cyclist carried a spare wheel within the small basket."
+    },
+    {
+      "wordId": "DAY03-37",
+      "no": 37,
+      "word": "aquarium",
+      "sentence": "Bright orange fish swam gently within the giant round aquarium."
+    },
+    {
+      "wordId": "DAY03-38",
+      "no": 38,
+      "word": "applaud",
+      "sentence": "When the curtain rises again, the audience will applaud loudly."
+    },
+    {
+      "wordId": "DAY03-39",
+      "no": 39,
+      "word": "insurance",
+      "sentence": "Today, the farmer bought insurance to protect the barn from storms."
+    },
+    {
+      "wordId": "DAY03-40",
+      "no": 40,
+      "word": "return",
+      "sentence": "Today, the birds return to the warm valley every early spring."
+    }
+  ]
+}

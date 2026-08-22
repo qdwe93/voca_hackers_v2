@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 22,
+  "range": "21-30",
+  "set": 3,
+  "title": "DAY 22 · 21-30",
+  "words": [
+    {
+      "no": 21,
+      "word": "reason",
+      "partOfSpeech": "n.",
+      "meaningKo": "이유",
+      "definition": "a cause explaining why something happens",
+      "sentence": "The broken wheel is the reason the wagon stops.",
+      "ipa": "/rizən/",
+      "wordImage": "images/21_reason_word.png",
+      "sentenceImage": "images/21_reason_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 22,
+      "word": "herd",
+      "partOfSpeech": "n.",
+      "meaningKo": "무리",
+      "definition": "a group of animals living or moving together",
+      "sentence": "A herd of elephants walks across the grassland.",
+      "ipa": "/hɝd/",
+      "wordImage": "images/22_herd_word.png",
+      "sentenceImage": "images/22_herd_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 23,
+      "word": "filter",
+      "partOfSpeech": "v.",
+      "meaningKo": "거르다",
+      "definition": "to remove unwanted material from something",
+      "sentence": "The cloth will filter sand from the cloudy water.",
+      "ipa": "/fɪltɚ/",
+      "wordImage": "images/23_filter_word.png",
+      "sentenceImage": "images/23_filter_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 24,
+      "word": "eco-friendly",
+      "partOfSpeech": "adj.",
+      "meaningKo": "친환경적인",
+      "definition": "causing little harm to the environment",
+      "sentence": "An eco-friendly bus runs quietly using clean electricity.",
+      "ipa": "/ˈiːkoʊ ˈfrendli/",
+      "wordImage": "images/24_eco-friendly_word.png",
+      "sentenceImage": "images/24_eco-friendly_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 25,
+      "word": "portion",
+      "partOfSpeech": "n.",
+      "meaningKo": "부분",
+      "definition": "a part or amount of a larger whole",
+      "sentence": "Each child receives an equal portion of the watermelon.",
+      "ipa": "/pɔrʃən/",
+      "wordImage": "images/25_portion_word.png",
+      "sentenceImage": "images/25_portion_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 26,
+      "word": "deadly",
+      "partOfSpeech": "adj.",
+      "meaningKo": "치명적인",
+      "definition": "likely to cause death",
+      "sentence": "A deadly fantasy gas remains sealed inside a laboratory chamber.",
+      "ipa": "/dɛdli/",
+      "wordImage": "images/26_deadly_word.png",
+      "sentenceImage": "images/26_deadly_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 27,
+      "word": "tension",
+      "partOfSpeech": "n.",
+      "meaningKo": "긴장",
+      "definition": "worry or strain between people or things",
+      "sentence": "Tension grows as two teams wait for the result.",
+      "ipa": "/tɛnʃən/",
+      "wordImage": "images/27_tension_word.png",
+      "sentenceImage": "images/27_tension_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 28,
+      "word": "migrate",
+      "partOfSpeech": "v.",
+      "meaningKo": "이동하다",
+      "definition": "to travel seasonally to another region",
+      "sentence": "The birds migrate south together before the cold winter.",
+      "ipa": "/maɪɡreɪt/",
+      "wordImage": "images/28_migrate_word.png",
+      "sentenceImage": "images/28_migrate_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 29,
+      "word": "access",
+      "partOfSpeech": "n.",
+      "meaningKo": "접근 권한",
+      "definition": "the ability or right to enter or use something",
+      "sentence": "A ramp provides wheelchair access to the building.",
+      "ipa": "/æksɛs/",
+      "wordImage": "images/29_access_word.png",
+      "sentenceImage": "images/29_access_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 30,
+      "word": "excess",
+      "partOfSpeech": "n.",
+      "meaningKo": "초과량",
+      "definition": "an amount greater than needed",
+      "sentence": "Excess water flows over the top of the bucket.",
+      "ipa": "/ɛksɛs/",
+      "wordImage": "images/30_excess_word.png",
+      "sentenceImage": "images/30_excess_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

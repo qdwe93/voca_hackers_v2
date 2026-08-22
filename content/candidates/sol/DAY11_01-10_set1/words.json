@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 11,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 11 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "publish",
+      "partOfSpeech": "v.",
+      "meaningKo": "출판하다",
+      "definition": "to prepare and make writing available to people",
+      "sentence": "The company will publish the student's illustrated storybook.",
+      "ipa": "/pʌblɪʃ/",
+      "wordImage": "images/01_publish_word.png",
+      "sentenceImage": "images/01_publish_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "literature",
+      "partOfSpeech": "n.",
+      "meaningKo": "문학",
+      "definition": "written works valued as art especially stories and poems",
+      "sentence": "Classic literature fills the tall shelves in the library.",
+      "ipa": "/lɪtɚətʃɚ/",
+      "wordImage": "images/02_literature_word.png",
+      "sentenceImage": "images/02_literature_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "fiction",
+      "partOfSpeech": "n.",
+      "meaningKo": "소설",
+      "definition": "stories about imaginary people and events",
+      "sentence": "The child reads fiction about a city of robots.",
+      "ipa": "/fɪkʃən/",
+      "wordImage": "images/03_fiction_word.png",
+      "sentenceImage": "images/03_fiction_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "author",
+      "partOfSpeech": "n.",
+      "meaningKo": "작가",
+      "definition": "a person who writes a book or story",
+      "sentence": "The author signs a new book at the library table.",
+      "ipa": "/ɔθɚ/",
+      "wordImage": "images/04_author_word.png",
+      "sentenceImage": "images/04_author_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "symbol",
+      "partOfSpeech": "n.",
+      "meaningKo": "상징",
+      "definition": "a shape object or sign representing something else",
+      "sentence": "A white dove becomes a symbol of peace.",
+      "ipa": "/sɪmbəl/",
+      "wordImage": "images/05_symbol_word.png",
+      "sentenceImage": "images/05_symbol_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "plot",
+      "partOfSpeech": "n.",
+      "meaningKo": "줄거리",
+      "definition": "the main events that form a story",
+      "sentence": "The story's plot follows a robot searching for home.",
+      "ipa": "/plɑt/",
+      "wordImage": "images/06_plot_word.png",
+      "sentenceImage": "images/06_plot_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "collaborate",
+      "partOfSpeech": "v.",
+      "meaningKo": "협력하다",
+      "definition": "to work together on a shared task",
+      "sentence": "Three artists collaborate on one enormous wall painting.",
+      "ipa": "/kəlæbɚeɪt/",
+      "wordImage": "images/07_collaborate_word.png",
+      "sentenceImage": "images/07_collaborate_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "statue",
+      "partOfSpeech": "n.",
+      "meaningKo": "조각상",
+      "definition": "a carved or molded figure of someone or something",
+      "sentence": "A stone lion statue stands in the garden.",
+      "ipa": "/stætʃu/",
+      "wordImage": "images/08_statue_word.png",
+      "sentenceImage": "images/08_statue_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "state",
+      "partOfSpeech": "n.",
+      "meaningKo": "상태",
+      "definition": "the condition of something at a particular time",
+      "sentence": "Melting ice changes state as solid cubes become liquid water.",
+      "ipa": "/steɪt/",
+      "wordImage": "images/09_state_word.png",
+      "sentenceImage": "images/09_state_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "status",
+      "partOfSpeech": "n.",
+      "meaningKo": "지위",
+      "definition": "a person's position within a group or society",
+      "sentence": "The captain's badge shows her leadership status among the crew.",
+      "ipa": "/stætəs/",
+      "wordImage": "images/10_status_word.png",
+      "sentenceImage": "images/10_status_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

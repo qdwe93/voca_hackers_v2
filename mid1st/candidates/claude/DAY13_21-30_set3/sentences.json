@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 13,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY13-21",
+      "no": 21,
+      "word": "punish",
+      "sentence": "Game rules punish players who move before the whistle blows."
+    },
+    {
+      "wordId": "DAY13-22",
+      "no": 22,
+      "word": "tie",
+      "sentence": "Children tie colorful ribbons around the old village tree."
+    },
+    {
+      "wordId": "DAY13-23",
+      "no": 23,
+      "word": "indicate",
+      "sentence": "Red flags indicate where the parade will turn left."
+    },
+    {
+      "wordId": "DAY13-24",
+      "no": 24,
+      "word": "humor",
+      "sentence": "The storyteller's gentle humor made every listener smile at once."
+    },
+    {
+      "wordId": "DAY13-25",
+      "no": 25,
+      "word": "stack",
+      "sentence": "Villagers stack round stones beside the mountain path for luck."
+    },
+    {
+      "wordId": "DAY13-26",
+      "no": 26,
+      "word": "odd",
+      "sentence": "That odd wooden mask has three eyes and no mouth."
+    },
+    {
+      "wordId": "DAY13-27",
+      "no": 27,
+      "word": "persist",
+      "sentence": "Young weavers persist until the difficult pattern finally looks right."
+    },
+    {
+      "wordId": "DAY13-28",
+      "no": 28,
+      "word": "insight",
+      "sentence": "The old diary gave us insight into daily village life."
+    },
+    {
+      "wordId": "DAY13-29",
+      "no": 29,
+      "word": "novel",
+      "sentence": "This novel repeats a scene we also read in the myth."
+    },
+    {
+      "wordId": "DAY13-30",
+      "no": 30,
+      "word": "noble",
+      "sentence": "The story's noble farmer shared the last rice with strangers."
+    }
+  ]
+}

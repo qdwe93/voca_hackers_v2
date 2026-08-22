@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 7,
+  "range": "31-40",
+  "set": 4,
+  "title": "DAY 07 · 31-40",
+  "words": [
+    {
+      "no": 31,
+      "word": "reject",
+      "partOfSpeech": "v.",
+      "meaningKo": "거부하다, 거절하다",
+      "ipa": "/rɪˈdʒekt/",
+      "definition": "to refuse to accept, use, or believe something",
+      "sentence": "The honest captain chose to reject any unfair shortcut offer.",
+      "wordImage": "images/31_reject_word.png",
+      "sentenceImage": "images/31_reject_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 32,
+      "word": "gaze",
+      "partOfSpeech": "v.",
+      "meaningKo": "바라보다, 응시하다",
+      "ipa": "/ɡeɪz/",
+      "definition": "to look at something for a long time in admiration",
+      "sentence": "Children love to gaze at the starry night sky outdoors.",
+      "wordImage": "images/32_gaze_word.png",
+      "sentenceImage": "images/32_gaze_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 33,
+      "word": "cherish",
+      "partOfSpeech": "v.",
+      "meaningKo": "소중히 여기다, 아끼다",
+      "ipa": "/ˈtʃer.ɪʃ/",
+      "definition": "to love and protect someone or something very much",
+      "sentence": "I will cherish the handmade friendship bracelet for many years.",
+      "wordImage": "images/33_cherish_word.png",
+      "sentenceImage": "images/33_cherish_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 34,
+      "word": "hospitality",
+      "partOfSpeech": "n.",
+      "meaningKo": "환대, 친절",
+      "ipa": "/ˌhɑː.spɪˈtæl.ə.t̬i/",
+      "definition": "the friendly and generous treatment of guests and visitors",
+      "sentence": "The kind innkeeper offered warm hospitality and homemade apple pie.",
+      "wordImage": "images/34_hospitality_word.png",
+      "sentenceImage": "images/34_hospitality_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 35,
+      "word": "uncover",
+      "partOfSpeech": "v.",
+      "meaningKo": "발견하다, 덮개를 벗기다",
+      "ipa": "/ʌnˈkʌv.ɚ/",
+      "definition": "to discover something hidden or remove a cover from it",
+      "sentence": "Archaeologists hope to uncover ancient stone pottery beneath the sand.",
+      "wordImage": "images/35_uncover_word.png",
+      "sentenceImage": "images/35_uncover_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 36,
+      "word": "casual",
+      "partOfSpeech": "adj.",
+      "meaningKo": "격식 없는, 평상시의",
+      "ipa": "/ˈkæʒ.u.əl/",
+      "definition": "comfortable and suitable for everyday use rather than formal",
+      "sentence": "He wore casual jeans and a cotton T-shirt to the picnic.",
+      "wordImage": "images/36_casual_word.png",
+      "sentenceImage": "images/36_casual_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 37,
+      "word": "mutual",
+      "partOfSpeech": "adj.",
+      "meaningKo": "상호 간의, 서로의",
+      "ipa": "/ˈmjuː.tʃu.əl/",
+      "definition": "shared between two or more people equally",
+      "sentence": "Good teamwork relies on mutual trust and respect among members.",
+      "wordImage": "images/37_mutual_word.png",
+      "sentenceImage": "images/37_mutual_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 38,
+      "word": "farewell",
+      "partOfSpeech": "n.",
+      "meaningKo": "작별, 작별 인사",
+      "ipa": "/ˌferˈwel/",
+      "definition": "an occasion when someone says goodbye",
+      "sentence": "The class organized a sweet farewell party for their teacher.",
+      "wordImage": "images/38_farewell_word.png",
+      "sentenceImage": "images/38_farewell_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 39,
+      "word": "owe",
+      "partOfSpeech": "v.",
+      "meaningKo": "빚지다, 신세지다",
+      "ipa": "/oʊ/",
+      "definition": "to need to pay someone money or be grateful to them",
+      "sentence": "I owe my friend a big thank-you for helping me.",
+      "wordImage": "images/39_owe_word.png",
+      "sentenceImage": "images/39_owe_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 40,
+      "word": "treat",
+      "partOfSpeech": "v.",
+      "meaningKo": "대하다, 대접하다, 치료하다",
+      "ipa": "/triːt/",
+      "definition": "to behave towards someone in a particular way",
+      "sentence": "Always treat your classmates with kindness and a warm smile.",
+      "wordImage": "images/40_treat_word.png",
+      "sentenceImage": "images/40_treat_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

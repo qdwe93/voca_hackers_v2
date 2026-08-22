@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 29,
+  "range": "21-30",
+  "set": 3,
+  "title": "DAY 29 · 21-30",
+  "words": [
+    {
+      "no": 21,
+      "word": "consult",
+      "partOfSpeech": "v.",
+      "meaningKo": "상담하다, 찾아보다",
+      "ipa": "/kənˈsʌlt/",
+      "definition": "to seek information or advice from an expert or book",
+      "sentence": "Always consult a reliable dictionary to verify new vocabulary spellings.",
+      "wordImage": "images/21_consult_word.png",
+      "sentenceImage": "images/21_consult_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 22,
+      "word": "organic",
+      "partOfSpeech": "adj.",
+      "meaningKo": "유기농의, 생물의",
+      "ipa": "/ɔːrˈɡæn.ɪk/",
+      "definition": "produced without the use of chemical fertilizers or pesticides",
+      "sentence": "The local market sells delicious fresh organic carrots and strawberries.",
+      "wordImage": "images/22_organic_word.png",
+      "sentenceImage": "images/22_organic_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 23,
+      "word": "manufacture",
+      "partOfSpeech": "v.",
+      "meaningKo": "제조하다, 생산하다",
+      "ipa": "/ˌmæn.jəˈfæk.tʃɚ/",
+      "definition": "to make something on a large scale using machinery",
+      "sentence": "The eco-friendly factory will manufacture bicycles using recycled aluminum frames.",
+      "wordImage": "images/23_manufacture_word.png",
+      "sentenceImage": "images/23_manufacture_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 24,
+      "word": "negative",
+      "partOfSpeech": "adj.",
+      "meaningKo": "부정적인, 음수의",
+      "ipa": "/ˈneɡ.ə.t̬ɪv/",
+      "definition": "expressing refusal or pessimism, or less than zero mathematically",
+      "sentence": "Try to turn any negative thought into a positive opportunity.",
+      "wordImage": "images/24_negative_word.png",
+      "sentenceImage": "images/24_negative_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 25,
+      "word": "peasant",
+      "partOfSpeech": "n.",
+      "meaningKo": "소작농, 농부",
+      "ipa": "/ˈpez.ənt/",
+      "definition": "a small farmer or farm worker of low social status historically",
+      "sentence": "The fairy tale tells of a kind peasant who helped animals.",
+      "wordImage": "images/25_peasant_word.png",
+      "sentenceImage": "images/25_peasant_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 26,
+      "word": "agriculture",
+      "partOfSpeech": "n.",
+      "meaningKo": "농업, 농경",
+      "ipa": "/ˈæɡ.rə.kʌl.tʃɚ/",
+      "definition": "the science or practice of farming and cultivating soil/crops",
+      "sentence": "Modern sustainable agriculture focuses on protecting soil and saving water.",
+      "wordImage": "images/26_agriculture_word.png",
+      "sentenceImage": "images/26_agriculture_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 27,
+      "word": "alter",
+      "partOfSpeech": "v.",
+      "meaningKo": "바꾸다, 고치다",
+      "ipa": "/ˈɑːl.tɚ/",
+      "definition": "to change or cause to change in character or composition",
+      "sentence": "The tailor will alter the jacket sleeves to fit perfectly.",
+      "wordImage": "images/27_alter_word.png",
+      "sentenceImage": "images/27_alter_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 28,
+      "word": "combine",
+      "partOfSpeech": "v.",
+      "meaningKo": "결합하다, 조합하다",
+      "ipa": "/kəmˈbaɪn/",
+      "definition": "to join or merge to form a single unit or whole",
+      "sentence": "You can combine blue and yellow paint to create green.",
+      "wordImage": "images/28_combine_word.png",
+      "sentenceImage": "images/28_combine_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 29,
+      "word": "compete",
+      "partOfSpeech": "v.",
+      "meaningKo": "경쟁하다, 겨루다",
+      "ipa": "/kəmˈpiːt/",
+      "definition": "to strive to gain or win something by defeating others",
+      "sentence": "Athletes from many schools compete in the annual sprint race.",
+      "wordImage": "images/29_compete_word.png",
+      "sentenceImage": "images/29_compete_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 30,
+      "word": "complete",
+      "partOfSpeech": "v.",
+      "meaningKo": "완료하다, 끝마치다",
+      "ipa": "/kəmˈpliːt/",
+      "definition": "to finish making or doing something entirely, full",
+      "sentence": "Take your time to complete every question on the worksheet.",
+      "wordImage": "images/30_complete_word.png",
+      "sentenceImage": "images/30_complete_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 18,
+  "range": "21-30",
+  "set": 3,
+  "title": "DAY 18 · 21-30",
+  "words": [
+    {
+      "no": 21,
+      "word": "track",
+      "partOfSpeech": "v.",
+      "meaningKo": "추적하다",
+      "definition": "to follow the movement or progress of something",
+      "sentence": "The ranger will track the deer using prints in snow.",
+      "ipa": "/træk/",
+      "wordImage": "images/21_track_word.png",
+      "sentenceImage": "images/21_track_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 22,
+      "word": "perhaps",
+      "partOfSpeech": "adv.",
+      "meaningKo": "아마",
+      "definition": "possibly but not certainly",
+      "sentence": "Perhaps the hidden animal is inside the shaking box.",
+      "ipa": "/pɚhæps/",
+      "wordImage": "images/22_perhaps_word.png",
+      "sentenceImage": "images/22_perhaps_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 23,
+      "word": "bump",
+      "partOfSpeech": "n.",
+      "meaningKo": "혹",
+      "definition": "a small raised area after a minor hit",
+      "sentence": "A soft bump appears beneath the cartoon robot's helmet.",
+      "ipa": "/bʌmp/",
+      "wordImage": "images/23_bump_word.png",
+      "sentenceImage": "images/23_bump_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 24,
+      "word": "alert",
+      "partOfSpeech": "adj.",
+      "meaningKo": "경계하는",
+      "definition": "watchful and ready to act",
+      "sentence": "The alert meerkat stands tall beside the burrow.",
+      "ipa": "/əlɝt/",
+      "wordImage": "images/24_alert_word.png",
+      "sentenceImage": "images/24_alert_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 25,
+      "word": "slip",
+      "partOfSpeech": "v.",
+      "meaningKo": "미끄러지다",
+      "definition": "to slide accidentally and lose balance",
+      "sentence": "The penguin may slip gently on the smooth ice.",
+      "ipa": "/slɪp/",
+      "wordImage": "images/25_slip_word.png",
+      "sentenceImage": "images/25_slip_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 26,
+      "word": "modest",
+      "partOfSpeech": "adj.",
+      "meaningKo": "겸손한",
+      "definition": "not boasting about abilities or success",
+      "sentence": "The modest champion quietly holds the trophy behind teammates.",
+      "ipa": "/mɑdəst/",
+      "wordImage": "images/26_modest_word.png",
+      "sentenceImage": "images/26_modest_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 27,
+      "word": "disabled",
+      "partOfSpeech": "adj.",
+      "meaningKo": "장애가 있는",
+      "definition": "having a condition limiting some activities",
+      "sentence": "A disabled athlete races skillfully using a sports wheelchair.",
+      "ipa": "/dɪseɪbəld/",
+      "wordImage": "images/27_disabled_word.png",
+      "sentenceImage": "images/27_disabled_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 28,
+      "word": "rapid",
+      "partOfSpeech": "adj.",
+      "meaningKo": "빠른",
+      "definition": "very fast",
+      "sentence": "Rapid water rushes through the narrow stone channel.",
+      "ipa": "/ræpəd/",
+      "wordImage": "images/28_rapid_word.png",
+      "sentenceImage": "images/28_rapid_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 29,
+      "word": "spin",
+      "partOfSpeech": "v.",
+      "meaningKo": "회전하다",
+      "definition": "to turn around quickly",
+      "sentence": "The colorful top will spin across the smooth table.",
+      "ipa": "/spɪn/",
+      "wordImage": "images/29_spin_word.png",
+      "sentenceImage": "images/29_spin_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 30,
+      "word": "spine",
+      "partOfSpeech": "n.",
+      "meaningKo": "척추",
+      "definition": "the row of bones along the back",
+      "sentence": "A skeleton model shows the curved spine clearly.",
+      "ipa": "/spaɪn/",
+      "wordImage": "images/30_spine_word.png",
+      "sentenceImage": "images/30_spine_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

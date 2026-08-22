@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 15,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 15 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "university",
+      "partOfSpeech": "n.",
+      "meaningKo": "대학교",
+      "ipa": "/ˌjuː.nəˈvɝː.sə.t̬i/",
+      "definition": "a school of high-level education offering degree programs",
+      "sentence": "The grand brick university library welcomed scholars from around world.",
+      "wordImage": "images/01_university_word.png",
+      "sentenceImage": "images/01_university_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "education",
+      "partOfSpeech": "n.",
+      "meaningKo": "교육",
+      "ipa": "/ˌedʒ.uˈkeɪ.ʃən/",
+      "definition": "the process of teaching or learning in a school",
+      "sentence": "A good elementary education builds a strong foundation for life.",
+      "wordImage": "images/02_education_word.png",
+      "sentenceImage": "images/02_education_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "focus",
+      "partOfSpeech": "v.",
+      "meaningKo": "집중하다, 초점을 맞추다",
+      "ipa": "/ˈfoʊ.kəs/",
+      "definition": "to give all your attention to a particular subject",
+      "sentence": "Please focus your attention on the board during math class.",
+      "wordImage": "images/03_focus_word.png",
+      "sentenceImage": "images/03_focus_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "entry",
+      "partOfSpeech": "n.",
+      "meaningKo": "입구, 입장, 참가작",
+      "ipa": "/ˈen.tri/",
+      "definition": "the door, gate, or act of going into a place",
+      "sentence": "The stone archway marked the grand main entry of park.",
+      "wordImage": "images/04_entry_word.png",
+      "sentenceImage": "images/04_entry_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "medical",
+      "partOfSpeech": "adj.",
+      "meaningKo": "의학의, 의료의",
+      "ipa": "/ˈmed.ɪ.kəl/",
+      "definition": "related to the treatment of illness and health injuries",
+      "sentence": "The friendly school nurse provided gentle medical care to students.",
+      "wordImage": "images/05_medical_word.png",
+      "sentenceImage": "images/05_medical_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "accept",
+      "partOfSpeech": "v.",
+      "meaningKo": "받아들이다, 수락하다",
+      "ipa": "/əkˈsept/",
+      "definition": "to agree to take something that is offered to you",
+      "sentence": "She was delighted to accept the invitation to the party.",
+      "wordImage": "images/06_accept_word.png",
+      "sentenceImage": "images/06_accept_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "pioneer",
+      "partOfSpeech": "n.",
+      "meaningKo": "개척자, 선구자",
+      "ipa": "/ˌpaɪ.əˈnɪr/",
+      "definition": "a person who is one of the first to develop ideas",
+      "sentence": "Marie Curie was a brave scientific pioneer in physics discoveries.",
+      "wordImage": "images/07_pioneer_word.png",
+      "sentenceImage": "images/07_pioneer_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "mathematics",
+      "partOfSpeech": "n.",
+      "meaningKo": "수학",
+      "ipa": "/ˌmæθˈmæt̬.ɪks/",
+      "definition": "the study of numbers, shapes, logic, and measurements",
+      "sentence": "Solving geometry puzzles makes mathematics an exciting school subject daily.",
+      "wordImage": "images/08_mathematics_word.png",
+      "sentenceImage": "images/08_mathematics_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "professor",
+      "partOfSpeech": "n.",
+      "meaningKo": "교수",
+      "ipa": "/prəˈfes.ɚ/",
+      "definition": "a teacher of the highest rank in a university",
+      "sentence": "The astronomy professor explained the rings of Saturn to visitors.",
+      "wordImage": "images/09_professor_word.png",
+      "sentenceImage": "images/09_professor_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "profession",
+      "partOfSpeech": "n.",
+      "meaningKo": "전문직, 직업",
+      "ipa": "/prəˈfeʃ.ən/",
+      "definition": "any type of work that needs special training or skill",
+      "sentence": "Nursing is a caring profession dedicated to helping sick people.",
+      "wordImage": "images/10_profession_word.png",
+      "sentenceImage": "images/10_profession_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

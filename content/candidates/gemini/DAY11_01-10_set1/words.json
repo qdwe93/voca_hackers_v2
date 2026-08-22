@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 11,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 11 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "publish",
+      "partOfSpeech": "v.",
+      "meaningKo": "출판하다, 발표하다",
+      "ipa": "/ˈpʌb.lɪʃ/",
+      "definition": "to produce a book or magazine for people to buy",
+      "sentence": "The young author was thrilled to publish her first storybook.",
+      "wordImage": "images/01_publish_word.png",
+      "sentenceImage": "images/01_publish_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "literature",
+      "partOfSpeech": "n.",
+      "meaningKo": "문학",
+      "ipa": "/ˈlɪt̬.ɚ.ə.tʃʊr/",
+      "definition": "written works such as stories, poems, and plays of value",
+      "sentence": "Classic children’s literature introduces young readers to magical worlds.",
+      "wordImage": "images/02_literature_word.png",
+      "sentenceImage": "images/02_literature_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "fiction",
+      "partOfSpeech": "n.",
+      "meaningKo": "소설, 허구",
+      "ipa": "/ˈfɪk.ʃən/",
+      "definition": "stories about imaginary characters and events, not real facts",
+      "sentence": "He loves reading science fiction stories about friendly alien planets.",
+      "wordImage": "images/03_fiction_word.png",
+      "sentenceImage": "images/03_fiction_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "author",
+      "partOfSpeech": "n.",
+      "meaningKo": "작가, 저자",
+      "ipa": "/ˈɑː.θɚ/",
+      "definition": "the person who wrote a book, poem, or article",
+      "sentence": "The famous author signed copies of her new mystery novel.",
+      "wordImage": "images/04_author_word.png",
+      "sentenceImage": "images/04_author_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "symbol",
+      "partOfSpeech": "n.",
+      "meaningKo": "상징, 기호",
+      "ipa": "/ˈsɪm.bəl/",
+      "definition": "a picture, sign, or object that represents an idea",
+      "sentence": "The white dove is an international symbol of peace worldwide.",
+      "wordImage": "images/05_symbol_word.png",
+      "sentenceImage": "images/05_symbol_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "plot",
+      "partOfSpeech": "n.",
+      "meaningKo": "줄거리, 플롯",
+      "ipa": "/plɑːt/",
+      "definition": "the series of events that form the story of book",
+      "sentence": "The mystery novel has an exciting plot with unexpected surprises.",
+      "wordImage": "images/06_plot_word.png",
+      "sentenceImage": "images/06_plot_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "collaborate",
+      "partOfSpeech": "v.",
+      "meaningKo": "협력하다, 공동 작업하다",
+      "ipa": "/kəˈlæb.ə.reɪt/",
+      "definition": "to work together with someone to achieve something",
+      "sentence": "The two artists will collaborate on a giant school wall mural.",
+      "wordImage": "images/07_collaborate_word.png",
+      "sentenceImage": "images/07_collaborate_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "statue",
+      "partOfSpeech": "n.",
+      "meaningKo": "동상, 조각상",
+      "ipa": "/ˈstætʃ.uː/",
+      "definition": "an object made from stone or metal to look like someone",
+      "sentence": "A bronze statue of a hero stands in town square.",
+      "wordImage": "images/08_statue_word.png",
+      "sentenceImage": "images/08_statue_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "state",
+      "partOfSpeech": "n.",
+      "meaningKo": "상태, 국가, 주",
+      "ipa": "/steɪt/",
+      "definition": "the physical condition that something or someone is in",
+      "sentence": "The antique wooden clock was kept in a perfect working state.",
+      "wordImage": "images/09_state_word.png",
+      "sentenceImage": "images/09_state_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "status",
+      "partOfSpeech": "n.",
+      "meaningKo": "지위, 신분, 상태",
+      "ipa": "/ˈsteɪ.t̬əs/",
+      "definition": "the official legal or social position of someone or something",
+      "sentence": "You can check the delivery status of your package online.",
+      "wordImage": "images/10_status_word.png",
+      "sentenceImage": "images/10_status_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

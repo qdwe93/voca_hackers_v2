@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 9,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY09-21",
+      "no": 21,
+      "word": "devote",
+      "sentence": "Volunteers devote their free time to cleaning the polluted beach."
+    },
+    {
+      "wordId": "DAY09-22",
+      "no": 22,
+      "word": "admit",
+      "sentence": "It takes courage to admit your mistakes to your parents."
+    },
+    {
+      "wordId": "DAY09-23",
+      "no": 23,
+      "word": "gender",
+      "sentence": "Students of every gender have equal opportunities in school sports."
+    },
+    {
+      "wordId": "DAY09-24",
+      "no": 24,
+      "word": "permit",
+      "sentence": "School rules permit students to use tablets for educational research."
+    },
+    {
+      "wordId": "DAY09-25",
+      "no": 25,
+      "word": "spouse",
+      "sentence": "He supported his spouse during her difficult medical school studies."
+    },
+    {
+      "wordId": "DAY09-26",
+      "no": 26,
+      "word": "ultimate",
+      "sentence": "Achieving world peace is the ultimate goal of international cooperation."
+    },
+    {
+      "wordId": "DAY09-27",
+      "no": 27,
+      "word": "cheat",
+      "sentence": "Students must not cheat on exams by copying others' answers."
+    },
+    {
+      "wordId": "DAY09-28",
+      "no": 28,
+      "word": "extraordinary",
+      "sentence": "The young musician has an extraordinary talent for playing violin."
+    },
+    {
+      "wordId": "DAY09-29",
+      "no": 29,
+      "word": "ethnic",
+      "sentence": "The city festival celebrates different ethnic foods and traditional dances."
+    },
+    {
+      "wordId": "DAY09-30",
+      "no": 30,
+      "word": "ethical",
+      "sentence": "Doctors follow strict ethical guidelines to protect patient privacy rights."
+    }
+  ]
+}

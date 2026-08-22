@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 9,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 09 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "just",
+      "partOfSpeech": "adj.",
+      "meaningKo": "공정한, 올바른",
+      "ipa": "/dʒʌst/",
+      "definition": "fair and treating all people equally",
+      "sentence": "A wise judge always makes a just and honest decision.",
+      "wordImage": "images/01_just_word.png",
+      "sentenceImage": "images/01_just_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "moral",
+      "partOfSpeech": "adj.",
+      "meaningKo": "도덕적인, 도덕의",
+      "ipa": "/ˈmɔːr.əl/",
+      "definition": "relating to the standards of good or right behavior",
+      "sentence": "The fable teaches an important moral lesson about honesty today.",
+      "wordImage": "images/02_moral_word.png",
+      "sentenceImage": "images/02_moral_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "peer",
+      "partOfSpeech": "n.",
+      "meaningKo": "또래, 동료",
+      "ipa": "/pɪr/",
+      "definition": "a person who is the same age or status as you",
+      "sentence": "Working with a friendly peer makes science projects more fun.",
+      "wordImage": "images/03_peer_word.png",
+      "sentenceImage": "images/03_peer_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "achieve",
+      "partOfSpeech": "v.",
+      "meaningKo": "달성하다, 이루다",
+      "ipa": "/əˈtʃiːv/",
+      "definition": "to succeed in doing something good after working hard",
+      "sentence": "You can achieve your goals with steady daily practice exercises.",
+      "wordImage": "images/04_achieve_word.png",
+      "sentenceImage": "images/04_achieve_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "path",
+      "partOfSpeech": "n.",
+      "meaningKo": "길, 오솔길",
+      "ipa": "/pæθ/",
+      "definition": "a track made by footprints or laid down for walking",
+      "sentence": "A scenic stone path leads straight to the peaceful garden.",
+      "wordImage": "images/05_path_word.png",
+      "sentenceImage": "images/05_path_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "necessary",
+      "partOfSpeech": "adj.",
+      "meaningKo": "필요한, 필수의",
+      "ipa": "/ˈnes.ə.ser.i/",
+      "definition": "needed in order to achieve a particular result",
+      "sentence": "Water and sunlight are necessary for healthy plant growth everywhere.",
+      "wordImage": "images/06_necessary_word.png",
+      "sentenceImage": "images/06_necessary_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "selfish",
+      "partOfSpeech": "adj.",
+      "meaningKo": "이기적인",
+      "ipa": "/ˈsel.fɪʃ/",
+      "definition": "caring only about yourself and not about other people",
+      "sentence": "It is selfish to keep all the delicious snacks alone.",
+      "wordImage": "images/07_selfish_word.png",
+      "sentenceImage": "images/07_selfish_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "penalty",
+      "partOfSpeech": "n.",
+      "meaningKo": "처벌, 페널티",
+      "ipa": "/ˈpen.əl.ti/",
+      "definition": "a punishment for breaking a rule in sports or law",
+      "sentence": "The referee awarded a penalty kick for the soccer foul.",
+      "wordImage": "images/08_penalty_word.png",
+      "sentenceImage": "images/08_penalty_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "adopt",
+      "partOfSpeech": "v.",
+      "meaningKo": "입양하다, 채택하다",
+      "ipa": "/əˈdɑːpt/",
+      "definition": "to take a pet or child into your family legally",
+      "sentence": "Our family decided to adopt a gentle rescue puppy yesterday.",
+      "wordImage": "images/09_adopt_word.png",
+      "sentenceImage": "images/09_adopt_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "adapt",
+      "partOfSpeech": "v.",
+      "meaningKo": "적응하다, 맞추다",
+      "ipa": "/əˈdæpt/",
+      "definition": "to change your behavior in order to suit a new situation",
+      "sentence": "Animals learn to adapt to cold weather by growing fur.",
+      "wordImage": "images/10_adapt_word.png",
+      "sentenceImage": "images/10_adapt_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

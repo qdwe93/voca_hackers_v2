@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 30,
+  "range": "31-40",
+  "set": 4,
+  "title": "DAY 30 · 31-40",
+  "words": [
+    {
+      "no": 31,
+      "word": "deceive",
+      "partOfSpeech": "v.",
+      "meaningKo": "속이다",
+      "ipa": "/dɪˈsiːv/",
+      "definition": "to make someone believe something untrue",
+      "sentence": "The magic trick can deceive even the sharpest eyes.",
+      "wordImage": "images/31_deceive_word.png",
+      "sentenceImage": "images/31_deceive_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 32,
+      "word": "external",
+      "partOfSpeech": "adj.",
+      "meaningKo": "외부의",
+      "ipa": "/ɪkˈstɜːrnl/",
+      "definition": "on the outside of something",
+      "sentence": "The external walls of the cottage were painted white.",
+      "wordImage": "images/32_external_word.png",
+      "sentenceImage": "images/32_external_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 33,
+      "word": "instantly",
+      "partOfSpeech": "adv.",
+      "meaningKo": "즉시",
+      "ipa": "/ˈɪnstəntli/",
+      "definition": "right away, with no waiting",
+      "sentence": "The puppy instantly noticed the treat behind her back.",
+      "wordImage": "images/33_instantly_word.png",
+      "sentenceImage": "images/33_instantly_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 34,
+      "word": "norm",
+      "partOfSpeech": "n.",
+      "meaningKo": "표준",
+      "ipa": "/nɔːrm/",
+      "definition": "the usual way things are done",
+      "sentence": "Sharing snacks became the norm in this friendly class.",
+      "wordImage": "images/34_norm_word.png",
+      "sentenceImage": "images/34_norm_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 35,
+      "word": "analyze",
+      "partOfSpeech": "v.",
+      "meaningKo": "분석하다",
+      "ipa": "/ˈænəlaɪz/",
+      "definition": "to study something carefully part by part",
+      "sentence": "Scientists analyze the soil before planting new young trees.",
+      "wordImage": "images/35_analyze_word.png",
+      "sentenceImage": "images/35_analyze_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 36,
+      "word": "clarify",
+      "partOfSpeech": "v.",
+      "meaningKo": "명확히 하다",
+      "ipa": "/ˈklærɪfaɪ/",
+      "definition": "to make something easier to understand",
+      "sentence": "The teacher will clarify the rules once more today.",
+      "wordImage": "images/36_clarify_word.png",
+      "sentenceImage": "images/36_clarify_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 37,
+      "word": "defend",
+      "partOfSpeech": "v.",
+      "meaningKo": "방어하다",
+      "ipa": "/dɪˈfend/",
+      "definition": "to keep something safe from trouble",
+      "sentence": "Tall hedges defend the garden from cold winter winds.",
+      "wordImage": "images/37_defend_word.png",
+      "sentenceImage": "images/37_defend_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 38,
+      "word": "reputation",
+      "partOfSpeech": "n.",
+      "meaningKo": "평판",
+      "ipa": "/ˌrepjuˈteɪʃn/",
+      "definition": "what people generally think about someone",
+      "sentence": "The bakery has a fine reputation for soft bread.",
+      "wordImage": "images/38_reputation_word.png",
+      "sentenceImage": "images/38_reputation_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 39,
+      "word": "exclude",
+      "partOfSpeech": "v.",
+      "meaningKo": "제외하다",
+      "ipa": "/ɪkˈskluːd/",
+      "definition": "to leave something or someone out",
+      "sentence": "Please do not exclude anyone from the team game.",
+      "wordImage": "images/39_exclude_word.png",
+      "sentenceImage": "images/39_exclude_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 40,
+      "word": "net",
+      "partOfSpeech": "n.",
+      "meaningKo": "그물",
+      "ipa": "/net/",
+      "definition": "a loose cloth made of knotted string",
+      "sentence": "The fishers pulled a wide net onto the boat.",
+      "wordImage": "images/40_net_word.png",
+      "sentenceImage": "images/40_net_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

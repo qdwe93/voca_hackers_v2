@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 19,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY19-11",
+      "no": 11,
+      "word": "imagine",
+      "sentence": "When they look at fluffy clouds, children imagine castles."
+    },
+    {
+      "wordId": "DAY19-12",
+      "no": 12,
+      "word": "artificial",
+      "sentence": "An artificial system studies weather data and predicts tomorrow's rain."
+    },
+    {
+      "wordId": "DAY19-13",
+      "no": 13,
+      "word": "adjust",
+      "sentence": "Kindly adjust the seat before you ride the bicycle."
+    },
+    {
+      "wordId": "DAY19-14",
+      "no": 14,
+      "word": "ideal",
+      "sentence": "One calm sunny day is ideal for flying kites."
+    },
+    {
+      "wordId": "DAY19-15",
+      "no": 15,
+      "word": "gather",
+      "sentence": "Local residents gather firewood before the cold season starts."
+    },
+    {
+      "wordId": "DAY19-16",
+      "no": 16,
+      "word": "mechanic",
+      "sentence": "One cheerful mechanic checked the wheels of the old bus."
+    },
+    {
+      "wordId": "DAY19-17",
+      "no": 17,
+      "word": "portable",
+      "sentence": "The portable filter uses local sand and is easy to repair."
+    },
+    {
+      "wordId": "DAY19-18",
+      "no": 18,
+      "word": "remove",
+      "sentence": "Kindly remove your muddy boots before entering the hall."
+    },
+    {
+      "wordId": "DAY19-19",
+      "no": 19,
+      "word": "master",
+      "sentence": "Today, the young baker will master this bread recipe soon."
+    },
+    {
+      "wordId": "DAY19-20",
+      "no": 20,
+      "word": "screen",
+      "sentence": "The screen changes information after the user selects a button."
+    }
+  ]
+}

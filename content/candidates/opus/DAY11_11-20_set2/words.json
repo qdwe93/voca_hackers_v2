@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 11,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 11 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "fit",
+      "partOfSpeech": "v.",
+      "meaningKo": "맞다",
+      "ipa": "/fɪt/",
+      "definition": "to be the right size for something",
+      "sentence": "These small boots fit the little penguin just right.",
+      "wordImage": "images/11_fit_word.png",
+      "sentenceImage": "images/11_fit_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "movement",
+      "partOfSpeech": "n.",
+      "meaningKo": "움직임",
+      "ipa": "/ˈmuːvmənt/",
+      "definition": "the act of changing place or position",
+      "sentence": "A soft movement of the curtain showed the gentle breeze.",
+      "wordImage": "images/12_movement_word.png",
+      "sentenceImage": "images/12_movement_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "brilliant",
+      "partOfSpeech": "adj.",
+      "meaningKo": "훌륭한",
+      "ipa": "/ˈbrɪliənt/",
+      "definition": "very clever or very bright",
+      "sentence": "The inventor had a brilliant idea about folding wings.",
+      "wordImage": "images/13_brilliant_word.png",
+      "sentenceImage": "images/13_brilliant_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "prior",
+      "partOfSpeech": "adj.",
+      "meaningKo": "이전의",
+      "ipa": "/ˈpraɪər/",
+      "definition": "coming before something else",
+      "sentence": "The prior drawing was smaller than this new one.",
+      "wordImage": "images/14_prior_word.png",
+      "sentenceImage": "images/14_prior_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "outline",
+      "partOfSpeech": "n.",
+      "meaningKo": "개요",
+      "ipa": "/ˈaʊtlaɪn/",
+      "definition": "the shape of the outer edge of something",
+      "sentence": "The outline of the mountain looked purple at sunset.",
+      "wordImage": "images/15_outline_word.png",
+      "sentenceImage": "images/15_outline_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "sort",
+      "partOfSpeech": "v.",
+      "meaningKo": "분류하다",
+      "ipa": "/sɔːrt/",
+      "definition": "to put things into groups by type",
+      "sentence": "The children sort colorful buttons into four small bowls.",
+      "wordImage": "images/16_sort_word.png",
+      "sentenceImage": "images/16_sort_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "portrait",
+      "partOfSpeech": "n.",
+      "meaningKo": "초상화",
+      "ipa": "/ˈpɔːrtrət/",
+      "definition": "a picture of a person's face",
+      "sentence": "A painted portrait of the kind farmer hung upstairs.",
+      "wordImage": "images/17_portrait_word.png",
+      "sentenceImage": "images/17_portrait_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "tale",
+      "partOfSpeech": "n.",
+      "meaningKo": "이야기",
+      "ipa": "/teɪl/",
+      "definition": "a story that someone tells you",
+      "sentence": "The old sailor told a tale about a friendly whale.",
+      "wordImage": "images/18_tale_word.png",
+      "sentenceImage": "images/18_tale_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "add",
+      "partOfSpeech": "v.",
+      "meaningKo": "더하다",
+      "ipa": "/æd/",
+      "definition": "to put more of something in",
+      "sentence": "Please add two spoons of honey to the warm milk.",
+      "wordImage": "images/19_add_word.png",
+      "sentenceImage": "images/19_add_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "volume",
+      "partOfSpeech": "n.",
+      "meaningKo": "음량",
+      "ipa": "/ˈvɑːljuːm/",
+      "definition": "how loud a sound is",
+      "sentence": "Turn the volume down before the baby bird sleeps.",
+      "wordImage": "images/20_volume_word.png",
+      "sentenceImage": "images/20_volume_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

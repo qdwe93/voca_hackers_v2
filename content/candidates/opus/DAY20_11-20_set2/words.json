@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 20,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 20 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "guess",
+      "partOfSpeech": "v.",
+      "meaningKo": "추측하다",
+      "ipa": "/ɡes/",
+      "definition": "to say an answer without being sure",
+      "sentence": "Can you guess how many apples fill this basket?",
+      "wordImage": "images/11_guess_word.png",
+      "sentenceImage": "images/11_guess_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "temperature",
+      "partOfSpeech": "n.",
+      "meaningKo": "온도",
+      "ipa": "/ˈtemprətʃər/",
+      "definition": "how hot or cold something is",
+      "sentence": "The temperature dropped quickly after the sun went down.",
+      "wordImage": "images/12_temperature_word.png",
+      "sentenceImage": "images/12_temperature_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "passage",
+      "partOfSpeech": "n.",
+      "meaningKo": "통로",
+      "ipa": "/ˈpæsɪdʒ/",
+      "definition": "a narrow way between two places",
+      "sentence": "A stone passage led from the garden to the courtyard.",
+      "wordImage": "images/13_passage_word.png",
+      "sentenceImage": "images/13_passage_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "flat",
+      "partOfSpeech": "adj.",
+      "meaningKo": "평평한",
+      "ipa": "/flæt/",
+      "definition": "smooth and level, without any bumps",
+      "sentence": "The flat rock made a perfect table for lunch.",
+      "wordImage": "images/14_flat_word.png",
+      "sentenceImage": "images/14_flat_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "enormous",
+      "partOfSpeech": "adj.",
+      "meaningKo": "거대한",
+      "ipa": "/ɪˈnɔːrməs/",
+      "definition": "extremely big",
+      "sentence": "An enormous whale swam gently beside the small boat.",
+      "wordImage": "images/15_enormous_word.png",
+      "sentenceImage": "images/15_enormous_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "accurate",
+      "partOfSpeech": "adj.",
+      "meaningKo": "정확한",
+      "ipa": "/ˈækjərət/",
+      "definition": "exactly right with no mistakes",
+      "sentence": "The accurate map showed every turn along the river.",
+      "wordImage": "images/16_accurate_word.png",
+      "sentenceImage": "images/16_accurate_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "freeze",
+      "partOfSpeech": "v.",
+      "meaningKo": "얼다",
+      "ipa": "/friːz/",
+      "definition": "to become hard and icy from cold",
+      "sentence": "Puddles freeze overnight when winter air grows very cold.",
+      "wordImage": "images/17_freeze_word.png",
+      "sentenceImage": "images/17_freeze_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "gear",
+      "partOfSpeech": "n.",
+      "meaningKo": "장비",
+      "ipa": "/ɡɪr/",
+      "definition": "the tools and clothes for an activity",
+      "sentence": "The climbers packed warm gear into two large bags.",
+      "wordImage": "images/18_gear_word.png",
+      "sentenceImage": "images/18_gear_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "fuel",
+      "partOfSpeech": "n.",
+      "meaningKo": "연료",
+      "ipa": "/ˈfjuːəl/",
+      "definition": "something burned to make a machine run",
+      "sentence": "The little boat needed fuel before the long trip.",
+      "wordImage": "images/19_fuel_word.png",
+      "sentenceImage": "images/19_fuel_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "miss",
+      "partOfSpeech": "v.",
+      "meaningKo": "놓치다",
+      "ipa": "/mɪs/",
+      "definition": "to be too late for something",
+      "sentence": "Hurry, or we will miss the last evening ferry.",
+      "wordImage": "images/20_miss_word.png",
+      "sentenceImage": "images/20_miss_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

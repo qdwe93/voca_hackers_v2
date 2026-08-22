@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 18,
+  "range": "31-40",
+  "set": 4,
+  "title": "DAY 18 · 31-40",
+  "words": [
+    {
+      "no": 31,
+      "word": "rare",
+      "partOfSpeech": "adj.",
+      "meaningKo": "희귀한, 드문",
+      "ipa": "/rer/",
+      "definition": "not common, very unusual, or not seen very often",
+      "sentence": "Finding a four-leaf clover in the meadow is a rare delight.",
+      "wordImage": "images/31_rare_word.png",
+      "sentenceImage": "images/31_rare_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 32,
+      "word": "beat",
+      "partOfSpeech": "v.",
+      "meaningKo": "이기다, 치다, 두드리다",
+      "ipa": "/biːt/",
+      "definition": "to defeat an opponent in a game or hit rhythmically",
+      "sentence": "Our soccer team managed to beat the champions in final minutes.",
+      "wordImage": "images/32_beat_word.png",
+      "sentenceImage": "images/32_beat_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 33,
+      "word": "indifferent",
+      "partOfSpeech": "adj.",
+      "meaningKo": "무관심한, 냉담한",
+      "ipa": "/ɪnˈdɪf.ɚ.ənt/",
+      "definition": "not caring about or interested in someone or something",
+      "sentence": "The lazy cat remained indifferent to the ticking sound of clock.",
+      "wordImage": "images/33_indifferent_word.png",
+      "sentenceImage": "images/33_indifferent_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 34,
+      "word": "sew",
+      "partOfSpeech": "v.",
+      "meaningKo": "바느질하다, 꿰매다",
+      "ipa": "/soʊ/",
+      "definition": "to join or repair pieces of cloth by using needle and thread",
+      "sentence": "Grandmother will sew a colorful patch onto his torn jeans pocket.",
+      "wordImage": "images/34_sew_word.png",
+      "sentenceImage": "images/34_sew_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 35,
+      "word": "antibiotic",
+      "partOfSpeech": "n.",
+      "meaningKo": "항생제",
+      "ipa": "/ˌæn.t̬i.baɪˈɑː.t̬ɪk/",
+      "definition": "a medicine that destroys harmful bacteria in the body",
+      "sentence": "The doctor prescribed a mild liquid antibiotic for the ear infection.",
+      "wordImage": "images/35_antibiotic_word.png",
+      "sentenceImage": "images/35_antibiotic_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 36,
+      "word": "chronic",
+      "partOfSpeech": "adj.",
+      "meaningKo": "만성적인, 장기간의",
+      "ipa": "/ˈkrɑː.nɪk/",
+      "definition": "continuing for a long time or constantly recurring over time",
+      "sentence": "Regular gentle stretching helped reduce his chronic lower back stiffness.",
+      "wordImage": "images/36_chronic_word.png",
+      "sentenceImage": "images/36_chronic_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 37,
+      "word": "sight",
+      "partOfSpeech": "n.",
+      "meaningKo": "시력, 광경, 시야",
+      "ipa": "/saɪt/",
+      "definition": "the ability to see, or something that is seen",
+      "sentence": "The sunrise over the snowy peaks was a truly breathtaking sight.",
+      "wordImage": "images/37_sight_word.png",
+      "sentenceImage": "images/37_sight_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 38,
+      "word": "fatal",
+      "partOfSpeech": "adj.",
+      "meaningKo": "치명적인, 결정적인",
+      "ipa": "/ˈfeɪ.t̬əl/",
+      "definition": "causing defeat or ruin in a game, or resulting in disaster",
+      "sentence": "A small chess blunder proved to be a fatal mistake in game.",
+      "wordImage": "images/38_fatal_word.png",
+      "sentenceImage": "images/38_fatal_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 39,
+      "word": "tremble",
+      "partOfSpeech": "v.",
+      "meaningKo": "떨다, 떨리다",
+      "ipa": "/ˈtrem.bəl/",
+      "definition": "to shake slightly because of cold, fear, or excitement",
+      "sentence": "The little kitten began to tremble slightly in the cold wind.",
+      "wordImage": "images/39_tremble_word.png",
+      "sentenceImage": "images/39_tremble_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 40,
+      "word": "patient",
+      "partOfSpeech": "n.",
+      "meaningKo": "환자",
+      "ipa": "/ˈpeɪ.ʃənt/",
+      "definition": "a person who is receiving medical care from a doctor",
+      "sentence": "The kind nurse checked the temperature of every patient in hospital.",
+      "wordImage": "images/40_patient_word.png",
+      "sentenceImage": "images/40_patient_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

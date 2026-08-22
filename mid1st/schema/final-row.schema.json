@@ -1,0 +1,32 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "final-row.schema.json",
+  "title": "mid1st selected sentence JSONL row",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "wordId", "day", "no", "set", "word", "part", "partTopic", "dayTopic",
+    "partOfSpeech", "meaningKo", "ipa", "definition", "conceptId", "matchMode",
+    "conceptCueKo", "selectedAuthor", "sentence", "selectionNote"
+  ],
+  "properties": {
+    "wordId": { "type": "string" },
+    "day": { "type": "integer" },
+    "no": { "type": "integer" },
+    "set": { "type": "integer" },
+    "word": { "type": "string" },
+    "part": { "type": "integer" },
+    "partTopic": { "type": "string" },
+    "dayTopic": { "type": "string" },
+    "partOfSpeech": { "type": "string" },
+    "meaningKo": { "type": "string" },
+    "ipa": { "type": "string" },
+    "definition": { "type": "string" },
+    "conceptId": { "type": ["string", "null"] },
+    "matchMode": { "enum": ["direct", "contextual", "day_fallback", "word_fallback"] },
+    "conceptCueKo": { "type": "string" },
+    "selectedAuthor": { "enum": ["codex", "antigravity", "claude", "baseline", "manual"] },
+    "sentence": { "type": "string" },
+    "selectionNote": { "type": "string" }
+  }
+}

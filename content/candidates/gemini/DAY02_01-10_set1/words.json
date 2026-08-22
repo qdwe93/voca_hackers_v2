@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 2,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 02 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "active",
+      "partOfSpeech": "adj.",
+      "meaningKo": "활동적인, 적극적인",
+      "ipa": "/ˈæk.tɪv/",
+      "definition": "doing things that require physical movement or energy",
+      "sentence": "The active puppy chased the rolling yellow ball outside.",
+      "wordImage": "images/01_active_word.png",
+      "sentenceImage": "images/01_active_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "excellent",
+      "partOfSpeech": "adj.",
+      "meaningKo": "훌륭한, 뛰어난",
+      "ipa": "/ˈek.səl.ənt/",
+      "definition": "extremely good or of very high quality",
+      "sentence": "She received an excellent score on her science project.",
+      "wordImage": "images/02_excellent_word.png",
+      "sentenceImage": "images/02_excellent_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "lecture",
+      "partOfSpeech": "n.",
+      "meaningKo": "강의, 강연",
+      "ipa": "/ˈlek.tʃər/",
+      "definition": "a talk given to teach people about a subject",
+      "sentence": "Students listened carefully to the science lecture about planets.",
+      "wordImage": "images/03_lecture_word.png",
+      "sentenceImage": "images/03_lecture_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "academic",
+      "partOfSpeech": "adj.",
+      "meaningKo": "학업의, 학문의",
+      "ipa": "/ˌæk.əˈdem.ɪk/",
+      "definition": "relating to schools, colleges, and studying",
+      "sentence": "The library supports students with various academic goals every year.",
+      "wordImage": "images/04_academic_word.png",
+      "sentenceImage": "images/04_academic_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "encourage",
+      "partOfSpeech": "v.",
+      "meaningKo": "격려하다, 용기를 북돋우다",
+      "ipa": "/ɪnˈkɝː.ɪdʒ/",
+      "definition": "to give someone hope, confidence, or support",
+      "sentence": "Teachers always encourage students to try their very best.",
+      "wordImage": "images/05_encourage_word.png",
+      "sentenceImage": "images/05_encourage_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "debate",
+      "partOfSpeech": "n.",
+      "meaningKo": "토론, 논쟁",
+      "ipa": "/dɪˈbeɪt/",
+      "definition": "a formal discussion on a particular topic",
+      "sentence": "The two teams held a lively debate about technology.",
+      "wordImage": "images/06_debate_word.png",
+      "sentenceImage": "images/06_debate_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "president",
+      "partOfSpeech": "n.",
+      "meaningKo": "회장, 대통령",
+      "ipa": "/ˈprez.ɪ.dənt/",
+      "definition": "the leader of a country, club, or organization",
+      "sentence": "The student club president announced the spring festival date.",
+      "wordImage": "images/07_president_word.png",
+      "sentenceImage": "images/07_president_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "assignment",
+      "partOfSpeech": "n.",
+      "meaningKo": "과제, 숙제",
+      "ipa": "/əˈsaɪn.mənt/",
+      "definition": "a piece of work given to someone to do",
+      "sentence": "He finished his math assignment before watching the game.",
+      "wordImage": "images/08_assignment_word.png",
+      "sentenceImage": "images/08_assignment_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "principal",
+      "partOfSpeech": "n.",
+      "meaningKo": "교장",
+      "ipa": "/ˈprɪn.sə.pəl/",
+      "definition": "the person in charge of a school",
+      "sentence": "The school principal greeted everyone at the main entrance.",
+      "wordImage": "images/09_principal_word.png",
+      "sentenceImage": "images/09_principal_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "principle",
+      "partOfSpeech": "n.",
+      "meaningKo": "원칙, 원리",
+      "ipa": "/ˈprɪn.sə.pəl/",
+      "definition": "a basic truth, rule, or belief that guides you",
+      "sentence": "Honesty is the most important principle in our classroom.",
+      "wordImage": "images/10_principle_word.png",
+      "sentenceImage": "images/10_principle_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

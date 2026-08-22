@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 17,
+  "range": "21-30",
+  "set": 3,
+  "title": "DAY 17 · 21-30",
+  "words": [
+    {
+      "no": 21,
+      "word": "individual",
+      "partOfSpeech": "adj.",
+      "meaningKo": "개인의",
+      "ipa": "/ˌɪndɪˈvɪdʒuəl/",
+      "definition": "for one person only",
+      "sentence": "Each camper received an individual bowl of warm soup.",
+      "wordImage": "images/21_individual_word.png",
+      "sentenceImage": "images/21_individual_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 22,
+      "word": "silent",
+      "partOfSpeech": "adj.",
+      "meaningKo": "조용한",
+      "ipa": "/ˈsaɪlənt/",
+      "definition": "making no sound at all",
+      "sentence": "The snowy forest stayed completely silent at early dawn.",
+      "wordImage": "images/22_silent_word.png",
+      "sentenceImage": "images/22_silent_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 23,
+      "word": "fiber",
+      "partOfSpeech": "n.",
+      "meaningKo": "섬유",
+      "ipa": "/ˈfaɪbər/",
+      "definition": "a thin thread inside plants or cloth",
+      "sentence": "Strong fiber from the plant became a woven basket.",
+      "wordImage": "images/23_fiber_word.png",
+      "sentenceImage": "images/23_fiber_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 24,
+      "word": "ancestor",
+      "partOfSpeech": "n.",
+      "meaningKo": "조상",
+      "ipa": "/ˈænsestər/",
+      "definition": "a family member from long, long ago",
+      "sentence": "An ancestor of this tree grew here two centuries ago.",
+      "wordImage": "images/24_ancestor_word.png",
+      "sentenceImage": "images/24_ancestor_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 25,
+      "word": "yawn",
+      "partOfSpeech": "v.",
+      "meaningKo": "하품하다",
+      "ipa": "/jɔːn/",
+      "definition": "to open your mouth when you are sleepy",
+      "sentence": "The lion cubs yawn widely before their afternoon nap.",
+      "wordImage": "images/25_yawn_word.png",
+      "sentenceImage": "images/25_yawn_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 26,
+      "word": "pregnant",
+      "partOfSpeech": "adj.",
+      "meaningKo": "임신한",
+      "ipa": "/ˈpreɡnənt/",
+      "definition": "having a baby growing inside",
+      "sentence": "The pregnant cat rested in a soft warm basket.",
+      "wordImage": "images/26_pregnant_word.png",
+      "sentenceImage": "images/26_pregnant_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 27,
+      "word": "stimulate",
+      "partOfSpeech": "v.",
+      "meaningKo": "자극하다",
+      "ipa": "/ˈstɪmjuleɪt/",
+      "definition": "to make something more active",
+      "sentence": "Bright colors stimulate curiosity in very young children.",
+      "wordImage": "images/27_stimulate_word.png",
+      "sentenceImage": "images/27_stimulate_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 28,
+      "word": "slightly",
+      "partOfSpeech": "adv.",
+      "meaningKo": "약간",
+      "ipa": "/ˈslaɪtli/",
+      "definition": "a very small amount",
+      "sentence": "The tower leaned slightly toward the sunny garden side.",
+      "wordImage": "images/28_slightly_word.png",
+      "sentenceImage": "images/28_slightly_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 29,
+      "word": "bleed",
+      "partOfSpeech": "v.",
+      "meaningKo": "색이 번지다",
+      "ipa": "/bliːd/",
+      "definition": "to spread color into cloth or water",
+      "sentence": "Red socks can bleed color into the warm wash water.",
+      "wordImage": "images/29_bleed_word.png",
+      "sentenceImage": "images/29_bleed_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 30,
+      "word": "breed",
+      "partOfSpeech": "v.",
+      "meaningKo": "기르다",
+      "ipa": "/briːd/",
+      "definition": "to raise animals so they have babies",
+      "sentence": "Farmers breed gentle rabbits on the small green hill.",
+      "wordImage": "images/30_breed_word.png",
+      "sentenceImage": "images/30_breed_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

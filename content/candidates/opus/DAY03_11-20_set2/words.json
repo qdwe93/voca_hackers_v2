@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 3,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 03 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "pack",
+      "partOfSpeech": "v.",
+      "meaningKo": "싸다",
+      "ipa": "/pæk/",
+      "definition": "to put things inside a bag or box",
+      "sentence": "The campers pack warm socks into a big blue backpack.",
+      "wordImage": "images/11_pack_word.png",
+      "sentenceImage": "images/11_pack_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "host",
+      "partOfSpeech": "v.",
+      "meaningKo": "주최하다",
+      "ipa": "/hoʊst/",
+      "definition": "to have people as guests at an event",
+      "sentence": "Our neighbors will host a garden party this sunny weekend.",
+      "wordImage": "images/12_host_word.png",
+      "sentenceImage": "images/12_host_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "private",
+      "partOfSpeech": "adj.",
+      "meaningKo": "사적인",
+      "ipa": "/ˈpraɪvət/",
+      "definition": "only for one person, not for everyone",
+      "sentence": "The koala keeps a private notebook inside its wooden desk.",
+      "wordImage": "images/13_private_word.png",
+      "sentenceImage": "images/13_private_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "craft",
+      "partOfSpeech": "n.",
+      "meaningKo": "공예",
+      "ipa": "/kræft/",
+      "definition": "making things with your hands, like paper art",
+      "sentence": "The children made a paper craft with glue and ribbons.",
+      "wordImage": "images/14_craft_word.png",
+      "sentenceImage": "images/14_craft_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "post",
+      "partOfSpeech": "v.",
+      "meaningKo": "우편으로 보내다",
+      "ipa": "/poʊst/",
+      "definition": "to send a letter through the mail",
+      "sentence": "The rabbit will post a colorful card to its friend.",
+      "wordImage": "images/15_post_word.png",
+      "sentenceImage": "images/15_post_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "relieve",
+      "partOfSpeech": "v.",
+      "meaningKo": "덜어주다",
+      "ipa": "/rɪˈliːv/",
+      "definition": "to make a bad feeling smaller",
+      "sentence": "Warm tea can relieve the tired feeling after long walks.",
+      "wordImage": "images/16_relieve_word.png",
+      "sentenceImage": "images/16_relieve_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "practice",
+      "partOfSpeech": "v.",
+      "meaningKo": "연습하다",
+      "ipa": "/ˈpræktɪs/",
+      "definition": "to do something again and again to improve",
+      "sentence": "The penguins practice their dance every evening near the ice.",
+      "wordImage": "images/17_practice_word.png",
+      "sentenceImage": "images/17_practice_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "souvenir",
+      "partOfSpeech": "n.",
+      "meaningKo": "기념품",
+      "ipa": "/ˌsuːvəˈnɪr/",
+      "definition": "something you keep to remember a trip",
+      "sentence": "A tiny shell became the best souvenir from the beach.",
+      "wordImage": "images/18_souvenir_word.png",
+      "sentenceImage": "images/18_souvenir_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "decorate",
+      "partOfSpeech": "v.",
+      "meaningKo": "장식하다",
+      "ipa": "/ˈdekəreɪt/",
+      "definition": "to add pretty things to make something nicer",
+      "sentence": "The mice decorate their treehouse with leaves and small lanterns.",
+      "wordImage": "images/19_decorate_word.png",
+      "sentenceImage": "images/19_decorate_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "book",
+      "partOfSpeech": "v.",
+      "meaningKo": "예약하다",
+      "ipa": "/bʊk/",
+      "definition": "to ask to keep a seat or room",
+      "sentence": "You should book two seats for the evening puppet show.",
+      "wordImage": "images/20_book_word.png",
+      "sentenceImage": "images/20_book_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

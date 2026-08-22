@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 17,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY17-11",
+      "no": 11,
+      "word": "insect",
+      "sentence": "This insect has six legs and two thin clear wings."
+    },
+    {
+      "wordId": "DAY17-12",
+      "no": 12,
+      "word": "circumstance",
+      "sentence": "Heavy rain was the one circumstance that delayed our field study."
+    },
+    {
+      "wordId": "DAY17-13",
+      "no": 13,
+      "word": "normal",
+      "sentence": "Green leaves and firm stems show normal growth in these plants."
+    },
+    {
+      "wordId": "DAY17-14",
+      "no": 14,
+      "word": "threat",
+      "sentence": "Losing wetlands is the biggest threat to these migrating birds."
+    },
+    {
+      "wordId": "DAY17-15",
+      "no": 15,
+      "word": "improve",
+      "sentence": "Adding compost will improve this thin soil before spring planting."
+    },
+    {
+      "wordId": "DAY17-16",
+      "no": 16,
+      "word": "repeat",
+      "sentence": "We repeat the same measurement to check our first result."
+    },
+    {
+      "wordId": "DAY17-17",
+      "no": 17,
+      "word": "resemble",
+      "sentence": "Kittens resemble their mother but each one has different fur marks."
+    },
+    {
+      "wordId": "DAY17-18",
+      "no": 18,
+      "word": "protein",
+      "sentence": "Beans and eggs give protein that helps young bodies grow."
+    },
+    {
+      "wordId": "DAY17-19",
+      "no": 19,
+      "word": "hatch",
+      "sentence": "Duck eggs hatch after about four weeks of steady warmth."
+    },
+    {
+      "wordId": "DAY17-20",
+      "no": 20,
+      "word": "direct",
+      "sentence": "Sunflowers need direct sunlight for most of the day."
+    }
+  ]
+}

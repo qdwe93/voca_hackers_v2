@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 9,
+  "range": "21-30",
+  "set": 3,
+  "title": "DAY 09 · 21-30",
+  "words": [
+    {
+      "no": 21,
+      "word": "devote",
+      "partOfSpeech": "v.",
+      "meaningKo": "바치다",
+      "definition": "to give much time or effort to something",
+      "sentence": "The gardener will devote every morning to caring for roses.",
+      "ipa": "/dɪvoʊt/",
+      "wordImage": "images/21_devote_word.png",
+      "sentenceImage": "images/21_devote_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 22,
+      "word": "admit",
+      "partOfSpeech": "v.",
+      "meaningKo": "인정하다",
+      "definition": "to confess that something is true",
+      "sentence": "The child will admit knocking over the empty vase.",
+      "ipa": "/ədmɪt/",
+      "wordImage": "images/22_admit_word.png",
+      "sentenceImage": "images/22_admit_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 23,
+      "word": "gender",
+      "partOfSpeech": "n.",
+      "meaningKo": "성별",
+      "definition": "the identity of being male female both or neither",
+      "sentence": "Students of every gender join the same friendly club.",
+      "ipa": "/dʒɛndɚ/",
+      "wordImage": "images/23_gender_word.png",
+      "sentenceImage": "images/23_gender_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 24,
+      "word": "permit",
+      "partOfSpeech": "v.",
+      "meaningKo": "허락하다",
+      "definition": "to officially allow something",
+      "sentence": "The ranger will permit visitors to enter the safe trail.",
+      "ipa": "/pərˈmɪt/",
+      "wordImage": "images/24_permit_word.png",
+      "sentenceImage": "images/24_permit_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 25,
+      "word": "spouse",
+      "partOfSpeech": "n.",
+      "meaningKo": "배우자",
+      "definition": "a person's husband or wife",
+      "sentence": "The baker and spouse decorate a cake together.",
+      "ipa": "/spaʊs/",
+      "wordImage": "images/25_spouse_word.png",
+      "sentenceImage": "images/25_spouse_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 26,
+      "word": "ultimate",
+      "partOfSpeech": "adj.",
+      "meaningKo": "최종적인",
+      "definition": "final or most important",
+      "sentence": "The ultimate goal stands beyond three smaller checkpoints.",
+      "ipa": "/ʌltəmət/",
+      "wordImage": "images/26_ultimate_word.png",
+      "sentenceImage": "images/26_ultimate_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 27,
+      "word": "cheat",
+      "partOfSpeech": "v.",
+      "meaningKo": "속이다",
+      "definition": "to act dishonestly to gain an advantage",
+      "sentence": "The fox may cheat by secretly moving a board piece.",
+      "ipa": "/tʃit/",
+      "wordImage": "images/27_cheat_word.png",
+      "sentenceImage": "images/27_cheat_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 28,
+      "word": "extraordinary",
+      "partOfSpeech": "adj.",
+      "meaningKo": "비범한",
+      "definition": "very unusual special or impressive",
+      "sentence": "An extraordinary bird has bright feathers shaped like stars.",
+      "ipa": "/ɛkstrəɔrdənɛri/",
+      "wordImage": "images/28_extraordinary_word.png",
+      "sentenceImage": "images/28_extraordinary_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 29,
+      "word": "ethnic",
+      "partOfSpeech": "adj.",
+      "meaningKo": "민족의",
+      "definition": "related to a cultural or national group",
+      "sentence": "The festival displays ethnic clothing from several communities.",
+      "ipa": "/ɛθnɪk/",
+      "wordImage": "images/29_ethnic_word.png",
+      "sentenceImage": "images/29_ethnic_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 30,
+      "word": "ethical",
+      "partOfSpeech": "adj.",
+      "meaningKo": "윤리적인",
+      "definition": "morally right and fair",
+      "sentence": "The ethical shopkeeper returns the customer's extra coin.",
+      "ipa": "/ɛθɪkəl/",
+      "wordImage": "images/30_ethical_word.png",
+      "sentenceImage": "images/30_ethical_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

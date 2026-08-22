@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 10,
+  "range": "31-40",
+  "set": 4,
+  "title": "DAY 10 · 31-40",
+  "words": [
+    {
+      "no": 31,
+      "word": "capture",
+      "partOfSpeech": "v.",
+      "meaningKo": "포착하다, 사로잡다",
+      "ipa": "/ˈkæp.tʃɚ/",
+      "definition": "to take someone prisoner or catch something successfully in camera",
+      "sentence": "The photographer was able to capture the flying eagle on camera.",
+      "wordImage": "images/31_capture_word.png",
+      "sentenceImage": "images/31_capture_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 32,
+      "word": "perspective",
+      "partOfSpeech": "n.",
+      "meaningKo": "관점, 시각, 원근법",
+      "ipa": "/pɚˈspek.tɪv/",
+      "definition": "a particular way of viewing or considering things and events",
+      "sentence": "Viewing the world from a mountaintop gives a whole new perspective.",
+      "wordImage": "images/32_perspective_word.png",
+      "sentenceImage": "images/32_perspective_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 33,
+      "word": "desperate",
+      "partOfSpeech": "adj.",
+      "meaningKo": "필사적인, 절망적인",
+      "ipa": "/ˈdes.pɚ.ət/",
+      "definition": "feeling a strong need or willing to do anything to succeed",
+      "sentence": "The thirsty desert traveler was desperate for a cool sip of water.",
+      "wordImage": "images/33_desperate_word.png",
+      "sentenceImage": "images/33_desperate_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 34,
+      "word": "apparent",
+      "partOfSpeech": "adj.",
+      "meaningKo": "명백한, 분명한",
+      "ipa": "/əˈper.ənt/",
+      "definition": "easy to see, recognize, or understand clearly",
+      "sentence": "It was apparent that the sunny day was perfect for sailing.",
+      "wordImage": "images/34_apparent_word.png",
+      "sentenceImage": "images/34_apparent_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 35,
+      "word": "contradict",
+      "partOfSpeech": "v.",
+      "meaningKo": "모순되다, 반박하다",
+      "ipa": "/ˌkɑːn.trəˈdɪkt/",
+      "definition": "to say the opposite of what someone else has said",
+      "sentence": "The witness statements contradict each other about the color of car.",
+      "wordImage": "images/35_contradict_word.png",
+      "sentenceImage": "images/35_contradict_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 36,
+      "word": "aggressive",
+      "partOfSpeech": "adj.",
+      "meaningKo": "공격적인, 적극적인",
+      "ipa": "/əˈɡres.ɪv/",
+      "definition": "behaving in an angry, forceful, or very energetic way",
+      "sentence": "The coach praised the soccer team for their aggressive offensive plays.",
+      "wordImage": "images/36_aggressive_word.png",
+      "sentenceImage": "images/36_aggressive_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 37,
+      "word": "companion",
+      "partOfSpeech": "n.",
+      "meaningKo": "동반자, 동행",
+      "ipa": "/kəmˈpæn.jən/",
+      "definition": "a person or animal with whom you spend a lot of time",
+      "sentence": "The loyal golden retriever was his favorite travel companion on hikes.",
+      "wordImage": "images/37_companion_word.png",
+      "sentenceImage": "images/37_companion_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 38,
+      "word": "compromise",
+      "partOfSpeech": "n.",
+      "meaningKo": "타협, 절충",
+      "ipa": "/ˈkɑːm.prə.maɪz/",
+      "definition": "an agreement in which both sides reduce their demands slightly",
+      "sentence": "The two siblings reached a fair compromise over sharing the bicycle.",
+      "wordImage": "images/38_compromise_word.png",
+      "sentenceImage": "images/38_compromise_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 39,
+      "word": "commitment",
+      "partOfSpeech": "n.",
+      "meaningKo": "헌신, 전념, 약속",
+      "ipa": "/kəˈmɪt.mənt/",
+      "definition": "a willingness to give your time and energy to a job",
+      "sentence": "Playing for the school orchestra requires serious daily practice commitment.",
+      "wordImage": "images/39_commitment_word.png",
+      "sentenceImage": "images/39_commitment_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 40,
+      "word": "stock",
+      "partOfSpeech": "n.",
+      "meaningKo": "재고, 주식",
+      "ipa": "/stɑːk/",
+      "definition": "a supply of goods kept on hand for sale or use",
+      "sentence": "The toy store has a large stock of teddy bears today.",
+      "wordImage": "images/40_stock_word.png",
+      "sentenceImage": "images/40_stock_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

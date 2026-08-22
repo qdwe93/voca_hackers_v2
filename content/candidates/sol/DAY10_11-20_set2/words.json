@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 10,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 10 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "half",
+      "partOfSpeech": "n.",
+      "meaningKo": "절반",
+      "definition": "one of two equal parts",
+      "sentence": "The child cuts the sandwich exactly in half.",
+      "ipa": "/hæf/",
+      "wordImage": "images/11_half_word.png",
+      "sentenceImage": "images/11_half_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "concern",
+      "partOfSpeech": "n.",
+      "meaningKo": "걱정",
+      "definition": "a feeling of worry about something important",
+      "sentence": "The cracked bridge gives the small robot concern.",
+      "ipa": "/kənsɝn/",
+      "wordImage": "images/12_concern_word.png",
+      "sentenceImage": "images/12_concern_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "rescue",
+      "partOfSpeech": "v.",
+      "meaningKo": "구조하다",
+      "definition": "to save someone from danger or trouble",
+      "sentence": "A helper boat will rescue the stranded toy sailor.",
+      "ipa": "/rɛskju/",
+      "wordImage": "images/13_rescue_word.png",
+      "sentenceImage": "images/13_rescue_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "critic",
+      "partOfSpeech": "n.",
+      "meaningKo": "비평가",
+      "definition": "a person who judges art books or performances",
+      "sentence": "The critic studies three paintings inside the gallery.",
+      "ipa": "/krɪtɪk/",
+      "wordImage": "images/14_critic_word.png",
+      "sentenceImage": "images/14_critic_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "charity",
+      "partOfSpeech": "n.",
+      "meaningKo": "자선 단체",
+      "definition": "an organization that helps people in need",
+      "sentence": "The charity distributes food boxes to local families.",
+      "ipa": "/tʃɛrɪti/",
+      "wordImage": "images/15_charity_word.png",
+      "sentenceImage": "images/15_charity_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "rage",
+      "partOfSpeech": "n.",
+      "meaningKo": "격분",
+      "definition": "a feeling of extremely strong anger",
+      "sentence": "The cartoon bull shows rage after its block tower falls.",
+      "ipa": "/reɪdʒ/",
+      "wordImage": "images/16_rage_word.png",
+      "sentenceImage": "images/16_rage_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "afford",
+      "partOfSpeech": "v.",
+      "meaningKo": "~할 여유가 있다",
+      "definition": "to have enough money or time for something",
+      "sentence": "The child can afford the toy after saving many coins.",
+      "ipa": "/əfɔrd/",
+      "wordImage": "images/17_afford_word.png",
+      "sentenceImage": "images/17_afford_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "unite",
+      "partOfSpeech": "v.",
+      "meaningKo": "연합하다",
+      "definition": "to join together for a shared purpose",
+      "sentence": "The small teams unite to pull the heavy wagon.",
+      "ipa": "/junaɪt/",
+      "wordImage": "images/18_unite_word.png",
+      "sentenceImage": "images/18_unite_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "orphan",
+      "partOfSpeech": "n.",
+      "meaningKo": "고아",
+      "definition": "a child whose parents have died",
+      "sentence": "The gentle village cares for a young fantasy orphan.",
+      "ipa": "/ɔrfən/",
+      "wordImage": "images/19_orphan_word.png",
+      "sentenceImage": "images/19_orphan_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "bear",
+      "partOfSpeech": "v.",
+      "meaningKo": "견디다",
+      "definition": "to accept or endure something difficult",
+      "sentence": "The sturdy bridge can bear the weight of three carts.",
+      "ipa": "/bɛr/",
+      "wordImage": "images/20_bear_word.png",
+      "sentenceImage": "images/20_bear_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 4,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 04 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "familiar",
+      "partOfSpeech": "adj.",
+      "meaningKo": "익숙한",
+      "definition": "well known because it has been seen before",
+      "sentence": "The familiar playground makes the returning child smile softly.",
+      "ipa": "/fəmɪljɚ/",
+      "wordImage": "images/11_familiar_word.png",
+      "sentenceImage": "images/11_familiar_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "spread",
+      "partOfSpeech": "v.",
+      "meaningKo": "펼치다",
+      "definition": "to open or move something over a wide area",
+      "sentence": "The bird will spread its bright wings above the nest.",
+      "ipa": "/sprɛd/",
+      "wordImage": "images/12_spread_word.png",
+      "sentenceImage": "images/12_spread_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "divide",
+      "partOfSpeech": "v.",
+      "meaningKo": "나누다",
+      "definition": "to separate something into smaller parts",
+      "sentence": "The cook will divide the pizza into eight equal slices.",
+      "ipa": "/dɪvaɪd/",
+      "wordImage": "images/13_divide_word.png",
+      "sentenceImage": "images/13_divide_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "retire",
+      "partOfSpeech": "v.",
+      "meaningKo": "은퇴하다",
+      "definition": "to stop working after reaching a certain age",
+      "sentence": "The old teacher will retire after many years at school.",
+      "ipa": "/rɪtaɪr/",
+      "wordImage": "images/14_retire_word.png",
+      "sentenceImage": "images/14_retire_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "vision",
+      "partOfSpeech": "n.",
+      "meaningKo": "시력",
+      "definition": "the ability to see things",
+      "sentence": "Special glasses greatly improve the owl's blurry vision.",
+      "ipa": "/vɪʒən/",
+      "wordImage": "images/15_vision_word.png",
+      "sentenceImage": "images/15_vision_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "obstacle",
+      "partOfSpeech": "n.",
+      "meaningKo": "장애물",
+      "definition": "something that blocks movement or progress",
+      "sentence": "A fallen log becomes an obstacle across the hiking path.",
+      "ipa": "/ɑbstəkəl/",
+      "wordImage": "images/16_obstacle_word.png",
+      "sentenceImage": "images/16_obstacle_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "contrary",
+      "partOfSpeech": "adj.",
+      "meaningKo": "반대되는",
+      "definition": "completely different or opposite in nature",
+      "sentence": "The two arrows point in contrary directions on the floor.",
+      "ipa": "/kɑntrɛri/",
+      "wordImage": "images/17_contrary_word.png",
+      "sentenceImage": "images/17_contrary_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "arrange",
+      "partOfSpeech": "v.",
+      "meaningKo": "정리하다",
+      "definition": "to put things in a planned order",
+      "sentence": "The florist will arrange colorful flowers inside a tall vase.",
+      "ipa": "/ɚeɪndʒ/",
+      "wordImage": "images/18_arrange_word.png",
+      "sentenceImage": "images/18_arrange_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "attempt",
+      "partOfSpeech": "v.",
+      "meaningKo": "시도하다",
+      "definition": "to try to do something difficult",
+      "sentence": "The kitten will attempt to climb the short rope ladder.",
+      "ipa": "/ətɛmpt/",
+      "wordImage": "images/19_attempt_word.png",
+      "sentenceImage": "images/19_attempt_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "board",
+      "partOfSpeech": "v.",
+      "meaningKo": "탑승하다",
+      "definition": "to get onto a ship train bus or plane",
+      "sentence": "Passengers board the train while carrying small travel bags.",
+      "ipa": "/bɔrd/",
+      "wordImage": "images/20_board_word.png",
+      "sentenceImage": "images/20_board_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

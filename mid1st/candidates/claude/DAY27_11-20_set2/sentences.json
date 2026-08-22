@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 27,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY27-11",
+      "no": 11,
+      "word": "result",
+      "sentence": "The vote result showed thirty students preferred the park trip."
+    },
+    {
+      "wordId": "DAY27-12",
+      "no": 12,
+      "word": "survey",
+      "sentence": "The town survey asked residents which bus stop needs shelter."
+    },
+    {
+      "wordId": "DAY27-13",
+      "no": 13,
+      "word": "notice",
+      "sentence": "A paper notice on the door explains the new opening hours."
+    },
+    {
+      "wordId": "DAY27-14",
+      "no": 14,
+      "word": "guard",
+      "sentence": "Two volunteers guard the crosswalk every school morning until eight."
+    },
+    {
+      "wordId": "DAY27-15",
+      "no": 15,
+      "word": "profit",
+      "sentence": "After paying for beans and boxes, the shop kept a small profit."
+    },
+    {
+      "wordId": "DAY27-16",
+      "no": 16,
+      "word": "deny",
+      "sentence": "The driver did not deny parking beside the fire exit."
+    },
+    {
+      "wordId": "DAY27-17",
+      "no": 17,
+      "word": "opinion",
+      "sentence": "Every written opinion from residents went into the council meeting."
+    },
+    {
+      "wordId": "DAY27-18",
+      "no": 18,
+      "word": "rural",
+      "sentence": "This rural area has wide rice fields and few tall buildings."
+    },
+    {
+      "wordId": "DAY27-19",
+      "no": 19,
+      "word": "urban",
+      "sentence": "In urban areas, apartments and shops replace most open farmland."
+    },
+    {
+      "wordId": "DAY27-20",
+      "no": 20,
+      "word": "issue",
+      "sentence": "Bus safety became the main issue at last night's town meeting."
+    }
+  ]
+}

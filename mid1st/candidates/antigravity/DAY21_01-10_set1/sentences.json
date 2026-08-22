@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 21,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY21-01",
+      "no": 1,
+      "word": "wild",
+      "sentence": "Rangers establish protected nature reserves for wild animals to roam freely."
+    },
+    {
+      "wordId": "DAY21-02",
+      "no": 2,
+      "word": "species",
+      "sentence": "Biologists classify each bird species by examining shared physical wing traits."
+    },
+    {
+      "wordId": "DAY21-03",
+      "no": 3,
+      "word": "bark",
+      "sentence": "Watchdogs bark loudly when unfamiliar visitors approach the front gate."
+    },
+    {
+      "wordId": "DAY21-04",
+      "no": 4,
+      "word": "nest",
+      "sentence": "The sparrow built a cozy twig nest high inside tree."
+    },
+    {
+      "wordId": "DAY21-05",
+      "no": 5,
+      "word": "certain",
+      "sentence": "The botanist was certain about the rare plant species classification."
+    },
+    {
+      "wordId": "DAY21-06",
+      "no": 6,
+      "word": "greet",
+      "sentence": "Polite students greet their morning school bus driver with warm smiles."
+    },
+    {
+      "wordId": "DAY21-07",
+      "no": 7,
+      "word": "seed",
+      "sentence": "Water and warm sunlight stimulate the sunflower seed to sprout."
+    },
+    {
+      "wordId": "DAY21-08",
+      "no": 8,
+      "word": "predator",
+      "sentence": "The owl is a nocturnal predator that hunts small field mice."
+    },
+    {
+      "wordId": "DAY21-09",
+      "no": 9,
+      "word": "scene",
+      "sentence": "The morning sun creates a picturesque scene across the alpine meadow."
+    },
+    {
+      "wordId": "DAY21-10",
+      "no": 10,
+      "word": "scent",
+      "sentence": "A sweet floral scent diffuses through the warm greenhouse room air."
+    }
+  ]
+}

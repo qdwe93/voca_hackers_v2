@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 1,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY01-11",
+      "no": 11,
+      "word": "sweep",
+      "sentence": "After dinner I sweep crumbs from the wooden floor."
+    },
+    {
+      "wordId": "DAY01-12",
+      "no": 12,
+      "word": "glance",
+      "sentence": "I glance at the wall clock before setting the table."
+    },
+    {
+      "wordId": "DAY01-13",
+      "no": 13,
+      "word": "match",
+      "sentence": "These brown shoes match the warm winter coat very well."
+    },
+    {
+      "wordId": "DAY01-14",
+      "no": 14,
+      "word": "furniture",
+      "sentence": "Movers carried light furniture into the empty living room today."
+    },
+    {
+      "wordId": "DAY01-15",
+      "no": 15,
+      "word": "manual",
+      "sentence": "The rice cooker manual lists each step in the correct order."
+    },
+    {
+      "wordId": "DAY01-16",
+      "no": 16,
+      "word": "value",
+      "sentence": "The value of this old wooden chair rose after careful repair."
+    },
+    {
+      "wordId": "DAY01-17",
+      "no": 17,
+      "word": "pot",
+      "sentence": "Steam rises from the pot of barley tea on the stove."
+    },
+    {
+      "wordId": "DAY01-18",
+      "no": 18,
+      "word": "grocery",
+      "sentence": "Milk, eggs, and bread fill our grocery bag this evening."
+    },
+    {
+      "wordId": "DAY01-19",
+      "no": 19,
+      "word": "striped",
+      "sentence": "A striped towel hangs neatly beside the bathroom mirror."
+    },
+    {
+      "wordId": "DAY01-20",
+      "no": 20,
+      "word": "mind",
+      "sentence": "My mind still remembers the smell of grandmother's warm kitchen."
+    }
+  ]
+}

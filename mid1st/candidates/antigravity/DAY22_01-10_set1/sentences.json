@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 22,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY22-01",
+      "no": 1,
+      "word": "ecosystem",
+      "sentence": "Forest biodiversity supports a healthy balanced ecosystem for diverse living organisms."
+    },
+    {
+      "wordId": "DAY22-02",
+      "no": 2,
+      "word": "desert",
+      "sentence": "Succulent plants survive in the dry desert with minimal annual rainfall."
+    },
+    {
+      "wordId": "DAY22-03",
+      "no": 3,
+      "word": "creature",
+      "sentence": "The deep ocean trench is home to an unusual marine creature."
+    },
+    {
+      "wordId": "DAY22-04",
+      "no": 4,
+      "word": "mature",
+      "sentence": "The mature oak tree provides shelter for many nesting woodland birds."
+    },
+    {
+      "wordId": "DAY22-05",
+      "no": 5,
+      "word": "habitat",
+      "sentence": "Pollution threatens the natural wetland habitat of migratory water birds worldwide."
+    },
+    {
+      "wordId": "DAY22-06",
+      "no": 6,
+      "word": "maintain",
+      "sentence": "Predators help maintain ecological equilibrium among grazing herbivore populations in savannah."
+    },
+    {
+      "wordId": "DAY22-07",
+      "no": 7,
+      "word": "tide",
+      "sentence": "The high tide brought ocean waves crashing against coastal rocky cliffs."
+    },
+    {
+      "wordId": "DAY22-08",
+      "no": 8,
+      "word": "balance",
+      "sentence": "Nature maintains a delicate balance between predator and prey species populations."
+    },
+    {
+      "wordId": "DAY22-09",
+      "no": 9,
+      "word": "grand",
+      "sentence": "Visitors admired the grand mountain vista from the scenic cliff overlook."
+    },
+    {
+      "wordId": "DAY22-10",
+      "no": 10,
+      "word": "grant",
+      "sentence": "The park authorities will grant permission for our field biology survey."
+    }
+  ]
+}

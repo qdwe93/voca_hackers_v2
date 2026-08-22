@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 26,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY26-21",
+      "no": 21,
+      "word": "complex",
+      "sentence": "Today, the complex puzzle took the whole afternoon to finish."
+    },
+    {
+      "wordId": "DAY26-22",
+      "no": 22,
+      "word": "organize",
+      "sentence": "Today, let us organize these books by color and size."
+    },
+    {
+      "wordId": "DAY26-23",
+      "no": 23,
+      "word": "plenty",
+      "sentence": "Today, there was plenty of soup for every hungry guest."
+    },
+    {
+      "wordId": "DAY26-24",
+      "no": 24,
+      "word": "phenomenon",
+      "sentence": "Students observe the phenomenon, ask why, and record possible explanations."
+    },
+    {
+      "wordId": "DAY26-25",
+      "no": 25,
+      "word": "mount",
+      "sentence": "The rider will mount the gentle brown horse gently."
+    },
+    {
+      "wordId": "DAY26-26",
+      "no": 26,
+      "word": "found",
+      "sentence": "The group will found a reading club at the library."
+    },
+    {
+      "wordId": "DAY26-27",
+      "no": 27,
+      "word": "prove",
+      "sentence": "These footprints prove a deer moved past last night."
+    },
+    {
+      "wordId": "DAY26-28",
+      "no": 28,
+      "word": "forbid",
+      "sentence": "Today, park rules forbid picking flowers from the garden beds."
+    },
+    {
+      "wordId": "DAY26-29",
+      "no": 29,
+      "word": "contrast",
+      "sentence": "Today, the contrast between night and morning colors was striking."
+    },
+    {
+      "wordId": "DAY26-30",
+      "no": 30,
+      "word": "contract",
+      "sentence": "Two neighbors sign a contract for repairing their shared fence."
+    }
+  ]
+}

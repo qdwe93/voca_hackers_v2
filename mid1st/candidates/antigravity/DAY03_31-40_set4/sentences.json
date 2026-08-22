@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 3,
+  "range": "31-40",
+  "set": 4,
+  "items": [
+    {
+      "wordId": "DAY03-31",
+      "no": 31,
+      "word": "capital",
+      "sentence": "Seoul is the bustling capital city of South Korea today."
+    },
+    {
+      "wordId": "DAY03-32",
+      "no": 32,
+      "word": "absolute",
+      "sentence": "The quiet forest was in absolute silence under falling snow."
+    },
+    {
+      "wordId": "DAY03-33",
+      "no": 33,
+      "word": "anticipate",
+      "sentence": "Children anticipate the opening of the new amusement park eagerly."
+    },
+    {
+      "wordId": "DAY03-34",
+      "no": 34,
+      "word": "leisure",
+      "sentence": "Reading exciting mystery novels is my favorite form of leisure."
+    },
+    {
+      "wordId": "DAY03-35",
+      "no": 35,
+      "word": "undergo",
+      "sentence": "Athletes undergo rigorous daily training before entering the championship games."
+    },
+    {
+      "wordId": "DAY03-36",
+      "no": 36,
+      "word": "spare",
+      "sentence": "Always keep a spare bicycle tire in your repair kit."
+    },
+    {
+      "wordId": "DAY03-37",
+      "no": 37,
+      "word": "aquarium",
+      "sentence": "We saw colorful tropical fish swimming inside the giant aquarium."
+    },
+    {
+      "wordId": "DAY03-38",
+      "no": 38,
+      "word": "applaud",
+      "sentence": "The excited audience began to applaud loudly after the performance."
+    },
+    {
+      "wordId": "DAY03-39",
+      "no": 39,
+      "word": "insurance",
+      "sentence": "Travelers buy travel insurance before departing on overseas trips abroad."
+    },
+    {
+      "wordId": "DAY03-40",
+      "no": 40,
+      "word": "return",
+      "sentence": "Campers return to their cozy tents when the sun sets."
+    }
+  ]
+}

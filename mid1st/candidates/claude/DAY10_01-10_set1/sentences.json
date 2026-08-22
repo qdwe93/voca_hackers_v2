@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 10,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY10-01",
+      "no": 1,
+      "word": "welfare",
+      "sentence": "Free school lunches protect the welfare of every child here."
+    },
+    {
+      "wordId": "DAY10-02",
+      "no": 2,
+      "word": "victim",
+      "sentence": "Our class heard the victim of unfair teasing and fixed the rule."
+    },
+    {
+      "wordId": "DAY10-03",
+      "no": 3,
+      "word": "population",
+      "sentence": "The town population chart shows more grandparents than young children."
+    },
+    {
+      "wordId": "DAY10-04",
+      "no": 4,
+      "word": "neighbor",
+      "sentence": "One neighbor asked the district office to repair the dark streetlight."
+    },
+    {
+      "wordId": "DAY10-05",
+      "no": 5,
+      "word": "ignore",
+      "sentence": "Please do not ignore the small crack in this wall."
+    },
+    {
+      "wordId": "DAY10-06",
+      "no": 6,
+      "word": "donate",
+      "sentence": "Families donate warm coats to the group helping village elders."
+    },
+    {
+      "wordId": "DAY10-07",
+      "no": 7,
+      "word": "serious",
+      "sentence": "The water leak became serious, so the class called maintenance."
+    },
+    {
+      "wordId": "DAY10-08",
+      "no": 8,
+      "word": "fund",
+      "sentence": "Our school keeps a small fund for repairing broken instruments."
+    },
+    {
+      "wordId": "DAY10-09",
+      "no": 9,
+      "word": "personal",
+      "sentence": "This locker holds my personal notebook and nobody else's."
+    },
+    {
+      "wordId": "DAY10-10",
+      "no": 10,
+      "word": "personnel",
+      "sentence": "Hospital personnel meet every morning to plan the day's work."
+    }
+  ]
+}

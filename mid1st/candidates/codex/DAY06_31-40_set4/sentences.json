@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 6,
+  "range": "31-40",
+  "set": 4,
+  "items": [
+    {
+      "wordId": "DAY06-31",
+      "no": 31,
+      "word": "isolated",
+      "sentence": "Today, one isolated island sat alone in the wide calm sea."
+    },
+    {
+      "wordId": "DAY06-32",
+      "no": 32,
+      "word": "awkward",
+      "sentence": "Before someone told a joke, there was an awkward silence."
+    },
+    {
+      "wordId": "DAY06-33",
+      "no": 33,
+      "word": "sympathy",
+      "sentence": "A listener shows sympathy by naming her friend's sadness."
+    },
+    {
+      "wordId": "DAY06-34",
+      "no": 34,
+      "word": "terrifying",
+      "sentence": "The terrifying mask is only cardboard, so children stay calm."
+    },
+    {
+      "wordId": "DAY06-35",
+      "no": 35,
+      "word": "optimistic",
+      "sentence": "The optimistic farmer smiled at the small green seedlings."
+    },
+    {
+      "wordId": "DAY06-36",
+      "no": 36,
+      "word": "sincere",
+      "sentence": "One sincere thank you note made the librarian smile brightly."
+    },
+    {
+      "wordId": "DAY06-37",
+      "no": 37,
+      "word": "likely",
+      "sentence": "Before the clouds pass over the valley, rain is likely."
+    },
+    {
+      "wordId": "DAY06-38",
+      "no": 38,
+      "word": "endure",
+      "sentence": "Today, desert cactuses endure many hot days without any rain."
+    },
+    {
+      "wordId": "DAY06-39",
+      "no": 39,
+      "word": "cognitive",
+      "sentence": "Today, puzzle games build cognitive skills in young curious minds."
+    },
+    {
+      "wordId": "DAY06-40",
+      "no": 40,
+      "word": "reflect",
+      "sentence": "Today, still lake water can reflect the tall snowy mountain peaks."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "deterministic": true,
+  "counts": {
+    "words": 1200,
+    "days": 30,
+    "sets": 120,
+    "wordsPerDay": 40,
+    "wordsPerSet": 10,
+    "partDayRows": 30,
+    "csvJoins": 1200,
+    "concepts": 153,
+    "conceptLinks": 153,
+    "conceptsBySubject": {
+      "korean": 35,
+      "mathematics": 34,
+      "science": 45,
+      "social_studies": 39
+    }
+  },
+  "uniqueness": {
+    "wordIds": 1200,
+    "conceptIds": 153,
+    "conceptSourcePaths": 153
+  },
+  "sha256": {
+    "sources": "f557869ea5242197c034df929b4cbf44ec70952c9da4751550e2f7d678598a8e",
+    "wordInventory": "a2304d592b0bdf4fb363b78593fa6cb5352bf4fba4e0cda06903087740a5f382",
+    "conceptCatalog": "091ce7c71235b2c024ce477a72d6e79bd64df6d4f7042c1c602ee81170df4832",
+    "setBundle": "410943d60bf8078a4c8b7ecb9ebb5e093c289e31b189b5db30b2caf81cf7432f"
+  }
+}

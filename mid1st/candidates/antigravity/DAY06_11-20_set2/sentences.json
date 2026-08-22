@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 6,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY06-11",
+      "no": 11,
+      "word": "object",
+      "sentence": "Several committee members object to the proposed new library rule."
+    },
+    {
+      "wordId": "DAY06-12",
+      "no": 12,
+      "word": "disappointed",
+      "sentence": "The disappointed runner vowed to train harder for next race."
+    },
+    {
+      "wordId": "DAY06-13",
+      "no": 13,
+      "word": "anxious",
+      "sentence": "She felt anxious before giving her first major class speech."
+    },
+    {
+      "wordId": "DAY06-14",
+      "no": 14,
+      "word": "insist",
+      "sentence": "Scientists insist on checking experimental data before publishing their findings."
+    },
+    {
+      "wordId": "DAY06-15",
+      "no": 15,
+      "word": "sudden",
+      "sentence": "A sudden loud thunderstorm interrupted our outdoor picnic in park."
+    },
+    {
+      "wordId": "DAY06-16",
+      "no": 16,
+      "word": "immediate",
+      "sentence": "The injured player required immediate first aid on the field."
+    },
+    {
+      "wordId": "DAY06-17",
+      "no": 17,
+      "word": "appreciate",
+      "sentence": "We appreciate the hard work of our school cafeteria staff."
+    },
+    {
+      "wordId": "DAY06-18",
+      "no": 18,
+      "word": "pale",
+      "sentence": "His face looked pale after running up the steep hill."
+    },
+    {
+      "wordId": "DAY06-19",
+      "no": 19,
+      "word": "purpose",
+      "sentence": "The main purpose of this meeting is to plan sports."
+    },
+    {
+      "wordId": "DAY06-20",
+      "no": 20,
+      "word": "race",
+      "sentence": "The young athletes ran fast to win the hundred-meter race."
+    }
+  ]
+}

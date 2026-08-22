@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 9,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 09 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "pause",
+      "partOfSpeech": "v.",
+      "meaningKo": "잠시 멈추다",
+      "definition": "to stop briefly before continuing",
+      "sentence": "The musician will pause before playing the final note.",
+      "ipa": "/pɔz/",
+      "wordImage": "images/11_pause_word.png",
+      "sentenceImage": "images/11_pause_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "incentive",
+      "partOfSpeech": "n.",
+      "meaningKo": "동기",
+      "definition": "something that encourages someone to act",
+      "sentence": "A shiny token provides an incentive to finish the cleanup.",
+      "ipa": "/ɪnsɛntɪv/",
+      "wordImage": "images/12_incentive_word.png",
+      "sentenceImage": "images/12_incentive_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "sacrifice",
+      "partOfSpeech": "v.",
+      "meaningKo": "희생하다",
+      "definition": "to give up something valued for another purpose",
+      "sentence": "The parent bird will sacrifice its rest to feed chicks.",
+      "ipa": "/sækrəfaɪs/",
+      "wordImage": "images/13_sacrifice_word.png",
+      "sentenceImage": "images/13_sacrifice_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "generous",
+      "partOfSpeech": "adj.",
+      "meaningKo": "너그러운",
+      "definition": "willing to give or share more than expected",
+      "sentence": "The generous baker gives extra bread to every visitor.",
+      "ipa": "/dʒɛnɚəs/",
+      "wordImage": "images/14_generous_word.png",
+      "sentenceImage": "images/14_generous_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "appropriate",
+      "partOfSpeech": "adj.",
+      "meaningKo": "적절한",
+      "definition": "right or suitable for a particular situation",
+      "sentence": "Warm boots are appropriate for walking through deep snow.",
+      "ipa": "/əˈproʊpriət/",
+      "wordImage": "images/15_appropriate_word.png",
+      "sentenceImage": "images/15_appropriate_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "chase",
+      "partOfSpeech": "v.",
+      "meaningKo": "뒤쫓다",
+      "definition": "to run after someone or something",
+      "sentence": "The playful puppy will chase a rolling red ball.",
+      "ipa": "/tʃeɪs/",
+      "wordImage": "images/16_chase_word.png",
+      "sentenceImage": "images/16_chase_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "deserve",
+      "partOfSpeech": "v.",
+      "meaningKo": "~할 만하다",
+      "definition": "to be worthy of receiving something",
+      "sentence": "Hardworking players deserve applause after cleaning the entire park.",
+      "ipa": "/dɪzɝv/",
+      "wordImage": "images/17_deserve_word.png",
+      "sentenceImage": "images/17_deserve_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "pretend",
+      "partOfSpeech": "v.",
+      "meaningKo": "~인 척하다",
+      "definition": "to act as if something imaginary is real",
+      "sentence": "The child will pretend the cardboard box is a spaceship.",
+      "ipa": "/pritɛnd/",
+      "wordImage": "images/18_pretend_word.png",
+      "sentenceImage": "images/18_pretend_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "neglect",
+      "partOfSpeech": "v.",
+      "meaningKo": "돌보지 않다",
+      "definition": "to fail to give needed care or attention",
+      "sentence": "The robot may neglect the dry plant while playing games.",
+      "ipa": "/nəɡlɛkt/",
+      "wordImage": "images/19_neglect_word.png",
+      "sentenceImage": "images/19_neglect_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "lie",
+      "partOfSpeech": "v.",
+      "meaningKo": "거짓말하다",
+      "definition": "to say something that is not true",
+      "sentence": "The fox will lie about hiding the missing cookie.",
+      "ipa": "/laɪ/",
+      "wordImage": "images/20_lie_word.png",
+      "sentenceImage": "images/20_lie_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

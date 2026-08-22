@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 18,
+  "range": "31-40",
+  "set": 4,
+  "items": [
+    {
+      "wordId": "DAY18-31",
+      "no": 31,
+      "word": "rare",
+      "sentence": "Medical researchers studied a rare genetic condition affecting muscle development cells."
+    },
+    {
+      "wordId": "DAY18-32",
+      "no": 32,
+      "word": "beat",
+      "sentence": "Regular exercise makes the human heart beat with strong steady rhythm."
+    },
+    {
+      "wordId": "DAY18-33",
+      "no": 33,
+      "word": "indifferent",
+      "sentence": "Healthcare professionals must never remain indifferent to their patients' expressed pain."
+    },
+    {
+      "wordId": "DAY18-34",
+      "no": 34,
+      "word": "sew",
+      "sentence": "Surgeons use sterile thread to sew deep surgical incisions closed safely."
+    },
+    {
+      "wordId": "DAY18-35",
+      "no": 35,
+      "word": "antibiotic",
+      "sentence": "The doctor prescribed an effective antibiotic to cure the bacterial infection."
+    },
+    {
+      "wordId": "DAY18-36",
+      "no": 36,
+      "word": "chronic",
+      "sentence": "Regular physical therapy helps patients manage chronic back pain and stiffness."
+    },
+    {
+      "wordId": "DAY18-37",
+      "no": 37,
+      "word": "sight",
+      "sentence": "Wearing corrective glasses helped restore her clear distant vision and sight."
+    },
+    {
+      "wordId": "DAY18-38",
+      "no": 38,
+      "word": "fatal",
+      "sentence": "Early diagnosis helps prevent serious diseases from causing fatal medical complications."
+    },
+    {
+      "wordId": "DAY18-39",
+      "no": 39,
+      "word": "tremble",
+      "sentence": "Cold winter temperatures can cause your hands to tremble from chill."
+    },
+    {
+      "wordId": "DAY18-40",
+      "no": 40,
+      "word": "patient",
+      "sentence": "The caring nurse checked on the recovering patient every two hours."
+    }
+  ]
+}

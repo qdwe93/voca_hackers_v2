@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 6,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 06 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "relax",
+      "partOfSpeech": "v.",
+      "meaningKo": "쉬다",
+      "ipa": "/rɪˈlæks/",
+      "definition": "to rest and feel calm and comfortable",
+      "sentence": "The koala loves to relax on a soft mossy branch.",
+      "wordImage": "images/01_relax_word.png",
+      "sentenceImage": "images/01_relax_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "grateful",
+      "partOfSpeech": "adj.",
+      "meaningKo": "감사하는",
+      "ipa": "/ˈɡreɪtfl/",
+      "definition": "feeling thankful for something good",
+      "sentence": "The rescued kitten looked grateful for the warm milk bowl.",
+      "wordImage": "images/02_grateful_word.png",
+      "sentenceImage": "images/02_grateful_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "complain",
+      "partOfSpeech": "v.",
+      "meaningKo": "불평하다",
+      "ipa": "/kəmˈpleɪn/",
+      "definition": "to say you are unhappy about something",
+      "sentence": "The seagulls complain loudly when the snack basket is empty.",
+      "wordImage": "images/03_complain_word.png",
+      "sentenceImage": "images/03_complain_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "delighted",
+      "partOfSpeech": "adj.",
+      "meaningKo": "아주 기뻐하는",
+      "ipa": "/dɪˈlaɪtɪd/",
+      "definition": "very happy and pleased",
+      "sentence": "The children felt delighted when the puppy learned a trick.",
+      "wordImage": "images/04_delighted_word.png",
+      "sentenceImage": "images/04_delighted_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "express",
+      "partOfSpeech": "v.",
+      "meaningKo": "표현하다",
+      "ipa": "/ɪkˈspres/",
+      "definition": "to show your ideas or feelings to others",
+      "sentence": "Painters express happy feelings with bright yellow and orange colors.",
+      "wordImage": "images/05_express_word.png",
+      "sentenceImage": "images/05_express_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "reward",
+      "partOfSpeech": "n.",
+      "meaningKo": "보상",
+      "ipa": "/rɪˈwɔːrd/",
+      "definition": "something nice you get for doing well",
+      "sentence": "A crunchy carrot was the reward for the clever pony.",
+      "wordImage": "images/06_reward_word.png",
+      "sentenceImage": "images/06_reward_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "frustrated",
+      "partOfSpeech": "adj.",
+      "meaningKo": "좌절한",
+      "ipa": "/ˈfrʌstreɪtɪd/",
+      "definition": "upset because something is not working",
+      "sentence": "The robot felt frustrated when the puzzle piece would not fit.",
+      "wordImage": "images/07_frustrated_word.png",
+      "sentenceImage": "images/07_frustrated_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "recognize",
+      "partOfSpeech": "v.",
+      "meaningKo": "알아보다",
+      "ipa": "/ˈrekəɡnaɪz/",
+      "definition": "to know someone because you have seen them before",
+      "sentence": "The duckling could recognize its mother among the tall reeds.",
+      "wordImage": "images/08_recognize_word.png",
+      "sentenceImage": "images/08_recognize_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "temper",
+      "partOfSpeech": "n.",
+      "meaningKo": "성질",
+      "ipa": "/ˈtempər/",
+      "definition": "how calm or angry a person usually feels",
+      "sentence": "The gentle dragon kept a calm temper during the loud storm.",
+      "wordImage": "images/09_temper_word.png",
+      "sentenceImage": "images/09_temper_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "temple",
+      "partOfSpeech": "n.",
+      "meaningKo": "사원",
+      "ipa": "/ˈtempl/",
+      "definition": "a special building where people pray",
+      "sentence": "An old stone temple stood quietly among the misty mountains.",
+      "wordImage": "images/10_temple_word.png",
+      "sentenceImage": "images/10_temple_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 2,
+  "range": "31-40",
+  "set": 4,
+  "items": [
+    {
+      "wordId": "DAY02-31",
+      "no": 31,
+      "word": "session",
+      "sentence": "Today, the morning painting session lasted almost one happy hour."
+    },
+    {
+      "wordId": "DAY02-32",
+      "no": 32,
+      "word": "strict",
+      "sentence": "Before lunch, the strict but kind teacher checked every desk."
+    },
+    {
+      "wordId": "DAY02-33",
+      "no": 33,
+      "word": "twist",
+      "sentence": "Today, you can twist the cap to open the juice bottle."
+    },
+    {
+      "wordId": "DAY02-34",
+      "no": 34,
+      "word": "spill",
+      "sentence": "Today, the clumsy robot let some water spill onto the floor."
+    },
+    {
+      "wordId": "DAY02-35",
+      "no": 35,
+      "word": "union",
+      "sentence": "Workers form a union to discuss fair pay and safety."
+    },
+    {
+      "wordId": "DAY02-36",
+      "no": 36,
+      "word": "maximum",
+      "sentence": "Students compare the loads and identify the maximum weight."
+    },
+    {
+      "wordId": "DAY02-37",
+      "no": 37,
+      "word": "semester",
+      "sentence": "Today, the new semester began with fresh notebooks and bright pencils."
+    },
+    {
+      "wordId": "DAY02-38",
+      "no": 38,
+      "word": "ceiling",
+      "sentence": "Today, paper stars hung from the ceiling above the reading corner."
+    },
+    {
+      "wordId": "DAY02-39",
+      "no": 39,
+      "word": "stationery",
+      "sentence": "The shop sells colorful stationery next to the small art supplies."
+    },
+    {
+      "wordId": "DAY02-40",
+      "no": 40,
+      "word": "term",
+      "sentence": "The teacher defines each science term with a clear example."
+    }
+  ]
+}

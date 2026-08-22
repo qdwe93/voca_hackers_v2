@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 20,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY20-11",
+      "no": 11,
+      "word": "guess",
+      "sentence": "Passengers guess how many minutes the next train needs."
+    },
+    {
+      "wordId": "DAY20-12",
+      "no": 12,
+      "word": "temperature",
+      "sentence": "Higher temperature makes water particles move faster inside the cup."
+    },
+    {
+      "wordId": "DAY20-13",
+      "no": 13,
+      "word": "passage",
+      "sentence": "A narrow passage connects the station hall to the bus stop."
+    },
+    {
+      "wordId": "DAY20-14",
+      "no": 14,
+      "word": "flat",
+      "sentence": "We drew two flat surfaces that meet along one straight line."
+    },
+    {
+      "wordId": "DAY20-15",
+      "no": 15,
+      "word": "enormous",
+      "sentence": "An enormous ship carried hundreds of containers into the harbor."
+    },
+    {
+      "wordId": "DAY20-16",
+      "no": 16,
+      "word": "accurate",
+      "sentence": "This timetable is accurate because the station updated it today."
+    },
+    {
+      "wordId": "DAY20-17",
+      "no": 17,
+      "word": "freeze",
+      "sentence": "Puddles freeze at zero degrees and turn into thin ice."
+    },
+    {
+      "wordId": "DAY20-18",
+      "no": 18,
+      "word": "gear",
+      "sentence": "Cyclists pack rain gear before the long weekend ride."
+    },
+    {
+      "wordId": "DAY20-19",
+      "no": 19,
+      "word": "fuel",
+      "sentence": "This bus uses less fuel than the older diesel one."
+    },
+    {
+      "wordId": "DAY20-20",
+      "no": 20,
+      "word": "miss",
+      "sentence": "We might miss the ferry if the taxi arrives late."
+    }
+  ]
+}

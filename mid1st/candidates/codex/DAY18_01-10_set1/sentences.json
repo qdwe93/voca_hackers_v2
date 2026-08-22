@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 18,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY18-01",
+      "no": 1,
+      "word": "stomach",
+      "sentence": "Before breakfast, the hungry dragon rubbed its round stomach."
+    },
+    {
+      "wordId": "DAY18-02",
+      "no": 2,
+      "word": "pill",
+      "sentence": "The vet offered one tiny pill to the sleepy hamster."
+    },
+    {
+      "wordId": "DAY18-03",
+      "no": 3,
+      "word": "thumb",
+      "sentence": "A student raised her thumb to show the plan was fine."
+    },
+    {
+      "wordId": "DAY18-04",
+      "no": 4,
+      "word": "wound",
+      "sentence": "One small bandage covered the wound on the puppy's paw."
+    },
+    {
+      "wordId": "DAY18-05",
+      "no": 5,
+      "word": "therapy",
+      "sentence": "Today, gentle swimming therapy helped the old dog walk again."
+    },
+    {
+      "wordId": "DAY18-06",
+      "no": 6,
+      "word": "surgery",
+      "sentence": "Today, the toy bear needed simple surgery from a young doctor."
+    },
+    {
+      "wordId": "DAY18-07",
+      "no": 7,
+      "word": "physician",
+      "sentence": "Today, the kind physician listened to the child's steady heartbeat."
+    },
+    {
+      "wordId": "DAY18-08",
+      "no": 8,
+      "word": "positive",
+      "sentence": "One positive attitude helped the team finish the long hike."
+    },
+    {
+      "wordId": "DAY18-09",
+      "no": 9,
+      "word": "grab",
+      "sentence": "Today, the monkey will grab a banana from the low branch."
+    },
+    {
+      "wordId": "DAY18-10",
+      "no": 10,
+      "word": "grip",
+      "sentence": "Today, climbers grip the rope with both hands going up."
+    }
+  ]
+}

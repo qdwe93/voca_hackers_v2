@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 20,
+  "range": "31-40",
+  "set": 4,
+  "title": "DAY 20 · 31-40",
+  "words": [
+    {
+      "no": 31,
+      "word": "drag",
+      "partOfSpeech": "v.",
+      "meaningKo": "끌다",
+      "definition": "to pull something along a surface",
+      "sentence": "The tired robot will drag the heavy bag across the floor.",
+      "ipa": "/dræɡ/",
+      "wordImage": "images/31_drag_word.png",
+      "sentenceImage": "images/31_drag_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 32,
+      "word": "fasten",
+      "partOfSpeech": "v.",
+      "meaningKo": "고정하다",
+      "definition": "to close or attach something securely",
+      "sentence": "The camper will fasten the tent flap before the storm.",
+      "ipa": "/fæsən/",
+      "wordImage": "images/32_fasten_word.png",
+      "sentenceImage": "images/32_fasten_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 33,
+      "word": "precise",
+      "partOfSpeech": "adj.",
+      "meaningKo": "정밀한",
+      "definition": "exact and carefully measured",
+      "sentence": "The precise robot places each block in a perfect row.",
+      "ipa": "/prɪsaɪs/",
+      "wordImage": "images/33_precise_word.png",
+      "sentenceImage": "images/33_precise_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 34,
+      "word": "vital",
+      "partOfSpeech": "adj.",
+      "meaningKo": "필수적인",
+      "definition": "absolutely necessary for life or success",
+      "sentence": "Clean water is vital for the young plants.",
+      "ipa": "/vaɪtəl/",
+      "wordImage": "images/34_vital_word.png",
+      "sentenceImage": "images/34_vital_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 35,
+      "word": "component",
+      "partOfSpeech": "n.",
+      "meaningKo": "부품",
+      "definition": "one part of a larger machine or system",
+      "sentence": "The mechanic replaces a broken component inside the robot.",
+      "ipa": "/kəmpoʊnənt/",
+      "wordImage": "images/35_component_word.png",
+      "sentenceImage": "images/35_component_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 36,
+      "word": "seldom",
+      "partOfSpeech": "adv.",
+      "meaningKo": "좀처럼 ~않는",
+      "definition": "not often",
+      "sentence": "The desert village seldom receives any heavy rain.",
+      "ipa": "/sɛldəm/",
+      "wordImage": "images/36_seldom_word.png",
+      "sentenceImage": "images/36_seldom_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 37,
+      "word": "enhance",
+      "partOfSpeech": "v.",
+      "meaningKo": "향상시키다",
+      "definition": "to improve the quality or value of something",
+      "sentence": "New lights enhance the colors of the museum display.",
+      "ipa": "/ɛnhæns/",
+      "wordImage": "images/37_enhance_word.png",
+      "sentenceImage": "images/37_enhance_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 38,
+      "word": "sink",
+      "partOfSpeech": "v.",
+      "meaningKo": "가라앉다",
+      "definition": "to move downward below a liquid's surface",
+      "sentence": "The heavy stone will sink to the pond bottom.",
+      "ipa": "/sɪŋk/",
+      "wordImage": "images/38_sink_word.png",
+      "sentenceImage": "images/38_sink_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 39,
+      "word": "destination",
+      "partOfSpeech": "n.",
+      "meaningKo": "목적지",
+      "definition": "the place someone is traveling toward",
+      "sentence": "The snowy village is the train's final destination.",
+      "ipa": "/dɛstəneɪʃən/",
+      "wordImage": "images/39_destination_word.png",
+      "sentenceImage": "images/39_destination_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 40,
+      "word": "station",
+      "partOfSpeech": "n.",
+      "meaningKo": "역",
+      "definition": "a place where trains or buses stop",
+      "sentence": "Passengers wait beneath the clock inside the station.",
+      "ipa": "/steɪʃən/",
+      "wordImage": "images/40_station_word.png",
+      "sentenceImage": "images/40_station_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

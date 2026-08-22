@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 14,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY14-01",
+      "no": 1,
+      "word": "ancient",
+      "sentence": "This ancient setting explains why the hero travels by horse."
+    },
+    {
+      "wordId": "DAY14-02",
+      "no": 2,
+      "word": "tradition",
+      "sentence": "One family tradition is wearing hanbok on the New Year."
+    },
+    {
+      "wordId": "DAY14-03",
+      "no": 3,
+      "word": "origin",
+      "sentence": "The origin of this pottery style is a southern village."
+    },
+    {
+      "wordId": "DAY14-04",
+      "no": 4,
+      "word": "folk",
+      "sentence": "Grandmothers taught us a folk dance from their farming days."
+    },
+    {
+      "wordId": "DAY14-05",
+      "no": 5,
+      "word": "device",
+      "sentence": "We built a simple device that lifts water from a bucket."
+    },
+    {
+      "wordId": "DAY14-06",
+      "no": 6,
+      "word": "usual",
+      "sentence": "The market opens at its usual hour, even during festivals."
+    },
+    {
+      "wordId": "DAY14-07",
+      "no": 7,
+      "word": "ritual",
+      "sentence": "This ritual repeats three bows before the family shares rice."
+    },
+    {
+      "wordId": "DAY14-08",
+      "no": 8,
+      "word": "entire",
+      "sentence": "Our entire village joined the rope pulling game last autumn."
+    },
+    {
+      "wordId": "DAY14-09",
+      "no": 9,
+      "word": "region",
+      "sentence": "This region sits between two rivers and one low mountain."
+    },
+    {
+      "wordId": "DAY14-10",
+      "no": 10,
+      "word": "religion",
+      "sentence": "Each religion here built a different roof shape and gate."
+    }
+  ]
+}

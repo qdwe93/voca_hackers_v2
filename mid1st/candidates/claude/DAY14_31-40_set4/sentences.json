@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 14,
+  "range": "31-40",
+  "set": 4,
+  "items": [
+    {
+      "wordId": "DAY14-31",
+      "no": 31,
+      "word": "harvest",
+      "sentence": "This year's harvest filled twelve straw baskets with golden rice."
+    },
+    {
+      "wordId": "DAY14-32",
+      "no": 32,
+      "word": "illustrate",
+      "sentence": "Students illustrate the story's main scene so pictures match the text."
+    },
+    {
+      "wordId": "DAY14-33",
+      "no": 33,
+      "word": "dare",
+      "sentence": "Few climbers dare to cross the narrow rope bridge alone."
+    },
+    {
+      "wordId": "DAY14-34",
+      "no": 34,
+      "word": "voyage",
+      "sentence": "The long voyage to the island took eleven windy days."
+    },
+    {
+      "wordId": "DAY14-35",
+      "no": 35,
+      "word": "conventional",
+      "sentence": "Conventional wooden looms work slower than the new electric machines."
+    },
+    {
+      "wordId": "DAY14-36",
+      "no": 36,
+      "word": "contemporary",
+      "sentence": "Contemporary dancers mix new steps with the old village rhythm."
+    },
+    {
+      "wordId": "DAY14-37",
+      "no": 37,
+      "word": "revolution",
+      "sentence": "The printing revolution let ordinary families own their first books."
+    },
+    {
+      "wordId": "DAY14-38",
+      "no": 38,
+      "word": "cooperation",
+      "sentence": "Village cooperation rebuilt the shared well after the dry summer."
+    },
+    {
+      "wordId": "DAY14-39",
+      "no": 39,
+      "word": "conquer",
+      "sentence": "Careful training helped the climbers conquer the steep mountain path."
+    },
+    {
+      "wordId": "DAY14-40",
+      "no": 40,
+      "word": "stable",
+      "sentence": "The stone tower stays stable because opposite pushes balance each other."
+    }
+  ]
+}

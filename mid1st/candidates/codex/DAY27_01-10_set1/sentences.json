@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 27,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY27-01",
+      "no": 1,
+      "word": "politics",
+      "sentence": "Citizens discuss politics and vote on a public park plan."
+    },
+    {
+      "wordId": "DAY27-02",
+      "no": 2,
+      "word": "facility",
+      "sentence": "The new sports facility opened next to the town park."
+    },
+    {
+      "wordId": "DAY27-03",
+      "no": 3,
+      "word": "vote",
+      "sentence": "Students vote secretly, and teachers count every ballot accurately."
+    },
+    {
+      "wordId": "DAY27-04",
+      "no": 4,
+      "word": "candidate",
+      "sentence": "Each candidate presents one idea before the secret vote."
+    },
+    {
+      "wordId": "DAY27-05",
+      "no": 5,
+      "word": "civil",
+      "sentence": "Civil groups help citizens join decisions about public problems."
+    },
+    {
+      "wordId": "DAY27-06",
+      "no": 6,
+      "word": "limit",
+      "sentence": "Officials limit loud events only enough to protect nearby homes."
+    },
+    {
+      "wordId": "DAY27-07",
+      "no": 7,
+      "word": "conservative",
+      "sentence": "Today, the conservative baker keeps the same recipe every year."
+    },
+    {
+      "wordId": "DAY27-08",
+      "no": 8,
+      "word": "belong",
+      "sentence": "Today, these red boots belong to the smallest team member."
+    },
+    {
+      "wordId": "DAY27-09",
+      "no": 9,
+      "word": "official",
+      "sentence": "The school principal signed the official certificate with yellow seal."
+    },
+    {
+      "wordId": "DAY27-10",
+      "no": 10,
+      "word": "officer",
+      "sentence": "The helpful police officer helped children cross the busy avenue safely."
+    }
+  ]
+}

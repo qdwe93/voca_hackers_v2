@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 6,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY06-11",
+      "no": 11,
+      "word": "object",
+      "sentence": "The student picks up each object and describes its texture."
+    },
+    {
+      "wordId": "DAY06-12",
+      "no": 12,
+      "word": "disappointed",
+      "sentence": "When the picnic ended so early, the bunny looked disappointed."
+    },
+    {
+      "wordId": "DAY06-13",
+      "no": 13,
+      "word": "anxious",
+      "sentence": "Before its first visit outdoors, the kitten grew anxious."
+    },
+    {
+      "wordId": "DAY06-14",
+      "no": 14,
+      "word": "insist",
+      "sentence": "She will insist politely, then listen to her partner's answer."
+    },
+    {
+      "wordId": "DAY06-15",
+      "no": 15,
+      "word": "sudden",
+      "sentence": "One sudden breeze lifted every paper napkin off the table."
+    },
+    {
+      "wordId": "DAY06-16",
+      "no": 16,
+      "word": "immediate",
+      "sentence": "The helper offered immediate care to the thirsty little plant."
+    },
+    {
+      "wordId": "DAY06-17",
+      "no": 17,
+      "word": "appreciate",
+      "sentence": "Local residents appreciate the baker who shares warm bread daily."
+    },
+    {
+      "wordId": "DAY06-18",
+      "no": 18,
+      "word": "pale",
+      "sentence": "The pale blue sky gently turned gold at sunset."
+    },
+    {
+      "wordId": "DAY06-19",
+      "no": 19,
+      "word": "purpose",
+      "sentence": "Today, the purpose of the tall fence is protecting young plants."
+    },
+    {
+      "wordId": "DAY06-20",
+      "no": 20,
+      "word": "race",
+      "sentence": "Two cyclists start a race to see who finishes fastest."
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 19,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY19-01",
+      "no": 1,
+      "word": "modern",
+      "sentence": "This modern printer works faster than the old office one."
+    },
+    {
+      "wordId": "DAY19-02",
+      "no": 2,
+      "word": "mobile",
+      "sentence": "The library keeps a mobile book cart with small wheels."
+    },
+    {
+      "wordId": "DAY19-03",
+      "no": 3,
+      "word": "function",
+      "sentence": "The main function of this small fan is cooling air."
+    },
+    {
+      "wordId": "DAY19-04",
+      "no": 4,
+      "word": "machine",
+      "sentence": "Our sorting machine drops light balls into the left box."
+    },
+    {
+      "wordId": "DAY19-05",
+      "no": 5,
+      "word": "repair",
+      "sentence": "Villagers repair the water pump with cheap local parts."
+    },
+    {
+      "wordId": "DAY19-06",
+      "no": 6,
+      "word": "efficient",
+      "sentence": "This lamp is efficient because it uses very little electricity."
+    },
+    {
+      "wordId": "DAY19-07",
+      "no": 7,
+      "word": "install",
+      "sentence": "Workers install a new fan above the computer room door."
+    },
+    {
+      "wordId": "DAY19-08",
+      "no": 8,
+      "word": "innovation",
+      "sentence": "This innovation lets the model cart carry twice its old load."
+    },
+    {
+      "wordId": "DAY19-09",
+      "no": 9,
+      "word": "trust",
+      "sentence": "We trust this weather site because it lists its sources."
+    },
+    {
+      "wordId": "DAY19-10",
+      "no": 10,
+      "word": "truth",
+      "sentence": "To find the truth we checked the author and the date."
+    }
+  ]
+}

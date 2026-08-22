@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 18,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY18-11",
+      "no": 11,
+      "word": "prevent",
+      "sentence": "Washing hands often can prevent colds during the winter."
+    },
+    {
+      "wordId": "DAY18-12",
+      "no": 12,
+      "word": "suffer",
+      "sentence": "Many people suffer from itchy eyes during the spring pollen season."
+    },
+    {
+      "wordId": "DAY18-13",
+      "no": 13,
+      "word": "ruin",
+      "sentence": "Too much water can ruin these paper drawings completely."
+    },
+    {
+      "wordId": "DAY18-14",
+      "no": 14,
+      "word": "organ",
+      "sentence": "The heart is one organ built from many muscle tissues."
+    },
+    {
+      "wordId": "DAY18-15",
+      "no": 15,
+      "word": "instead",
+      "sentence": "We drank warm water instead of cold juice today."
+    },
+    {
+      "wordId": "DAY18-16",
+      "no": 16,
+      "word": "ankle",
+      "sentence": "The runner wrapped a soft band around one sore ankle."
+    },
+    {
+      "wordId": "DAY18-17",
+      "no": 17,
+      "word": "nutrition",
+      "sentence": "Beans, rice, and vegetables give balanced nutrition at lunch."
+    },
+    {
+      "wordId": "DAY18-18",
+      "no": 18,
+      "word": "decrease",
+      "sentence": "The line graph shows cold cases decrease sharply after March."
+    },
+    {
+      "wordId": "DAY18-19",
+      "no": 19,
+      "word": "trouble",
+      "sentence": "Breathing trouble sent the swimmer to the school nurse."
+    },
+    {
+      "wordId": "DAY18-20",
+      "no": 20,
+      "word": "seal",
+      "sentence": "We seal the bottle, so trapped air pushes on its walls."
+    }
+  ]
+}

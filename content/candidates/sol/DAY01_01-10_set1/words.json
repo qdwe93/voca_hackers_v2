@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 1,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 01 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "chore",
+      "partOfSpeech": "n.",
+      "meaningKo": "집안일",
+      "definition": "a small job that must be done at home",
+      "sentence": "The robot finishes each chore before the family wakes.",
+      "ipa": "/tʃɔr/",
+      "wordImage": "images/01_chore_word.png",
+      "sentenceImage": "images/01_chore_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "laundry",
+      "partOfSpeech": "n.",
+      "meaningKo": "세탁물",
+      "definition": "clothes and sheets that need washing or were washed",
+      "sentence": "A child folds the clean laundry beside the basket.",
+      "ipa": "/lɔndri/",
+      "wordImage": "images/02_laundry_word.png",
+      "sentenceImage": "images/02_laundry_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "flavor",
+      "partOfSpeech": "n.",
+      "meaningKo": "맛",
+      "definition": "the special taste of a food or drink",
+      "sentence": "The lemon gives the cold drink a sour flavor.",
+      "ipa": "/fleɪvɚ/",
+      "wordImage": "images/03_flavor_word.png",
+      "sentenceImage": "images/03_flavor_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "recipe",
+      "partOfSpeech": "n.",
+      "meaningKo": "조리법",
+      "definition": "instructions that tell how to prepare a particular food",
+      "sentence": "The cook follows a picture recipe while making vegetable soup.",
+      "ipa": "/rɛsəpi/",
+      "wordImage": "images/04_recipe_word.png",
+      "sentenceImage": "images/04_recipe_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "beverage",
+      "partOfSpeech": "n.",
+      "meaningKo": "음료",
+      "definition": "a drink other than plain water",
+      "sentence": "Each guest chooses a cold beverage from the tray.",
+      "ipa": "/bɛvɚɪdʒ/",
+      "wordImage": "images/05_beverage_word.png",
+      "sentenceImage": "images/05_beverage_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "operate",
+      "partOfSpeech": "v.",
+      "meaningKo": "작동시키다",
+      "definition": "to control or make a machine work",
+      "sentence": "The pilot can operate the small drone with one controller.",
+      "ipa": "/ɑpɚeɪt/",
+      "wordImage": "images/06_operate_word.png",
+      "sentenceImage": "images/06_operate_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "edible",
+      "partOfSpeech": "adj.",
+      "meaningKo": "먹을 수 있는",
+      "definition": "safe and suitable for people to eat",
+      "sentence": "The gardener places edible flowers on the fresh salad.",
+      "ipa": "/ɛdəbəl/",
+      "wordImage": "images/07_edible_word.png",
+      "sentenceImage": "images/07_edible_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "shelf",
+      "partOfSpeech": "n.",
+      "meaningKo": "선반",
+      "definition": "a flat board used for holding objects",
+      "sentence": "Several colorful jars stand neatly on the wooden shelf.",
+      "ipa": "/ʃɛlf/",
+      "wordImage": "images/08_shelf_word.png",
+      "sentenceImage": "images/08_shelf_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "quite",
+      "partOfSpeech": "adv.",
+      "meaningKo": "꽤",
+      "definition": "to a fairly large or noticeable degree",
+      "sentence": "The glass vase looks quite small beside the huge pot.",
+      "ipa": "/kwaɪt/",
+      "wordImage": "images/09_quite_word.png",
+      "sentenceImage": "images/09_quite_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "quiet",
+      "partOfSpeech": "adj.",
+      "meaningKo": "조용한",
+      "definition": "making little or no sound",
+      "sentence": "The quiet library has children reading without any noise.",
+      "ipa": "/kwaɪət/",
+      "wordImage": "images/10_quiet_word.png",
+      "sentenceImage": "images/10_quiet_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

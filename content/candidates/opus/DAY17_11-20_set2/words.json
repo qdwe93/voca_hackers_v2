@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 17,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 17 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "insect",
+      "partOfSpeech": "n.",
+      "meaningKo": "곤충",
+      "ipa": "/ˈɪnsekt/",
+      "definition": "a small animal with six legs",
+      "sentence": "A shiny green insect rested on the tall grass blade.",
+      "wordImage": "images/11_insect_word.png",
+      "sentenceImage": "images/11_insect_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "circumstance",
+      "partOfSpeech": "n.",
+      "meaningKo": "상황",
+      "ipa": "/ˈsɜːrkəmstæns/",
+      "definition": "a fact or event around a situation",
+      "sentence": "One lucky circumstance let the picnic happen after all.",
+      "wordImage": "images/12_circumstance_word.png",
+      "sentenceImage": "images/12_circumstance_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "normal",
+      "partOfSpeech": "adj.",
+      "meaningKo": "정상적인",
+      "ipa": "/ˈnɔːrml/",
+      "definition": "usual and what you expect",
+      "sentence": "It was a normal quiet evening in the small village.",
+      "wordImage": "images/13_normal_word.png",
+      "sentenceImage": "images/13_normal_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "threat",
+      "partOfSpeech": "n.",
+      "meaningKo": "위협",
+      "ipa": "/θret/",
+      "definition": "something that could cause a problem",
+      "sentence": "Strong wind was a threat to the young apple trees.",
+      "wordImage": "images/14_threat_word.png",
+      "sentenceImage": "images/14_threat_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "improve",
+      "partOfSpeech": "v.",
+      "meaningKo": "개선하다",
+      "ipa": "/ɪmˈpruːv/",
+      "definition": "to make something better than before",
+      "sentence": "Daily practice will improve the young pianist's gentle touch.",
+      "wordImage": "images/15_improve_word.png",
+      "sentenceImage": "images/15_improve_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "repeat",
+      "partOfSpeech": "v.",
+      "meaningKo": "반복하다",
+      "ipa": "/rɪˈpiːt/",
+      "definition": "to do or say something again",
+      "sentence": "The parrot loves to repeat the same cheerful whistle.",
+      "wordImage": "images/16_repeat_word.png",
+      "sentenceImage": "images/16_repeat_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "resemble",
+      "partOfSpeech": "v.",
+      "meaningKo": "닮다",
+      "ipa": "/rɪˈzembl/",
+      "definition": "to look like someone or something else",
+      "sentence": "The puppies resemble their mother with matching brown spots.",
+      "wordImage": "images/17_resemble_word.png",
+      "sentenceImage": "images/17_resemble_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "protein",
+      "partOfSpeech": "n.",
+      "meaningKo": "단백질",
+      "ipa": "/ˈproʊtiːn/",
+      "definition": "food that helps your body grow strong",
+      "sentence": "Beans and eggs give protein to growing young bodies.",
+      "wordImage": "images/18_protein_word.png",
+      "sentenceImage": "images/18_protein_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "hatch",
+      "partOfSpeech": "v.",
+      "meaningKo": "부화하다",
+      "ipa": "/hætʃ/",
+      "definition": "to break out of an egg",
+      "sentence": "The duck eggs will hatch beside the quiet pond.",
+      "wordImage": "images/19_hatch_word.png",
+      "sentenceImage": "images/19_hatch_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "direct",
+      "partOfSpeech": "adj.",
+      "meaningKo": "직접적인",
+      "ipa": "/dəˈrekt/",
+      "definition": "going straight without turning aside",
+      "sentence": "The direct path leads right to the old stone well.",
+      "wordImage": "images/20_direct_word.png",
+      "sentenceImage": "images/20_direct_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

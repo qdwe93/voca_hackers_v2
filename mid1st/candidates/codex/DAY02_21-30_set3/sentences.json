@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 2,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY02-21",
+      "no": 21,
+      "word": "participate",
+      "sentence": "Citizens participate by voting on a new park plan."
+    },
+    {
+      "wordId": "DAY02-22",
+      "no": 22,
+      "word": "auditorium",
+      "sentence": "The speaker adjusts her voice for listeners across the auditorium."
+    },
+    {
+      "wordId": "DAY02-23",
+      "no": 23,
+      "word": "inform",
+      "sentence": "One bright sign will inform visitors about the new exhibit."
+    },
+    {
+      "wordId": "DAY02-24",
+      "no": 24,
+      "word": "duty",
+      "sentence": "Today, watering the class plants is the duty of one helper."
+    },
+    {
+      "wordId": "DAY02-25",
+      "no": 25,
+      "word": "evaluate",
+      "sentence": "Before choosing a winner, the judges evaluate each paper airplane."
+    },
+    {
+      "wordId": "DAY02-26",
+      "no": 26,
+      "word": "minimum",
+      "sentence": "Students compare four scores and circle the minimum value."
+    },
+    {
+      "wordId": "DAY02-27",
+      "no": 27,
+      "word": "introduction",
+      "sentence": "She offered a brief introduction to Chopin's life and works."
+    },
+    {
+      "wordId": "DAY02-28",
+      "no": 28,
+      "word": "photograph",
+      "sentence": "A photograph shows details that the article does not explain."
+    },
+    {
+      "wordId": "DAY02-29",
+      "no": 29,
+      "word": "council",
+      "sentence": "Voters choose a council, then citizens speak at meetings."
+    },
+    {
+      "wordId": "DAY02-30",
+      "no": 30,
+      "word": "conceal",
+      "sentence": "Today, the clever fox tried to conceal a gift behind flowers."
+    }
+  ]
+}

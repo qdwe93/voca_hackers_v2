@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 14,
+  "range": "31-40",
+  "set": 4,
+  "items": [
+    {
+      "wordId": "DAY14-31",
+      "no": 31,
+      "word": "harvest",
+      "sentence": "This year's harvest filled every barn with yellow corn."
+    },
+    {
+      "wordId": "DAY14-32",
+      "no": 32,
+      "word": "illustrate",
+      "sentence": "Artists illustrate the story's main scene to match its words."
+    },
+    {
+      "wordId": "DAY14-33",
+      "no": 33,
+      "word": "dare",
+      "sentence": "Today, few animals dare to cross the wide rushing river."
+    },
+    {
+      "wordId": "DAY14-34",
+      "no": 34,
+      "word": "voyage",
+      "sentence": "Today, the wooden ship began a long voyage across the ocean."
+    },
+    {
+      "wordId": "DAY14-35",
+      "no": 35,
+      "word": "conventional",
+      "sentence": "The conventional hand loom works slower than the modern machine."
+    },
+    {
+      "wordId": "DAY14-36",
+      "no": 36,
+      "word": "contemporary",
+      "sentence": "Contemporary homes use solar panels beside traditional clay roofs."
+    },
+    {
+      "wordId": "DAY14-37",
+      "no": 37,
+      "word": "revolution",
+      "sentence": "The printing revolution changed how quickly books reached readers."
+    },
+    {
+      "wordId": "DAY14-38",
+      "no": 38,
+      "word": "cooperation",
+      "sentence": "Town cooperation brings workers and tools together to repair wells."
+    },
+    {
+      "wordId": "DAY14-39",
+      "no": 39,
+      "word": "conquer",
+      "sentence": "Today, the climber hopes to conquer her fear of heights."
+    },
+    {
+      "wordId": "DAY14-40",
+      "no": 40,
+      "word": "stable",
+      "sentence": "Opposite ropes pull equally, keeping the platform stable."
+    }
+  ]
+}

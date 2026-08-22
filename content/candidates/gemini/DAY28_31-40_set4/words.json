@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 28,
+  "range": "31-40",
+  "set": 4,
+  "title": "DAY 28 · 31-40",
+  "words": [
+    {
+      "no": 31,
+      "word": "stir",
+      "partOfSpeech": "v.",
+      "meaningKo": "젓다, 뒤섞다, 자극하다",
+      "ipa": "/stɝː/",
+      "definition": "to mix a liquid or food by moving a spoon around",
+      "sentence": "Use a wooden spoon to stir the hot chocolate gently.",
+      "wordImage": "images/31_stir_word.png",
+      "sentenceImage": "images/31_stir_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 32,
+      "word": "independent",
+      "partOfSpeech": "adj.",
+      "meaningKo": "독립적인, 자립적인",
+      "ipa": "/ˌɪn.dɪˈpen.dənt/",
+      "definition": "not depending on other people for authority or livelihood",
+      "sentence": "Students learned to be independent by packing their own school bags.",
+      "wordImage": "images/32_independent_word.png",
+      "sentenceImage": "images/32_independent_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 33,
+      "word": "overall",
+      "partOfSpeech": "adj.",
+      "meaningKo": "전반적인, 종합적인",
+      "ipa": "/ˌoʊ.vɚˈɑːl/",
+      "definition": "taking everything into account, general, total in view",
+      "sentence": "The overall performance of our school choir was absolutely outstanding.",
+      "wordImage": "images/33_overall_word.png",
+      "sentenceImage": "images/33_overall_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 34,
+      "word": "approach",
+      "partOfSpeech": "v.",
+      "meaningKo": "접근하다, 다가가다",
+      "ipa": "/əˈproʊtʃ/",
+      "definition": "to come near or nearer to someone or something",
+      "sentence": "The friendly deer would approach the quiet meadow pool to drink.",
+      "wordImage": "images/34_approach_word.png",
+      "sentenceImage": "images/34_approach_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 35,
+      "word": "challenge",
+      "partOfSpeech": "n.",
+      "meaningKo": "도전, 난제",
+      "ipa": "/ˈtʃæl.ɪndʒ/",
+      "definition": "a difficult task that tests someone’s ability and skill",
+      "sentence": "Solving the advanced math puzzle was an exciting intellectual challenge.",
+      "wordImage": "images/35_challenge_word.png",
+      "sentenceImage": "images/35_challenge_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 36,
+      "word": "impact",
+      "partOfSpeech": "n.",
+      "meaningKo": "영향, 충격",
+      "ipa": "/ˈɪm.pækt/",
+      "definition": "a powerful effect that something has on a situation or person",
+      "sentence": "Reading every day has a lasting positive impact on vocabulary growth.",
+      "wordImage": "images/36_impact_word.png",
+      "sentenceImage": "images/36_impact_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 37,
+      "word": "accelerate",
+      "partOfSpeech": "v.",
+      "meaningKo": "가속하다, 빨라지다",
+      "ipa": "/əkˈsel.ɚ.eɪt/",
+      "definition": "to increase speed or cause something to happen more quickly",
+      "sentence": "The electric toy train will accelerate smoothly along the metal track.",
+      "wordImage": "images/37_accelerate_word.png",
+      "sentenceImage": "images/37_accelerate_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 38,
+      "word": "collapse",
+      "partOfSpeech": "v.",
+      "meaningKo": "무너지다, 붕괴하다",
+      "ipa": "/kəˈlæps/",
+      "definition": "to fall down suddenly because of pressure or lack of strength",
+      "sentence": "The tall tower of wooden toy blocks began to collapse gently.",
+      "wordImage": "images/38_collapse_word.png",
+      "sentenceImage": "images/38_collapse_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 39,
+      "word": "purchase",
+      "partOfSpeech": "v.",
+      "meaningKo": "구매하다, 사다",
+      "ipa": "/ˈpɝː.tʃəs/",
+      "definition": "to acquire something by paying money for it, buy",
+      "sentence": "She used saved pocket money to purchase a new sketchbook.",
+      "wordImage": "images/39_purchase_word.png",
+      "sentenceImage": "images/39_purchase_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 40,
+      "word": "account",
+      "partOfSpeech": "n.",
+      "meaningKo": "계좌, 이야기, 설명",
+      "ipa": "/əˈkaʊnt/",
+      "definition": "an arrangement with a bank, or a report of an event",
+      "sentence": "He opened a junior savings account to deposit birthday money.",
+      "wordImage": "images/40_account_word.png",
+      "sentenceImage": "images/40_account_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

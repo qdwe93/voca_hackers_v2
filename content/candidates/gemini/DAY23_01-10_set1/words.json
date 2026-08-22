@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 23,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 23 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "climate",
+      "partOfSpeech": "n.",
+      "meaningKo": "기후",
+      "ipa": "/ˈklaɪ.mət/",
+      "definition": "the general weather conditions of a region over long periods",
+      "sentence": "The Mediterranean region enjoys a warm and sunny summer climate.",
+      "wordImage": "images/01_climate_word.png",
+      "sentenceImage": "images/01_climate_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "landscape",
+      "partOfSpeech": "n.",
+      "meaningKo": "풍경, 경관",
+      "ipa": "/ˈlænd.skeɪp/",
+      "definition": "a large area of countryside, especially in terms of its appearance",
+      "sentence": "The artist painted a magnificent landscape of rolling green hills.",
+      "wordImage": "images/02_landscape_word.png",
+      "sentenceImage": "images/02_landscape_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "storm",
+      "partOfSpeech": "n.",
+      "meaningKo": "폭풍, 폭풍우",
+      "ipa": "/stɔːrm/",
+      "definition": "an extreme weather condition with very strong winds, rain, or snow",
+      "sentence": "The sudden summer storm passed quickly, leaving a bright rainbow.",
+      "wordImage": "images/03_storm_word.png",
+      "sentenceImage": "images/03_storm_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "average",
+      "partOfSpeech": "adj.",
+      "meaningKo": "평균의, 보통의",
+      "ipa": "/ˈæv.ər.ɪdʒ/",
+      "definition": "standard, typical, or calculated by adding and dividing quantities",
+      "sentence": "The average daytime temperature in spring is around eighteen degrees.",
+      "wordImage": "images/04_average_word.png",
+      "sentenceImage": "images/04_average_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "drown",
+      "partOfSpeech": "v.",
+      "meaningKo": "물에 잠기다, 익사하다",
+      "ipa": "/draʊn/",
+      "definition": "to submerge completely in liquid or die underwater",
+      "sentence": "Do not drown tender garden flowers with too much water.",
+      "wordImage": "images/05_drown_word.png",
+      "sentenceImage": "images/05_drown_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "happen",
+      "partOfSpeech": "v.",
+      "meaningKo": "일어나다, 발생하다",
+      "ipa": "/ˈhæp.ən/",
+      "definition": "to take place or occur, especially without being planned",
+      "sentence": "Unexpected magical surprises happen in this charming fairy tale book.",
+      "wordImage": "images/06_happen_word.png",
+      "sentenceImage": "images/06_happen_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "rough",
+      "partOfSpeech": "adj.",
+      "meaningKo": "거친, 험한",
+      "ipa": "/rʌf/",
+      "definition": "not smooth, having an uneven or bumpy surface texture",
+      "sentence": "The ancient pine tree had very thick and rough bark.",
+      "wordImage": "images/07_rough_word.png",
+      "sentenceImage": "images/07_rough_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "geography",
+      "partOfSpeech": "n.",
+      "meaningKo": "지리학, 지리",
+      "ipa": "/dʒiˈɑː.ɡrə.fi/",
+      "definition": "the study of the physical features of the earth and atmosphere",
+      "sentence": "In geography class, we learned the names of seven world continents.",
+      "wordImage": "images/08_geography_word.png",
+      "sentenceImage": "images/08_geography_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "effect",
+      "partOfSpeech": "n.",
+      "meaningKo": "영향, 효과, 결과",
+      "ipa": "/əˈfekt/",
+      "definition": "a change that is a result or consequence of an action",
+      "sentence": "Drinking warm water had an immediate soothing effect on his throat.",
+      "wordImage": "images/09_effect_word.png",
+      "sentenceImage": "images/09_effect_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "affect",
+      "partOfSpeech": "v.",
+      "meaningKo": "영향을 미치다",
+      "ipa": "/əˈfekt/",
+      "definition": "to have an influence on someone or something, cause a change",
+      "sentence": "Seasonal weather changes strongly affect how animals migrate south in winter.",
+      "wordImage": "images/10_affect_word.png",
+      "sentenceImage": "images/10_affect_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

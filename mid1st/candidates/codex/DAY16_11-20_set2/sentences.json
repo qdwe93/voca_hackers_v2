@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 16,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY16-11",
+      "no": 11,
+      "word": "planet",
+      "sentence": "Students classify each planet by size, surface, and orbit."
+    },
+    {
+      "wordId": "DAY16-12",
+      "no": 12,
+      "word": "conduct",
+      "sentence": "Students conduct the magnet test and record results in order."
+    },
+    {
+      "wordId": "DAY16-13",
+      "no": 13,
+      "word": "solid",
+      "sentence": "A solid keeps its shape while a liquid fills containers."
+    },
+    {
+      "wordId": "DAY16-14",
+      "no": 14,
+      "word": "eternal",
+      "sentence": "The story spoke of an eternal light within the cave."
+    },
+    {
+      "wordId": "DAY16-15",
+      "no": 15,
+      "word": "gravity",
+      "sentence": "Students measure how gravity changes an object's weight, not mass."
+    },
+    {
+      "wordId": "DAY16-16",
+      "no": 16,
+      "word": "melt",
+      "sentence": "Students record the temperature when ice begins to melt."
+    },
+    {
+      "wordId": "DAY16-17",
+      "no": 17,
+      "word": "astronaut",
+      "sentence": "An astronaut identifies a planet, moon, and asteroid by orbit."
+    },
+    {
+      "wordId": "DAY16-18",
+      "no": 18,
+      "word": "smooth",
+      "sentence": "The block slides farther on smooth wood with less friction."
+    },
+    {
+      "wordId": "DAY16-19",
+      "no": 19,
+      "word": "oxygen",
+      "sentence": "Today, green plants give oxygen to everyone on the earth."
+    },
+    {
+      "wordId": "DAY16-20",
+      "no": 20,
+      "word": "support",
+      "sentence": "Two equal forces support the balanced hanging sign."
+    }
+  ]
+}

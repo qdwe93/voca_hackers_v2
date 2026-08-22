@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 6,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 06 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "object",
+      "partOfSpeech": "v.",
+      "meaningKo": "반대하다",
+      "ipa": "/əbˈdʒekt/",
+      "definition": "to express disagreement or disapproval about something",
+      "sentence": "None of the students object to having a picnic outdoors.",
+      "wordImage": "images/11_object_word.png",
+      "sentenceImage": "images/11_object_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "disappointed",
+      "partOfSpeech": "adj.",
+      "meaningKo": "실망한, 낙담한",
+      "ipa": "/ˌdɪs.əˈpɔɪn.t̬ɪd/",
+      "definition": "sad because something was not as good as expected",
+      "sentence": "He was disappointed when the rainy storm canceled soccer practice.",
+      "wordImage": "images/12_disappointed_word.png",
+      "sentenceImage": "images/12_disappointed_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "anxious",
+      "partOfSpeech": "adj.",
+      "meaningKo": "불안해하는, 걱정스러운",
+      "ipa": "/ˈæŋk.ʃəs/",
+      "definition": "worried and nervous about something uncertain",
+      "sentence": "The squirrel looked anxious while watching the rustling tall grass.",
+      "wordImage": "images/13_anxious_word.png",
+      "sentenceImage": "images/13_anxious_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "insist",
+      "partOfSpeech": "v.",
+      "meaningKo": "주장하다, 고집하다",
+      "ipa": "/ɪnˈsɪst/",
+      "definition": "to say firmly that something must happen",
+      "sentence": "Parents insist on wearing safety helmets while riding fast bicycles.",
+      "wordImage": "images/14_insist_word.png",
+      "sentenceImage": "images/14_insist_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "sudden",
+      "partOfSpeech": "adj.",
+      "meaningKo": "갑작스러운",
+      "ipa": "/ˈsʌd.ən/",
+      "definition": "happening quickly and unexpectedly without warning",
+      "sentence": "A sudden burst of bright sunshine lit up the garden.",
+      "wordImage": "images/15_sudden_word.png",
+      "sentenceImage": "images/15_sudden_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "immediate",
+      "partOfSpeech": "adj.",
+      "meaningKo": "즉각적인, 당면한",
+      "ipa": "/ɪˈmiː.di.ət/",
+      "definition": "happening or done without any delay",
+      "sentence": "The rescue team provided immediate assistance to the lost puppy.",
+      "wordImage": "images/16_immediate_word.png",
+      "sentenceImage": "images/16_immediate_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "appreciate",
+      "partOfSpeech": "v.",
+      "meaningKo": "고마워하다, 인정하다",
+      "ipa": "/əˈpriː.ʃi.eɪt/",
+      "definition": "to recognize the good qualities of someone or be thankful",
+      "sentence": "We truly appreciate your helpful advice on our science project.",
+      "wordImage": "images/17_appreciate_word.png",
+      "sentenceImage": "images/17_appreciate_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "pale",
+      "partOfSpeech": "adj.",
+      "meaningKo": "창백한, 연한",
+      "ipa": "/peɪl/",
+      "definition": "having less color than usual or light in shade",
+      "sentence": "She painted the bedroom walls in a pale yellow color.",
+      "wordImage": "images/18_pale_word.png",
+      "sentenceImage": "images/18_pale_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "purpose",
+      "partOfSpeech": "n.",
+      "meaningKo": "목적, 의도",
+      "ipa": "/ˈpɝː.pəs/",
+      "definition": "the reason why something is done or exists",
+      "sentence": "The purpose of our club is to help clean parks.",
+      "wordImage": "images/19_purpose_word.png",
+      "sentenceImage": "images/19_purpose_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "race",
+      "partOfSpeech": "n.",
+      "meaningKo": "경주, 달리기",
+      "ipa": "/reɪs/",
+      "definition": "a competition to see who is the fastest",
+      "sentence": "The swift hare ran a friendly race with the tortoise.",
+      "wordImage": "images/20_race_word.png",
+      "sentenceImage": "images/20_race_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

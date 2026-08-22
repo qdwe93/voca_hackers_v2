@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 25,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 25 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "environment",
+      "partOfSpeech": "n.",
+      "meaningKo": "환경",
+      "ipa": "/ɪnˈvaɪrənmənt/",
+      "definition": "the natural world around living things",
+      "sentence": "Clean rivers keep the forest environment healthy and green.",
+      "wordImage": "images/01_environment_word.png",
+      "sentenceImage": "images/01_environment_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "release",
+      "partOfSpeech": "v.",
+      "meaningKo": "놓아주다",
+      "ipa": "/rɪˈliːs/",
+      "definition": "to let something go free",
+      "sentence": "The children release the butterfly into the sunny garden.",
+      "wordImage": "images/02_release_word.png",
+      "sentenceImage": "images/02_release_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "disaster",
+      "partOfSpeech": "n.",
+      "meaningKo": "재난",
+      "ipa": "/dɪˈzæstər/",
+      "definition": "a very bad event that causes problems",
+      "sentence": "The spilled paint was a small kitchen disaster.",
+      "wordImage": "images/03_disaster_word.png",
+      "sentenceImage": "images/03_disaster_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "destroy",
+      "partOfSpeech": "v.",
+      "meaningKo": "파괴하다",
+      "ipa": "/dɪˈstrɔɪ/",
+      "definition": "to break something completely",
+      "sentence": "Strong waves can destroy a sandcastle in one minute.",
+      "wordImage": "images/04_destroy_word.png",
+      "sentenceImage": "images/04_destroy_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "waste",
+      "partOfSpeech": "v.",
+      "meaningKo": "낭비하다",
+      "ipa": "/weɪst/",
+      "definition": "to use something without any good reason",
+      "sentence": "Please turn off the lights so we do not waste electricity.",
+      "wordImage": "images/05_waste_word.png",
+      "sentenceImage": "images/05_waste_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "period",
+      "partOfSpeech": "n.",
+      "meaningKo": "기간",
+      "ipa": "/ˈpɪriəd/",
+      "definition": "a length of time",
+      "sentence": "The rainy period lasted for three whole cool weeks.",
+      "wordImage": "images/06_period_word.png",
+      "sentenceImage": "images/06_period_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "announce",
+      "partOfSpeech": "v.",
+      "meaningKo": "발표하다",
+      "ipa": "/əˈnaʊns/",
+      "definition": "to tell news to many people",
+      "sentence": "The teacher will announce the winner after the contest.",
+      "wordImage": "images/07_announce_word.png",
+      "sentenceImage": "images/07_announce_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "occur",
+      "partOfSpeech": "v.",
+      "meaningKo": "발생하다",
+      "ipa": "/əˈkɜːr/",
+      "definition": "to happen, often without warning",
+      "sentence": "Rainbows occur when sunlight shines through falling rain drops.",
+      "wordImage": "images/08_occur_word.png",
+      "sentenceImage": "images/08_occur_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "quality",
+      "partOfSpeech": "n.",
+      "meaningKo": "품질",
+      "ipa": "/ˈkwɑːləti/",
+      "definition": "how good or bad something is",
+      "sentence": "The quality of this wool blanket is truly excellent.",
+      "wordImage": "images/09_quality_word.png",
+      "sentenceImage": "images/09_quality_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "quantity",
+      "partOfSpeech": "n.",
+      "meaningKo": "양",
+      "ipa": "/ˈkwɑːntəti/",
+      "definition": "how much or how many there are",
+      "sentence": "A large quantity of apples filled the wooden crates.",
+      "wordImage": "images/10_quantity_word.png",
+      "sentenceImage": "images/10_quantity_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

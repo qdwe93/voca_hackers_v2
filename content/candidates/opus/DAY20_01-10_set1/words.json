@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 20,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 20 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "traffic",
+      "partOfSpeech": "n.",
+      "meaningKo": "교통",
+      "ipa": "/ˈtræfɪk/",
+      "definition": "many cars moving along a road",
+      "sentence": "Morning traffic filled the wide road near the market.",
+      "wordImage": "images/01_traffic_word.png",
+      "sentenceImage": "images/01_traffic_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "major",
+      "partOfSpeech": "adj.",
+      "meaningKo": "주요한",
+      "ipa": "/ˈmeɪdʒər/",
+      "definition": "very big and important",
+      "sentence": "The major road leads straight to the busy harbor.",
+      "wordImage": "images/02_major_word.png",
+      "sentenceImage": "images/02_major_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "route",
+      "partOfSpeech": "n.",
+      "meaningKo": "경로",
+      "ipa": "/ruːt/",
+      "definition": "the way you take to a place",
+      "sentence": "The bus route passes three parks and one library.",
+      "wordImage": "images/03_route_word.png",
+      "sentenceImage": "images/03_route_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "rush",
+      "partOfSpeech": "v.",
+      "meaningKo": "서두르다",
+      "ipa": "/rʌʃ/",
+      "definition": "to move or do something very quickly",
+      "sentence": "Do not rush while carrying the tall stack of plates.",
+      "wordImage": "images/04_rush_word.png",
+      "sentenceImage": "images/04_rush_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "vehicle",
+      "partOfSpeech": "n.",
+      "meaningKo": "차량",
+      "ipa": "/ˈviːəkl/",
+      "definition": "a machine that carries people or things",
+      "sentence": "A small yellow vehicle delivered bread to the village.",
+      "wordImage": "images/05_vehicle_word.png",
+      "sentenceImage": "images/05_vehicle_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "transport",
+      "partOfSpeech": "v.",
+      "meaningKo": "운송하다",
+      "ipa": "/trænsˈpɔːrt/",
+      "definition": "to carry things from one place to another",
+      "sentence": "Boats transport fresh fruit across the calm blue bay.",
+      "wordImage": "images/06_transport_word.png",
+      "sentenceImage": "images/06_transport_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "utilize",
+      "partOfSpeech": "v.",
+      "meaningKo": "활용하다",
+      "ipa": "/ˈjuːtəlaɪz/",
+      "definition": "to use something in a helpful way",
+      "sentence": "Farmers utilize rainwater to keep the vegetables green.",
+      "wordImage": "images/07_utilize_word.png",
+      "sentenceImage": "images/07_utilize_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "remote",
+      "partOfSpeech": "adj.",
+      "meaningKo": "외딴",
+      "ipa": "/rɪˈmoʊt/",
+      "definition": "far away from towns and people",
+      "sentence": "A remote cabin stood alone among the snowy pines.",
+      "wordImage": "images/08_remote_word.png",
+      "sentenceImage": "images/08_remote_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "leap",
+      "partOfSpeech": "v.",
+      "meaningKo": "뛰어오르다",
+      "ipa": "/liːp/",
+      "definition": "to jump high or far",
+      "sentence": "Frogs leap easily from one lily pad to another.",
+      "wordImage": "images/09_leap_word.png",
+      "sentenceImage": "images/09_leap_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "leak",
+      "partOfSpeech": "v.",
+      "meaningKo": "새다",
+      "ipa": "/liːk/",
+      "definition": "to let liquid escape through a small hole",
+      "sentence": "The old bucket started to leak water onto the ground.",
+      "wordImage": "images/10_leak_word.png",
+      "sentenceImage": "images/10_leak_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

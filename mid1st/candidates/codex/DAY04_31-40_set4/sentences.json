@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 4,
+  "range": "31-40",
+  "set": 4,
+  "items": [
+    {
+      "wordId": "DAY04-31",
+      "no": 31,
+      "word": "envious",
+      "sentence": "The squirrel felt envious of the bird's comfortable new nest."
+    },
+    {
+      "wordId": "DAY04-32",
+      "no": 32,
+      "word": "vice",
+      "sentence": "The vice captain leads practice when the captain is absent."
+    },
+    {
+      "wordId": "DAY04-33",
+      "no": 33,
+      "word": "architect",
+      "sentence": "Today, the clever beaver worked as the architect of the dam."
+    },
+    {
+      "wordId": "DAY04-34",
+      "no": 34,
+      "word": "relevant",
+      "sentence": "Today, only relevant photos went into the ocean animal album."
+    },
+    {
+      "wordId": "DAY04-35",
+      "no": 35,
+      "word": "enthusiasm",
+      "sentence": "The young dog greeted the mail carrier with pure enthusiasm."
+    },
+    {
+      "wordId": "DAY04-36",
+      "no": 36,
+      "word": "desirable",
+      "sentence": "One sunny window seat is the most desirable spot here."
+    },
+    {
+      "wordId": "DAY04-37",
+      "no": 37,
+      "word": "dismiss",
+      "sentence": "An instructor will dismiss the class after the bell rings."
+    },
+    {
+      "wordId": "DAY04-38",
+      "no": 38,
+      "word": "competent",
+      "sentence": "Today, the competent little robot repaired the clock in minutes."
+    },
+    {
+      "wordId": "DAY04-39",
+      "no": 39,
+      "word": "memorize",
+      "sentence": "Today, the parrot tried to memorize a cheerful morning song."
+    },
+    {
+      "wordId": "DAY04-40",
+      "no": 40,
+      "word": "fix",
+      "sentence": "Today, the mechanic will fix the wobbly wheel on the wagon."
+    }
+  ]
+}

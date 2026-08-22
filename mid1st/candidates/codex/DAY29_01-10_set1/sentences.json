@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 29,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY29-01",
+      "no": 1,
+      "word": "industry",
+      "sentence": "The clothing industry links cotton farms, factories, trucks, and stores."
+    },
+    {
+      "wordId": "DAY29-02",
+      "no": 2,
+      "word": "policy",
+      "sentence": "Survey results guide the council's new recycling policy."
+    },
+    {
+      "wordId": "DAY29-03",
+      "no": 3,
+      "word": "commercial",
+      "sentence": "Today, the commercial street was full of small busy shops."
+    },
+    {
+      "wordId": "DAY29-04",
+      "no": 4,
+      "word": "convey",
+      "sentence": "Today, long belts convey boxes across the busy packing room."
+    },
+    {
+      "wordId": "DAY29-05",
+      "no": 5,
+      "word": "international",
+      "sentence": "An international market brings foreign foods to local neighborhoods."
+    },
+    {
+      "wordId": "DAY29-06",
+      "no": 6,
+      "word": "reveal",
+      "sentence": "Today, lifting the cloth will reveal a beautiful clay pot."
+    },
+    {
+      "wordId": "DAY29-07",
+      "no": 7,
+      "word": "increase",
+      "sentence": "Students mark where values increase fastest on the graph."
+    },
+    {
+      "wordId": "DAY29-08",
+      "no": 8,
+      "word": "depend",
+      "sentence": "Today, young plants depend on rain and warm bright sunlight."
+    },
+    {
+      "wordId": "DAY29-09",
+      "no": 9,
+      "word": "transfer",
+      "sentence": "Today, workers transfer apples from crates into large paper bags."
+    },
+    {
+      "wordId": "DAY29-10",
+      "no": 10,
+      "word": "transform",
+      "sentence": "Today, paint can transform an old chair into something bright."
+    }
+  ]
+}

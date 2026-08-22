@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 9,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 09 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "pause",
+      "partOfSpeech": "v.",
+      "meaningKo": "잠시 멈추다",
+      "ipa": "/pɔːz/",
+      "definition": "to stop for a short time",
+      "sentence": "The hikers will pause beside the cool mountain stream.",
+      "wordImage": "images/11_pause_word.png",
+      "sentenceImage": "images/11_pause_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "incentive",
+      "partOfSpeech": "n.",
+      "meaningKo": "동기",
+      "ipa": "/ɪnˈsentɪv/",
+      "definition": "something that makes you want to try",
+      "sentence": "A shiny sticker became a fun incentive for reading books.",
+      "wordImage": "images/12_incentive_word.png",
+      "sentenceImage": "images/12_incentive_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "sacrifice",
+      "partOfSpeech": "v.",
+      "meaningKo": "희생하다",
+      "ipa": "/ˈsækrɪfaɪs/",
+      "definition": "to give up something for someone else",
+      "sentence": "The bear will sacrifice its warm seat for a friend.",
+      "wordImage": "images/13_sacrifice_word.png",
+      "sentenceImage": "images/13_sacrifice_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "generous",
+      "partOfSpeech": "adj.",
+      "meaningKo": "너그러운",
+      "ipa": "/ˈdʒenərəs/",
+      "definition": "happy to give a lot to others",
+      "sentence": "The generous baker gave extra rolls to every child.",
+      "wordImage": "images/14_generous_word.png",
+      "sentenceImage": "images/14_generous_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "appropriate",
+      "partOfSpeech": "adj.",
+      "meaningKo": "적절한",
+      "ipa": "/əˈproʊpriət/",
+      "definition": "right for the time or place",
+      "sentence": "Warm boots are appropriate for a walk in deep snow.",
+      "wordImage": "images/15_appropriate_word.png",
+      "sentenceImage": "images/15_appropriate_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "chase",
+      "partOfSpeech": "v.",
+      "meaningKo": "쫓다",
+      "ipa": "/tʃeɪs/",
+      "definition": "to run after someone or something",
+      "sentence": "Two puppies happily chase a rolling red ball outside.",
+      "wordImage": "images/16_chase_word.png",
+      "sentenceImage": "images/16_chase_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "deserve",
+      "partOfSpeech": "v.",
+      "meaningKo": "받을 만하다",
+      "ipa": "/dɪˈzɜːrv/",
+      "definition": "to have earned something by what you did",
+      "sentence": "The helpful robots deserve a bright medal for their work.",
+      "wordImage": "images/17_deserve_word.png",
+      "sentenceImage": "images/17_deserve_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "pretend",
+      "partOfSpeech": "v.",
+      "meaningKo": "척하다",
+      "ipa": "/prɪˈtend/",
+      "definition": "to act like something is real for fun",
+      "sentence": "The kittens pretend the cardboard box is a fast rocket.",
+      "wordImage": "images/18_pretend_word.png",
+      "sentenceImage": "images/18_pretend_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "neglect",
+      "partOfSpeech": "v.",
+      "meaningKo": "소홀히 하다",
+      "ipa": "/nɪˈɡlekt/",
+      "definition": "to forget to take care of something",
+      "sentence": "Do not neglect the plants during the long summer trip.",
+      "wordImage": "images/19_neglect_word.png",
+      "sentenceImage": "images/19_neglect_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "lie",
+      "partOfSpeech": "n.",
+      "meaningKo": "거짓말",
+      "ipa": "/laɪ/",
+      "definition": "something said that is not true",
+      "sentence": "A small lie in the story made everyone laugh together.",
+      "wordImage": "images/20_lie_word.png",
+      "sentenceImage": "images/20_lie_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 16,
+  "range": "31-40",
+  "set": 4,
+  "title": "DAY 16 · 31-40",
+  "words": [
+    {
+      "no": 31,
+      "word": "preserve",
+      "partOfSpeech": "v.",
+      "meaningKo": "보존하다, 지키다",
+      "ipa": "/prɪˈzɝːv/",
+      "definition": "to keep something in its original state or in good condition",
+      "sentence": "National parks help preserve rare native flowers and wild animal habitats.",
+      "wordImage": "images/31_preserve_word.png",
+      "sentenceImage": "images/31_preserve_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 32,
+      "word": "vapor",
+      "partOfSpeech": "n.",
+      "meaningKo": "증기, 수증기",
+      "ipa": "/ˈveɪ.pɚ/",
+      "definition": "a mass of very small drops of liquid in the air",
+      "sentence": "Warm water vapor rose gently from the hot tea kettle.",
+      "wordImage": "images/32_vapor_word.png",
+      "sentenceImage": "images/32_vapor_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 33,
+      "word": "invisible",
+      "partOfSpeech": "adj.",
+      "meaningKo": "눈에 보이지 않는",
+      "ipa": "/ɪnˈvɪz.ə.bəl/",
+      "definition": "impossible to see with your eyes, not visible",
+      "sentence": "The gentle wind is invisible, but we can feel its breeze.",
+      "wordImage": "images/33_invisible_word.png",
+      "sentenceImage": "images/33_invisible_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 34,
+      "word": "substance",
+      "partOfSpeech": "n.",
+      "meaningKo": "물질, 실체",
+      "ipa": "/ˈsʌb.stəns/",
+      "definition": "material with particular physical characteristics, matter of any kind",
+      "sentence": "Honey is a thick and sweet natural substance made by bees.",
+      "wordImage": "images/34_substance_word.png",
+      "sentenceImage": "images/34_substance_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 35,
+      "word": "particle",
+      "partOfSpeech": "n.",
+      "meaningKo": "입자, 미립자",
+      "ipa": "/ˈpɑːr.t̬ə.kəl/",
+      "definition": "a very small piece of something or tiny unit of matter",
+      "sentence": "Tiny dust particle specks danced in the beam of morning sunshine.",
+      "wordImage": "images/35_particle_word.png",
+      "sentenceImage": "images/35_particle_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 36,
+      "word": "moisture",
+      "partOfSpeech": "n.",
+      "meaningKo": "수분, 습기",
+      "ipa": "/ˈmɔɪs.tʃɚ/",
+      "definition": "very small drops of water present in the air or surface",
+      "sentence": "Morning dew adds fresh moisture to the green garden lawn grass.",
+      "wordImage": "images/36_moisture_word.png",
+      "sentenceImage": "images/36_moisture_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 37,
+      "word": "abstract",
+      "partOfSpeech": "adj.",
+      "meaningKo": "추상적인",
+      "ipa": "/ˈæb.strækt/",
+      "definition": "existing in thought or as an idea, not physical reality",
+      "sentence": "Love and courage are abstract concepts that we cannot physically touch.",
+      "wordImage": "images/37_abstract_word.png",
+      "sentenceImage": "images/37_abstract_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 38,
+      "word": "valid",
+      "partOfSpeech": "adj.",
+      "meaningKo": "유효한, 타당한",
+      "ipa": "/ˈvæl.ɪd/",
+      "definition": "based on truth or reason, or legally acceptable for use",
+      "sentence": "You must show a valid student pass to enter the library.",
+      "wordImage": "images/38_valid_word.png",
+      "sentenceImage": "images/38_valid_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 39,
+      "word": "invention",
+      "partOfSpeech": "n.",
+      "meaningKo": "발명, 발명품",
+      "ipa": "/ɪnˈven.ʃən/",
+      "definition": "something that has never been made before, a new creation",
+      "sentence": "The electric lightbulb was a revolutionary invention that changed our lives.",
+      "wordImage": "images/39_invention_word.png",
+      "sentenceImage": "images/39_invention_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 40,
+      "word": "stick",
+      "partOfSpeech": "v.",
+      "meaningKo": "붙이다, 고수하다",
+      "ipa": "/stɪk/",
+      "definition": "to join or become attached to something with glue or tape",
+      "sentence": "Use clear tape to stick the colorful poster on the wall.",
+      "wordImage": "images/40_stick_word.png",
+      "sentenceImage": "images/40_stick_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

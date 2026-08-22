@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 27,
+  "range": "31-40",
+  "set": 4,
+  "items": [
+    {
+      "wordId": "DAY27-31",
+      "no": 31,
+      "word": "available",
+      "sentence": "Free bicycles are available at the station until six o'clock."
+    },
+    {
+      "wordId": "DAY27-32",
+      "no": 32,
+      "word": "harbor",
+      "sentence": "Fishing boats rest inside the small harbor during strong wind."
+    },
+    {
+      "wordId": "DAY27-33",
+      "no": 33,
+      "word": "garage",
+      "sentence": "Our neighbor parks the delivery van inside a narrow garage."
+    },
+    {
+      "wordId": "DAY27-34",
+      "no": 34,
+      "word": "notion",
+      "sentence": "The notion that recycling costs nothing is simply not correct."
+    },
+    {
+      "wordId": "DAY27-35",
+      "no": 35,
+      "word": "suburb",
+      "sentence": "This suburb added bus lines so fewer families drive downtown."
+    },
+    {
+      "wordId": "DAY27-36",
+      "no": 36,
+      "word": "resident",
+      "sentence": "Each resident can check the council's answer on the notice board."
+    },
+    {
+      "wordId": "DAY27-37",
+      "no": 37,
+      "word": "investigate",
+      "sentence": "We investigate who wrote this report before trusting its numbers."
+    },
+    {
+      "wordId": "DAY27-38",
+      "no": 38,
+      "word": "reinforce",
+      "sentence": "Workers reinforce the old bridge with thick steel bars."
+    },
+    {
+      "wordId": "DAY27-39",
+      "no": 39,
+      "word": "govern",
+      "sentence": "Leaders govern only within limits the constitution clearly sets."
+    },
+    {
+      "wordId": "DAY27-40",
+      "no": 40,
+      "word": "rate",
+      "sentence": "The graph shows the water level rising at a steady rate."
+    }
+  ]
+}

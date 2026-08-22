@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 21,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY21-11",
+      "no": 11,
+      "word": "shape",
+      "sentence": "The autumn leaf has an oval shape with serrated green edges."
+    },
+    {
+      "wordId": "DAY21-12",
+      "no": 12,
+      "word": "fierce",
+      "sentence": "The fierce tiger defended its jungle territory against competing predator rivals."
+    },
+    {
+      "wordId": "DAY21-13",
+      "no": 13,
+      "word": "ripe",
+      "sentence": "Farmers pick ripe red strawberries from the garden patch in June."
+    },
+    {
+      "wordId": "DAY21-14",
+      "no": 14,
+      "word": "lay",
+      "sentence": "Female ducks lay their smooth white eggs inside hidden reed nests."
+    },
+    {
+      "wordId": "DAY21-15",
+      "no": 15,
+      "word": "male",
+      "sentence": "The colorful male peacock displays its bright tail feathers to attract."
+    },
+    {
+      "wordId": "DAY21-16",
+      "no": 16,
+      "word": "foster",
+      "sentence": "Zookeepers foster the orphaned tiger cub until it gains sufficient strength."
+    },
+    {
+      "wordId": "DAY21-17",
+      "no": 17,
+      "word": "surface",
+      "sentence": "Water droplets rest on the waxy surface of lotus leaves."
+    },
+    {
+      "wordId": "DAY21-18",
+      "no": 18,
+      "word": "engage",
+      "sentence": "Interactive museum exhibits engage young visitors in learning about wildlife conservation."
+    },
+    {
+      "wordId": "DAY21-19",
+      "no": 19,
+      "word": "location",
+      "sentence": "Latitude coordinates identify the precise geographic location of the wildlife sanctuary."
+    },
+    {
+      "wordId": "DAY21-20",
+      "no": 20,
+      "word": "store",
+      "sentence": "Cactus plants store precious water inside their thick green fleshy stems."
+    }
+  ]
+}

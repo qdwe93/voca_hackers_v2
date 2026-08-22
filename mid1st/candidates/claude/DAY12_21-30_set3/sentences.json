@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 12,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY12-21",
+      "no": 21,
+      "word": "poll",
+      "sentence": "Our class poll showed most students want a longer lunch break."
+    },
+    {
+      "wordId": "DAY12-22",
+      "no": 22,
+      "word": "pitch",
+      "sentence": "The coach will pitch the ball slowly to young players."
+    },
+    {
+      "wordId": "DAY12-23",
+      "no": 23,
+      "word": "eager",
+      "sentence": "Young fans looked eager to hear the first drum beat."
+    },
+    {
+      "wordId": "DAY12-24",
+      "no": 24,
+      "word": "silly",
+      "sentence": "The clown's silly hat made the whole audience laugh together."
+    },
+    {
+      "wordId": "DAY12-25",
+      "no": 25,
+      "word": "furious",
+      "sentence": "A cartoon dragon looked furious when someone hid its hat."
+    },
+    {
+      "wordId": "DAY12-26",
+      "no": 26,
+      "word": "barely",
+      "sentence": "We barely finished the song before the bell rang."
+    },
+    {
+      "wordId": "DAY12-27",
+      "no": 27,
+      "word": "thrill",
+      "sentence": "The first stage light gave the young singer a thrill."
+    },
+    {
+      "wordId": "DAY12-28",
+      "no": 28,
+      "word": "particular",
+      "sentence": "This particular song needs two guitars and one soft drum."
+    },
+    {
+      "wordId": "DAY12-29",
+      "no": 29,
+      "word": "constant",
+      "sentence": "Constant street noise made the outdoor recording very difficult."
+    },
+    {
+      "wordId": "DAY12-30",
+      "no": 30,
+      "word": "consistent",
+      "sentence": "The choir's singing volume stayed consistent from start to end."
+    }
+  ]
+}

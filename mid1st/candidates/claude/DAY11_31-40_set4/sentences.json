@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 11,
+  "range": "31-40",
+  "set": 4,
+  "items": [
+    {
+      "wordId": "DAY11-31",
+      "no": 31,
+      "word": "calculate",
+      "sentence": "We calculate three times four and write twelve on the poster."
+    },
+    {
+      "wordId": "DAY11-32",
+      "no": 32,
+      "word": "opportunity",
+      "sentence": "The contest gives every student one opportunity to read aloud."
+    },
+    {
+      "wordId": "DAY11-33",
+      "no": 33,
+      "word": "poetry",
+      "sentence": "This poetry repeats soft s sounds in every second line."
+    },
+    {
+      "wordId": "DAY11-34",
+      "no": 34,
+      "word": "recall",
+      "sentence": "Older readers recall the ending of this famous folk tale."
+    },
+    {
+      "wordId": "DAY11-35",
+      "no": 35,
+      "word": "inferior",
+      "sentence": "Thin drawing paper is inferior to the thick painting paper."
+    },
+    {
+      "wordId": "DAY11-36",
+      "no": 36,
+      "word": "spirit",
+      "sentence": "The singers kept a cheerful spirit through the long rehearsal."
+    },
+    {
+      "wordId": "DAY11-37",
+      "no": 37,
+      "word": "fade",
+      "sentence": "Sunlight made the old poster colors fade over three summers."
+    },
+    {
+      "wordId": "DAY11-38",
+      "no": 38,
+      "word": "generation",
+      "sentence": "Students counted each generation and drew the village age pyramid."
+    },
+    {
+      "wordId": "DAY11-39",
+      "no": 39,
+      "word": "masterpiece",
+      "sentence": "This painting is the artist's masterpiece after forty years of work."
+    },
+    {
+      "wordId": "DAY11-40",
+      "no": 40,
+      "word": "figure",
+      "sentence": "Readers figure out the ending from three small clues."
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 17,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 17 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "insect",
+      "partOfSpeech": "n.",
+      "meaningKo": "곤충",
+      "ipa": "/ˈɪn.sekt/",
+      "definition": "a small creature with six legs and three body parts",
+      "sentence": "A colorful ladybug is a helpful garden insect for plants.",
+      "wordImage": "images/11_insect_word.png",
+      "sentenceImage": "images/11_insect_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "circumstance",
+      "partOfSpeech": "n.",
+      "meaningKo": "상황, 환경",
+      "ipa": "/ˈsɝː.kəm.stæns/",
+      "definition": "a condition or fact connected with an event or action",
+      "sentence": "Under any circumstance, always wear your seatbelt while riding cars.",
+      "wordImage": "images/12_circumstance_word.png",
+      "sentenceImage": "images/12_circumstance_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "normal",
+      "partOfSpeech": "adj.",
+      "meaningKo": "정상적인, 평범한",
+      "ipa": "/ˈnɔːr.məl/",
+      "definition": "ordinary or usual, the same as what happens typically",
+      "sentence": "His body temperature was completely normal after resting all night.",
+      "wordImage": "images/13_normal_word.png",
+      "sentenceImage": "images/13_normal_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "threat",
+      "partOfSpeech": "n.",
+      "meaningKo": "위협, 협박",
+      "ipa": "/θret/",
+      "definition": "a possibility that something very bad or dangerous may happen",
+      "sentence": "Strong forest winds posed a serious threat to the campfire.",
+      "wordImage": "images/14_threat_word.png",
+      "sentenceImage": "images/14_threat_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "improve",
+      "partOfSpeech": "v.",
+      "meaningKo": "개선하다, 향상시키다",
+      "ipa": "/ɪmˈpruːv/",
+      "definition": "to get better or make something better than before",
+      "sentence": "Daily reading practice will improve your English vocabulary skills rapidly.",
+      "wordImage": "images/15_improve_word.png",
+      "sentenceImage": "images/15_improve_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "repeat",
+      "partOfSpeech": "v.",
+      "meaningKo": "반복하다, 따라 하다",
+      "ipa": "/rɪˈpiːt/",
+      "definition": "to say or do something again more than once",
+      "sentence": "Please repeat the new vocabulary words aloud after the teacher.",
+      "wordImage": "images/16_repeat_word.png",
+      "sentenceImage": "images/16_repeat_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "resemble",
+      "partOfSpeech": "v.",
+      "meaningKo": "닮다, 비슷하다",
+      "ipa": "/rɪˈzem.bəl/",
+      "definition": "to look like or be similar to another person",
+      "sentence": "The baby bear cub does strongly resemble its loving mother.",
+      "wordImage": "images/17_resemble_word.png",
+      "sentenceImage": "images/17_resemble_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "protein",
+      "partOfSpeech": "n.",
+      "meaningKo": "단백질",
+      "ipa": "/ˈproʊ.tiːn/",
+      "definition": "an organic substance found in foods that builds body muscles",
+      "sentence": "Eggs, beans, and tofu provide healthy protein for active children.",
+      "wordImage": "images/18_protein_word.png",
+      "sentenceImage": "images/18_protein_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "hatch",
+      "partOfSpeech": "v.",
+      "meaningKo": "부화하다",
+      "ipa": "/hætʃ/",
+      "definition": "to break out of an egg to be born",
+      "sentence": "Three cute yellow ducklings began to hatch from warm eggs.",
+      "wordImage": "images/19_hatch_word.png",
+      "sentenceImage": "images/19_hatch_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "direct",
+      "partOfSpeech": "adj.",
+      "meaningKo": "직접적인, 직행의",
+      "ipa": "/dɪˈrekt/",
+      "definition": "going straight from one place to another with no stops",
+      "sentence": "We took a direct train to the seaside holiday resort.",
+      "wordImage": "images/20_direct_word.png",
+      "sentenceImage": "images/20_direct_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

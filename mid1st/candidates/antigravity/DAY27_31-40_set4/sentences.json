@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 27,
+  "range": "31-40",
+  "set": 4,
+  "items": [
+    {
+      "wordId": "DAY27-31",
+      "no": 31,
+      "word": "available",
+      "sentence": "Fresh drinking water is readily available from public water fountains downtown."
+    },
+    {
+      "wordId": "DAY27-32",
+      "no": 32,
+      "word": "harbor",
+      "sentence": "Fishing boats returned to the calm harbor before the evening storm."
+    },
+    {
+      "wordId": "DAY27-33",
+      "no": 33,
+      "word": "garage",
+      "sentence": "He parked his electric bicycle inside the clean residential garage building."
+    },
+    {
+      "wordId": "DAY27-34",
+      "no": 34,
+      "word": "notion",
+      "sentence": "Ancient philosophers explored the philosophical notion of justice and moral virtue."
+    },
+    {
+      "wordId": "DAY27-35",
+      "no": 35,
+      "word": "suburb",
+      "sentence": "Many families prefer living in a quiet green residential suburb neighborhood."
+    },
+    {
+      "wordId": "DAY27-36",
+      "no": 36,
+      "word": "resident",
+      "sentence": "Every local resident has the right to attend town council meetings."
+    },
+    {
+      "wordId": "DAY27-37",
+      "no": 37,
+      "word": "investigate",
+      "sentence": "Journalists investigate the origin of the false viral rumor on social."
+    },
+    {
+      "wordId": "DAY27-38",
+      "no": 38,
+      "word": "reinforce",
+      "sentence": "Engineers reinforce the concrete bridge pillars to withstand strong earthquake tremors."
+    },
+    {
+      "wordId": "DAY27-39",
+      "no": 39,
+      "word": "govern",
+      "sentence": "Elected democratic representatives govern the country according to constitutional law principles."
+    },
+    {
+      "wordId": "DAY27-40",
+      "no": 40,
+      "word": "rate",
+      "sentence": "The speedometer indicates the rate of vehicle travel in kilometers per."
+    }
+  ]
+}

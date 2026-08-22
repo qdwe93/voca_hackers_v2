@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 1,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY01-01",
+      "no": 1,
+      "word": "chore",
+      "sentence": "Feeding the rabbit is my easiest chore every Saturday morning."
+    },
+    {
+      "wordId": "DAY01-02",
+      "no": 2,
+      "word": "laundry",
+      "sentence": "Dad folds the clean laundry into three neat piles."
+    },
+    {
+      "wordId": "DAY01-03",
+      "no": 3,
+      "word": "flavor",
+      "sentence": "The green tea ice cream has a soft, sweet flavor."
+    },
+    {
+      "wordId": "DAY01-04",
+      "no": 4,
+      "word": "recipe",
+      "sentence": "The recipe tells us to mix flour, milk, and eggs."
+    },
+    {
+      "wordId": "DAY01-05",
+      "no": 5,
+      "word": "beverage",
+      "sentence": "Grandma served a warm beverage in my small blue cup."
+    },
+    {
+      "wordId": "DAY01-06",
+      "no": 6,
+      "word": "operate",
+      "sentence": "Students operate the new model crane to test its lifting limit."
+    },
+    {
+      "wordId": "DAY01-07",
+      "no": 7,
+      "word": "edible",
+      "sentence": "Only the soft inside part of this seed is edible."
+    },
+    {
+      "wordId": "DAY01-08",
+      "no": 8,
+      "word": "shelf",
+      "sentence": "Two glass jars stand on the kitchen shelf beside the window."
+    },
+    {
+      "wordId": "DAY01-09",
+      "no": 9,
+      "word": "quite",
+      "sentence": "This wool blanket feels quite heavy but still keeps us warm."
+    },
+    {
+      "wordId": "DAY01-10",
+      "no": 10,
+      "word": "quiet",
+      "sentence": "A whisper is quiet, while a shout carries across the room."
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 30,
+  "range": "31-40",
+  "set": 4,
+  "title": "DAY 30 · 31-40",
+  "words": [
+    {
+      "no": 31,
+      "word": "deceive",
+      "partOfSpeech": "v.",
+      "meaningKo": "속이다",
+      "definition": "to make someone believe something false",
+      "sentence": "The clever fox may deceive the guard with a disguise.",
+      "ipa": "/dɪsiv/",
+      "wordImage": "images/31_deceive_word.png",
+      "sentenceImage": "images/31_deceive_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 32,
+      "word": "external",
+      "partOfSpeech": "adj.",
+      "meaningKo": "외부의",
+      "definition": "located on or coming from the outside",
+      "sentence": "The robot's external shell protects its inner gears.",
+      "ipa": "/ɪkstɝnəl/",
+      "wordImage": "images/32_external_word.png",
+      "sentenceImage": "images/32_external_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 33,
+      "word": "instantly",
+      "partOfSpeech": "adv.",
+      "meaningKo": "즉시",
+      "definition": "immediately and without delay",
+      "sentence": "The automatic light turns on instantly when darkness falls.",
+      "ipa": "/ɪnstəntli/",
+      "wordImage": "images/33_instantly_word.png",
+      "sentenceImage": "images/33_instantly_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 34,
+      "word": "norm",
+      "partOfSpeech": "n.",
+      "meaningKo": "규범",
+      "definition": "a usual or accepted standard of behavior",
+      "sentence": "Taking turns is the norm in the friendly classroom.",
+      "ipa": "/nɔrm/",
+      "wordImage": "images/34_norm_word.png",
+      "sentenceImage": "images/34_norm_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 35,
+      "word": "analyze",
+      "partOfSpeech": "v.",
+      "meaningKo": "분석하다",
+      "definition": "to study something carefully",
+      "sentence": "The scientist will analyze soil samples under the microscope.",
+      "ipa": "/ænəlaɪz/",
+      "wordImage": "images/35_analyze_word.png",
+      "sentenceImage": "images/35_analyze_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 36,
+      "word": "clarify",
+      "partOfSpeech": "v.",
+      "meaningKo": "명확히 하다",
+      "definition": "to make something easier to understand",
+      "sentence": "The teacher will clarify directions using a simple demonstration.",
+      "ipa": "/klɛrəfaɪ/",
+      "wordImage": "images/36_clarify_word.png",
+      "sentenceImage": "images/36_clarify_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 37,
+      "word": "defend",
+      "partOfSpeech": "v.",
+      "meaningKo": "방어하다",
+      "definition": "to protect someone or something from attack",
+      "sentence": "The game knight will defend the castle using a shield.",
+      "ipa": "/dɪfɛnd/",
+      "wordImage": "images/37_defend_word.png",
+      "sentenceImage": "images/37_defend_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 38,
+      "word": "reputation",
+      "partOfSpeech": "n.",
+      "meaningKo": "평판",
+      "definition": "what people generally believe about someone",
+      "sentence": "The baker earns a good reputation for delicious bread.",
+      "ipa": "/rɛpjəteɪʃən/",
+      "wordImage": "images/38_reputation_word.png",
+      "sentenceImage": "images/38_reputation_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 39,
+      "word": "exclude",
+      "partOfSpeech": "v.",
+      "meaningKo": "제외하다",
+      "definition": "to leave someone or something out",
+      "sentence": "The unfair team may exclude one child from the game.",
+      "ipa": "/ɪksklud/",
+      "wordImage": "images/39_exclude_word.png",
+      "sentenceImage": "images/39_exclude_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 40,
+      "word": "net",
+      "partOfSpeech": "n.",
+      "meaningKo": "그물",
+      "definition": "material made of crossed threads with open spaces",
+      "sentence": "The fishing net hangs empty beside the quiet boat.",
+      "ipa": "/nɛt/",
+      "wordImage": "images/40_net_word.png",
+      "sentenceImage": "images/40_net_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

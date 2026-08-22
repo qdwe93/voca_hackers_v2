@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 20,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY20-21",
+      "no": 21,
+      "word": "license",
+      "sentence": "A boat license hung proudly within the small cabin."
+    },
+    {
+      "wordId": "DAY20-22",
+      "no": 22,
+      "word": "construction",
+      "sentence": "Today, the bridge construction continued all through the warm summer."
+    },
+    {
+      "wordId": "DAY20-23",
+      "no": 23,
+      "word": "wireless",
+      "sentence": "A wireless speaker played music next to the picnic blanket."
+    },
+    {
+      "wordId": "DAY20-24",
+      "no": 24,
+      "word": "nevertheless",
+      "sentence": "Today, it rained; nevertheless, the parade continued down the street."
+    },
+    {
+      "wordId": "DAY20-25",
+      "no": 25,
+      "word": "barrier",
+      "sentence": "One wooden barrier kept sheep off the busy road."
+    },
+    {
+      "wordId": "DAY20-26",
+      "no": 26,
+      "word": "lift",
+      "sentence": "Two upward forces lift the box against downward gravity."
+    },
+    {
+      "wordId": "DAY20-27",
+      "no": 27,
+      "word": "curved",
+      "sentence": "One curved bridge arched gently over the green stream."
+    },
+    {
+      "wordId": "DAY20-28",
+      "no": 28,
+      "word": "eliminate",
+      "sentence": "Today, careful sweeping can eliminate dust from every corner."
+    },
+    {
+      "wordId": "DAY20-29",
+      "no": 29,
+      "word": "commit",
+      "sentence": "The club will commit to practicing every single morning."
+    },
+    {
+      "wordId": "DAY20-30",
+      "no": 30,
+      "word": "commute",
+      "sentence": "Workers commute farther when trains connect distant towns."
+    }
+  ]
+}

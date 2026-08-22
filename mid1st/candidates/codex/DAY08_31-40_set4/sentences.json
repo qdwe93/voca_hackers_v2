@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 8,
+  "range": "31-40",
+  "set": 4,
+  "items": [
+    {
+      "wordId": "DAY08-31",
+      "no": 31,
+      "word": "strike",
+      "sentence": "The drummer will strike the large drum one more time."
+    },
+    {
+      "wordId": "DAY08-32",
+      "no": 32,
+      "word": "channel",
+      "sentence": "One small channel carried river water into the rice field."
+    },
+    {
+      "wordId": "DAY08-33",
+      "no": 33,
+      "word": "gratitude",
+      "sentence": "Local residents displayed gratitude with a basket of fresh fruit."
+    },
+    {
+      "wordId": "DAY08-34",
+      "no": 34,
+      "word": "metaphor",
+      "sentence": "Calling the sun a yellow coin is a metaphor."
+    },
+    {
+      "wordId": "DAY08-35",
+      "no": 35,
+      "word": "interpret",
+      "sentence": "Readers interpret the hero's choice using clues from the story."
+    },
+    {
+      "wordId": "DAY08-36",
+      "no": 36,
+      "word": "insult",
+      "sentence": "Today, the knight ignored the goblin's silly insult and kept walking."
+    },
+    {
+      "wordId": "DAY08-37",
+      "no": 37,
+      "word": "weird",
+      "sentence": "A weird purple mushroom grew next to the old stone wall."
+    },
+    {
+      "wordId": "DAY08-38",
+      "no": 38,
+      "word": "random",
+      "sentence": "Gas particles move in random directions and strike the container."
+    },
+    {
+      "wordId": "DAY08-39",
+      "no": 39,
+      "word": "remark",
+      "sentence": "Her respectful remark answers the speaker without interrupting."
+    },
+    {
+      "wordId": "DAY08-40",
+      "no": 40,
+      "word": "sentence",
+      "sentence": "Students build a sentence with a clear subject and verb."
+    }
+  ]
+}

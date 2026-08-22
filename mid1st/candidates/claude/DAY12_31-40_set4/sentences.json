@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 12,
+  "range": "31-40",
+  "set": 4,
+  "items": [
+    {
+      "wordId": "DAY12-31",
+      "no": 31,
+      "word": "employ",
+      "sentence": "The theater will employ ten workers and provide safety training."
+    },
+    {
+      "wordId": "DAY12-32",
+      "no": 32,
+      "word": "illusion",
+      "sentence": "Painted floor lines create an illusion of a deep hole."
+    },
+    {
+      "wordId": "DAY12-33",
+      "no": 33,
+      "word": "funeral",
+      "sentence": "Quiet music played during the funeral for the village elder."
+    },
+    {
+      "wordId": "DAY12-34",
+      "no": 34,
+      "word": "whisper",
+      "sentence": "Backstage helpers whisper short answers so the show continues quietly."
+    },
+    {
+      "wordId": "DAY12-35",
+      "no": 35,
+      "word": "elaborate",
+      "sentence": "This elaborate paper mask took three weeks to finish."
+    },
+    {
+      "wordId": "DAY12-36",
+      "no": 36,
+      "word": "bunch",
+      "sentence": "Someone placed a bunch of yellow flowers beside the piano."
+    },
+    {
+      "wordId": "DAY12-37",
+      "no": 37,
+      "word": "atmosphere",
+      "sentence": "Rainy village scenes give this film a lonely atmosphere."
+    },
+    {
+      "wordId": "DAY12-38",
+      "no": 38,
+      "word": "escape",
+      "sentence": "In the story, the rabbit will escape from the wooden cage."
+    },
+    {
+      "wordId": "DAY12-39",
+      "no": 39,
+      "word": "cultivate",
+      "sentence": "Our music club members cultivate herbs beside the practice room."
+    },
+    {
+      "wordId": "DAY12-40",
+      "no": 40,
+      "word": "cast",
+      "sentence": "The whole cast recorded their lines before the filming day."
+    }
+  ]
+}

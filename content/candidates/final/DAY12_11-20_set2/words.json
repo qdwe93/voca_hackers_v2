@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 12,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 12 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "upset",
+      "partOfSpeech": "adj.",
+      "meaningKo": "속상한",
+      "ipa": "/ʌpˈset/",
+      "definition": "feeling sad or worried about something",
+      "sentence": "The little duck felt upset about the broken toy boat.",
+      "wordImage": "images/11_upset_word.png",
+      "sentenceImage": "images/11_upset_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "respond",
+      "partOfSpeech": "v.",
+      "meaningKo": "응답하다",
+      "ipa": "/rɪˈspɑːnd/",
+      "definition": "to answer or react to something",
+      "sentence": "The plants respond to sunlight by turning their leaves.",
+      "wordImage": "images/12_respond_word.png",
+      "sentenceImage": "images/12_respond_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "steady",
+      "partOfSpeech": "adj.",
+      "meaningKo": "꾸준한",
+      "ipa": "/ˈstedi/",
+      "definition": "moving or going at the same rate",
+      "sentence": "A steady rain fell all night on the tin roof.",
+      "wordImage": "images/13_steady_word.png",
+      "sentenceImage": "images/13_steady_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "dislike",
+      "partOfSpeech": "v.",
+      "meaningKo": "싫어하다",
+      "ipa": "/dɪsˈlaɪk/",
+      "definition": "to not like something at all",
+      "sentence": "Most cats dislike getting their soft paws very wet.",
+      "wordImage": "images/14_dislike_word.png",
+      "sentenceImage": "images/14_dislike_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "define",
+      "partOfSpeech": "v.",
+      "meaningKo": "정의하다",
+      "ipa": "/dɪˈfaɪn/",
+      "definition": "to explain what a word means",
+      "sentence": "Can you define this new word for the class?",
+      "wordImage": "images/15_define_word.png",
+      "sentenceImage": "images/15_define_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "celebrity",
+      "partOfSpeech": "n.",
+      "meaningKo": "유명인",
+      "ipa": "/səˈlebrəti/",
+      "definition": "a person who is famous to many people",
+      "sentence": "The singing frog became a celebrity in the whole pond.",
+      "wordImage": "images/16_celebrity_word.png",
+      "sentenceImage": "images/16_celebrity_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "genius",
+      "partOfSpeech": "n.",
+      "meaningKo": "천재",
+      "ipa": "/ˈdʒiːniəs/",
+      "definition": "a person who is very, very clever",
+      "sentence": "The little inventor was a genius with springs and gears.",
+      "wordImage": "images/17_genius_word.png",
+      "sentenceImage": "images/17_genius_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "visual",
+      "partOfSpeech": "adj.",
+      "meaningKo": "시각적인",
+      "ipa": "/ˈvɪʒuəl/",
+      "definition": "using pictures that you look at",
+      "sentence": "The map used visual signs instead of long word lists.",
+      "wordImage": "images/18_visual_word.png",
+      "sentenceImage": "images/18_visual_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "compose",
+      "partOfSpeech": "v.",
+      "meaningKo": "작곡하다",
+      "ipa": "/kəmˈpoʊz/",
+      "definition": "to write music or a song",
+      "sentence": "The bear will compose a gentle song for the cubs.",
+      "wordImage": "images/19_compose_word.png",
+      "sentenceImage": "images/19_compose_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "deal",
+      "partOfSpeech": "n.",
+      "meaningKo": "거래",
+      "ipa": "/diːl/",
+      "definition": "an agreement between two people",
+      "sentence": "The two traders made a fair deal about the apples.",
+      "wordImage": "images/20_deal_word.png",
+      "sentenceImage": "images/20_deal_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

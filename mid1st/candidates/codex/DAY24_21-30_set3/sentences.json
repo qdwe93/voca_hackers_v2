@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 24,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY24-21",
+      "no": 21,
+      "word": "shortage",
+      "sentence": "One water shortage made the villagers share every bucket."
+    },
+    {
+      "wordId": "DAY24-22",
+      "no": 22,
+      "word": "renewable",
+      "sentence": "Today, sunlight is a renewable kind of clean energy."
+    },
+    {
+      "wordId": "DAY24-23",
+      "no": 23,
+      "word": "potential",
+      "sentence": "The small seed had potential to become huge."
+    },
+    {
+      "wordId": "DAY24-24",
+      "no": 24,
+      "word": "native",
+      "sentence": "Volunteers protect native flowers by restoring their island habitat."
+    },
+    {
+      "wordId": "DAY24-25",
+      "no": 25,
+      "word": "grain",
+      "sentence": "After the autumn harvest, golden grain filled the wagon."
+    },
+    {
+      "wordId": "DAY24-26",
+      "no": 26,
+      "word": "extreme",
+      "sentence": "Extreme heat kept everyone within the cool stone house."
+    },
+    {
+      "wordId": "DAY24-27",
+      "no": 27,
+      "word": "typical",
+      "sentence": "One typical morning here begins with singing birds."
+    },
+    {
+      "wordId": "DAY24-28",
+      "no": 28,
+      "word": "contact",
+      "sentence": "Warm metal and cool water reach one temperature after contact."
+    },
+    {
+      "wordId": "DAY24-29",
+      "no": 29,
+      "word": "content",
+      "sentence": "The guide checks the box's content before shipping it."
+    },
+    {
+      "wordId": "DAY24-30",
+      "no": 30,
+      "word": "context",
+      "sentence": "Today, the full context made the funny story much clearer."
+    }
+  ]
+}

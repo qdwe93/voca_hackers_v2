@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 3,
+  "range": "21-30",
+  "set": 3,
+  "title": "DAY 03 · 21-30",
+  "words": [
+    {
+      "no": 21,
+      "word": "reserve",
+      "partOfSpeech": "v.",
+      "meaningKo": "예약하다",
+      "ipa": "/rɪˈzɜːrv/",
+      "definition": "to keep something for a person to use later",
+      "sentence": "The travelers reserve a small cabin near the quiet lake.",
+      "wordImage": "images/21_reserve_word.png",
+      "sentenceImage": "images/21_reserve_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 22,
+      "word": "wrap",
+      "partOfSpeech": "v.",
+      "meaningKo": "포장하다",
+      "ipa": "/ræp/",
+      "definition": "to cover something with paper or cloth",
+      "sentence": "The elephant helped wrap a gift in shiny gold paper.",
+      "wordImage": "images/22_wrap_word.png",
+      "sentenceImage": "images/22_wrap_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 23,
+      "word": "occasion",
+      "partOfSpeech": "n.",
+      "meaningKo": "특별한 때",
+      "ipa": "/əˈkeɪʒn/",
+      "definition": "a special time when something happens",
+      "sentence": "A birthday is a happy occasion for the whole family.",
+      "wordImage": "images/23_occasion_word.png",
+      "sentenceImage": "images/23_occasion_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 24,
+      "word": "allow",
+      "partOfSpeech": "v.",
+      "meaningKo": "허락하다",
+      "ipa": "/əˈlaʊ/",
+      "definition": "to let someone do something",
+      "sentence": "The gardener will allow the children to pick ripe berries.",
+      "wordImage": "images/24_allow_word.png",
+      "sentenceImage": "images/24_allow_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 25,
+      "word": "ensure",
+      "partOfSpeech": "v.",
+      "meaningKo": "보장하다",
+      "ipa": "/ɪnˈʃʊr/",
+      "definition": "to make sure that something happens",
+      "sentence": "Strong ropes ensure the swing stays safe for every child.",
+      "wordImage": "images/25_ensure_word.png",
+      "sentenceImage": "images/25_ensure_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 26,
+      "word": "agent",
+      "partOfSpeech": "n.",
+      "meaningKo": "대리인",
+      "ipa": "/ˈeɪdʒənt/",
+      "definition": "a person whose job is helping others plan",
+      "sentence": "A friendly travel agent showed maps of the green islands.",
+      "wordImage": "images/26_agent_word.png",
+      "sentenceImage": "images/26_agent_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 27,
+      "word": "argue",
+      "partOfSpeech": "v.",
+      "meaningKo": "말다툼하다",
+      "ipa": "/ˈɑːrɡjuː/",
+      "definition": "to talk in a way that shows you disagree",
+      "sentence": "The two squirrels argue about who found the biggest acorn.",
+      "wordImage": "images/27_argue_word.png",
+      "sentenceImage": "images/27_argue_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 28,
+      "word": "confirm",
+      "partOfSpeech": "v.",
+      "meaningKo": "확인하다",
+      "ipa": "/kənˈfɜːrm/",
+      "definition": "to say that something is true or certain",
+      "sentence": "The guide will confirm the boat leaves at ten.",
+      "wordImage": "images/28_confirm_word.png",
+      "sentenceImage": "images/28_confirm_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 29,
+      "word": "wonder",
+      "partOfSpeech": "v.",
+      "meaningKo": "궁금해하다",
+      "ipa": "/ˈwʌndər/",
+      "definition": "to want to know something",
+      "sentence": "The children wonder what lives inside the old hollow tree.",
+      "wordImage": "images/29_wonder_word.png",
+      "sentenceImage": "images/29_wonder_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 30,
+      "word": "wander",
+      "partOfSpeech": "v.",
+      "meaningKo": "거닐다",
+      "ipa": "/ˈwɑːndər/",
+      "definition": "to walk slowly with no special plan",
+      "sentence": "The deer likes to wander through the misty morning forest.",
+      "wordImage": "images/30_wander_word.png",
+      "sentenceImage": "images/30_wander_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

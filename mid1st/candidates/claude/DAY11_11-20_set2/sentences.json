@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 11,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY11-11",
+      "no": 11,
+      "word": "fit",
+      "sentence": "This costume does not fit the tallest actor in our play."
+    },
+    {
+      "wordId": "DAY11-12",
+      "no": 12,
+      "word": "movement",
+      "sentence": "One slow arm movement started the whole dance on stage."
+    },
+    {
+      "wordId": "DAY11-13",
+      "no": 13,
+      "word": "brilliant",
+      "sentence": "That brilliant stage design used only paper and colored lights."
+    },
+    {
+      "wordId": "DAY11-14",
+      "no": 14,
+      "word": "prior",
+      "sentence": "The prior painting was smaller than this new one."
+    },
+    {
+      "wordId": "DAY11-15",
+      "no": 15,
+      "word": "outline",
+      "sentence": "We wrote a short outline with the story's three main events."
+    },
+    {
+      "wordId": "DAY11-16",
+      "no": 16,
+      "word": "sort",
+      "sentence": "Students sort the leaf pictures by vein shape and edge type."
+    },
+    {
+      "wordId": "DAY11-17",
+      "no": 17,
+      "word": "portrait",
+      "sentence": "The museum hung a portrait of a smiling old farmer."
+    },
+    {
+      "wordId": "DAY11-18",
+      "no": 18,
+      "word": "tale",
+      "sentence": "In this tale, a fox wants grapes hanging too high."
+    },
+    {
+      "wordId": "DAY11-19",
+      "no": 19,
+      "word": "add",
+      "sentence": "When we add one third and one third, we get two thirds."
+    },
+    {
+      "wordId": "DAY11-20",
+      "no": 20,
+      "word": "volume",
+      "sentence": "Lower the radio volume until the singer's soft words become clear."
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 3,
+  "range": "31-40",
+  "set": 4,
+  "title": "DAY 03 · 31-40",
+  "words": [
+    {
+      "no": 31,
+      "word": "capital",
+      "partOfSpeech": "n.",
+      "meaningKo": "수도",
+      "ipa": "/ˈkæpɪtl/",
+      "definition": "the main city where a country is governed",
+      "sentence": "The train carried visitors toward the busy capital that morning.",
+      "wordImage": "images/31_capital_word.png",
+      "sentenceImage": "images/31_capital_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 32,
+      "word": "absolute",
+      "partOfSpeech": "adj.",
+      "meaningKo": "완전한",
+      "ipa": "/ˈæbsəluːt/",
+      "definition": "complete and total",
+      "sentence": "The snowy field lay in absolute silence before dawn.",
+      "wordImage": "images/32_absolute_word.png",
+      "sentenceImage": "images/32_absolute_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 33,
+      "word": "anticipate",
+      "partOfSpeech": "v.",
+      "meaningKo": "기대하다",
+      "ipa": "/ænˈtɪsɪpeɪt/",
+      "definition": "to expect something and get ready for it",
+      "sentence": "The puppies anticipate treats whenever the cupboard door opens.",
+      "wordImage": "images/33_anticipate_word.png",
+      "sentenceImage": "images/33_anticipate_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 34,
+      "word": "leisure",
+      "partOfSpeech": "n.",
+      "meaningKo": "여가",
+      "ipa": "/ˈliːʒər/",
+      "definition": "free time when you can relax",
+      "sentence": "Fishing by the lake is his favorite leisure activity.",
+      "wordImage": "images/34_leisure_word.png",
+      "sentenceImage": "images/34_leisure_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 35,
+      "word": "undergo",
+      "partOfSpeech": "v.",
+      "meaningKo": "겪다",
+      "ipa": "/ˌʌndərˈɡoʊ/",
+      "definition": "to go through a change or event",
+      "sentence": "The caterpillar will undergo an amazing change inside its cocoon.",
+      "wordImage": "images/35_undergo_word.png",
+      "sentenceImage": "images/35_undergo_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 36,
+      "word": "spare",
+      "partOfSpeech": "adj.",
+      "meaningKo": "여분의",
+      "ipa": "/sper/",
+      "definition": "extra and kept for later use",
+      "sentence": "The cyclist carried a spare wheel inside the small basket.",
+      "wordImage": "images/36_spare_word.png",
+      "sentenceImage": "images/36_spare_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 37,
+      "word": "aquarium",
+      "partOfSpeech": "n.",
+      "meaningKo": "수족관",
+      "ipa": "/əˈkweriəm/",
+      "definition": "a glass tank where fish live",
+      "sentence": "Bright orange fish swam slowly inside the giant round aquarium.",
+      "wordImage": "images/37_aquarium_word.png",
+      "sentenceImage": "images/37_aquarium_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 38,
+      "word": "applaud",
+      "partOfSpeech": "v.",
+      "meaningKo": "박수치다",
+      "ipa": "/əˈplɔːd/",
+      "definition": "to clap your hands to show you liked something",
+      "sentence": "The audience will applaud loudly when the curtain rises again.",
+      "wordImage": "images/38_applaud_word.png",
+      "sentenceImage": "images/38_applaud_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 39,
+      "word": "insurance",
+      "partOfSpeech": "n.",
+      "meaningKo": "보험",
+      "ipa": "/ɪnˈʃʊrəns/",
+      "definition": "money you pay so you get help later",
+      "sentence": "The farmer bought insurance to protect the barn from storms.",
+      "wordImage": "images/39_insurance_word.png",
+      "sentenceImage": "images/39_insurance_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 40,
+      "word": "return",
+      "partOfSpeech": "v.",
+      "meaningKo": "돌아가다",
+      "ipa": "/rɪˈtɜːrn/",
+      "definition": "to go back to a place",
+      "sentence": "The birds return to the warm valley every early spring.",
+      "wordImage": "images/40_return_word.png",
+      "sentenceImage": "images/40_return_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

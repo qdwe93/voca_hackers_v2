@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 22,
+  "range": "31-40",
+  "set": 4,
+  "items": [
+    {
+      "wordId": "DAY22-31",
+      "no": 31,
+      "word": "expose",
+      "sentence": "Today, low tide can expose colorful starfish on the rocks."
+    },
+    {
+      "wordId": "DAY22-32",
+      "no": 32,
+      "word": "shelter",
+      "sentence": "Today, the birds found shelter beneath the wide green leaves."
+    },
+    {
+      "wordId": "DAY22-33",
+      "no": 33,
+      "word": "absorb",
+      "sentence": "Dry soil will absorb the warm rain very rapidly."
+    },
+    {
+      "wordId": "DAY22-34",
+      "no": 34,
+      "word": "incredible",
+      "sentence": "Today, an incredible double rainbow appeared above the wet valley."
+    },
+    {
+      "wordId": "DAY22-35",
+      "no": 35,
+      "word": "consist",
+      "sentence": "Today, healthy meals consist of fruits, grains, and fresh vegetables."
+    },
+    {
+      "wordId": "DAY22-36",
+      "no": 36,
+      "word": "peak",
+      "sentence": "Today, snow covered the sharp peak of the tall mountain."
+    },
+    {
+      "wordId": "DAY22-37",
+      "no": 37,
+      "word": "weed",
+      "sentence": "Today, one tall weed grew between the neat carrot rows."
+    },
+    {
+      "wordId": "DAY22-38",
+      "no": 38,
+      "word": "scare",
+      "sentence": "One paper owl can scare birds from the field."
+    },
+    {
+      "wordId": "DAY22-39",
+      "no": 39,
+      "word": "diminish",
+      "sentence": "Today, the puddles diminish as the warm sun rises higher."
+    },
+    {
+      "wordId": "DAY22-40",
+      "no": 40,
+      "word": "yield",
+      "sentence": "Today, these apple trees yield sweet fruit every single autumn."
+    }
+  ]
+}

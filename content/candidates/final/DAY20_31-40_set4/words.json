@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 20,
+  "range": "31-40",
+  "set": 4,
+  "title": "DAY 20 · 31-40",
+  "words": [
+    {
+      "no": 31,
+      "word": "drag",
+      "partOfSpeech": "v.",
+      "meaningKo": "끌다",
+      "ipa": "/dræɡ/",
+      "definition": "to pull something heavy along the ground",
+      "sentence": "The strong ox will drag the log across the field.",
+      "wordImage": "images/31_drag_word.png",
+      "sentenceImage": "images/31_drag_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 32,
+      "word": "fasten",
+      "partOfSpeech": "v.",
+      "meaningKo": "매다",
+      "ipa": "/ˈfæsn/",
+      "definition": "to close or tie something firmly",
+      "sentence": "Please fasten your helmet before riding the fast bicycle.",
+      "wordImage": "images/32_fasten_word.png",
+      "sentenceImage": "images/32_fasten_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 33,
+      "word": "precise",
+      "partOfSpeech": "adj.",
+      "meaningKo": "정확한",
+      "ipa": "/prɪˈsaɪs/",
+      "definition": "exact and very carefully measured",
+      "sentence": "The baker made precise cuts across the smooth dough.",
+      "wordImage": "images/33_precise_word.png",
+      "sentenceImage": "images/33_precise_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 34,
+      "word": "vital",
+      "partOfSpeech": "adj.",
+      "meaningKo": "필수적인",
+      "ipa": "/ˈvaɪtl/",
+      "definition": "needed very much for something to work",
+      "sentence": "Clean water is vital for every living green plant.",
+      "wordImage": "images/34_vital_word.png",
+      "sentenceImage": "images/34_vital_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 35,
+      "word": "component",
+      "partOfSpeech": "n.",
+      "meaningKo": "부품",
+      "ipa": "/kəmˈpoʊnənt/",
+      "definition": "one part of a bigger machine",
+      "sentence": "One tiny component made the whole clock tick again.",
+      "wordImage": "images/35_component_word.png",
+      "sentenceImage": "images/35_component_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 36,
+      "word": "seldom",
+      "partOfSpeech": "adv.",
+      "meaningKo": "좀처럼 않다",
+      "ipa": "/ˈseldəm/",
+      "definition": "almost never",
+      "sentence": "Snow seldom falls in this warm southern valley.",
+      "wordImage": "images/36_seldom_word.png",
+      "sentenceImage": "images/36_seldom_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 37,
+      "word": "enhance",
+      "partOfSpeech": "v.",
+      "meaningKo": "향상시키다",
+      "ipa": "/ɪnˈhæns/",
+      "definition": "to make something even better",
+      "sentence": "Fresh herbs enhance the flavor of the warm soup.",
+      "wordImage": "images/37_enhance_word.png",
+      "sentenceImage": "images/37_enhance_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 38,
+      "word": "sink",
+      "partOfSpeech": "v.",
+      "meaningKo": "가라앉다",
+      "ipa": "/sɪŋk/",
+      "definition": "to go down under the water",
+      "sentence": "Heavy stones sink quickly to the bottom of ponds.",
+      "wordImage": "images/38_sink_word.png",
+      "sentenceImage": "images/38_sink_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 39,
+      "word": "destination",
+      "partOfSpeech": "n.",
+      "meaningKo": "목적지",
+      "ipa": "/ˌdestɪˈneɪʃn/",
+      "definition": "the place you are traveling to",
+      "sentence": "The island was the happy destination of their trip.",
+      "wordImage": "images/39_destination_word.png",
+      "sentenceImage": "images/39_destination_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 40,
+      "word": "station",
+      "partOfSpeech": "n.",
+      "meaningKo": "역",
+      "ipa": "/ˈsteɪʃn/",
+      "definition": "a place where trains or buses stop",
+      "sentence": "The busy station filled with travelers every early morning.",
+      "wordImage": "images/40_station_word.png",
+      "sentenceImage": "images/40_station_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

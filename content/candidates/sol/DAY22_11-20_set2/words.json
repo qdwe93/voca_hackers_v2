@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 22,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 22 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "huge",
+      "partOfSpeech": "adj.",
+      "meaningKo": "거대한",
+      "definition": "extremely large",
+      "sentence": "A huge elephant stands beside a tiny mouse.",
+      "ipa": "/hjudʒ/",
+      "wordImage": "images/11_huge_word.png",
+      "sentenceImage": "images/11_huge_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "pile",
+      "partOfSpeech": "n.",
+      "meaningKo": "더미",
+      "definition": "a group of things placed on top of each other",
+      "sentence": "A pile of books rises beside the reading chair.",
+      "ipa": "/paɪl/",
+      "wordImage": "images/12_pile_word.png",
+      "sentenceImage": "images/12_pile_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "react",
+      "partOfSpeech": "v.",
+      "meaningKo": "반응하다",
+      "definition": "to act because something happens",
+      "sentence": "The flower will react to sunlight by opening.",
+      "ipa": "/riækt/",
+      "wordImage": "images/13_react_word.png",
+      "sentenceImage": "images/13_react_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "exist",
+      "partOfSpeech": "v.",
+      "meaningKo": "존재하다",
+      "definition": "to be real or present",
+      "sentence": "Rare animals still exist inside the protected forest.",
+      "ipa": "/ɪɡzɪst/",
+      "wordImage": "images/14_exist_word.png",
+      "sentenceImage": "images/14_exist_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "shade",
+      "partOfSpeech": "n.",
+      "meaningKo": "그늘",
+      "definition": "an area protected from direct sunlight",
+      "sentence": "The hikers rest in the shade beneath a tree.",
+      "ipa": "/ʃeɪd/",
+      "wordImage": "images/15_shade_word.png",
+      "sentenceImage": "images/15_shade_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "element",
+      "partOfSpeech": "n.",
+      "meaningKo": "요소",
+      "definition": "one important part of a larger whole",
+      "sentence": "Water is a necessary element of the garden pond.",
+      "ipa": "/ɛləmənt/",
+      "wordImage": "images/16_element_word.png",
+      "sentenceImage": "images/16_element_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "layer",
+      "partOfSpeech": "n.",
+      "meaningKo": "층",
+      "definition": "one thickness placed over or under another",
+      "sentence": "A layer of snow covers the cabin roof.",
+      "ipa": "/leɪɚ/",
+      "wordImage": "images/17_layer_word.png",
+      "sentenceImage": "images/17_layer_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "horizon",
+      "partOfSpeech": "n.",
+      "meaningKo": "수평선",
+      "definition": "the line where land or sea meets sky",
+      "sentence": "The sun slowly sinks below the ocean horizon.",
+      "ipa": "/hɚaɪzən/",
+      "wordImage": "images/18_horizon_word.png",
+      "sentenceImage": "images/18_horizon_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "observe",
+      "partOfSpeech": "v.",
+      "meaningKo": "관찰하다",
+      "definition": "to watch something carefully",
+      "sentence": "The scientist will observe ants carrying food to their nest.",
+      "ipa": "/əbzɝv/",
+      "wordImage": "images/19_observe_word.png",
+      "sentenceImage": "images/19_observe_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "block",
+      "partOfSpeech": "v.",
+      "meaningKo": "막다",
+      "definition": "to stop movement through a place",
+      "sentence": "A fallen tree will block the forest road.",
+      "ipa": "/blɑk/",
+      "wordImage": "images/20_block_word.png",
+      "sentenceImage": "images/20_block_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

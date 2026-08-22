@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 18,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY18-21",
+      "no": 21,
+      "word": "track",
+      "sentence": "Nurses track the patient's temperature on a daily chart."
+    },
+    {
+      "wordId": "DAY18-22",
+      "no": 22,
+      "word": "perhaps",
+      "sentence": "Before the picnic begins, perhaps the rain will stop."
+    },
+    {
+      "wordId": "DAY18-23",
+      "no": 23,
+      "word": "bump",
+      "sentence": "The student may bump the chair while walking backward."
+    },
+    {
+      "wordId": "DAY18-24",
+      "no": 24,
+      "word": "alert",
+      "sentence": "Today, the alert meerkat stood tall and watched the horizon."
+    },
+    {
+      "wordId": "DAY18-25",
+      "no": 25,
+      "word": "slip",
+      "sentence": "Shoes slip farther on smooth tiles with less friction."
+    },
+    {
+      "wordId": "DAY18-26",
+      "no": 26,
+      "word": "modest",
+      "sentence": "Today, the modest winner smiled quietly and thanked her coach."
+    },
+    {
+      "wordId": "DAY18-27",
+      "no": 27,
+      "word": "disabled",
+      "sentence": "A ramp gives disabled students equal access to the classroom."
+    },
+    {
+      "wordId": "DAY18-28",
+      "no": 28,
+      "word": "rapid",
+      "sentence": "One rapid stream rushed between the smooth gray rocks."
+    },
+    {
+      "wordId": "DAY18-29",
+      "no": 29,
+      "word": "spin",
+      "sentence": "Students spin a paper triangle around one fixed axis."
+    },
+    {
+      "wordId": "DAY18-30",
+      "no": 30,
+      "word": "spine",
+      "sentence": "After a long nap, a cat stretches its spine."
+    }
+  ]
+}

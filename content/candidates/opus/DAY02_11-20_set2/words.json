@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 2,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 02 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "graduate",
+      "partOfSpeech": "v.",
+      "meaningKo": "졸업하다",
+      "ipa": "/ˈɡrædʒueɪt/",
+      "definition": "to finish school and get a certificate",
+      "sentence": "The young bears will graduate from forest school this spring.",
+      "wordImage": "images/11_graduate_word.png",
+      "sentenceImage": "images/11_graduate_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "sense",
+      "partOfSpeech": "n.",
+      "meaningKo": "감각",
+      "ipa": "/sens/",
+      "definition": "a power like sight, hearing, taste, touch, or smell",
+      "sentence": "A dog uses its sense of smell to find treats.",
+      "wordImage": "images/12_sense_word.png",
+      "sentenceImage": "images/12_sense_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "real",
+      "partOfSpeech": "adj.",
+      "meaningKo": "진짜의",
+      "ipa": "/ˈriːəl/",
+      "definition": "true and not pretend",
+      "sentence": "The magic flower looked fake but was completely real.",
+      "wordImage": "images/13_real_word.png",
+      "sentenceImage": "images/13_real_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "annual",
+      "partOfSpeech": "adj.",
+      "meaningKo": "연례의",
+      "ipa": "/ˈænjuəl/",
+      "definition": "happening one time every year",
+      "sentence": "The village holds an annual kite festival every warm spring.",
+      "wordImage": "images/14_annual_word.png",
+      "sentenceImage": "images/14_annual_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "collect",
+      "partOfSpeech": "v.",
+      "meaningKo": "모으다",
+      "ipa": "/kəˈlekt/",
+      "definition": "to gather many things and keep them together",
+      "sentence": "The squirrel likes to collect shiny acorns in one basket.",
+      "wordImage": "images/15_collect_word.png",
+      "sentenceImage": "images/15_collect_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "deadline",
+      "partOfSpeech": "n.",
+      "meaningKo": "마감 기한",
+      "ipa": "/ˈdedlaɪn/",
+      "definition": "the last day something must be finished",
+      "sentence": "The team finished the robot model before the class deadline.",
+      "wordImage": "images/16_deadline_word.png",
+      "sentenceImage": "images/16_deadline_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "confident",
+      "partOfSpeech": "adj.",
+      "meaningKo": "자신 있는",
+      "ipa": "/ˈkɑːnfɪdənt/",
+      "definition": "sure that you can do something well",
+      "sentence": "The small penguin felt confident before its first swimming lesson.",
+      "wordImage": "images/17_confident_word.png",
+      "sentenceImage": "images/17_confident_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "include",
+      "partOfSpeech": "v.",
+      "meaningKo": "포함하다",
+      "ipa": "/ɪnˈkluːd/",
+      "definition": "to have something as one of its parts",
+      "sentence": "Our lunch boxes include fruit, bread, and a small cheese.",
+      "wordImage": "images/18_include_word.png",
+      "sentenceImage": "images/18_include_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "shout",
+      "partOfSpeech": "v.",
+      "meaningKo": "외치다",
+      "ipa": "/ʃaʊt/",
+      "definition": "to say something in a very loud voice",
+      "sentence": "The children shout happily when the parade turns the corner.",
+      "wordImage": "images/19_shout_word.png",
+      "sentenceImage": "images/19_shout_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "subject",
+      "partOfSpeech": "n.",
+      "meaningKo": "과목",
+      "ipa": "/ˈsʌbdʒɪkt/",
+      "definition": "something you study at school, like math",
+      "sentence": "Science is the favorite subject of the curious young fox.",
+      "wordImage": "images/20_subject_word.png",
+      "sentenceImage": "images/20_subject_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

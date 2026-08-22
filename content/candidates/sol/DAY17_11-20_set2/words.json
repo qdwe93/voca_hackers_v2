@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 17,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 17 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "insect",
+      "partOfSpeech": "n.",
+      "meaningKo": "곤충",
+      "definition": "a small animal with six legs",
+      "sentence": "A bright insect crawls across the green leaf.",
+      "ipa": "/ɪnsɛkt/",
+      "wordImage": "images/11_insect_word.png",
+      "sentenceImage": "images/11_insect_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "circumstance",
+      "partOfSpeech": "n.",
+      "meaningKo": "상황",
+      "definition": "a condition affecting what happens",
+      "sentence": "Rainy weather creates a difficult circumstance for the outdoor game.",
+      "ipa": "/sɝkəmstæns/",
+      "wordImage": "images/12_circumstance_word.png",
+      "sentenceImage": "images/12_circumstance_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "normal",
+      "partOfSpeech": "adj.",
+      "meaningKo": "정상적인",
+      "definition": "usual and expected",
+      "sentence": "The machine returns to normal operation after repairs.",
+      "ipa": "/nɔrməl/",
+      "wordImage": "images/13_normal_word.png",
+      "sentenceImage": "images/13_normal_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "threat",
+      "partOfSpeech": "n.",
+      "meaningKo": "위협",
+      "definition": "something likely to cause harm or trouble",
+      "sentence": "Rising water becomes a threat to the tiny sandcastle.",
+      "ipa": "/θrɛt/",
+      "wordImage": "images/14_threat_word.png",
+      "sentenceImage": "images/14_threat_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "improve",
+      "partOfSpeech": "v.",
+      "meaningKo": "향상시키다",
+      "definition": "to make or become better",
+      "sentence": "Daily practice will improve the child's juggling skill.",
+      "ipa": "/ɪmpruv/",
+      "wordImage": "images/15_improve_word.png",
+      "sentenceImage": "images/15_improve_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "repeat",
+      "partOfSpeech": "v.",
+      "meaningKo": "반복하다",
+      "definition": "to do or say something again",
+      "sentence": "The parrot will repeat the same cheerful whistle.",
+      "ipa": "/rɪpit/",
+      "wordImage": "images/16_repeat_word.png",
+      "sentenceImage": "images/16_repeat_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "resemble",
+      "partOfSpeech": "v.",
+      "meaningKo": "닮다",
+      "definition": "to look or be like someone or something",
+      "sentence": "The young foxes resemble their mother in color.",
+      "ipa": "/rɪzɛmbəl/",
+      "wordImage": "images/17_resemble_word.png",
+      "sentenceImage": "images/17_resemble_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "protein",
+      "partOfSpeech": "n.",
+      "meaningKo": "단백질",
+      "definition": "a nutrient helping bodies grow and repair",
+      "sentence": "Eggs and beans provide protein on the balanced plate.",
+      "ipa": "/proʊtin/",
+      "wordImage": "images/18_protein_word.png",
+      "sentenceImage": "images/18_protein_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "hatch",
+      "partOfSpeech": "v.",
+      "meaningKo": "부화하다",
+      "definition": "to come out of an egg",
+      "sentence": "A small chick will hatch from the cracked egg.",
+      "ipa": "/hætʃ/",
+      "wordImage": "images/19_hatch_word.png",
+      "sentenceImage": "images/19_hatch_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "direct",
+      "partOfSpeech": "v.",
+      "meaningKo": "지휘하다",
+      "definition": "to guide or control an activity",
+      "sentence": "The conductor will direct the orchestra with both hands.",
+      "ipa": "/dɚɛkt/",
+      "wordImage": "images/20_direct_word.png",
+      "sentenceImage": "images/20_direct_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

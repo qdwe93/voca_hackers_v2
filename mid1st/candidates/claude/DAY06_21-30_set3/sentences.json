@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 6,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY06-21",
+      "no": 21,
+      "word": "discouraged",
+      "sentence": "After three missed shots, the young player felt discouraged."
+    },
+    {
+      "wordId": "DAY06-22",
+      "no": 22,
+      "word": "stare",
+      "sentence": "Children stare at the slow goldfish for several quiet minutes."
+    },
+    {
+      "wordId": "DAY06-23",
+      "no": 23,
+      "word": "burst",
+      "sentence": "The balloon will burst if you keep blowing air inside."
+    },
+    {
+      "wordId": "DAY06-24",
+      "no": 24,
+      "word": "miserable",
+      "sentence": "Wet socks and cold wind made the campers feel miserable."
+    },
+    {
+      "wordId": "DAY06-25",
+      "no": 25,
+      "word": "embarrassed",
+      "sentence": "I felt embarrassed after calling my teacher by the wrong name."
+    },
+    {
+      "wordId": "DAY06-26",
+      "no": 26,
+      "word": "hardly",
+      "sentence": "The shy puppy hardly moved when strangers walked past."
+    },
+    {
+      "wordId": "DAY06-27",
+      "no": 27,
+      "word": "panic",
+      "sentence": "A small panic spread when the lights blinked during practice."
+    },
+    {
+      "wordId": "DAY06-28",
+      "no": 28,
+      "word": "correspond",
+      "sentence": "Two pen pals correspond monthly and answer each other's questions."
+    },
+    {
+      "wordId": "DAY06-29",
+      "no": 29,
+      "word": "cruel",
+      "sentence": "Leaving a puppy alone in rain would be cruel."
+    },
+    {
+      "wordId": "DAY06-30",
+      "no": 30,
+      "word": "crucial",
+      "sentence": "Careful measuring is crucial when you bake a birthday cake."
+    }
+  ]
+}

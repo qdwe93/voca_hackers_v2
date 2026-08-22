@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 10,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY10-01",
+      "no": 1,
+      "word": "welfare",
+      "sentence": "Government programs provide social welfare support for citizens in need."
+    },
+    {
+      "wordId": "DAY10-02",
+      "no": 2,
+      "word": "victim",
+      "sentence": "The legal counselor helped the innocent victim of consumer fraud."
+    },
+    {
+      "wordId": "DAY10-03",
+      "no": 3,
+      "word": "population",
+      "sentence": "A pyramid chart shows the age structure of the national population."
+    },
+    {
+      "wordId": "DAY10-04",
+      "no": 4,
+      "word": "neighbor",
+      "sentence": "The friendly neighbor helped shovel snow from our front walkway."
+    },
+    {
+      "wordId": "DAY10-05",
+      "no": 5,
+      "word": "ignore",
+      "sentence": "Drivers should never ignore red stop signs at busy intersections."
+    },
+    {
+      "wordId": "DAY10-06",
+      "no": 6,
+      "word": "donate",
+      "sentence": "Citizens donate warm blankets to help disaster victims rebuild lives."
+    },
+    {
+      "wordId": "DAY10-07",
+      "no": 7,
+      "word": "serious",
+      "sentence": "Water pollution is a serious problem that requires urgent action."
+    },
+    {
+      "wordId": "DAY10-08",
+      "no": 8,
+      "word": "fund",
+      "sentence": "The charity raised a special fund to build clean wells."
+    },
+    {
+      "wordId": "DAY10-09",
+      "no": 9,
+      "word": "personal",
+      "sentence": "Keep your personal password secret to protect your online accounts."
+    },
+    {
+      "wordId": "DAY10-10",
+      "no": 10,
+      "word": "personnel",
+      "sentence": "Emergency personnel arrived quickly at the scene of the accident."
+    }
+  ]
+}

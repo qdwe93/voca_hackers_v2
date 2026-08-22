@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 24,
+  "range": "31-40",
+  "set": 4,
+  "items": [
+    {
+      "wordId": "DAY24-31",
+      "no": 31,
+      "word": "aspect",
+      "sentence": "Cost efficiency is an important aspect of renewable energy infrastructure development."
+    },
+    {
+      "wordId": "DAY24-32",
+      "no": 32,
+      "word": "float",
+      "sentence": "Wooden blocks float in water because their physical density is low."
+    },
+    {
+      "wordId": "DAY24-33",
+      "no": 33,
+      "word": "ingredient",
+      "sentence": "Baking bread requires only four simple ingredient items including flour yeast."
+    },
+    {
+      "wordId": "DAY24-34",
+      "no": 34,
+      "word": "ban",
+      "sentence": "The municipality decided to ban single-use plastic bags in supermarkets."
+    },
+    {
+      "wordId": "DAY24-35",
+      "no": 35,
+      "word": "witness",
+      "sentence": "The witness provided a truthful account of the traffic accident scene."
+    },
+    {
+      "wordId": "DAY24-36",
+      "no": 36,
+      "word": "solar",
+      "sentence": "A solar water heater absorbs radiant heat to warm household water."
+    },
+    {
+      "wordId": "DAY24-37",
+      "no": 37,
+      "word": "starve",
+      "sentence": "Wild animals might starve if extreme winter blizzards bury food sources."
+    },
+    {
+      "wordId": "DAY24-38",
+      "no": 38,
+      "word": "attribute",
+      "sentence": "Hardness is a distinguishing physical attribute of diamond crystal minerals under."
+    },
+    {
+      "wordId": "DAY24-39",
+      "no": 39,
+      "word": "appliance",
+      "sentence": "Turn off every household electric appliance when not in active use."
+    },
+    {
+      "wordId": "DAY24-40",
+      "no": 40,
+      "word": "plant",
+      "sentence": "Volunteers plant native saplings along riverbanks to prevent soil erosion landslides."
+    }
+  ]
+}

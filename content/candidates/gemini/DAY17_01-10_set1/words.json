@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 17,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 17 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "biology",
+      "partOfSpeech": "n.",
+      "meaningKo": "생물학",
+      "ipa": "/baɪˈɑː.lə.dʒi/",
+      "definition": "the scientific study of living things and life processes",
+      "sentence": "In our biology class, we studied how green leaves photosynthesize.",
+      "wordImage": "images/01_biology_word.png",
+      "sentenceImage": "images/01_biology_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "gene",
+      "partOfSpeech": "n.",
+      "meaningKo": "유전자",
+      "ipa": "/dʒiːn/",
+      "definition": "a unit of heredity passed from parents to children",
+      "sentence": "The plant inherited a special gene that resists cold winter.",
+      "wordImage": "images/02_gene_word.png",
+      "sentenceImage": "images/02_gene_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "factor",
+      "partOfSpeech": "n.",
+      "meaningKo": "요인, 요소",
+      "ipa": "/ˈfæk.tɚ/",
+      "definition": "one of several things that cause or influence a situation",
+      "sentence": "Sunlight is an essential factor for healthy flower blooming.",
+      "wordImage": "images/03_factor_word.png",
+      "sentenceImage": "images/03_factor_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "trace",
+      "partOfSpeech": "v.",
+      "meaningKo": "추적하다, 베끼다",
+      "ipa": "/treɪs/",
+      "definition": "to follow the path or track of someone or something",
+      "sentence": "Young scientists can trace the migration route of sea turtles.",
+      "wordImage": "images/04_trace_word.png",
+      "sentenceImage": "images/04_trace_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "require",
+      "partOfSpeech": "v.",
+      "meaningKo": "필요로 하다, 요구하다",
+      "ipa": "/rɪˈkwaɪr/",
+      "definition": "to need something or make something necessary",
+      "sentence": "All students require safety goggles for the chemistry laboratory experiment.",
+      "wordImage": "images/05_require_word.png",
+      "sentenceImage": "images/05_require_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "structure",
+      "partOfSpeech": "n.",
+      "meaningKo": "구조, 구조물",
+      "ipa": "/ˈstrʌk.tʃɚ/",
+      "definition": "the way in which parts are connected together in something",
+      "sentence": "The honeycomb has a perfect hexagonal geometric structure built by bees.",
+      "wordImage": "images/06_structure_word.png",
+      "sentenceImage": "images/06_structure_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "research",
+      "partOfSpeech": "n.",
+      "meaningKo": "연구, 조사",
+      "ipa": "/ˈriː.sɝːtʃ/",
+      "definition": "detailed study of a subject to discover new facts",
+      "sentence": "Her marine research helped protect endangered sea turtle nesting beaches.",
+      "wordImage": "images/07_research_word.png",
+      "sentenceImage": "images/07_research_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "intelligent",
+      "partOfSpeech": "adj.",
+      "meaningKo": "지능적인, 똑똑한",
+      "ipa": "/ɪnˈtel.ə.dʒənt/",
+      "definition": "able to learn, understand, and think easily and well",
+      "sentence": "Dolphins are highly intelligent animals capable of solving complex problems.",
+      "wordImage": "images/08_intelligent_word.png",
+      "sentenceImage": "images/08_intelligent_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "sign",
+      "partOfSpeech": "n.",
+      "meaningKo": "표지판, 징후, 신호",
+      "ipa": "/saɪn/",
+      "definition": "a board or gesture giving information, warning, or instructions",
+      "sentence": "The wooden trail sign showed the way to the campsite.",
+      "wordImage": "images/09_sign_word.png",
+      "sentenceImage": "images/09_sign_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "sigh",
+      "partOfSpeech": "n.",
+      "meaningKo": "한숨, 탄식",
+      "ipa": "/saɪ/",
+      "definition": "a slow, deep breath out expressing relief, tiredness, or sadness",
+      "sentence": "She gave a gentle sigh of relief after finishing exams.",
+      "wordImage": "images/10_sigh_word.png",
+      "sentenceImage": "images/10_sigh_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

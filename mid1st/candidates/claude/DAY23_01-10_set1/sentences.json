@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 23,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY23-01",
+      "no": 1,
+      "word": "climate",
+      "sentence": "This warm climate lets farmers grow two rice crops yearly."
+    },
+    {
+      "wordId": "DAY23-02",
+      "no": 2,
+      "word": "landscape",
+      "sentence": "The landscape here mixes rice fields with low green hills."
+    },
+    {
+      "wordId": "DAY23-03",
+      "no": 3,
+      "word": "storm",
+      "sentence": "The evening storm bent thin branches and soaked the road."
+    },
+    {
+      "wordId": "DAY23-04",
+      "no": 4,
+      "word": "average",
+      "sentence": "We added seven days and found the average rainfall was ninety millimeters."
+    },
+    {
+      "wordId": "DAY23-05",
+      "no": 5,
+      "word": "drown",
+      "sentence": "Wear a life jacket so nobody can drown in deep water."
+    },
+    {
+      "wordId": "DAY23-06",
+      "no": 6,
+      "word": "happen",
+      "sentence": "Strong winds often happen here during the late autumn months."
+    },
+    {
+      "wordId": "DAY23-07",
+      "no": 7,
+      "word": "rough",
+      "sentence": "A rough stone path slows the cart more than smooth tiles."
+    },
+    {
+      "wordId": "DAY23-08",
+      "no": 8,
+      "word": "geography",
+      "sentence": "In geography we used the map scale to measure real distance."
+    },
+    {
+      "wordId": "DAY23-09",
+      "no": 9,
+      "word": "effect",
+      "sentence": "One effect of the new trees is cooler summer air."
+    },
+    {
+      "wordId": "DAY23-10",
+      "no": 10,
+      "word": "affect",
+      "sentence": "Mountains affect how much rain reaches the eastern villages."
+    }
+  ]
+}

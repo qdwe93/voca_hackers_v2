@@ -1,0 +1,1051 @@
+{
+  "schemaVersion": 1,
+  "totalWords": 1200,
+  "curriculumAssignedWords": 330,
+  "fallbackWords": 870,
+  "actualMeanPerConcept": 2.156862745098039,
+  "subjectCounts": {
+    "korean": 99,
+    "mathematics": 25,
+    "science": 83,
+    "social_studies": 123
+  },
+  "matchModeCounts": {
+    "direct": 202,
+    "contextual": 128,
+    "day_fallback": 814,
+    "word_fallback": 56
+  },
+  "concepts": [
+    {
+      "conceptId": "KOR-active-listening",
+      "count": 5,
+      "directCount": 3,
+      "contextualCount": 2
+    },
+    {
+      "conceptId": "KOR-dialogue-principles",
+      "count": 11,
+      "directCount": 10,
+      "contextualCount": 1
+    },
+    {
+      "conceptId": "KOR-interview",
+      "count": 1,
+      "directCount": 0,
+      "contextualCount": 1
+    },
+    {
+      "conceptId": "KOR-presentation",
+      "count": 4,
+      "directCount": 2,
+      "contextualCount": 2
+    },
+    {
+      "conceptId": "KOR-discussion",
+      "count": 3,
+      "directCount": 3,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "KOR-debate-and-rebuttal",
+      "count": 4,
+      "directCount": 4,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "KOR-summary",
+      "count": 1,
+      "directCount": 1,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "KOR-inference",
+      "count": 4,
+      "directCount": 3,
+      "contextualCount": 1
+    },
+    {
+      "conceptId": "KOR-explanation-and-argument",
+      "count": 7,
+      "directCount": 6,
+      "contextualCount": 1
+    },
+    {
+      "conceptId": "KOR-multimodal-reading",
+      "count": 3,
+      "directCount": 0,
+      "contextualCount": 3
+    },
+    {
+      "conceptId": "KOR-source-credibility",
+      "count": 7,
+      "directCount": 0,
+      "contextualCount": 7
+    },
+    {
+      "conceptId": "KOR-social-reading",
+      "count": 1,
+      "directCount": 0,
+      "contextualCount": 1
+    },
+    {
+      "conceptId": "KOR-informative-writing",
+      "count": 6,
+      "directCount": 6,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "KOR-argumentative-writing",
+      "count": 1,
+      "directCount": 1,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "KOR-expressive-writing",
+      "count": 2,
+      "directCount": 1,
+      "contextualCount": 1
+    },
+    {
+      "conceptId": "KOR-revision",
+      "count": 0,
+      "directCount": 0,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "KOR-writing-ethics",
+      "count": 0,
+      "directCount": 0,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "KOR-phonology-and-writing-systems",
+      "count": 5,
+      "directCount": 1,
+      "contextualCount": 4
+    },
+    {
+      "conceptId": "KOR-word-formation",
+      "count": 0,
+      "directCount": 0,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "KOR-parts-of-speech",
+      "count": 0,
+      "directCount": 0,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "KOR-sentence-structure",
+      "count": 2,
+      "directCount": 2,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "KOR-passive-and-quoting",
+      "count": 0,
+      "directCount": 0,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "KOR-orthography-and-language-variation",
+      "count": 2,
+      "directCount": 0,
+      "contextualCount": 2
+    },
+    {
+      "conceptId": "KOR-poetic-devices",
+      "count": 3,
+      "directCount": 3,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "KOR-narrative-conflict",
+      "count": 4,
+      "directCount": 2,
+      "contextualCount": 2
+    },
+    {
+      "conceptId": "KOR-growth-narrative",
+      "count": 1,
+      "directCount": 0,
+      "contextualCount": 1
+    },
+    {
+      "conceptId": "KOR-point-of-view",
+      "count": 1,
+      "directCount": 1,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "KOR-setting-and-social-context",
+      "count": 4,
+      "directCount": 0,
+      "contextualCount": 4
+    },
+    {
+      "conceptId": "KOR-interpretation-and-intertextuality",
+      "count": 4,
+      "directCount": 4,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "KOR-media-literacy",
+      "count": 2,
+      "directCount": 2,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "KOR-mass-and-creator-media",
+      "count": 2,
+      "directCount": 2,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "KOR-interactive-media",
+      "count": 2,
+      "directCount": 1,
+      "contextualCount": 1
+    },
+    {
+      "conceptId": "KOR-multimodal-media-production",
+      "count": 6,
+      "directCount": 4,
+      "contextualCount": 2
+    },
+    {
+      "conceptId": "KOR-media-rights-and-ethics",
+      "count": 0,
+      "directCount": 0,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "KOR-representation-and-fairness",
+      "count": 1,
+      "directCount": 0,
+      "contextualCount": 1
+    },
+    {
+      "conceptId": "MATH-prime-factorization",
+      "count": 0,
+      "directCount": 0,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "MATH-greatest-common-divisor-and-least-common-multiple",
+      "count": 0,
+      "directCount": 0,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "MATH-integers",
+      "count": 0,
+      "directCount": 0,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "MATH-rational-numbers",
+      "count": 0,
+      "directCount": 0,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "MATH-number-line-and-absolute-value",
+      "count": 0,
+      "directCount": 0,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "MATH-comparing-and-ordering-rational-numbers",
+      "count": 3,
+      "directCount": 1,
+      "contextualCount": 2
+    },
+    {
+      "conceptId": "MATH-operations-with-integers-and-rational-numbers",
+      "count": 3,
+      "directCount": 3,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "MATH-variables-and-algebraic-expressions",
+      "count": 0,
+      "directCount": 0,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "MATH-terms-coefficients-and-like-terms",
+      "count": 0,
+      "directCount": 0,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "MATH-evaluating-expressions",
+      "count": 0,
+      "directCount": 0,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "MATH-linear-expressions",
+      "count": 0,
+      "directCount": 0,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "MATH-equations-and-solutions",
+      "count": 1,
+      "directCount": 0,
+      "contextualCount": 1
+    },
+    {
+      "conceptId": "MATH-properties-of-equality",
+      "count": 0,
+      "directCount": 0,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "MATH-one-variable-linear-equations",
+      "count": 0,
+      "directCount": 0,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "MATH-coordinate-plane-and-ordered-pairs",
+      "count": 0,
+      "directCount": 0,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "MATH-interpreting-graphs",
+      "count": 4,
+      "directCount": 0,
+      "contextualCount": 4
+    },
+    {
+      "conceptId": "MATH-direct-and-inverse-proportion",
+      "count": 1,
+      "directCount": 1,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "MATH-basic-geometric-objects",
+      "count": 5,
+      "directCount": 3,
+      "contextualCount": 2
+    },
+    {
+      "conceptId": "MATH-parallel-lines-and-transversals",
+      "count": 0,
+      "directCount": 0,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "MATH-geometric-constructions",
+      "count": 1,
+      "directCount": 0,
+      "contextualCount": 1
+    },
+    {
+      "conceptId": "MATH-congruent-figures",
+      "count": 1,
+      "directCount": 0,
+      "contextualCount": 1
+    },
+    {
+      "conceptId": "MATH-triangle-congruence-criteria",
+      "count": 0,
+      "directCount": 0,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "MATH-polygons",
+      "count": 0,
+      "directCount": 0,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "MATH-interior-and-exterior-angles",
+      "count": 1,
+      "directCount": 1,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "MATH-sectors-and-arcs",
+      "count": 1,
+      "directCount": 1,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "MATH-polyhedra",
+      "count": 0,
+      "directCount": 0,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "MATH-solids-of-revolution",
+      "count": 1,
+      "directCount": 0,
+      "contextualCount": 1
+    },
+    {
+      "conceptId": "MATH-surface-area-and-volume",
+      "count": 1,
+      "directCount": 1,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "MATH-measures-of-center",
+      "count": 0,
+      "directCount": 0,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "MATH-stem-and-leaf-plots",
+      "count": 0,
+      "directCount": 0,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "MATH-frequency-distributions",
+      "count": 0,
+      "directCount": 0,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "MATH-histograms-and-frequency-polygons",
+      "count": 0,
+      "directCount": 0,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "MATH-relative-frequency",
+      "count": 0,
+      "directCount": 0,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "MATH-statistical-investigation",
+      "count": 2,
+      "directCount": 0,
+      "contextualCount": 2
+    },
+    {
+      "conceptId": "SCI-scientific-inquiry",
+      "count": 8,
+      "directCount": 4,
+      "contextualCount": 4
+    },
+    {
+      "conceptId": "SCI-science-and-technology",
+      "count": 5,
+      "directCount": 5,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "SCI-sustainable-development",
+      "count": 5,
+      "directCount": 2,
+      "contextualCount": 3
+    },
+    {
+      "conceptId": "SCI-appropriate-technology",
+      "count": 2,
+      "directCount": 0,
+      "contextualCount": 2
+    },
+    {
+      "conceptId": "SCI-renewable-energy",
+      "count": 3,
+      "directCount": 1,
+      "contextualCount": 2
+    },
+    {
+      "conceptId": "SCI-artificial-intelligence-and-science",
+      "count": 1,
+      "directCount": 0,
+      "contextualCount": 1
+    },
+    {
+      "conceptId": "SCI-cell",
+      "count": 0,
+      "directCount": 0,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "SCI-plant-and-animal-cells",
+      "count": 0,
+      "directCount": 0,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "SCI-levels-of-biological-organization",
+      "count": 1,
+      "directCount": 1,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "SCI-biodiversity",
+      "count": 1,
+      "directCount": 1,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "SCI-variation",
+      "count": 4,
+      "directCount": 2,
+      "contextualCount": 2
+    },
+    {
+      "conceptId": "SCI-biological-classification",
+      "count": 2,
+      "directCount": 1,
+      "contextualCount": 1
+    },
+    {
+      "conceptId": "SCI-five-kingdom-system",
+      "count": 0,
+      "directCount": 0,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "SCI-biodiversity-conservation",
+      "count": 6,
+      "directCount": 3,
+      "contextualCount": 3
+    },
+    {
+      "conceptId": "SCI-temperature-and-particle-motion",
+      "count": 2,
+      "directCount": 2,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "SCI-heat-and-thermal-equilibrium",
+      "count": 1,
+      "directCount": 0,
+      "contextualCount": 1
+    },
+    {
+      "conceptId": "SCI-conduction",
+      "count": 2,
+      "directCount": 1,
+      "contextualCount": 1
+    },
+    {
+      "conceptId": "SCI-convection-and-radiation",
+      "count": 1,
+      "directCount": 0,
+      "contextualCount": 1
+    },
+    {
+      "conceptId": "SCI-specific-heat",
+      "count": 2,
+      "directCount": 0,
+      "contextualCount": 2
+    },
+    {
+      "conceptId": "SCI-thermal-expansion",
+      "count": 2,
+      "directCount": 0,
+      "contextualCount": 2
+    },
+    {
+      "conceptId": "SCI-states-of-matter",
+      "count": 3,
+      "directCount": 3,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "SCI-changes-of-state",
+      "count": 1,
+      "directCount": 0,
+      "contextualCount": 1
+    },
+    {
+      "conceptId": "SCI-melting-and-freezing",
+      "count": 2,
+      "directCount": 2,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "SCI-vaporization-and-condensation",
+      "count": 2,
+      "directCount": 2,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "SCI-sublimation",
+      "count": 0,
+      "directCount": 0,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "SCI-latent-heat",
+      "count": 0,
+      "directCount": 0,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "SCI-force-and-net-force",
+      "count": 3,
+      "directCount": 3,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "SCI-gravity-mass-and-weight",
+      "count": 2,
+      "directCount": 2,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "SCI-elastic-force",
+      "count": 1,
+      "directCount": 1,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "SCI-friction",
+      "count": 4,
+      "directCount": 0,
+      "contextualCount": 4
+    },
+    {
+      "conceptId": "SCI-buoyancy",
+      "count": 2,
+      "directCount": 1,
+      "contextualCount": 1
+    },
+    {
+      "conceptId": "SCI-force-equilibrium",
+      "count": 3,
+      "directCount": 1,
+      "contextualCount": 2
+    },
+    {
+      "conceptId": "SCI-particle-model-of-gases",
+      "count": 2,
+      "directCount": 0,
+      "contextualCount": 2
+    },
+    {
+      "conceptId": "SCI-gas-pressure",
+      "count": 1,
+      "directCount": 0,
+      "contextualCount": 1
+    },
+    {
+      "conceptId": "SCI-atmospheric-pressure",
+      "count": 1,
+      "directCount": 0,
+      "contextualCount": 1
+    },
+    {
+      "conceptId": "SCI-boyles-law",
+      "count": 0,
+      "directCount": 0,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "SCI-charles-law",
+      "count": 0,
+      "directCount": 0,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "SCI-diffusion-and-evaporation",
+      "count": 2,
+      "directCount": 0,
+      "contextualCount": 2
+    },
+    {
+      "conceptId": "SCI-solar-system-objects",
+      "count": 5,
+      "directCount": 5,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "SCI-terrestrial-and-jovian-planets",
+      "count": 0,
+      "directCount": 0,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "SCI-structure-of-the-sun",
+      "count": 0,
+      "directCount": 0,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "SCI-solar-activity-and-earth",
+      "count": 0,
+      "directCount": 0,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "SCI-apparent-motion-of-celestial-objects",
+      "count": 1,
+      "directCount": 0,
+      "contextualCount": 1
+    },
+    {
+      "conceptId": "SCI-lunar-phases",
+      "count": 0,
+      "directCount": 0,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "SCI-solar-and-lunar-eclipses",
+      "count": 0,
+      "directCount": 0,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "SOC-geographic-location",
+      "count": 5,
+      "directCount": 5,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "SOC-physical-and-human-environments",
+      "count": 6,
+      "directCount": 6,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "SOC-geographic-scale-and-spatial-interaction",
+      "count": 7,
+      "directCount": 5,
+      "contextualCount": 2
+    },
+    {
+      "conceptId": "SOC-globalization-and-glocalization",
+      "count": 1,
+      "directCount": 0,
+      "contextualCount": 1
+    },
+    {
+      "conceptId": "SOC-geographic-information-and-maps",
+      "count": 2,
+      "directCount": 1,
+      "contextualCount": 1
+    },
+    {
+      "conceptId": "SOC-cultural-landscapes-and-diversity",
+      "count": 7,
+      "directCount": 7,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "SOC-population-structure-and-population-pyramids",
+      "count": 2,
+      "directCount": 2,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "SOC-industrial-structure-and-global-value-chains",
+      "count": 7,
+      "directCount": 5,
+      "contextualCount": 2
+    },
+    {
+      "conceptId": "SOC-sustainable-cities",
+      "count": 1,
+      "directCount": 0,
+      "contextualCount": 1
+    },
+    {
+      "conceptId": "SOC-european-union-and-regional-integration",
+      "count": 0,
+      "directCount": 0,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "SOC-stereotypes-and-regional-perspectives",
+      "count": 1,
+      "directCount": 1,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "SOC-sustainable-development-and-international-cooperation",
+      "count": 7,
+      "directCount": 0,
+      "contextualCount": 7
+    },
+    {
+      "conceptId": "SOC-migration-and-cultural-hybridity",
+      "count": 1,
+      "directCount": 1,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "SOC-transnational-corporations-and-global-production",
+      "count": 0,
+      "directCount": 0,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "SOC-resource-exports-and-interdependence",
+      "count": 2,
+      "directCount": 2,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "SOC-pacific-environmental-challenges",
+      "count": 1,
+      "directCount": 0,
+      "contextualCount": 1
+    },
+    {
+      "conceptId": "SOC-polar-regions-and-geopolitics",
+      "count": 0,
+      "directCount": 0,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "SOC-socialization-and-social-identity",
+      "count": 4,
+      "directCount": 3,
+      "contextualCount": 1
+    },
+    {
+      "conceptId": "SOC-social-status-and-social-role",
+      "count": 6,
+      "directCount": 5,
+      "contextualCount": 1
+    },
+    {
+      "conceptId": "SOC-role-conflict",
+      "count": 0,
+      "directCount": 0,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "SOC-social-conflict-and-discrimination",
+      "count": 4,
+      "directCount": 3,
+      "contextualCount": 1
+    },
+    {
+      "conceptId": "SOC-culture-and-cultural-change",
+      "count": 4,
+      "directCount": 0,
+      "contextualCount": 4
+    },
+    {
+      "conceptId": "SOC-media-and-information-literacy",
+      "count": 3,
+      "directCount": 1,
+      "contextualCount": 2
+    },
+    {
+      "conceptId": "SOC-cultural-relativism-and-ethnocentrism",
+      "count": 0,
+      "directCount": 0,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "SOC-democracy-and-citizenship",
+      "count": 3,
+      "directCount": 3,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "SOC-popular-sovereignty-and-constitutionalism",
+      "count": 2,
+      "directCount": 0,
+      "contextualCount": 2
+    },
+    {
+      "conceptId": "SOC-separation-of-powers",
+      "count": 0,
+      "directCount": 0,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "SOC-representative-and-participatory-democracy",
+      "count": 3,
+      "directCount": 2,
+      "contextualCount": 1
+    },
+    {
+      "conceptId": "SOC-free-and-fair-elections",
+      "count": 2,
+      "directCount": 2,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "SOC-political-parties-interest-groups-and-civil-society",
+      "count": 0,
+      "directCount": 0,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "SOC-political-process-and-public-opinion",
+      "count": 5,
+      "directCount": 4,
+      "contextualCount": 1
+    },
+    {
+      "conceptId": "SOC-local-self-government-and-civic-participation",
+      "count": 4,
+      "directCount": 3,
+      "contextualCount": 1
+    },
+    {
+      "conceptId": "SOC-law-morality-and-the-rule-of-law",
+      "count": 12,
+      "directCount": 12,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "SOC-public-private-and-social-law",
+      "count": 2,
+      "directCount": 2,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "SOC-civil-and-criminal-trials",
+      "count": 6,
+      "directCount": 6,
+      "contextualCount": 0
+    },
+    {
+      "conceptId": "SOC-judicial-independence-and-appeals",
+      "count": 1,
+      "directCount": 0,
+      "contextualCount": 1
+    },
+    {
+      "conceptId": "SOC-human-rights-and-constitutional-rights",
+      "count": 3,
+      "directCount": 0,
+      "contextualCount": 3
+    },
+    {
+      "conceptId": "SOC-limitations-and-remedies-for-rights",
+      "count": 4,
+      "directCount": 1,
+      "contextualCount": 3
+    },
+    {
+      "conceptId": "SOC-labor-rights",
+      "count": 5,
+      "directCount": 4,
+      "contextualCount": 1
+    }
+  ],
+  "unusedConceptIds": [
+    "KOR-revision",
+    "KOR-writing-ethics",
+    "KOR-word-formation",
+    "KOR-parts-of-speech",
+    "KOR-passive-and-quoting",
+    "KOR-media-rights-and-ethics",
+    "MATH-prime-factorization",
+    "MATH-greatest-common-divisor-and-least-common-multiple",
+    "MATH-integers",
+    "MATH-rational-numbers",
+    "MATH-number-line-and-absolute-value",
+    "MATH-variables-and-algebraic-expressions",
+    "MATH-terms-coefficients-and-like-terms",
+    "MATH-evaluating-expressions",
+    "MATH-linear-expressions",
+    "MATH-properties-of-equality",
+    "MATH-one-variable-linear-equations",
+    "MATH-coordinate-plane-and-ordered-pairs",
+    "MATH-parallel-lines-and-transversals",
+    "MATH-triangle-congruence-criteria",
+    "MATH-polygons",
+    "MATH-polyhedra",
+    "MATH-measures-of-center",
+    "MATH-stem-and-leaf-plots",
+    "MATH-frequency-distributions",
+    "MATH-histograms-and-frequency-polygons",
+    "MATH-relative-frequency",
+    "SCI-cell",
+    "SCI-plant-and-animal-cells",
+    "SCI-five-kingdom-system",
+    "SCI-sublimation",
+    "SCI-latent-heat",
+    "SCI-boyles-law",
+    "SCI-charles-law",
+    "SCI-terrestrial-and-jovian-planets",
+    "SCI-structure-of-the-sun",
+    "SCI-solar-activity-and-earth",
+    "SCI-lunar-phases",
+    "SCI-solar-and-lunar-eclipses",
+    "SOC-european-union-and-regional-integration",
+    "SOC-transnational-corporations-and-global-production",
+    "SOC-polar-regions-and-geopolitics",
+    "SOC-role-conflict",
+    "SOC-cultural-relativism-and-ethnocentrism",
+    "SOC-separation-of-powers",
+    "SOC-political-parties-interest-groups-and-civil-society"
+  ],
+  "lowUseConceptIds": [
+    "KOR-interview",
+    "KOR-summary",
+    "KOR-social-reading",
+    "KOR-argumentative-writing",
+    "KOR-growth-narrative",
+    "KOR-point-of-view",
+    "KOR-representation-and-fairness",
+    "MATH-equations-and-solutions",
+    "MATH-direct-and-inverse-proportion",
+    "MATH-geometric-constructions",
+    "MATH-congruent-figures",
+    "MATH-interior-and-exterior-angles",
+    "MATH-sectors-and-arcs",
+    "MATH-solids-of-revolution",
+    "MATH-surface-area-and-volume",
+    "SCI-artificial-intelligence-and-science",
+    "SCI-levels-of-biological-organization",
+    "SCI-biodiversity",
+    "SCI-heat-and-thermal-equilibrium",
+    "SCI-convection-and-radiation",
+    "SCI-changes-of-state",
+    "SCI-elastic-force",
+    "SCI-gas-pressure",
+    "SCI-atmospheric-pressure",
+    "SCI-apparent-motion-of-celestial-objects",
+    "SOC-globalization-and-glocalization",
+    "SOC-sustainable-cities",
+    "SOC-stereotypes-and-regional-perspectives",
+    "SOC-migration-and-cultural-hybridity",
+    "SOC-pacific-environmental-challenges",
+    "SOC-judicial-independence-and-appeals"
+  ],
+  "overusedConceptIds": [
+    "KOR-active-listening",
+    "KOR-dialogue-principles",
+    "KOR-explanation-and-argument",
+    "KOR-source-credibility",
+    "KOR-informative-writing",
+    "KOR-phonology-and-writing-systems",
+    "KOR-multimodal-media-production",
+    "MATH-basic-geometric-objects",
+    "SCI-scientific-inquiry",
+    "SCI-science-and-technology",
+    "SCI-sustainable-development",
+    "SCI-biodiversity-conservation",
+    "SCI-solar-system-objects",
+    "SOC-geographic-location",
+    "SOC-physical-and-human-environments",
+    "SOC-geographic-scale-and-spatial-interaction",
+    "SOC-cultural-landscapes-and-diversity",
+    "SOC-industrial-structure-and-global-value-chains",
+    "SOC-sustainable-development-and-international-cooperation",
+    "SOC-social-status-and-social-role",
+    "SOC-political-process-and-public-opinion",
+    "SOC-law-morality-and-the-rule-of-law",
+    "SOC-civil-and-criminal-trials",
+    "SOC-labor-rights"
+  ],
+  "balanceReviewNotesKo": [
+    "미사용 46개와 저사용 31개를 카탈로그 정의와 고정 단어 뜻에 다시 대조했으나, 직접성·사실성·한 장면 가능성이 동등한 재배정 대상이 없어 그대로 유지했다.",
+    "과다사용 24개를 재검토하면서 동음이의·표면 철자만 맞는 약한 연결은 fallback으로 되돌렸고, 남은 배정은 더 낮은 빈도 개념으로 옮기면 뜻이나 교과 직접성이 떨어져 유지했다.",
+    "153개 전부를 사용하기 위한 강제 배정은 하지 않았으며, 최종 분포는 의미 품질을 우선한 결과다."
+  ]
+}

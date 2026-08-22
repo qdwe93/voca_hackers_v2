@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 24,
+  "range": "21-30",
+  "set": 3,
+  "title": "DAY 24 · 21-30",
+  "words": [
+    {
+      "no": 21,
+      "word": "shortage",
+      "partOfSpeech": "n.",
+      "meaningKo": "부족",
+      "ipa": "/ˈʃɔːrtɪdʒ/",
+      "definition": "when there is not enough of something",
+      "sentence": "A water shortage made the villagers share every bucket.",
+      "wordImage": "images/21_shortage_word.png",
+      "sentenceImage": "images/21_shortage_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 22,
+      "word": "renewable",
+      "partOfSpeech": "adj.",
+      "meaningKo": "재생 가능한",
+      "ipa": "/rɪˈnuːəbl/",
+      "definition": "able to be made again and again",
+      "sentence": "Sunlight is a renewable kind of clean energy.",
+      "wordImage": "images/22_renewable_word.png",
+      "sentenceImage": "images/22_renewable_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 23,
+      "word": "potential",
+      "partOfSpeech": "n.",
+      "meaningKo": "잠재력",
+      "ipa": "/pəˈtenʃl/",
+      "definition": "the ability to become something great",
+      "sentence": "The little seed had potential to become huge.",
+      "wordImage": "images/23_potential_word.png",
+      "sentenceImage": "images/23_potential_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 24,
+      "word": "native",
+      "partOfSpeech": "adj.",
+      "meaningKo": "토종의",
+      "ipa": "/ˈneɪtɪv/",
+      "definition": "growing or living naturally in one place",
+      "sentence": "These native flowers grow only on this island.",
+      "wordImage": "images/24_native_word.png",
+      "sentenceImage": "images/24_native_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 25,
+      "word": "grain",
+      "partOfSpeech": "n.",
+      "meaningKo": "곡물",
+      "ipa": "/ɡreɪn/",
+      "definition": "seeds like rice or wheat that we eat",
+      "sentence": "Golden grain filled the wagon after the autumn harvest.",
+      "wordImage": "images/25_grain_word.png",
+      "sentenceImage": "images/25_grain_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 26,
+      "word": "extreme",
+      "partOfSpeech": "adj.",
+      "meaningKo": "극심한",
+      "ipa": "/ɪkˈstriːm/",
+      "definition": "very great, far past the usual",
+      "sentence": "Extreme heat kept everyone inside the cool stone house.",
+      "wordImage": "images/26_extreme_word.png",
+      "sentenceImage": "images/26_extreme_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 27,
+      "word": "typical",
+      "partOfSpeech": "adj.",
+      "meaningKo": "전형적인",
+      "ipa": "/ˈtɪpɪkl/",
+      "definition": "like most others of its kind",
+      "sentence": "A typical morning here begins with singing birds.",
+      "wordImage": "images/27_typical_word.png",
+      "sentenceImage": "images/27_typical_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 28,
+      "word": "contact",
+      "partOfSpeech": "n.",
+      "meaningKo": "접촉",
+      "definition": "the state of touching or communicating",
+      "sentence": "The two gears make contact and begin turning together.",
+      "ipa": "/kɑntækt/",
+      "wordImage": "images/28_contact_word.png",
+      "sentenceImage": "images/28_contact_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 29,
+      "word": "content",
+      "partOfSpeech": "n.",
+      "meaningKo": "내용",
+      "definition": "the information or material inside something",
+      "sentence": "The box's content includes tools ropes and a lantern.",
+      "ipa": "/ˈkɑːntent/",
+      "wordImage": "images/29_content_word.png",
+      "sentenceImage": "images/29_content_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 30,
+      "word": "context",
+      "partOfSpeech": "n.",
+      "meaningKo": "맥락",
+      "ipa": "/ˈkɑːntekst/",
+      "definition": "the situation around something that helps explain",
+      "sentence": "The full context made the funny story much clearer.",
+      "wordImage": "images/30_context_word.png",
+      "sentenceImage": "images/30_context_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

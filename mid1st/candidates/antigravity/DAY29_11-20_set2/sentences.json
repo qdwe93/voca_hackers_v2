@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 29,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY29-11",
+      "no": 11,
+      "word": "launch",
+      "sentence": "Space agencies will launch an unmanned exploratory satellite to Mars tomorrow."
+    },
+    {
+      "wordId": "DAY29-12",
+      "no": 12,
+      "word": "deliver",
+      "sentence": "Mail carriers deliver letters and parcel packages to residential neighborhood mailboxes."
+    },
+    {
+      "wordId": "DAY29-13",
+      "no": 13,
+      "word": "measure",
+      "sentence": "Students measure the liquid volume using a graduated glass cylinder carefully."
+    },
+    {
+      "wordId": "DAY29-14",
+      "no": 14,
+      "word": "claim",
+      "sentence": "Debaters claim that renewable energy is more sustainable than fossil fuels."
+    },
+    {
+      "wordId": "DAY29-15",
+      "no": 15,
+      "word": "satisfy",
+      "sentence": "Quality customer service strives to satisfy the expectations of every client."
+    },
+    {
+      "wordId": "DAY29-16",
+      "no": 16,
+      "word": "opposite",
+      "sentence": "The magnet's south pole repels the opposite magnetic north pole force."
+    },
+    {
+      "wordId": "DAY29-17",
+      "no": 17,
+      "word": "strategy",
+      "sentence": "The business formulated a marketing strategy to attract younger smartphone users."
+    },
+    {
+      "wordId": "DAY29-18",
+      "no": 18,
+      "word": "import",
+      "sentence": "Nations without domestic petroleum reserves import oil from foreign trading partners."
+    },
+    {
+      "wordId": "DAY29-19",
+      "no": 19,
+      "word": "trap",
+      "sentence": "The clever squirrel managed to escape from the wire cage trap."
+    },
+    {
+      "wordId": "DAY29-20",
+      "no": 20,
+      "word": "present",
+      "sentence": "She wrapped the birthday present in colorful decorative paper and ribbon."
+    }
+  ]
+}

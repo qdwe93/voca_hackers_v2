@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 5,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY05-01",
+      "no": 1,
+      "word": "muscle",
+      "sentence": "The strong bear displayed the muscle in its furry arm."
+    },
+    {
+      "wordId": "DAY05-02",
+      "no": 2,
+      "word": "regular",
+      "sentence": "The small rabbit takes a regular morning run around the field."
+    },
+    {
+      "wordId": "DAY05-03",
+      "no": 3,
+      "word": "stretch",
+      "sentence": "The house cat often chooses to stretch its legs after a nap."
+    },
+    {
+      "wordId": "DAY05-04",
+      "no": 4,
+      "word": "reduce",
+      "sentence": "A young cook will reduce the sugar in the fruit pie."
+    },
+    {
+      "wordId": "DAY05-05",
+      "no": 5,
+      "word": "opponent",
+      "sentence": "The helpful opponent shook hands after the chess match ended."
+    },
+    {
+      "wordId": "DAY05-06",
+      "no": 6,
+      "word": "recommend",
+      "sentence": "A sports teacher will recommend soft shoes for the long walk."
+    },
+    {
+      "wordId": "DAY05-07",
+      "no": 7,
+      "word": "warn",
+      "sentence": "One yellow sign will warn hikers about the slippery path."
+    },
+    {
+      "wordId": "DAY05-08",
+      "no": 8,
+      "word": "cause",
+      "sentence": "Today, too little sleep was the cause of the sleepy yawns."
+    },
+    {
+      "wordId": "DAY05-09",
+      "no": 9,
+      "word": "lose",
+      "sentence": "Today, do not lose the small key to the garden gate."
+    },
+    {
+      "wordId": "DAY05-10",
+      "no": 10,
+      "word": "loose",
+      "sentence": "The young dog wore a loose collar around its soft neck."
+    }
+  ]
+}

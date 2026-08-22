@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 27,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 27 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "result",
+      "partOfSpeech": "n.",
+      "meaningKo": "결과, 성과",
+      "ipa": "/rɪˈzʌlt/",
+      "definition": "something that happens or exists because of something else",
+      "sentence": "Hard daily practice led to a wonderful winning match result.",
+      "wordImage": "images/11_result_word.png",
+      "sentenceImage": "images/11_result_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "survey",
+      "partOfSpeech": "n.",
+      "meaningKo": "설문 조사, 측량",
+      "ipa": "/ˈsɝː.veɪ/",
+      "definition": "an investigation of the opinions or experience of people",
+      "sentence": "Students conducted a classroom survey about their favorite school lunches.",
+      "wordImage": "images/12_survey_word.png",
+      "sentenceImage": "images/12_survey_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "notice",
+      "partOfSpeech": "n.",
+      "meaningKo": "안내문, 공지, 통지",
+      "ipa": "/ˈnoʊ.t̬ɪs/",
+      "definition": "information or a warning given about something that is happening",
+      "sentence": "The teacher pinned an important field trip notice on board.",
+      "wordImage": "images/13_notice_word.png",
+      "sentenceImage": "images/13_notice_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "guard",
+      "partOfSpeech": "v.",
+      "meaningKo": "지키다, 보호하다, 경비원",
+      "ipa": "/ɡɑːrd/",
+      "definition": "to protect a place or person from harm or danger",
+      "sentence": "The loyal dog will guard the cozy farmhouse all night.",
+      "wordImage": "images/14_guard_word.png",
+      "sentenceImage": "images/14_guard_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "profit",
+      "partOfSpeech": "n.",
+      "meaningKo": "이익, 수익",
+      "ipa": "/ˈprɑː.fɪt/",
+      "definition": "money that is earned in business after paying the costs",
+      "sentence": "Students donated all the lemonade stand profit to animal shelters.",
+      "wordImage": "images/15_profit_word.png",
+      "sentenceImage": "images/15_profit_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "deny",
+      "partOfSpeech": "v.",
+      "meaningKo": "부인하다, 거부하다",
+      "ipa": "/dɪˈnaɪ/",
+      "definition": "to say that something is not true, or refuse permission",
+      "sentence": "No one can deny that sunset over ocean is breathtaking.",
+      "wordImage": "images/16_deny_word.png",
+      "sentenceImage": "images/16_deny_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "opinion",
+      "partOfSpeech": "n.",
+      "meaningKo": "의견, 견해",
+      "ipa": "/əˈpɪn.jən/",
+      "definition": "a thought or belief about something or someone",
+      "sentence": "Everyone had a chance to share an opinion in discussion.",
+      "wordImage": "images/17_opinion_word.png",
+      "sentenceImage": "images/17_opinion_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "rural",
+      "partOfSpeech": "adj.",
+      "meaningKo": "시골의, 전원의",
+      "ipa": "/ˈrʊr.əl/",
+      "definition": "relating to the countryside rather than the town or city",
+      "sentence": "We enjoyed a peaceful summer vacation in a quiet rural village.",
+      "wordImage": "images/18_rural_word.png",
+      "sentenceImage": "images/18_rural_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "urban",
+      "partOfSpeech": "adj.",
+      "meaningKo": "도시의, 도회지의",
+      "ipa": "/ˈɝː.bən/",
+      "definition": "relating to, or characteristic of a town or city",
+      "sentence": "The urban community park had flower gardens and modern bicycle lanes.",
+      "wordImage": "images/19_urban_word.png",
+      "sentenceImage": "images/19_urban_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "issue",
+      "partOfSpeech": "n.",
+      "meaningKo": "문제, 쟁점, 발행호",
+      "ipa": "/ˈɪʃ.uː/",
+      "definition": "an important topic or problem for debate or discussion",
+      "sentence": "Plastic waste reduction is an urgent environmental issue for everyone.",
+      "wordImage": "images/20_issue_word.png",
+      "sentenceImage": "images/20_issue_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

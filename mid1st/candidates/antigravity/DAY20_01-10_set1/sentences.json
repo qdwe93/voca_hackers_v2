@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 20,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY20-01",
+      "no": 1,
+      "word": "traffic",
+      "sentence": "The city map shows heavy traffic along major highway network routes."
+    },
+    {
+      "wordId": "DAY20-02",
+      "no": 2,
+      "word": "major",
+      "sentence": "Subway expansion is a major public transportation infrastructure project for city."
+    },
+    {
+      "wordId": "DAY20-03",
+      "no": 3,
+      "word": "route",
+      "sentence": "The delivery truck follows a designated route to deliver packages promptly."
+    },
+    {
+      "wordId": "DAY20-04",
+      "no": 4,
+      "word": "rush",
+      "sentence": "Passengers rush toward the train platform when boarding call is announced."
+    },
+    {
+      "wordId": "DAY20-05",
+      "no": 5,
+      "word": "vehicle",
+      "sentence": "An electric vehicle produces zero tailpipe emissions while driving on streets."
+    },
+    {
+      "wordId": "DAY20-06",
+      "no": 6,
+      "word": "transport",
+      "sentence": "Cargo freight trains transport heavy raw materials across long continental distances."
+    },
+    {
+      "wordId": "DAY20-07",
+      "no": 7,
+      "word": "utilize",
+      "sentence": "Commuters utilize mobile navigation apps to find faster bus transit routes."
+    },
+    {
+      "wordId": "DAY20-08",
+      "no": 8,
+      "word": "remote",
+      "sentence": "Small propeller aircraft provide essential supply transport to remote island communities."
+    },
+    {
+      "wordId": "DAY20-09",
+      "no": 9,
+      "word": "leap",
+      "sentence": "Athletes leap over high hurdles during track and field competitions."
+    },
+    {
+      "wordId": "DAY20-10",
+      "no": 10,
+      "word": "leak",
+      "sentence": "A rusty pipe began to leak clean water onto floor."
+    }
+  ]
+}

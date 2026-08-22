@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 1,
+  "range": "21-30",
+  "set": 3,
+  "title": "DAY 01 · 21-30",
+  "words": [
+    {
+      "no": 21,
+      "word": "receipt",
+      "partOfSpeech": "n.",
+      "meaningKo": "영수증",
+      "ipa": "/rɪˈsiːt/",
+      "definition": "a small paper showing what you paid for",
+      "sentence": "The clerk handed a long receipt to the smiling shopper.",
+      "wordImage": "images/21_receipt_word.png",
+      "sentenceImage": "images/21_receipt_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 22,
+      "word": "bitter",
+      "partOfSpeech": "adj.",
+      "meaningKo": "쓴",
+      "ipa": "/ˈbɪtər/",
+      "definition": "having a sharp taste that is not sweet",
+      "sentence": "The tiny bear frowned at the bitter green tea leaves.",
+      "wordImage": "images/22_bitter_word.png",
+      "sentenceImage": "images/22_bitter_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 23,
+      "word": "appearance",
+      "partOfSpeech": "n.",
+      "meaningKo": "외모",
+      "ipa": "/əˈpɪrəns/",
+      "definition": "the way someone or something looks",
+      "sentence": "The puppy changed its appearance with a bright party hat.",
+      "wordImage": "images/23_appearance_word.png",
+      "sentenceImage": "images/23_appearance_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 24,
+      "word": "iron",
+      "partOfSpeech": "n.",
+      "meaningKo": "다리미",
+      "ipa": "/ˈaɪərn/",
+      "definition": "a hot tool that makes clothes flat and smooth",
+      "sentence": "A robot pressed the wrinkled shirt with a warm iron.",
+      "wordImage": "images/24_iron_word.png",
+      "sentenceImage": "images/24_iron_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 25,
+      "word": "palm",
+      "partOfSpeech": "n.",
+      "meaningKo": "손바닥",
+      "ipa": "/pɑːm/",
+      "definition": "the inside flat part of your hand",
+      "sentence": "A tiny bird sat safely on the boy's open palm.",
+      "wordImage": "images/25_palm_word.png",
+      "sentenceImage": "images/25_palm_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 26,
+      "word": "fancy",
+      "partOfSpeech": "adj.",
+      "meaningKo": "화려한",
+      "ipa": "/ˈfænsi/",
+      "definition": "very decorated and not simple",
+      "sentence": "The mouse wore a fancy hat covered in silver ribbons.",
+      "wordImage": "images/26_fancy_word.png",
+      "sentenceImage": "images/26_fancy_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 27,
+      "word": "soak",
+      "partOfSpeech": "v.",
+      "meaningKo": "담그다",
+      "ipa": "/soʊk/",
+      "definition": "to leave something in water for a while",
+      "sentence": "The chef let the beans soak inside a big bowl.",
+      "wordImage": "images/27_soak_word.png",
+      "sentenceImage": "images/27_soak_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 28,
+      "word": "appeal",
+      "partOfSpeech": "v.",
+      "meaningKo": "마음을 끌다",
+      "ipa": "/əˈpiːl/",
+      "definition": "to be liked or wanted by someone",
+      "sentence": "Bright colors appeal to young children at the paint shop.",
+      "wordImage": "images/28_appeal_word.png",
+      "sentenceImage": "images/28_appeal_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 29,
+      "word": "compare",
+      "partOfSpeech": "v.",
+      "meaningKo": "비교하다",
+      "ipa": "/kəmˈper/",
+      "definition": "to look at how things are same or different",
+      "sentence": "The twins compare two seashells to find the bigger one.",
+      "wordImage": "images/29_compare_word.png",
+      "sentenceImage": "images/29_compare_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 30,
+      "word": "compel",
+      "partOfSpeech": "v.",
+      "meaningKo": "강요하다",
+      "ipa": "/kəmˈpel/",
+      "definition": "to make someone do something",
+      "sentence": "The rules compel every player to move only one space.",
+      "wordImage": "images/30_compel_word.png",
+      "sentenceImage": "images/30_compel_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

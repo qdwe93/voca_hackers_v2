@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 8,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY08-01",
+      "no": 1,
+      "word": "comment",
+      "sentence": "An instructor wrote a kind comment next to the colorful drawing."
+    },
+    {
+      "wordId": "DAY08-02",
+      "no": 2,
+      "word": "popular",
+      "sentence": "Today, strawberry ice cream is the most popular flavor here."
+    },
+    {
+      "wordId": "DAY08-03",
+      "no": 3,
+      "word": "develop",
+      "sentence": "Today, the inventors will develop a quieter engine for the boat."
+    },
+    {
+      "wordId": "DAY08-04",
+      "no": 4,
+      "word": "moment",
+      "sentence": "Today, for one bright moment the fireflies lit the whole meadow."
+    },
+    {
+      "wordId": "DAY08-05",
+      "no": 5,
+      "word": "public",
+      "sentence": "Today, the public garden welcomes families every warm summer afternoon."
+    },
+    {
+      "wordId": "DAY08-06",
+      "no": 6,
+      "word": "promise",
+      "sentence": "Friends promise to share tasks and confirm their plan aloud."
+    },
+    {
+      "wordId": "DAY08-07",
+      "no": 7,
+      "word": "select",
+      "sentence": "Today, you may select one puppy from the playful little group."
+    },
+    {
+      "wordId": "DAY08-08",
+      "no": 8,
+      "word": "pleasure",
+      "sentence": "Today, reading in the hammock brings the fox great pleasure daily."
+    },
+    {
+      "wordId": "DAY08-09",
+      "no": 9,
+      "word": "involve",
+      "sentence": "The games involve every child in the helpful summer camp."
+    },
+    {
+      "wordId": "DAY08-10",
+      "no": 10,
+      "word": "evolve",
+      "sentence": "Bird populations evolve as helpful traits continue across generations."
+    }
+  ]
+}

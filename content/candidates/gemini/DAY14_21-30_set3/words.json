@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 14,
+  "range": "21-30",
+  "set": 3,
+  "title": "DAY 14 · 21-30",
+  "words": [
+    {
+      "no": 21,
+      "word": "routine",
+      "partOfSpeech": "n.",
+      "meaningKo": "일과, 루틴",
+      "ipa": "/ruːˈtiːn/",
+      "definition": "a fixed, regular way of doing things in sequence",
+      "sentence": "Brushing teeth before bed is a healthy daily bedtime routine.",
+      "wordImage": "images/21_routine_word.png",
+      "sentenceImage": "images/21_routine_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 22,
+      "word": "numerous",
+      "partOfSpeech": "adj.",
+      "meaningKo": "수많은, 다수의",
+      "ipa": "/ˈnuː.mɚ.əs/",
+      "definition": "existing in large numbers, very many",
+      "sentence": "We could see numerous sparkling stars shining in the night sky.",
+      "wordImage": "images/22_numerous_word.png",
+      "sentenceImage": "images/22_numerous_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 23,
+      "word": "legend",
+      "partOfSpeech": "n.",
+      "meaningKo": "전설",
+      "ipa": "/ˈledʒ.ənd/",
+      "definition": "a traditional story sometimes regarded as historical but not proven",
+      "sentence": "The village storyteller shared an exciting ancient legend about dragons.",
+      "wordImage": "images/23_legend_word.png",
+      "sentenceImage": "images/23_legend_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 24,
+      "word": "military",
+      "partOfSpeech": "adj.",
+      "meaningKo": "군사의, 군대의",
+      "ipa": "/ˈmɪl.ə.ter.i/",
+      "definition": "relating to soldiers, the army, or defense forces",
+      "sentence": "The parade featured a marching military brass band playing patriotic songs.",
+      "wordImage": "images/24_military_word.png",
+      "sentenceImage": "images/24_military_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 25,
+      "word": "weapon",
+      "partOfSpeech": "n.",
+      "meaningKo": "무기",
+      "ipa": "/ˈwep.ən/",
+      "definition": "an object used in defense or board game knight battles",
+      "sentence": "The foam sword was a fun toy weapon for knights.",
+      "wordImage": "images/25_weapon_word.png",
+      "sentenceImage": "images/25_weapon_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 26,
+      "word": "celebrate",
+      "partOfSpeech": "v.",
+      "meaningKo": "축하하다, 기념하다",
+      "ipa": "/ˈsel.ə.breɪt/",
+      "definition": "to do something enjoyable for an important special occasion",
+      "sentence": "The entire family gathered to celebrate grandmother’s eightieth happy birthday.",
+      "wordImage": "images/26_celebrate_word.png",
+      "sentenceImage": "images/26_celebrate_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 27,
+      "word": "combat",
+      "partOfSpeech": "n.",
+      "meaningKo": "전투, 대결",
+      "ipa": "/ˈkɑːm.bæt/",
+      "definition": "a contest or competition between opposing players or teams",
+      "sentence": "The chess game was an intense strategic combat between masters.",
+      "wordImage": "images/27_combat_word.png",
+      "sentenceImage": "images/27_combat_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 28,
+      "word": "historical",
+      "partOfSpeech": "adj.",
+      "meaningKo": "역사적인, 역사의",
+      "ipa": "/hɪˈstɔːr.ɪ.kəl/",
+      "definition": "connected with the study or recording of past events",
+      "sentence": "We visited a preserved historical wooden schoolhouse built in 1890.",
+      "wordImage": "images/28_historical_word.png",
+      "sentenceImage": "images/28_historical_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 29,
+      "word": "royal",
+      "partOfSpeech": "adj.",
+      "meaningKo": "왕실의, 국왕의",
+      "ipa": "/ˈrɔɪ.əl/",
+      "definition": "belonging or connected to a king, queen, or their family",
+      "sentence": "The royal crown was made of solid gold and rubies.",
+      "wordImage": "images/29_royal_word.png",
+      "sentenceImage": "images/29_royal_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 30,
+      "word": "loyal",
+      "partOfSpeech": "adj.",
+      "meaningKo": "충실한, 충성스러운",
+      "ipa": "/ˈlɔɪ.əl/",
+      "definition": "giving firm and constant support or friendship to someone",
+      "sentence": "The loyal golden retriever stayed right beside its young master always.",
+      "wordImage": "images/30_loyal_word.png",
+      "sentenceImage": "images/30_loyal_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

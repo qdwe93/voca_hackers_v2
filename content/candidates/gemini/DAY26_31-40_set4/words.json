@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 26,
+  "range": "31-40",
+  "set": 4,
+  "title": "DAY 26 · 31-40",
+  "words": [
+    {
+      "no": 31,
+      "word": "stamp",
+      "partOfSpeech": "n.",
+      "meaningKo": "우표, 도장",
+      "ipa": "/stæmp/",
+      "definition": "a small piece of paper stuck to an envelope for postage",
+      "sentence": "She placed a colorful postage stamp on the birthday postcard.",
+      "wordImage": "images/31_stamp_word.png",
+      "sentenceImage": "images/31_stamp_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 32,
+      "word": "secure",
+      "partOfSpeech": "adj.",
+      "meaningKo": "안전한, 튼튼한",
+      "ipa": "/səˈkjʊr/",
+      "definition": "safe from danger, firmly fastened, and not likely to fail",
+      "sentence": "Make sure the bicycle lock is secure before leaving the rack.",
+      "wordImage": "images/32_secure_word.png",
+      "sentenceImage": "images/32_secure_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 33,
+      "word": "conference",
+      "partOfSpeech": "n.",
+      "meaningKo": "회의, 학회",
+      "ipa": "/ˈkɑːn.fɚ.əns/",
+      "definition": "a formal meeting for discussion or consultation among professionals",
+      "sentence": "Scientists attended an international climate conference to discuss clean energy.",
+      "wordImage": "images/33_conference_word.png",
+      "sentenceImage": "images/33_conference_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 34,
+      "word": "urge",
+      "partOfSpeech": "v.",
+      "meaningKo": "촉구하다, 권고하다",
+      "ipa": "/ɝːdʒ/",
+      "definition": "to strongly advise or encourage someone to do something",
+      "sentence": "Doctors urge everyone to drink plenty of clean fresh water.",
+      "wordImage": "images/34_urge_word.png",
+      "sentenceImage": "images/34_urge_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 35,
+      "word": "confront",
+      "partOfSpeech": "v.",
+      "meaningKo": "맞서다, 직면하다",
+      "ipa": "/kənˈfrʌnt/",
+      "definition": "to face, meet, or deal with a difficult situation bravely",
+      "sentence": "The brave knight was ready to confront any obstacle ahead.",
+      "wordImage": "images/35_confront_word.png",
+      "sentenceImage": "images/35_confront_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 36,
+      "word": "persuade",
+      "partOfSpeech": "v.",
+      "meaningKo": "설득하다",
+      "ipa": "/pɚˈsweɪd/",
+      "definition": "to make someone agree to do something by giving reasons",
+      "sentence": "She was able to persuade her friend to join the club.",
+      "wordImage": "images/36_persuade_word.png",
+      "sentenceImage": "images/36_persuade_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 37,
+      "word": "scan",
+      "partOfSpeech": "v.",
+      "meaningKo": "훑어보다, 스캔하다",
+      "ipa": "/skæn/",
+      "definition": "to look through something quickly, or use an electronic scanner",
+      "sentence": "The librarian will scan the barcode on the borrowed book.",
+      "wordImage": "images/37_scan_word.png",
+      "sentenceImage": "images/37_scan_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 38,
+      "word": "prohibit",
+      "partOfSpeech": "v.",
+      "meaningKo": "금지하다",
+      "ipa": "/prəˈhɪb.ɪt/",
+      "definition": "to officially forbid something by law or rule",
+      "sentence": "Park rules prohibit feeding wild ducks to keep water clean.",
+      "wordImage": "images/38_prohibit_word.png",
+      "sentenceImage": "images/38_prohibit_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 39,
+      "word": "moreover",
+      "partOfSpeech": "adv.",
+      "meaningKo": "게다가, 더욱이",
+      "ipa": "/mɔːrˈoʊ.vɚ/",
+      "definition": "in addition to what has been said, besides",
+      "sentence": "Cycling is fun and, moreover, it keeps our body healthy.",
+      "wordImage": "images/39_moreover_word.png",
+      "sentenceImage": "images/39_moreover_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 40,
+      "word": "determine",
+      "partOfSpeech": "v.",
+      "meaningKo": "결정하다, 알아내다",
+      "ipa": "/dɪˈtɝː.mɪn/",
+      "definition": "to decide something officially, or discover the facts about something",
+      "sentence": "Scientists conducted tests to determine the age of the ancient fossil.",
+      "wordImage": "images/40_determine_word.png",
+      "sentenceImage": "images/40_determine_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

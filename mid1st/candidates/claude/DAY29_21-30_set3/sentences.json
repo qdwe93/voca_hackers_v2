@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 29,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY29-21",
+      "no": 21,
+      "word": "consult",
+      "sentence": "New shop owners consult an expert before signing any lease."
+    },
+    {
+      "wordId": "DAY29-22",
+      "no": 22,
+      "word": "organic",
+      "sentence": "This organic farm grows carrots without any chemical spray."
+    },
+    {
+      "wordId": "DAY29-23",
+      "no": 23,
+      "word": "manufacture",
+      "sentence": "This factory can manufacture two thousand wooden pencils each day."
+    },
+    {
+      "wordId": "DAY29-24",
+      "no": 24,
+      "word": "negative",
+      "sentence": "Late deliveries left a negative note in the customer book."
+    },
+    {
+      "wordId": "DAY29-25",
+      "no": 25,
+      "word": "peasant",
+      "sentence": "In this old painting, a peasant carries rice through the field."
+    },
+    {
+      "wordId": "DAY29-26",
+      "no": 26,
+      "word": "agriculture",
+      "sentence": "Agriculture here provides the beans that the sauce factory needs."
+    },
+    {
+      "wordId": "DAY29-27",
+      "no": 27,
+      "word": "alter",
+      "sentence": "The tailor will alter this jacket sleeve by two centimeters."
+    },
+    {
+      "wordId": "DAY29-28",
+      "no": 28,
+      "word": "combine",
+      "sentence": "Cooks combine rice flour and water to make soft dough."
+    },
+    {
+      "wordId": "DAY29-29",
+      "no": 29,
+      "word": "compete",
+      "sentence": "Three bakeries compete by offering fresher bread each morning."
+    },
+    {
+      "wordId": "DAY29-30",
+      "no": 30,
+      "word": "complete",
+      "sentence": "Workers complete the last shelf before the shop opens Friday."
+    }
+  ]
+}

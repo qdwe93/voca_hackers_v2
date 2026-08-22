@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 23,
+  "range": "21-30",
+  "set": 3,
+  "title": "DAY 23 · 21-30",
+  "words": [
+    {
+      "no": 21,
+      "word": "shift",
+      "partOfSpeech": "v.",
+      "meaningKo": "이동하다, 바꾸다, 변화",
+      "ipa": "/ʃɪft/",
+      "definition": "to move or change from one position or direction to another",
+      "sentence": "Winds began to shift from the north to the south.",
+      "wordImage": "images/21_shift_word.png",
+      "sentenceImage": "images/21_shift_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 22,
+      "word": "narrow",
+      "partOfSpeech": "adj.",
+      "meaningKo": "좁은, 좁아지다",
+      "ipa": "/ˈner.oʊ/",
+      "definition": "measuring only a small distance from one side to other",
+      "sentence": "The hikers carefully crossed the narrow wooden bridge over stream.",
+      "wordImage": "images/22_narrow_word.png",
+      "sentenceImage": "images/22_narrow_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 23,
+      "word": "drought",
+      "partOfSpeech": "n.",
+      "meaningKo": "가뭄",
+      "ipa": "/draʊt/",
+      "definition": "a long period of time when there is little or no rain",
+      "sentence": "Farmers built water reservoirs to protect crops during summer drought.",
+      "wordImage": "images/23_drought_word.png",
+      "sentenceImage": "images/23_drought_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 24,
+      "word": "boundary",
+      "partOfSpeech": "n.",
+      "meaningKo": "경계, 한계",
+      "ipa": "/ˈbaʊn.dɚ.i/",
+      "definition": "an edge or line marking the limits of an area",
+      "sentence": "A low wooden fence marked the boundary of the nature reserve.",
+      "wordImage": "images/24_boundary_word.png",
+      "sentenceImage": "images/24_boundary_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 25,
+      "word": "alarming",
+      "partOfSpeech": "adj.",
+      "meaningKo": "걱정스러운, 놀라운",
+      "ipa": "/əˈlɑːr.mɪŋ/",
+      "definition": "causing worry, fear, or serious concern about a situation",
+      "sentence": "The rapid drop in evening temperature was an alarming weather sign.",
+      "wordImage": "images/25_alarming_word.png",
+      "sentenceImage": "images/25_alarming_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 26,
+      "word": "harsh",
+      "partOfSpeech": "adj.",
+      "meaningKo": "가혹한, 거친",
+      "ipa": "/hɑːrʃ/",
+      "definition": "unpleasant, severe, or difficult to live in for creatures",
+      "sentence": "Penguins have thick feathers to survive the harsh arctic winter.",
+      "wordImage": "images/26_harsh_word.png",
+      "sentenceImage": "images/26_harsh_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 27,
+      "word": "cease",
+      "partOfSpeech": "v.",
+      "meaningKo": "중단되다, 멈추다",
+      "ipa": "/siːs/",
+      "definition": "to stop happening or to stop doing something completely",
+      "sentence": "The pouring rain began to cease as blue sky appeared.",
+      "wordImage": "images/27_cease_word.png",
+      "sentenceImage": "images/27_cease_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 28,
+      "word": "estimate",
+      "partOfSpeech": "v.",
+      "meaningKo": "추정하다, 어림잡다",
+      "ipa": "/ˈes.tə.meɪt/",
+      "definition": "to guess or calculate the cost, size, or amount roughly",
+      "sentence": "We can estimate that the hike will take about two hours.",
+      "wordImage": "images/28_estimate_word.png",
+      "sentenceImage": "images/28_estimate_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 29,
+      "word": "plane",
+      "partOfSpeech": "n.",
+      "meaningKo": "비행기, 평면",
+      "ipa": "/pleɪn/",
+      "definition": "a vehicle with wings that flies through the air",
+      "sentence": "The silver passenger plane soared gracefully above the white clouds.",
+      "wordImage": "images/29_plane_word.png",
+      "sentenceImage": "images/29_plane_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 30,
+      "word": "plain",
+      "partOfSpeech": "n.",
+      "meaningKo": "평원, 평지",
+      "ipa": "/pleɪn/",
+      "definition": "a large area of flat land with few or no trees",
+      "sentence": "Herds of wild bison grazed across the vast grassy plain.",
+      "wordImage": "images/30_plain_word.png",
+      "sentenceImage": "images/30_plain_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

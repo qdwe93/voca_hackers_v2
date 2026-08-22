@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 10,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 10 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "welfare",
+      "partOfSpeech": "n.",
+      "meaningKo": "복지",
+      "ipa": "/ˈwelfer/",
+      "definition": "the health and happiness of people",
+      "sentence": "The town cares about the welfare of every young child.",
+      "wordImage": "images/01_welfare_word.png",
+      "sentenceImage": "images/01_welfare_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "victim",
+      "partOfSpeech": "n.",
+      "meaningKo": "피해자",
+      "ipa": "/ˈvɪktɪm/",
+      "definition": "someone or something harmed by a bad event",
+      "sentence": "The little sapling was a victim of the strong storm.",
+      "wordImage": "images/02_victim_word.png",
+      "sentenceImage": "images/02_victim_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "population",
+      "partOfSpeech": "n.",
+      "meaningKo": "인구",
+      "ipa": "/ˌpɑːpjuˈleɪʃn/",
+      "definition": "the number of people living in a place",
+      "sentence": "The penguin population grew larger on the icy island.",
+      "wordImage": "images/03_population_word.png",
+      "sentenceImage": "images/03_population_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "neighbor",
+      "partOfSpeech": "n.",
+      "meaningKo": "이웃",
+      "ipa": "/ˈneɪbər/",
+      "definition": "a person who lives near your home",
+      "sentence": "Our kind neighbor shares fresh vegetables over the low fence.",
+      "wordImage": "images/04_neighbor_word.png",
+      "sentenceImage": "images/04_neighbor_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "ignore",
+      "partOfSpeech": "v.",
+      "meaningKo": "무시하다",
+      "ipa": "/ɪɡˈnɔːr/",
+      "definition": "to not pay attention to something",
+      "sentence": "The busy squirrel will ignore the noisy chattering birds.",
+      "wordImage": "images/05_ignore_word.png",
+      "sentenceImage": "images/05_ignore_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "donate",
+      "partOfSpeech": "v.",
+      "meaningKo": "기부하다",
+      "ipa": "/ˈdoʊneɪt/",
+      "definition": "to give something to help other people",
+      "sentence": "Many families donate warm coats to the winter clothing drive.",
+      "wordImage": "images/06_donate_word.png",
+      "sentenceImage": "images/06_donate_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "serious",
+      "partOfSpeech": "adj.",
+      "meaningKo": "심각한",
+      "ipa": "/ˈsɪriəs/",
+      "definition": "important and needing careful thought",
+      "sentence": "The serious young chess player studied the board carefully.",
+      "wordImage": "images/07_serious_word.png",
+      "sentenceImage": "images/07_serious_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "fund",
+      "partOfSpeech": "n.",
+      "meaningKo": "기금",
+      "ipa": "/fʌnd/",
+      "definition": "money saved for a special purpose",
+      "sentence": "The class started a fund for new library books.",
+      "wordImage": "images/08_fund_word.png",
+      "sentenceImage": "images/08_fund_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "personal",
+      "partOfSpeech": "adj.",
+      "meaningKo": "개인의",
+      "ipa": "/ˈpɜːrsənl/",
+      "definition": "belonging to only one person",
+      "sentence": "Each camper kept a personal cup on the wooden shelf.",
+      "wordImage": "images/09_personal_word.png",
+      "sentenceImage": "images/09_personal_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "personnel",
+      "partOfSpeech": "n.",
+      "meaningKo": "직원들",
+      "ipa": "/ˌpɜːrsəˈnel/",
+      "definition": "all the people who work somewhere",
+      "sentence": "The zoo personnel fed the animals early every single morning.",
+      "wordImage": "images/10_personnel_word.png",
+      "sentenceImage": "images/10_personnel_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

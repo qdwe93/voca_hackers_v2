@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 15,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY15-01",
+      "no": 1,
+      "word": "university",
+      "sentence": "She plans to study biological sciences at a prestigious university."
+    },
+    {
+      "wordId": "DAY15-02",
+      "no": 2,
+      "word": "education",
+      "sentence": "Quality public education empowers young citizens to build better futures."
+    },
+    {
+      "wordId": "DAY15-03",
+      "no": 3,
+      "word": "focus",
+      "sentence": "Students must focus on their homework assignments without phone distractions."
+    },
+    {
+      "wordId": "DAY15-04",
+      "no": 4,
+      "word": "entry",
+      "sentence": "Visitors must present an official entry pass at the gate."
+    },
+    {
+      "wordId": "DAY15-05",
+      "no": 5,
+      "word": "medical",
+      "sentence": "Doctors provide essential medical care to patients in community clinics."
+    },
+    {
+      "wordId": "DAY15-06",
+      "no": 6,
+      "word": "accept",
+      "sentence": "Universities accept qualified student applicants based on academic merit standards."
+    },
+    {
+      "wordId": "DAY15-07",
+      "no": 7,
+      "word": "pioneer",
+      "sentence": "Marie Curie was a courageous scientific pioneer in radioactivity research."
+    },
+    {
+      "wordId": "DAY15-08",
+      "no": 8,
+      "word": "mathematics",
+      "sentence": "Geometry and algebra are fundamental branches of middle school mathematics."
+    },
+    {
+      "wordId": "DAY15-09",
+      "no": 9,
+      "word": "professor",
+      "sentence": "The physics professor explained quantum mechanics principles to the class."
+    },
+    {
+      "wordId": "DAY15-10",
+      "no": 10,
+      "word": "profession",
+      "sentence": "Nursing is a demanding profession that requires dedication and compassion."
+    }
+  ]
+}

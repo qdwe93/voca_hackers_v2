@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 15,
+  "range": "21-30",
+  "set": 3,
+  "title": "DAY 15 · 21-30",
+  "words": [
+    {
+      "no": 21,
+      "word": "tune",
+      "partOfSpeech": "n.",
+      "meaningKo": "곡조",
+      "ipa": "/tuːn/",
+      "definition": "a short piece of music you hum",
+      "sentence": "The bird sang a cheerful tune outside the open window.",
+      "wordImage": "images/21_tune_word.png",
+      "sentenceImage": "images/21_tune_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 22,
+      "word": "submit",
+      "partOfSpeech": "v.",
+      "meaningKo": "제출하다",
+      "ipa": "/səbˈmɪt/",
+      "definition": "to hand in your work to someone",
+      "sentence": "Students submit their drawings before the class ends today.",
+      "wordImage": "images/22_submit_word.png",
+      "sentenceImage": "images/22_submit_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 23,
+      "word": "logical",
+      "partOfSpeech": "adj.",
+      "meaningKo": "논리적인",
+      "ipa": "/ˈlɑːdʒɪkl/",
+      "definition": "sensible and easy to follow",
+      "sentence": "The robot gave a logical answer to the tricky riddle.",
+      "wordImage": "images/23_logical_word.png",
+      "sentenceImage": "images/23_logical_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 24,
+      "word": "blame",
+      "partOfSpeech": "v.",
+      "meaningKo": "탓하다",
+      "ipa": "/bleɪm/",
+      "definition": "to say someone caused a problem",
+      "sentence": "Do not blame the wind for the tangled kite string.",
+      "wordImage": "images/24_blame_word.png",
+      "sentenceImage": "images/24_blame_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 25,
+      "word": "display",
+      "partOfSpeech": "v.",
+      "meaningKo": "전시하다",
+      "ipa": "/dɪˈspleɪ/",
+      "definition": "to put something where people can see it",
+      "sentence": "The class will display their clay animals on the shelf.",
+      "wordImage": "images/25_display_word.png",
+      "sentenceImage": "images/25_display_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 26,
+      "word": "likewise",
+      "partOfSpeech": "adv.",
+      "meaningKo": "마찬가지로",
+      "ipa": "/ˈlaɪkwaɪz/",
+      "definition": "in the same way",
+      "sentence": "The tall bear bowed; likewise, the small fox bowed politely.",
+      "wordImage": "images/26_likewise_word.png",
+      "sentenceImage": "images/26_likewise_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 27,
+      "word": "discipline",
+      "partOfSpeech": "n.",
+      "meaningKo": "규율",
+      "ipa": "/ˈdɪsəplɪn/",
+      "definition": "the habit of following rules carefully",
+      "sentence": "Daily discipline helped the young swimmer improve every single week.",
+      "wordImage": "images/27_discipline_word.png",
+      "sentenceImage": "images/27_discipline_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 28,
+      "word": "boost",
+      "partOfSpeech": "v.",
+      "meaningKo": "높이다",
+      "ipa": "/buːst/",
+      "definition": "to make something bigger or better",
+      "sentence": "Sunlight can boost the growth of these young tomato plants.",
+      "wordImage": "images/28_boost_word.png",
+      "sentenceImage": "images/28_boost_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 29,
+      "word": "shallow",
+      "partOfSpeech": "adj.",
+      "meaningKo": "얕은",
+      "ipa": "/ˈʃæloʊ/",
+      "definition": "not deep at all",
+      "sentence": "Ducklings paddled happily in the shallow end of the pond.",
+      "wordImage": "images/29_shallow_word.png",
+      "sentenceImage": "images/29_shallow_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 30,
+      "word": "swallow",
+      "partOfSpeech": "v.",
+      "meaningKo": "삼키다",
+      "ipa": "/ˈswɑːloʊ/",
+      "definition": "to make food go down your throat",
+      "sentence": "Chew slowly and swallow before you take another bite.",
+      "wordImage": "images/30_swallow_word.png",
+      "sentenceImage": "images/30_swallow_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

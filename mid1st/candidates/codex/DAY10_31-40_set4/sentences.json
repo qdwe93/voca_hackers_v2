@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 10,
+  "range": "31-40",
+  "set": 4,
+  "items": [
+    {
+      "wordId": "DAY10-31",
+      "no": 31,
+      "word": "capture",
+      "sentence": "The camera can capture the colorful rainbow above the hills."
+    },
+    {
+      "wordId": "DAY10-32",
+      "no": 32,
+      "word": "perspective",
+      "sentence": "Each character's perspective explains the same event differently."
+    },
+    {
+      "wordId": "DAY10-33",
+      "no": 33,
+      "word": "desperate",
+      "sentence": "Today, the thirsty plants were desperate for a long gentle rain."
+    },
+    {
+      "wordId": "DAY10-34",
+      "no": 34,
+      "word": "apparent",
+      "sentence": "Today, it was apparent that the puppy loved the squeaky toy."
+    },
+    {
+      "wordId": "DAY10-35",
+      "no": 35,
+      "word": "contradict",
+      "sentence": "Students contradict a weak claim by presenting stronger evidence."
+    },
+    {
+      "wordId": "DAY10-36",
+      "no": 36,
+      "word": "aggressive",
+      "sentence": "Students replace aggressive shouting with a fair discussion."
+    },
+    {
+      "wordId": "DAY10-37",
+      "no": 37,
+      "word": "companion",
+      "sentence": "One loyal dog became the shepherd's best mountain companion."
+    },
+    {
+      "wordId": "DAY10-38",
+      "no": 38,
+      "word": "compromise",
+      "sentence": "Two classmates found a fair compromise about the last cookie."
+    },
+    {
+      "wordId": "DAY10-39",
+      "no": 39,
+      "word": "commitment",
+      "sentence": "Daily practice displayed the young violinist's strong commitment."
+    },
+    {
+      "wordId": "DAY10-40",
+      "no": 40,
+      "word": "stock",
+      "sentence": "The clerk checks the store's stock before ordering more rice."
+    }
+  ]
+}

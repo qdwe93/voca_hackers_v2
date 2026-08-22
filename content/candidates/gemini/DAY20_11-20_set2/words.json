@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 20,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 20 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "guess",
+      "partOfSpeech": "v.",
+      "meaningKo": "추측하다, 맞히다",
+      "ipa": "/ɡes/",
+      "definition": "to give an answer about something when you are not certain",
+      "sentence": "Can you guess which mystery storybook is hidden inside box?",
+      "wordImage": "images/11_guess_word.png",
+      "sentenceImage": "images/11_guess_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "temperature",
+      "partOfSpeech": "n.",
+      "meaningKo": "온도, 기온",
+      "ipa": "/ˈtem.pɚ.ə.tʃɚ/",
+      "definition": "the measured degree of heat or cold in an object or place",
+      "sentence": "The outdoor garden thermometer showed a mild spring temperature of twenty.",
+      "wordImage": "images/12_temperature_word.png",
+      "sentenceImage": "images/12_temperature_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "passage",
+      "partOfSpeech": "n.",
+      "meaningKo": "통로, 구절",
+      "ipa": "/ˈpæs.ɪdʒ/",
+      "definition": "a narrow way or corridor allowing travel between places, or text",
+      "sentence": "The students walked through a brightly lit stone castle passage.",
+      "wordImage": "images/13_passage_word.png",
+      "sentenceImage": "images/13_passage_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "flat",
+      "partOfSpeech": "adj.",
+      "meaningKo": "평평한, 납작한",
+      "ipa": "/flæt/",
+      "definition": "smooth and level, without any raised areas or hollows",
+      "sentence": "We found a flat grassy meadow perfect for pitching our tent.",
+      "wordImage": "images/14_flat_word.png",
+      "sentenceImage": "images/14_flat_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "enormous",
+      "partOfSpeech": "adj.",
+      "meaningKo": "거대한, 엄청난",
+      "ipa": "/əˈnɔːr.məs/",
+      "definition": "extremely large in size, amount, or degree, gigantic",
+      "sentence": "The blue whale is an enormous gentle mammal of ocean.",
+      "wordImage": "images/15_enormous_word.png",
+      "sentenceImage": "images/15_enormous_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "accurate",
+      "partOfSpeech": "adj.",
+      "meaningKo": "정확한, 정밀한",
+      "ipa": "/ˈæk.jɚ.ət/",
+      "definition": "correct, exact, and without any mistakes or errors",
+      "sentence": "Digital atomic clocks provide an extremely accurate measurement of time.",
+      "wordImage": "images/16_accurate_word.png",
+      "sentenceImage": "images/16_accurate_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "freeze",
+      "partOfSpeech": "v.",
+      "meaningKo": "얼다, 얼리다",
+      "ipa": "/friːz/",
+      "definition": "to turn into ice as a result of extreme cold",
+      "sentence": "Water in the birdbath will freeze during cold winter nights.",
+      "wordImage": "images/17_freeze_word.png",
+      "sentenceImage": "images/17_freeze_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "gear",
+      "partOfSpeech": "n.",
+      "meaningKo": "장비, 기어, 톱니바퀴",
+      "ipa": "/ɡɪr/",
+      "definition": "the equipment needed for a particular activity, or toothed wheel",
+      "sentence": "Pack your safety helmet and protective knee pad gear today.",
+      "wordImage": "images/18_gear_word.png",
+      "sentenceImage": "images/18_gear_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "fuel",
+      "partOfSpeech": "n.",
+      "meaningKo": "연료",
+      "ipa": "/ˈfjuː.əl/",
+      "definition": "a substance that is burned or used to provide heat or power",
+      "sentence": "The clean hydrogen fuel powers the eco-friendly city transit bus.",
+      "wordImage": "images/19_fuel_word.png",
+      "sentenceImage": "images/19_fuel_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "miss",
+      "partOfSpeech": "v.",
+      "meaningKo": "놓치다, 빗나가다, 그리워하다",
+      "ipa": "/mɪs/",
+      "definition": "to arrive too late to catch a bus or fail to hit",
+      "sentence": "Leave home early so you do not miss the school bus.",
+      "wordImage": "images/20_miss_word.png",
+      "sentenceImage": "images/20_miss_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

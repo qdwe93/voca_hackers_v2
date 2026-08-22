@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 2,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY02-11",
+      "no": 11,
+      "word": "graduate",
+      "sentence": "Today, the young bears will graduate from forest school this spring."
+    },
+    {
+      "wordId": "DAY02-12",
+      "no": 12,
+      "word": "sense",
+      "sentence": "One dog uses its sense of smell to find treats."
+    },
+    {
+      "wordId": "DAY02-13",
+      "no": 13,
+      "word": "real",
+      "sentence": "Today, the magic flower looked fake but was completely real."
+    },
+    {
+      "wordId": "DAY02-14",
+      "no": 14,
+      "word": "annual",
+      "sentence": "Today, the village holds an annual kite festival every warm spring."
+    },
+    {
+      "wordId": "DAY02-15",
+      "no": 15,
+      "word": "collect",
+      "sentence": "The squirrel often chooses to collect shiny acorns in one basket."
+    },
+    {
+      "wordId": "DAY02-16",
+      "no": 16,
+      "word": "deadline",
+      "sentence": "The club completed the robot model before the class deadline."
+    },
+    {
+      "wordId": "DAY02-17",
+      "no": 17,
+      "word": "confident",
+      "sentence": "Before its first swimming lesson, the small penguin felt confident."
+    },
+    {
+      "wordId": "DAY02-18",
+      "no": 18,
+      "word": "include",
+      "sentence": "Today, our lunch boxes include fruit, bread, and a small cheese."
+    },
+    {
+      "wordId": "DAY02-19",
+      "no": 19,
+      "word": "shout",
+      "sentence": "Students shout once, then compare how far voices travel."
+    },
+    {
+      "wordId": "DAY02-20",
+      "no": 20,
+      "word": "subject",
+      "sentence": "Science is the subject where students investigate plants and forces."
+    }
+  ]
+}

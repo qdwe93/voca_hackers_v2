@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 9,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY09-11",
+      "no": 11,
+      "word": "pause",
+      "sentence": "Speakers pause briefly so listeners can think about the question."
+    },
+    {
+      "wordId": "DAY09-12",
+      "no": 12,
+      "word": "incentive",
+      "sentence": "A shared class picnic became our incentive for cleaning together."
+    },
+    {
+      "wordId": "DAY09-13",
+      "no": 13,
+      "word": "sacrifice",
+      "sentence": "Older students sacrifice their break time to help younger readers."
+    },
+    {
+      "wordId": "DAY09-14",
+      "no": 14,
+      "word": "generous",
+      "sentence": "Our neighbor is generous and shares fresh vegetables every week."
+    },
+    {
+      "wordId": "DAY09-15",
+      "no": 15,
+      "word": "appropriate",
+      "sentence": "Quiet voices are appropriate inside the hospital waiting room."
+    },
+    {
+      "wordId": "DAY09-16",
+      "no": 16,
+      "word": "chase",
+      "sentence": "Two puppies chase one another around the wide grassy yard."
+    },
+    {
+      "wordId": "DAY09-17",
+      "no": 17,
+      "word": "deserve",
+      "sentence": "Students who cleaned the park deserve the thank-you letter."
+    },
+    {
+      "wordId": "DAY09-18",
+      "no": 18,
+      "word": "pretend",
+      "sentence": "Children pretend the cardboard box is a small sailing boat."
+    },
+    {
+      "wordId": "DAY09-19",
+      "no": 19,
+      "word": "neglect",
+      "sentence": "If we neglect the class plants, their leaves turn yellow."
+    },
+    {
+      "wordId": "DAY09-20",
+      "no": 20,
+      "word": "lie",
+      "sentence": "Telling a lie about the score is unfair, not just impolite."
+    }
+  ]
+}

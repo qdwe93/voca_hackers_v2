@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 20,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 20 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "traffic",
+      "partOfSpeech": "n.",
+      "meaningKo": "교통, 교통량",
+      "ipa": "/ˈtræf.ɪk/",
+      "definition": "all the vehicles moving along roads, streets, or tracks",
+      "sentence": "The crossing guard ensured safe pedestrian traffic near the school.",
+      "wordImage": "images/01_traffic_word.png",
+      "sentenceImage": "images/01_traffic_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "major",
+      "partOfSpeech": "adj.",
+      "meaningKo": "주요한, 중대한",
+      "ipa": "/ˈmeɪ.dʒɚ/",
+      "definition": "more important, bigger, or more serious than others",
+      "sentence": "The highway is a major transportation route connecting two cities.",
+      "wordImage": "images/02_major_word.png",
+      "sentenceImage": "images/02_major_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "route",
+      "partOfSpeech": "n.",
+      "meaningKo": "경로, 노선",
+      "ipa": "/ruːt/",
+      "definition": "a particular way or path taken to get from place to place",
+      "sentence": "Hikers followed a scenic mountain route marked with yellow flags.",
+      "wordImage": "images/03_route_word.png",
+      "sentenceImage": "images/03_route_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "rush",
+      "partOfSpeech": "v.",
+      "meaningKo": "서두르다, 급히 가다",
+      "ipa": "/rʌʃ/",
+      "definition": "to move or do something with great speed and urgency",
+      "sentence": "Take your time and do not rush through your homework.",
+      "wordImage": "images/04_rush_word.png",
+      "sentenceImage": "images/04_rush_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "vehicle",
+      "partOfSpeech": "n.",
+      "meaningKo": "차량, 탈것",
+      "ipa": "/ˈviː.ə.kəl/",
+      "definition": "a machine with wheels used for transporting people or goods",
+      "sentence": "The electric delivery van is an eco-friendly vehicle in town.",
+      "wordImage": "images/05_vehicle_word.png",
+      "sentenceImage": "images/05_vehicle_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "transport",
+      "partOfSpeech": "v.",
+      "meaningKo": "수송하다, 나르다",
+      "ipa": "/trænˈspɔːrt/",
+      "definition": "to carry people or goods from one place to another",
+      "sentence": "Cargo trains transport fresh apples from orchards to city markets.",
+      "wordImage": "images/06_transport_word.png",
+      "sentenceImage": "images/06_transport_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "utilize",
+      "partOfSpeech": "v.",
+      "meaningKo": "활용하다, 이용하다",
+      "ipa": "/ˈjuː.t̬əl.aɪz/",
+      "definition": "to use something in an effective or practical way",
+      "sentence": "Students utilize digital library tablets to research science project topics.",
+      "wordImage": "images/07_utilize_word.png",
+      "sentenceImage": "images/07_utilize_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "remote",
+      "partOfSpeech": "adj.",
+      "meaningKo": "외딴, 원격의",
+      "ipa": "/rɪˈmoʊt/",
+      "definition": "far away in distance or time from where other people live",
+      "sentence": "Astronomers built an observatory on a remote mountain summit away from lights.",
+      "wordImage": "images/08_remote_word.png",
+      "sentenceImage": "images/08_remote_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "leap",
+      "partOfSpeech": "v.",
+      "meaningKo": "도약하다, 껑충 뛰다",
+      "ipa": "/liːp/",
+      "definition": "to make a large jump or jump high over something",
+      "sentence": "The playful dolphin would leap high above the ocean waves.",
+      "wordImage": "images/09_leap_word.png",
+      "sentenceImage": "images/09_leap_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "leak",
+      "partOfSpeech": "v.",
+      "meaningKo": "새다, 누출되다",
+      "ipa": "/liːk/",
+      "definition": "to allow liquid or gas to escape through a hole or crack",
+      "sentence": "The plumber tightened the pipe so water would not leak.",
+      "wordImage": "images/10_leak_word.png",
+      "sentenceImage": "images/10_leak_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

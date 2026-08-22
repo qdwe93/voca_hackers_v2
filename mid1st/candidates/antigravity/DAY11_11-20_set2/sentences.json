@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 11,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY11-11",
+      "no": 11,
+      "word": "fit",
+      "sentence": "These comfortable running shoes fit my feet perfectly for sports."
+    },
+    {
+      "wordId": "DAY11-12",
+      "no": 12,
+      "word": "movement",
+      "sentence": "The slow graceful movement of the dancer impressed the audience."
+    },
+    {
+      "wordId": "DAY11-13",
+      "no": 13,
+      "word": "brilliant",
+      "sentence": "The young scientist proposed a brilliant solution to save water."
+    },
+    {
+      "wordId": "DAY11-14",
+      "no": 14,
+      "word": "prior",
+      "sentence": "She had no prior experience before joining the school band."
+    },
+    {
+      "wordId": "DAY11-15",
+      "no": 15,
+      "word": "outline",
+      "sentence": "Write a brief outline of the story before drafting paragraphs."
+    },
+    {
+      "wordId": "DAY11-16",
+      "no": 16,
+      "word": "sort",
+      "sentence": "Biologists sort various living organisms into distinct kingdoms and families."
+    },
+    {
+      "wordId": "DAY11-17",
+      "no": 17,
+      "word": "portrait",
+      "sentence": "The famous artist painted a lifelike oil portrait of queen."
+    },
+    {
+      "wordId": "DAY11-18",
+      "no": 18,
+      "word": "tale",
+      "sentence": "Grandmother told an ancient folk tale by the warm fireplace."
+    },
+    {
+      "wordId": "DAY11-19",
+      "no": 19,
+      "word": "add",
+      "sentence": "You must add positive integers to calculate the total sum."
+    },
+    {
+      "wordId": "DAY11-20",
+      "no": 20,
+      "word": "volume",
+      "sentence": "The speaker adjusts the microphone volume so the audience hears clearly."
+    }
+  ]
+}

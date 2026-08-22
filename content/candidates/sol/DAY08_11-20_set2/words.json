@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 8,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 08 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "range",
+      "partOfSpeech": "n.",
+      "meaningKo": "범위",
+      "definition": "a group of different things between limits",
+      "sentence": "The paint set offers a range of bright colors.",
+      "ipa": "/reɪndʒ/",
+      "wordImage": "images/11_range_word.png",
+      "sentenceImage": "images/11_range_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "stuff",
+      "partOfSpeech": "n.",
+      "meaningKo": "물건들",
+      "definition": "things or materials whose names are not specified",
+      "sentence": "Camping stuff fills the open backpack beside the tent.",
+      "ipa": "/stʌf/",
+      "wordImage": "images/12_stuff_word.png",
+      "sentenceImage": "images/12_stuff_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "journal",
+      "partOfSpeech": "n.",
+      "meaningKo": "일지",
+      "definition": "a notebook for recording experiences and ideas",
+      "sentence": "The explorer sketches a bird in a travel journal.",
+      "ipa": "/dʒɝnəl/",
+      "wordImage": "images/13_journal_word.png",
+      "sentenceImage": "images/13_journal_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "describe",
+      "partOfSpeech": "v.",
+      "meaningKo": "묘사하다",
+      "definition": "to tell what someone or something is like",
+      "sentence": "The witness will describe the striped umbrella to the officer.",
+      "ipa": "/dɪskraɪb/",
+      "wordImage": "images/14_describe_word.png",
+      "sentenceImage": "images/14_describe_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "otherwise",
+      "partOfSpeech": "adv.",
+      "meaningKo": "그렇지 않으면",
+      "definition": "if not or in a different way",
+      "sentence": "Wear boots; otherwise your feet may get wet.",
+      "ipa": "/ʌðɚwaɪz/",
+      "wordImage": "images/15_otherwise_word.png",
+      "sentenceImage": "images/15_otherwise_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "share",
+      "partOfSpeech": "v.",
+      "meaningKo": "나누다",
+      "definition": "to let others use part of something",
+      "sentence": "Two friends share a large sandwich at lunch.",
+      "ipa": "/ʃɛr/",
+      "wordImage": "images/16_share_word.png",
+      "sentenceImage": "images/16_share_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "jealous",
+      "partOfSpeech": "adj.",
+      "meaningKo": "질투하는",
+      "definition": "upset because someone has something you want",
+      "sentence": "The jealous crow watches another bird's sparkling nest.",
+      "ipa": "/dʒɛləs/",
+      "wordImage": "images/17_jealous_word.png",
+      "sentenceImage": "images/17_jealous_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "translate",
+      "partOfSpeech": "v.",
+      "meaningKo": "번역하다",
+      "definition": "to change words into another language",
+      "sentence": "The guide will translate the visitor's greeting for the group.",
+      "ipa": "/trænzleɪt/",
+      "wordImage": "images/18_translate_word.png",
+      "sentenceImage": "images/18_translate_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "nod",
+      "partOfSpeech": "v.",
+      "meaningKo": "고개를 끄덕이다",
+      "definition": "to move the head down and up",
+      "sentence": "The listener will nod while agreeing with the speaker.",
+      "ipa": "/nɑd/",
+      "wordImage": "images/19_nod_word.png",
+      "sentenceImage": "images/19_nod_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "mean",
+      "partOfSpeech": "v.",
+      "meaningKo": "의미하다",
+      "definition": "to have a particular meaning",
+      "sentence": "A red traffic light can mean every vehicle must stop.",
+      "ipa": "/min/",
+      "wordImage": "images/20_mean_word.png",
+      "sentenceImage": "images/20_mean_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

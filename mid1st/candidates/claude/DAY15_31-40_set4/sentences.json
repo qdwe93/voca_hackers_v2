@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 15,
+  "range": "31-40",
+  "set": 4,
+  "items": [
+    {
+      "wordId": "DAY15-31",
+      "no": 31,
+      "word": "bias",
+      "sentence": "This news report shows bias because it quotes only one side."
+    },
+    {
+      "wordId": "DAY15-32",
+      "no": 32,
+      "word": "string",
+      "sentence": "We tied the plant to a stick with brown string."
+    },
+    {
+      "wordId": "DAY15-33",
+      "no": 33,
+      "word": "examination",
+      "sentence": "The science examination asked us to name three simple machines."
+    },
+    {
+      "wordId": "DAY15-34",
+      "no": 34,
+      "word": "rational",
+      "sentence": "A rational choice counts the actual costs before we buy anything."
+    },
+    {
+      "wordId": "DAY15-35",
+      "no": 35,
+      "word": "laboratory",
+      "sentence": "Inside the laboratory we wear goggles and tie back long hair."
+    },
+    {
+      "wordId": "DAY15-36",
+      "no": 36,
+      "word": "authority",
+      "sentence": "The mayor's authority comes from voters and stays inside the constitution."
+    },
+    {
+      "wordId": "DAY15-37",
+      "no": 37,
+      "word": "misunderstanding",
+      "sentence": "One misunderstanding about the meeting time left two students waiting."
+    },
+    {
+      "wordId": "DAY15-38",
+      "no": 38,
+      "word": "pursue",
+      "sentence": "Young researchers pursue answers through many careful repeated tests."
+    },
+    {
+      "wordId": "DAY15-39",
+      "no": 39,
+      "word": "deprived",
+      "sentence": "Children deprived of school books received free copies from the city."
+    },
+    {
+      "wordId": "DAY15-40",
+      "no": 40,
+      "word": "spell",
+      "sentence": "We spell 'listen' aloud and notice the silent letter t."
+    }
+  ]
+}

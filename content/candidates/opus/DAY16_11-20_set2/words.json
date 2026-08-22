@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 16,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 16 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "planet",
+      "partOfSpeech": "n.",
+      "meaningKo": "행성",
+      "ipa": "/ˈplænɪt/",
+      "definition": "a huge round body moving around a star",
+      "sentence": "The red planet looked bright through the small telescope.",
+      "wordImage": "images/11_planet_word.png",
+      "sentenceImage": "images/11_planet_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "conduct",
+      "partOfSpeech": "v.",
+      "meaningKo": "수행하다",
+      "ipa": "/kənˈdʌkt/",
+      "definition": "to carry out or do something",
+      "sentence": "Students conduct a simple test with magnets and pins.",
+      "wordImage": "images/12_conduct_word.png",
+      "sentenceImage": "images/12_conduct_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "solid",
+      "partOfSpeech": "adj.",
+      "meaningKo": "고체의",
+      "ipa": "/ˈsɑːlɪd/",
+      "definition": "hard and keeping its own shape",
+      "sentence": "The solid ice cube slowly floated in warm juice.",
+      "wordImage": "images/13_solid_word.png",
+      "sentenceImage": "images/13_solid_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "eternal",
+      "partOfSpeech": "adj.",
+      "meaningKo": "영원한",
+      "ipa": "/ɪˈtɜːrnl/",
+      "definition": "lasting forever without ending",
+      "sentence": "The story spoke of an eternal light inside the cave.",
+      "wordImage": "images/14_eternal_word.png",
+      "sentenceImage": "images/14_eternal_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "gravity",
+      "partOfSpeech": "n.",
+      "meaningKo": "중력",
+      "ipa": "/ˈɡrævəti/",
+      "definition": "the pull that brings things down to earth",
+      "sentence": "Gravity makes the apple fall from the tall branch.",
+      "wordImage": "images/15_gravity_word.png",
+      "sentenceImage": "images/15_gravity_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "melt",
+      "partOfSpeech": "v.",
+      "meaningKo": "녹다",
+      "ipa": "/melt/",
+      "definition": "to change from solid into liquid",
+      "sentence": "The snowman began to melt under the bright spring sun.",
+      "wordImage": "images/16_melt_word.png",
+      "sentenceImage": "images/16_melt_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "astronaut",
+      "partOfSpeech": "n.",
+      "meaningKo": "우주 비행사",
+      "ipa": "/ˈæstrənɔːt/",
+      "definition": "a person who travels into space",
+      "sentence": "An astronaut floated slowly inside the quiet space station.",
+      "wordImage": "images/17_astronaut_word.png",
+      "sentenceImage": "images/17_astronaut_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "smooth",
+      "partOfSpeech": "adj.",
+      "meaningKo": "매끄러운",
+      "ipa": "/smuːð/",
+      "definition": "flat and even, with no bumps",
+      "sentence": "The river stone felt smooth inside her small hand.",
+      "wordImage": "images/18_smooth_word.png",
+      "sentenceImage": "images/18_smooth_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "oxygen",
+      "partOfSpeech": "n.",
+      "meaningKo": "산소",
+      "ipa": "/ˈɑːksɪdʒən/",
+      "definition": "the gas in air that we breathe",
+      "sentence": "Green plants give oxygen to everyone on the earth.",
+      "wordImage": "images/19_oxygen_word.png",
+      "sentenceImage": "images/19_oxygen_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "support",
+      "partOfSpeech": "v.",
+      "meaningKo": "받치다",
+      "ipa": "/səˈpɔːrt/",
+      "definition": "to hold something up so it stays",
+      "sentence": "Strong poles support the roof of the garden shelter.",
+      "wordImage": "images/20_support_word.png",
+      "sentenceImage": "images/20_support_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

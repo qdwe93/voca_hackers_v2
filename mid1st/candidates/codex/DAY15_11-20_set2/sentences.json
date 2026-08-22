@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 15,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY15-11",
+      "no": 11,
+      "word": "theory",
+      "sentence": "Today, one theory says the moon was once part of earth."
+    },
+    {
+      "wordId": "DAY15-12",
+      "no": 12,
+      "word": "philosophy",
+      "sentence": "Today, the old thinker taught philosophy under a shady olive tree."
+    },
+    {
+      "wordId": "DAY15-13",
+      "no": 13,
+      "word": "method",
+      "sentence": "Today, this simple method makes paper boats float much longer."
+    },
+    {
+      "wordId": "DAY15-14",
+      "no": 14,
+      "word": "praise",
+      "sentence": "An instructor will praise every student who tried hard today."
+    },
+    {
+      "wordId": "DAY15-15",
+      "no": 15,
+      "word": "standard",
+      "sentence": "Today, the bakery keeps a high standard for every fruit tart."
+    },
+    {
+      "wordId": "DAY15-16",
+      "no": 16,
+      "word": "character",
+      "sentence": "Today, helping smaller animals shows the bear's kind character."
+    },
+    {
+      "wordId": "DAY15-17",
+      "no": 17,
+      "word": "throw",
+      "sentence": "Kindly throw the soft ball to the waiting puppy."
+    },
+    {
+      "wordId": "DAY15-18",
+      "no": 18,
+      "word": "psychology",
+      "sentence": "Today, psychology helps us understand why people feel certain ways."
+    },
+    {
+      "wordId": "DAY15-19",
+      "no": 19,
+      "word": "intention",
+      "sentence": "Before sunset, her intention was to finish the painting."
+    },
+    {
+      "wordId": "DAY15-20",
+      "no": 20,
+      "word": "apply",
+      "sentence": "One learner will apply for a place in the art club."
+    }
+  ]
+}

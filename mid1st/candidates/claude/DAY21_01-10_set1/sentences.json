@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 21,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY21-01",
+      "no": 1,
+      "word": "wild",
+      "sentence": "We leave wild deer alone so they stay in the forest."
+    },
+    {
+      "wordId": "DAY21-02",
+      "no": 2,
+      "word": "species",
+      "sentence": "Scientists place this species in the same group as other frogs."
+    },
+    {
+      "wordId": "DAY21-03",
+      "no": 3,
+      "word": "bark",
+      "sentence": "Our dog will bark whenever the delivery gate opens."
+    },
+    {
+      "wordId": "DAY21-04",
+      "no": 4,
+      "word": "nest",
+      "sentence": "Two robins built a small nest inside the apple tree."
+    },
+    {
+      "wordId": "DAY21-05",
+      "no": 5,
+      "word": "certain",
+      "sentence": "I am certain these round seeds came from the sunflower."
+    },
+    {
+      "wordId": "DAY21-06",
+      "no": 6,
+      "word": "greet",
+      "sentence": "We greet the farm guide first, then ask our questions."
+    },
+    {
+      "wordId": "DAY21-07",
+      "no": 7,
+      "word": "seed",
+      "sentence": "One apple seed sprouted after two weeks in wet cotton."
+    },
+    {
+      "wordId": "DAY21-08",
+      "no": 8,
+      "word": "predator",
+      "sentence": "The owl is a night predator that eats small mice."
+    },
+    {
+      "wordId": "DAY21-09",
+      "no": 9,
+      "word": "scene",
+      "sentence": "This rainy scene explains why the children stay inside the barn."
+    },
+    {
+      "wordId": "DAY21-10",
+      "no": 10,
+      "word": "scent",
+      "sentence": "The flower's scent spreads across the room within a few minutes."
+    }
+  ]
+}

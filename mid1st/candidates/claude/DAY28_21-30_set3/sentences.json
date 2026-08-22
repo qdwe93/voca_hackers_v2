@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 28,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY28-21",
+      "no": 21,
+      "word": "cancel",
+      "sentence": "Heavy snow made the market cancel Saturday's outdoor sale."
+    },
+    {
+      "wordId": "DAY28-22",
+      "no": 22,
+      "word": "replace",
+      "sentence": "Workers replace the broken cash drawer with a new one."
+    },
+    {
+      "wordId": "DAY28-23",
+      "no": 23,
+      "word": "property",
+      "sentence": "This low fence marks where one neighbor's property clearly ends."
+    },
+    {
+      "wordId": "DAY28-24",
+      "no": 24,
+      "word": "refund",
+      "sentence": "The shop gave a full refund for the broken umbrella."
+    },
+    {
+      "wordId": "DAY28-25",
+      "no": 25,
+      "word": "branch",
+      "sentence": "A thick branch fell across the market path after the storm."
+    },
+    {
+      "wordId": "DAY28-26",
+      "no": 26,
+      "word": "recover",
+      "sentence": "The small shop will recover after the road repair finishes."
+    },
+    {
+      "wordId": "DAY28-27",
+      "no": 27,
+      "word": "hardship",
+      "sentence": "The dry summer brought hardship to farmers selling vegetables."
+    },
+    {
+      "wordId": "DAY28-28",
+      "no": 28,
+      "word": "assemble",
+      "sentence": "Two students assemble each wooden chair from six numbered parts."
+    },
+    {
+      "wordId": "DAY28-29",
+      "no": 29,
+      "word": "proceed",
+      "sentence": "We proceed with the fundraising plan after counting every vote."
+    },
+    {
+      "wordId": "DAY28-30",
+      "no": 30,
+      "word": "precede",
+      "sentence": "A short speech will precede the market opening tomorrow morning."
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 6,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 06 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "object",
+      "partOfSpeech": "n.",
+      "meaningKo": "물건",
+      "definition": "a thing that can be seen or touched",
+      "sentence": "A mysterious round object rests beneath the glass cover.",
+      "ipa": "/ˈɑːbdʒekt/",
+      "wordImage": "images/11_object_word.png",
+      "sentenceImage": "images/11_object_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "disappointed",
+      "partOfSpeech": "adj.",
+      "meaningKo": "실망한",
+      "definition": "sad because something was not as good as hoped",
+      "sentence": "The disappointed player watches the game piece miss the goal.",
+      "ipa": "/dɪsəpɔɪntɪd/",
+      "wordImage": "images/12_disappointed_word.png",
+      "sentenceImage": "images/12_disappointed_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "anxious",
+      "partOfSpeech": "adj.",
+      "meaningKo": "불안한",
+      "definition": "worried about something that may happen",
+      "sentence": "An anxious rabbit waits outside the veterinarian's room.",
+      "ipa": "/æŋkʃəs/",
+      "wordImage": "images/13_anxious_word.png",
+      "sentenceImage": "images/13_anxious_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "insist",
+      "partOfSpeech": "v.",
+      "meaningKo": "고집하다",
+      "definition": "to demand something firmly and refuse disagreement",
+      "sentence": "The child will insist on wearing boots in the rain.",
+      "ipa": "/ɪnsɪst/",
+      "wordImage": "images/14_insist_word.png",
+      "sentenceImage": "images/14_insist_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "sudden",
+      "partOfSpeech": "adj.",
+      "meaningKo": "갑작스러운",
+      "definition": "happening quickly and unexpectedly",
+      "sentence": "A sudden gust sends leaves swirling around the bench.",
+      "ipa": "/sʌdən/",
+      "wordImage": "images/15_sudden_word.png",
+      "sentenceImage": "images/15_sudden_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "immediate",
+      "partOfSpeech": "adj.",
+      "meaningKo": "즉각적인",
+      "definition": "happening or done without delay",
+      "sentence": "The spilled water needs immediate attention from the cleaning robot.",
+      "ipa": "/ɪmidiət/",
+      "wordImage": "images/16_immediate_word.png",
+      "sentenceImage": "images/16_immediate_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "appreciate",
+      "partOfSpeech": "v.",
+      "meaningKo": "고마워하다",
+      "definition": "to be thankful for something",
+      "sentence": "The gardener will appreciate help carrying the heavy flowerpots.",
+      "ipa": "/əpriʃieɪt/",
+      "wordImage": "images/17_appreciate_word.png",
+      "sentenceImage": "images/17_appreciate_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "pale",
+      "partOfSpeech": "adj.",
+      "meaningKo": "창백한",
+      "definition": "having less color than usual",
+      "sentence": "The sick cartoon bear has a pale face and drooping ears.",
+      "ipa": "/peɪl/",
+      "wordImage": "images/18_pale_word.png",
+      "sentenceImage": "images/18_pale_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "purpose",
+      "partOfSpeech": "n.",
+      "meaningKo": "목적",
+      "definition": "the reason why something exists or is done",
+      "sentence": "The purpose of the umbrella is keeping the child dry.",
+      "ipa": "/pɝpəs/",
+      "wordImage": "images/19_purpose_word.png",
+      "sentenceImage": "images/19_purpose_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "race",
+      "partOfSpeech": "n.",
+      "meaningKo": "경주",
+      "definition": "a competition to see who is fastest",
+      "sentence": "Four snails begin a race across the garden stone.",
+      "ipa": "/reɪs/",
+      "wordImage": "images/20_race_word.png",
+      "sentenceImage": "images/20_race_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

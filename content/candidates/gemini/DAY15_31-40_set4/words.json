@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 15,
+  "range": "31-40",
+  "set": 4,
+  "title": "DAY 15 · 31-40",
+  "words": [
+    {
+      "no": 31,
+      "word": "bias",
+      "partOfSpeech": "n.",
+      "meaningKo": "편향, 선입견",
+      "ipa": "/ˈbaɪ.əs/",
+      "definition": "an unfair preference for or dislike of something",
+      "sentence": "A fair sports judge makes decisions without any personal bias.",
+      "wordImage": "images/31_bias_word.png",
+      "sentenceImage": "images/31_bias_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 32,
+      "word": "string",
+      "partOfSpeech": "n.",
+      "meaningKo": "줄, 끈, 현",
+      "ipa": "/strɪŋ/",
+      "definition": "a thin piece of twisted fiber used for tying things",
+      "sentence": "He used strong yellow string to fly his colorful kite.",
+      "wordImage": "images/32_string_word.png",
+      "sentenceImage": "images/32_string_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 33,
+      "word": "examination",
+      "partOfSpeech": "n.",
+      "meaningKo": "시험, 검사",
+      "ipa": "/ɪɡˌzæm.əˈneɪ.ʃən/",
+      "definition": "a formal test of a person’s knowledge or physical checkup",
+      "sentence": "The doctor performed a thorough health examination for the student.",
+      "wordImage": "images/33_examination_word.png",
+      "sentenceImage": "images/33_examination_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 34,
+      "word": "rational",
+      "partOfSpeech": "adj.",
+      "meaningKo": "합리적인, 이성적인",
+      "ipa": "/ˈræʃ.ən.əl/",
+      "definition": "based on reason and clear facts rather than emotions",
+      "sentence": "Making a rational budget helps you save pocket money wisely.",
+      "wordImage": "images/34_rational_word.png",
+      "sentenceImage": "images/34_rational_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 35,
+      "word": "laboratory",
+      "partOfSpeech": "n.",
+      "meaningKo": "실험실, 연구소",
+      "ipa": "/ˈlæb.rə.tɔːr.i/",
+      "definition": "a room equipped for scientific experiments and research studies",
+      "sentence": "Students put on safety coats inside the school chemistry laboratory.",
+      "wordImage": "images/35_laboratory_word.png",
+      "sentenceImage": "images/35_laboratory_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 36,
+      "word": "authority",
+      "partOfSpeech": "n.",
+      "meaningKo": "권위, 당국, 권한",
+      "ipa": "/əˈθɔːr.ə.t̬i/",
+      "definition": "the power or right to give orders and make decisions",
+      "sentence": "The park authority maintains clean trails and protects wild animals.",
+      "wordImage": "images/36_authority_word.png",
+      "sentenceImage": "images/36_authority_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 37,
+      "word": "misunderstanding",
+      "partOfSpeech": "n.",
+      "meaningKo": "오해",
+      "ipa": "/ˌmɪs.ʌn.dɚˈstæn.dɪŋ/",
+      "definition": "a failure to understand something correctly between people",
+      "sentence": "A calm conversation cleared up the small misunderstanding between friends.",
+      "wordImage": "images/37_misunderstanding_word.png",
+      "sentenceImage": "images/37_misunderstanding_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 38,
+      "word": "pursue",
+      "partOfSpeech": "v.",
+      "meaningKo": "추구하다, 쫓다",
+      "ipa": "/pɚˈsuː/",
+      "definition": "to follow a goal or course of action to achieve it",
+      "sentence": "She decided to pursue her dream of becoming a veterinarian.",
+      "wordImage": "images/38_pursue_word.png",
+      "sentenceImage": "images/38_pursue_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 39,
+      "word": "deprived",
+      "partOfSpeech": "adj.",
+      "meaningKo": "혜택받지 못한, 가난한",
+      "ipa": "/dɪˈpraɪvd/",
+      "definition": "not having the things necessary for a pleasant life",
+      "sentence": "Volunteers collected warm winter blankets for deprived animal rescue shelters.",
+      "wordImage": "images/39_deprived_word.png",
+      "sentenceImage": "images/39_deprived_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 40,
+      "word": "spell",
+      "partOfSpeech": "v.",
+      "meaningKo": "철자를 쓰다, 마법 주문",
+      "ipa": "/spel/",
+      "definition": "to write or name the letters that form a word",
+      "sentence": "Can you spell the word butterfly for our classroom game?",
+      "wordImage": "images/40_spell_word.png",
+      "sentenceImage": "images/40_spell_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

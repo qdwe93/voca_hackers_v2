@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 26,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 26 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "search",
+      "partOfSpeech": "v.",
+      "meaningKo": "찾다",
+      "definition": "to look carefully for someone or something",
+      "sentence": "The explorer will search the cave for a hidden key.",
+      "ipa": "/sɝtʃ/",
+      "wordImage": "images/11_search_word.png",
+      "sentenceImage": "images/11_search_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "raise",
+      "partOfSpeech": "v.",
+      "meaningKo": "들어 올리다",
+      "definition": "to lift something to a higher position",
+      "sentence": "The child will raise the flag above the treehouse.",
+      "ipa": "/reɪz/",
+      "wordImage": "images/12_raise_word.png",
+      "sentenceImage": "images/12_raise_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "aim",
+      "partOfSpeech": "v.",
+      "meaningKo": "겨누다",
+      "definition": "to point something toward a target",
+      "sentence": "The player will aim the foam ball at the basket.",
+      "ipa": "/eɪm/",
+      "wordImage": "images/13_aim_word.png",
+      "sentenceImage": "images/13_aim_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "criminal",
+      "partOfSpeech": "n.",
+      "meaningKo": "범죄자",
+      "definition": "a person who has committed a crime",
+      "sentence": "The cartoon criminal returns stolen jewels in the game.",
+      "ipa": "/krɪmənəl/",
+      "wordImage": "images/14_criminal_word.png",
+      "sentenceImage": "images/14_criminal_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "suspect",
+      "partOfSpeech": "n.",
+      "meaningKo": "용의자",
+      "definition": "a person believed possibly responsible for a crime",
+      "sentence": "The detective questions a suspect beside the missing bicycle.",
+      "ipa": "/ˈsʌspekt/",
+      "wordImage": "images/15_suspect_word.png",
+      "sentenceImage": "images/15_suspect_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "neutral",
+      "partOfSpeech": "adj.",
+      "meaningKo": "중립적인",
+      "definition": "not supporting either side",
+      "sentence": "The neutral referee stands between the two teams.",
+      "ipa": "/nutrəl/",
+      "wordImage": "images/16_neutral_word.png",
+      "sentenceImage": "images/16_neutral_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "accuse",
+      "partOfSpeech": "v.",
+      "meaningKo": "고발하다",
+      "definition": "to claim that someone did something wrong",
+      "sentence": "One game character will accuse another of moving the piece.",
+      "ipa": "/əkjuz/",
+      "wordImage": "images/17_accuse_word.png",
+      "sentenceImage": "images/17_accuse_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "firm",
+      "partOfSpeech": "adj.",
+      "meaningKo": "단단한",
+      "definition": "solid steady and not easily moved",
+      "sentence": "The firm ground supports the heavy stone statue.",
+      "ipa": "/fɝm/",
+      "wordImage": "images/18_firm_word.png",
+      "sentenceImage": "images/18_firm_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "aid",
+      "partOfSpeech": "n.",
+      "meaningKo": "도움",
+      "definition": "help given to someone in need",
+      "sentence": "The rescue team brings aid to the flooded village.",
+      "ipa": "/eɪd/",
+      "wordImage": "images/19_aid_word.png",
+      "sentenceImage": "images/19_aid_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "interest",
+      "partOfSpeech": "n.",
+      "meaningKo": "관심",
+      "definition": "a feeling of wanting to know more",
+      "sentence": "The strange rock sparks the scientist's great interest.",
+      "ipa": "/ɪntrəst/",
+      "wordImage": "images/20_interest_word.png",
+      "sentenceImage": "images/20_interest_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

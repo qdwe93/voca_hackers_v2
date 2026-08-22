@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 11,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY11-01",
+      "no": 1,
+      "word": "publish",
+      "sentence": "The local press will publish a new informative science handbook."
+    },
+    {
+      "wordId": "DAY11-02",
+      "no": 2,
+      "word": "literature",
+      "sentence": "Friends read classic literature together and discuss key lines from book."
+    },
+    {
+      "wordId": "DAY11-03",
+      "no": 3,
+      "word": "fiction",
+      "sentence": "The exciting historical fiction describes a young hero's difficult journey."
+    },
+    {
+      "wordId": "DAY11-04",
+      "no": 4,
+      "word": "author",
+      "sentence": "The popular children's book author visited our local school library."
+    },
+    {
+      "wordId": "DAY11-05",
+      "no": 5,
+      "word": "symbol",
+      "sentence": "In traditional poetry, the white dove is a peace symbol."
+    },
+    {
+      "wordId": "DAY11-06",
+      "no": 6,
+      "word": "plot",
+      "sentence": "The mystery novel has an exciting plot with surprising twists."
+    },
+    {
+      "wordId": "DAY11-07",
+      "no": 7,
+      "word": "collaborate",
+      "sentence": "Students collaborate in small groups to solve complex math problems."
+    },
+    {
+      "wordId": "DAY11-08",
+      "no": 8,
+      "word": "statue",
+      "sentence": "The bronze statue stands in the center of the park."
+    },
+    {
+      "wordId": "DAY11-09",
+      "no": 9,
+      "word": "state",
+      "sentence": "Ice transitions to a liquid state when temperature rises above zero."
+    },
+    {
+      "wordId": "DAY11-10",
+      "no": 10,
+      "word": "status",
+      "sentence": "In ancient times, royal status brought special privileges and responsibilities."
+    }
+  ]
+}

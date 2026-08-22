@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 15,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 15 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "theory",
+      "partOfSpeech": "n.",
+      "meaningKo": "이론, 학설",
+      "ipa": "/ˈθɪr.i/",
+      "definition": "a formal idea or set of ideas explaining something",
+      "sentence": "Scientists tested their new theory with multiple laboratory experiments today.",
+      "wordImage": "images/11_theory_word.png",
+      "sentenceImage": "images/11_theory_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "philosophy",
+      "partOfSpeech": "n.",
+      "meaningKo": "철학",
+      "ipa": "/fɪˈlɑː.sə.fi/",
+      "definition": "the study of the fundamental nature of knowledge and reality",
+      "sentence": "Ancient Greek philosophy encourages people to seek truth and wisdom.",
+      "wordImage": "images/12_philosophy_word.png",
+      "sentenceImage": "images/12_philosophy_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "method",
+      "partOfSpeech": "n.",
+      "meaningKo": "방법, 방식",
+      "ipa": "/ˈmeθ.əd/",
+      "definition": "a particular way of doing something, especially a systematic one",
+      "sentence": "Using flashcards is an effective study method for learning vocabulary.",
+      "wordImage": "images/13_method_word.png",
+      "sentenceImage": "images/13_method_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "praise",
+      "partOfSpeech": "v.",
+      "meaningKo": "칭찬하다, 찬양하다",
+      "ipa": "/preɪz/",
+      "definition": "to express strong approval or admiration of someone or something",
+      "sentence": "Parents and teachers praise students for their honest team efforts.",
+      "wordImage": "images/14_praise_word.png",
+      "sentenceImage": "images/14_praise_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "standard",
+      "partOfSpeech": "n.",
+      "meaningKo": "기준, 표준",
+      "ipa": "/ˈstæn.dɚd/",
+      "definition": "a level of quality or attainment that is considered acceptable",
+      "sentence": "The clean laboratory maintains a very high standard of hygiene.",
+      "wordImage": "images/15_standard_word.png",
+      "sentenceImage": "images/15_standard_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "character",
+      "partOfSpeech": "n.",
+      "meaningKo": "등장인물, 성격, 글자",
+      "ipa": "/ˈker.ək.tɚ/",
+      "definition": "a person in a story, book, play, or movie",
+      "sentence": "The cheerful wizard was my favorite character in the fantasy tale.",
+      "wordImage": "images/16_character_word.png",
+      "sentenceImage": "images/16_character_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "throw",
+      "partOfSpeech": "v.",
+      "meaningKo": "던지다",
+      "ipa": "/θroʊ/",
+      "definition": "to send something through the air by moving your arm",
+      "sentence": "He learned how to throw the baseball straight and fast.",
+      "wordImage": "images/17_throw_word.png",
+      "sentenceImage": "images/17_throw_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "psychology",
+      "partOfSpeech": "n.",
+      "meaningKo": "심리학",
+      "ipa": "/saɪˈkɑː.lə.dʒi/",
+      "definition": "the scientific study of the human mind and its functions",
+      "sentence": "Reading about child psychology helps teachers understand how kids learn.",
+      "wordImage": "images/18_psychology_word.png",
+      "sentenceImage": "images/18_psychology_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "intention",
+      "partOfSpeech": "n.",
+      "meaningKo": "의도, 목적",
+      "ipa": "/ɪnˈten.ʃən/",
+      "definition": "something that you want and plan to do, an aim",
+      "sentence": "It was never his intention to hurt anyone’s friendly feelings.",
+      "wordImage": "images/19_intention_word.png",
+      "sentenceImage": "images/19_intention_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "apply",
+      "partOfSpeech": "v.",
+      "meaningKo": "신청하다, 적용하다, 바르다",
+      "ipa": "/əˈplaɪ/",
+      "definition": "to make a formal application for a job, club, or school",
+      "sentence": "She decided to apply for the school robotics summer camp.",
+      "wordImage": "images/20_apply_word.png",
+      "sentenceImage": "images/20_apply_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

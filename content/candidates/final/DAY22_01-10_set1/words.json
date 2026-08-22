@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 22,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 22 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "ecosystem",
+      "partOfSpeech": "n.",
+      "meaningKo": "생태계",
+      "ipa": "/ˈiːkoʊsɪstəm/",
+      "definition": "all living things sharing one place together",
+      "sentence": "The pond ecosystem includes frogs, fish, and green plants.",
+      "wordImage": "images/01_ecosystem_word.png",
+      "sentenceImage": "images/01_ecosystem_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "desert",
+      "partOfSpeech": "n.",
+      "meaningKo": "사막",
+      "ipa": "/ˈdezərt/",
+      "definition": "a very dry land with lots of sand",
+      "sentence": "The desert glowed orange under the late evening sun.",
+      "wordImage": "images/02_desert_word.png",
+      "sentenceImage": "images/02_desert_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "creature",
+      "partOfSpeech": "n.",
+      "meaningKo": "생물",
+      "ipa": "/ˈkriːtʃər/",
+      "definition": "any living animal, big or small",
+      "sentence": "A strange sea creature glided past the glass window.",
+      "wordImage": "images/03_creature_word.png",
+      "sentenceImage": "images/03_creature_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "mature",
+      "partOfSpeech": "adj.",
+      "meaningKo": "성숙한",
+      "ipa": "/məˈtʃʊr/",
+      "definition": "fully grown and developed",
+      "sentence": "The mature oak gave shade to the whole yard.",
+      "wordImage": "images/04_mature_word.png",
+      "sentenceImage": "images/04_mature_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "habitat",
+      "partOfSpeech": "n.",
+      "meaningKo": "서식지",
+      "ipa": "/ˈhæbɪtæt/",
+      "definition": "the natural home of a plant or animal",
+      "sentence": "The panda habitat is a cool bamboo mountain forest.",
+      "wordImage": "images/05_habitat_word.png",
+      "sentenceImage": "images/05_habitat_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "maintain",
+      "partOfSpeech": "v.",
+      "meaningKo": "유지하다",
+      "ipa": "/meɪnˈteɪn/",
+      "definition": "to keep something in good condition",
+      "sentence": "Gardeners maintain the park paths through every busy season.",
+      "wordImage": "images/06_maintain_word.png",
+      "sentenceImage": "images/06_maintain_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "tide",
+      "partOfSpeech": "n.",
+      "meaningKo": "조수",
+      "ipa": "/taɪd/",
+      "definition": "the daily rise and fall of the sea",
+      "sentence": "The tide left tiny shells along the wet shore.",
+      "wordImage": "images/07_tide_word.png",
+      "sentenceImage": "images/07_tide_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "balance",
+      "partOfSpeech": "n.",
+      "meaningKo": "균형",
+      "ipa": "/ˈbæləns/",
+      "definition": "a steady state where nothing tips over",
+      "sentence": "The heron kept perfect balance on one thin leg.",
+      "wordImage": "images/08_balance_word.png",
+      "sentenceImage": "images/08_balance_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "grand",
+      "partOfSpeech": "adj.",
+      "meaningKo": "웅장한",
+      "ipa": "/ɡrænd/",
+      "definition": "very large and impressive",
+      "sentence": "A grand waterfall thundered into the deep green pool.",
+      "wordImage": "images/09_grand_word.png",
+      "sentenceImage": "images/09_grand_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "grant",
+      "partOfSpeech": "v.",
+      "meaningKo": "주다",
+      "ipa": "/ɡrænt/",
+      "definition": "to give something to someone officially",
+      "sentence": "The town will grant land for a new garden.",
+      "wordImage": "images/10_grant_word.png",
+      "sentenceImage": "images/10_grant_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

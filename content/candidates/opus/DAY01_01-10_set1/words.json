@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 1,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 01 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "chore",
+      "partOfSpeech": "n.",
+      "meaningKo": "집안일",
+      "ipa": "/tʃɔːr/",
+      "definition": "a small job you must do at home",
+      "sentence": "The robot finished every chore before the family woke up.",
+      "wordImage": "images/01_chore_word.png",
+      "sentenceImage": "images/01_chore_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "laundry",
+      "partOfSpeech": "n.",
+      "meaningKo": "세탁물",
+      "ipa": "/ˈlɔːndri/",
+      "definition": "clothes that need washing or have just been washed",
+      "sentence": "A friendly bear carried the laundry basket down the wooden stairs.",
+      "wordImage": "images/02_laundry_word.png",
+      "sentenceImage": "images/02_laundry_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "flavor",
+      "partOfSpeech": "n.",
+      "meaningKo": "맛",
+      "ipa": "/ˈfleɪvər/",
+      "definition": "the taste that food or drink has",
+      "sentence": "This ice cream has a sweet strawberry flavor inside.",
+      "wordImage": "images/03_flavor_word.png",
+      "sentenceImage": "images/03_flavor_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "recipe",
+      "partOfSpeech": "n.",
+      "meaningKo": "조리법",
+      "ipa": "/ˈresəpi/",
+      "definition": "steps that tell you how to cook a food",
+      "sentence": "A young cook follows a recipe to bake round cookies.",
+      "wordImage": "images/04_recipe_word.png",
+      "sentenceImage": "images/04_recipe_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "beverage",
+      "partOfSpeech": "n.",
+      "meaningKo": "음료",
+      "ipa": "/ˈbevərɪdʒ/",
+      "definition": "a drink, such as juice, milk, or tea",
+      "sentence": "The penguin poured a cold beverage into two tall glasses.",
+      "wordImage": "images/05_beverage_word.png",
+      "sentenceImage": "images/05_beverage_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "operate",
+      "partOfSpeech": "v.",
+      "meaningKo": "작동시키다",
+      "ipa": "/ˈɑːpəreɪt/",
+      "definition": "to make a machine work",
+      "sentence": "Two rabbits operate a tiny train with shiny silver levers.",
+      "wordImage": "images/06_operate_word.png",
+      "sentenceImage": "images/06_operate_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "edible",
+      "partOfSpeech": "adj.",
+      "meaningKo": "먹을 수 있는",
+      "ipa": "/ˈedəbl/",
+      "definition": "safe to eat",
+      "sentence": "The chef showed which bright flowers are edible and sweet.",
+      "wordImage": "images/07_edible_word.png",
+      "sentenceImage": "images/07_edible_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "shelf",
+      "partOfSpeech": "n.",
+      "meaningKo": "선반",
+      "ipa": "/ʃelf/",
+      "definition": "a flat board on a wall for holding things",
+      "sentence": "A sleepy cat naps on the top shelf above books.",
+      "wordImage": "images/08_shelf_word.png",
+      "sentenceImage": "images/08_shelf_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "quite",
+      "partOfSpeech": "adv.",
+      "meaningKo": "꽤",
+      "ipa": "/kwaɪt/",
+      "definition": "very, but not completely",
+      "sentence": "The dragon's soup was quite hot, so everyone waited patiently.",
+      "wordImage": "images/09_quite_word.png",
+      "sentenceImage": "images/09_quite_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "quiet",
+      "partOfSpeech": "adj.",
+      "meaningKo": "조용한",
+      "ipa": "/ˈkwaɪət/",
+      "definition": "making little or no noise",
+      "sentence": "The library stayed quiet while the little owl read books.",
+      "wordImage": "images/10_quiet_word.png",
+      "sentenceImage": "images/10_quiet_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

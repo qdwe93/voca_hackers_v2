@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 23,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 23 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "valley",
+      "partOfSpeech": "n.",
+      "meaningKo": "계곡",
+      "definition": "low land between hills or mountains",
+      "sentence": "A green valley stretches between two snowy mountains.",
+      "ipa": "/væli/",
+      "wordImage": "images/11_valley_word.png",
+      "sentenceImage": "images/11_valley_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "influence",
+      "partOfSpeech": "v.",
+      "meaningKo": "영향을 주다",
+      "definition": "to affect how someone thinks or acts",
+      "sentence": "The older bird may influence the flock's direction.",
+      "ipa": "/ɪnfluəns/",
+      "wordImage": "images/12_influence_word.png",
+      "sentenceImage": "images/12_influence_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "damage",
+      "partOfSpeech": "n.",
+      "meaningKo": "손상",
+      "definition": "physical harm making something less useful",
+      "sentence": "Storm damage leaves branches across the empty road.",
+      "ipa": "/dæmədʒ/",
+      "wordImage": "images/13_damage_word.png",
+      "sentenceImage": "images/13_damage_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "lack",
+      "partOfSpeech": "n.",
+      "meaningKo": "부족",
+      "definition": "the state of not having enough",
+      "sentence": "A lack of water makes the plant droop.",
+      "ipa": "/læk/",
+      "wordImage": "images/14_lack_word.png",
+      "sentenceImage": "images/14_lack_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "predict",
+      "partOfSpeech": "v.",
+      "meaningKo": "예측하다",
+      "definition": "to say what will probably happen",
+      "sentence": "The scientist will predict rain from the dark clouds.",
+      "ipa": "/prɪdɪkt/",
+      "wordImage": "images/15_predict_word.png",
+      "sentenceImage": "images/15_predict_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "aware",
+      "partOfSpeech": "adj.",
+      "meaningKo": "알고 있는",
+      "definition": "knowing that something exists or is happening",
+      "sentence": "The alert rabbit is aware of movement behind the bush.",
+      "ipa": "/əwɛr/",
+      "wordImage": "images/16_aware_word.png",
+      "sentenceImage": "images/16_aware_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "correct",
+      "partOfSpeech": "adj.",
+      "meaningKo": "옳은",
+      "definition": "right and without mistakes",
+      "sentence": "The correct puzzle piece completes the blue corner.",
+      "ipa": "/kɚɛkt/",
+      "wordImage": "images/17_correct_word.png",
+      "sentenceImage": "images/17_correct_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "earthquake",
+      "partOfSpeech": "n.",
+      "meaningKo": "지진",
+      "definition": "a sudden shaking of the ground",
+      "sentence": "A mild earthquake shakes blocks on a safety table.",
+      "ipa": "/ɝθkweɪk/",
+      "wordImage": "images/18_earthquake_word.png",
+      "sentenceImage": "images/18_earthquake_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "due",
+      "partOfSpeech": "adj.",
+      "meaningKo": "예정된",
+      "definition": "expected at a particular time",
+      "sentence": "The train is due when the station clock reaches noon.",
+      "ipa": "/du/",
+      "wordImage": "images/19_due_word.png",
+      "sentenceImage": "images/19_due_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "level",
+      "partOfSpeech": "n.",
+      "meaningKo": "수준",
+      "definition": "a height amount or stage on a scale",
+      "sentence": "The water level reaches halfway up the glass.",
+      "ipa": "/lɛvəl/",
+      "wordImage": "images/20_level_word.png",
+      "sentenceImage": "images/20_level_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 25,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 25 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "protect",
+      "partOfSpeech": "v.",
+      "meaningKo": "보호하다, 지키다",
+      "ipa": "/prəˈtekt/",
+      "definition": "to keep someone or something safe from injury or damage",
+      "sentence": "Wearing a helmet will protect your head while riding bicycles.",
+      "wordImage": "images/11_protect_word.png",
+      "sentenceImage": "images/11_protect_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "loss",
+      "partOfSpeech": "n.",
+      "meaningKo": "손실, 상실",
+      "ipa": "/lɑːs/",
+      "definition": "the fact or process of losing something or someone",
+      "sentence": "Planting new saplings prevents soil loss during heavy seasonal rains.",
+      "wordImage": "images/12_loss_word.png",
+      "sentenceImage": "images/12_loss_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "generate",
+      "partOfSpeech": "v.",
+      "meaningKo": "발생시키다, 만들어 내다",
+      "ipa": "/ˈdʒen.ə.reɪt/",
+      "definition": "to produce or create energy, power, heat, or ideas",
+      "sentence": "Spinning wind turbines generate clean electricity for all town residents.",
+      "wordImage": "images/13_generate_word.png",
+      "sentenceImage": "images/13_generate_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "amazed",
+      "partOfSpeech": "adj.",
+      "meaningKo": "깜짝 놀란, 감탄한",
+      "ipa": "/əˈmeɪzd/",
+      "definition": "extremely surprised, impressed, or filled with wonder",
+      "sentence": "Children were amazed by the magician’s floating card trick today.",
+      "wordImage": "images/14_amazed_word.png",
+      "sentenceImage": "images/14_amazed_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "harm",
+      "partOfSpeech": "v.",
+      "meaningKo": "해치다, 피해를 주다",
+      "ipa": "/hɑːrm/",
+      "definition": "to hurt, damage, or have a bad effect on someone",
+      "sentence": "Always handle gentle garden snails carefully so you do not harm them.",
+      "wordImage": "images/15_harm_word.png",
+      "sentenceImage": "images/15_harm_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "intense",
+      "partOfSpeech": "adj.",
+      "meaningKo": "강렬한, 극심한",
+      "ipa": "/ɪnˈtens/",
+      "definition": "extreme in force, degree, or strength, very strong",
+      "sentence": "The runner showed intense focus during the final hundred meters.",
+      "wordImage": "images/16_intense_word.png",
+      "sentenceImage": "images/16_intense_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "amount",
+      "partOfSpeech": "n.",
+      "meaningKo": "양, 액수",
+      "ipa": "/əˈmaʊnt/",
+      "definition": "a quantity of something such as time, money, or substance",
+      "sentence": "Add a small amount of honey to sweeten the tea.",
+      "wordImage": "images/17_amount_word.png",
+      "sentenceImage": "images/17_amount_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "marine",
+      "partOfSpeech": "adj.",
+      "meaningKo": "해양의, 바다의",
+      "ipa": "/məˈriːn/",
+      "definition": "relating to or found in the sea or ocean",
+      "sentence": "Dolphins and sea turtles are wonderful marine creatures of ocean.",
+      "wordImage": "images/18_marine_word.png",
+      "sentenceImage": "images/18_marine_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "permanent",
+      "partOfSpeech": "adj.",
+      "meaningKo": "영구적인, 영속하는",
+      "ipa": "/ˈpɝː.mə.nənt/",
+      "definition": "lasting or intended to last for a long time or forever",
+      "sentence": "The museum opened a permanent exhibition of ancient dinosaur fossils.",
+      "wordImage": "images/19_permanent_word.png",
+      "sentenceImage": "images/19_permanent_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "fine",
+      "partOfSpeech": "adj.",
+      "meaningKo": "좋은, 고운, 미세한",
+      "ipa": "/faɪn/",
+      "definition": "of high quality, or made of very small particles",
+      "sentence": "The beach was covered in soft and fine white sand.",
+      "wordImage": "images/20_fine_word.png",
+      "sentenceImage": "images/20_fine_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

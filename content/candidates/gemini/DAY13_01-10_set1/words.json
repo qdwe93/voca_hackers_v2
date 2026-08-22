@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 13,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 13 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "represent",
+      "partOfSpeech": "v.",
+      "meaningKo": "대표하다, 나타내다",
+      "ipa": "/ˌrep.rɪˈzent/",
+      "definition": "to speak or act on behalf of a group",
+      "sentence": "The student council leader will represent our school at festival.",
+      "wordImage": "images/01_represent_word.png",
+      "sentenceImage": "images/01_represent_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "exhibit",
+      "partOfSpeech": "n.",
+      "meaningKo": "전시, 전시품",
+      "ipa": "/ɪɡˈzɪb.ɪt/",
+      "definition": "an object or collection of objects shown in a museum",
+      "sentence": "We visited the fascinating dinosaur fossil exhibit at the museum.",
+      "wordImage": "images/02_exhibit_word.png",
+      "sentenceImage": "images/02_exhibit_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "minister",
+      "partOfSpeech": "n.",
+      "meaningKo": "장관, 성직자",
+      "ipa": "/ˈmɪn.ə.stɚ/",
+      "definition": "a member of government in charge of a department",
+      "sentence": "The education minister visited the new school library opening today.",
+      "wordImage": "images/03_minister_word.png",
+      "sentenceImage": "images/03_minister_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "vary",
+      "partOfSpeech": "v.",
+      "meaningKo": "다양하다, 다르다",
+      "ipa": "/ˈver.i/",
+      "definition": "to be different in size, amount, or character",
+      "sentence": "The colors of autumn leaves vary from bright yellow to red.",
+      "wordImage": "images/04_vary_word.png",
+      "sentenceImage": "images/04_vary_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "tribe",
+      "partOfSpeech": "n.",
+      "meaningKo": "부족, 종족",
+      "ipa": "/traɪb/",
+      "definition": "a group of people of the same race with common customs",
+      "sentence": "The ancient mountain tribe celebrated the harvest with lively dances.",
+      "wordImage": "images/05_tribe_word.png",
+      "sentenceImage": "images/05_tribe_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "community",
+      "partOfSpeech": "n.",
+      "meaningKo": "지역사회, 공동체",
+      "ipa": "/kəˈmjuː.nə.t̬i/",
+      "definition": "the people living in one particular area or sharing interests",
+      "sentence": "Neighbors in our local community organized a peaceful park cleanup.",
+      "wordImage": "images/06_community_word.png",
+      "sentenceImage": "images/06_community_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "consider",
+      "partOfSpeech": "v.",
+      "meaningKo": "고려하다, 숙고하다",
+      "ipa": "/kənˈsɪd.ɚ/",
+      "definition": "to spend time thinking about something carefully before deciding",
+      "sentence": "Take time to consider all your options before choosing.",
+      "wordImage": "images/07_consider_word.png",
+      "sentenceImage": "images/07_consider_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "concept",
+      "partOfSpeech": "n.",
+      "meaningKo": "개념, 생각",
+      "ipa": "/ˈkɑːn.sept/",
+      "definition": "a principle or idea that is developed in the mind",
+      "sentence": "Gravity is a fundamental science concept explained by Isaac Newton.",
+      "wordImage": "images/08_concept_word.png",
+      "sentenceImage": "images/08_concept_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "pray",
+      "partOfSpeech": "v.",
+      "meaningKo": "기도하다, 간청하다",
+      "ipa": "/preɪ/",
+      "definition": "to speak to God or express a sincere hope",
+      "sentence": "Villagers gather at sunset to pray for a good harvest.",
+      "wordImage": "images/09_pray_word.png",
+      "sentenceImage": "images/09_pray_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "prey",
+      "partOfSpeech": "n.",
+      "meaningKo": "먹이, 사냥감",
+      "ipa": "/preɪ/",
+      "definition": "an animal that is hunted and killed for food",
+      "sentence": "The swift eagle spotted its prey from high in sky.",
+      "wordImage": "images/10_prey_word.png",
+      "sentenceImage": "images/10_prey_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

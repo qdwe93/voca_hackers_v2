@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 5,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY05-21",
+      "no": 21,
+      "word": "capable",
+      "sentence": "After six months, this swimmer is capable of longer distances."
+    },
+    {
+      "wordId": "DAY05-22",
+      "no": 22,
+      "word": "proper",
+      "sentence": "Wearing proper shoes protects your feet during long hikes."
+    },
+    {
+      "wordId": "DAY05-23",
+      "no": 23,
+      "word": "frequent",
+      "sentence": "Frequent short breaks keep our team fresh during practice."
+    },
+    {
+      "wordId": "DAY05-24",
+      "no": 24,
+      "word": "symptom",
+      "sentence": "A runny nose is one symptom of a common cold."
+    },
+    {
+      "wordId": "DAY05-25",
+      "no": 25,
+      "word": "monitor",
+      "sentence": "We monitor our heart rate every minute and record the numbers."
+    },
+    {
+      "wordId": "DAY05-26",
+      "no": 26,
+      "word": "consume",
+      "sentence": "Long distance runners consume fruit and water after the race."
+    },
+    {
+      "wordId": "DAY05-27",
+      "no": 27,
+      "word": "struggle",
+      "sentence": "Beginners struggle to hold the plank for one full minute."
+    },
+    {
+      "wordId": "DAY05-28",
+      "no": 28,
+      "word": "strengthen",
+      "sentence": "Climbing the rope helps strengthen the arms and shoulders."
+    },
+    {
+      "wordId": "DAY05-29",
+      "no": 29,
+      "word": "slide",
+      "sentence": "Socks slide farther on smooth wood than on rough carpet."
+    },
+    {
+      "wordId": "DAY05-30",
+      "no": 30,
+      "word": "slice",
+      "sentence": "We slice apples into thin pieces for the team snack."
+    }
+  ]
+}

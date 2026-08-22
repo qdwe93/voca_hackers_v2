@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 2,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY02-21",
+      "no": 21,
+      "word": "participate",
+      "sentence": "Students participate in the class vote about the field trip place."
+    },
+    {
+      "wordId": "DAY02-22",
+      "no": 22,
+      "word": "auditorium",
+      "sentence": "Presenters speak louder in the auditorium than in a small classroom."
+    },
+    {
+      "wordId": "DAY02-23",
+      "no": 23,
+      "word": "inform",
+      "sentence": "A morning notice will inform parents about tomorrow's early dismissal."
+    },
+    {
+      "wordId": "DAY02-24",
+      "no": 24,
+      "word": "duty",
+      "sentence": "Watering the classroom plants is my duty this week."
+    },
+    {
+      "wordId": "DAY02-25",
+      "no": 25,
+      "word": "evaluate",
+      "sentence": "Teachers evaluate each poster using three points on a checklist."
+    },
+    {
+      "wordId": "DAY02-26",
+      "no": 26,
+      "word": "minimum",
+      "sentence": "We circled the minimum value among five numbers on the board."
+    },
+    {
+      "wordId": "DAY02-27",
+      "no": 27,
+      "word": "introduction",
+      "sentence": "Our club leader began with a short introduction of new members."
+    },
+    {
+      "wordId": "DAY02-28",
+      "no": 28,
+      "word": "photograph",
+      "sentence": "The report text and its photograph together explain how seeds sprout."
+    },
+    {
+      "wordId": "DAY02-29",
+      "no": 29,
+      "word": "council",
+      "sentence": "Our student council members are elected, but anyone may send suggestions."
+    },
+    {
+      "wordId": "DAY02-30",
+      "no": 30,
+      "word": "conceal",
+      "sentence": "Two friends conceal the birthday gift behind the classroom bookshelf."
+    }
+  ]
+}

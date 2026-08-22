@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 23,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY23-21",
+      "no": 21,
+      "word": "shift",
+      "sentence": "Tectonic plate movements shift continental land masses over millions of years."
+    },
+    {
+      "wordId": "DAY23-22",
+      "no": 22,
+      "word": "narrow",
+      "sentence": "The trail followed a narrow path between two steep rocky cliffs."
+    },
+    {
+      "wordId": "DAY23-23",
+      "no": 23,
+      "word": "drought",
+      "sentence": "The prolonged summer drought dried up local farm irrigation water reservoirs."
+    },
+    {
+      "wordId": "DAY23-24",
+      "no": 24,
+      "word": "boundary",
+      "sentence": "The wide river marks the natural geographic boundary between two nations."
+    },
+    {
+      "wordId": "DAY23-25",
+      "no": 25,
+      "word": "alarming",
+      "sentence": "Rapid glacial retreat is an alarming signal of global climate warming."
+    },
+    {
+      "wordId": "DAY23-26",
+      "no": 26,
+      "word": "harsh",
+      "sentence": "Polar bears are well adapted to survive the harsh arctic cold."
+    },
+    {
+      "wordId": "DAY23-27",
+      "no": 27,
+      "word": "cease",
+      "sentence": "Rain will cease by tomorrow morning as high pressure moves in."
+    },
+    {
+      "wordId": "DAY23-28",
+      "no": 28,
+      "word": "estimate",
+      "sentence": "Geologists estimate the total volume of volcanic ash from the eruption."
+    },
+    {
+      "wordId": "DAY23-29",
+      "no": 29,
+      "word": "plane",
+      "sentence": "The cargo plane delivered emergency relief supplies to the disaster zone."
+    },
+    {
+      "wordId": "DAY23-30",
+      "no": 30,
+      "word": "plain",
+      "sentence": "Vast herds of bison roamed the open grassy North American plain."
+    }
+  ]
+}

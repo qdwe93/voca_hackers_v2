@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 13,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY13-11",
+      "no": 11,
+      "word": "myth",
+      "sentence": "Ancient Greek myth explains natural phenomena through exciting heroic stories."
+    },
+    {
+      "wordId": "DAY13-12",
+      "no": 12,
+      "word": "attitude",
+      "sentence": "A respectful attitude helps people appreciate different cultural heritage customs."
+    },
+    {
+      "wordId": "DAY13-13",
+      "no": 13,
+      "word": "priest",
+      "sentence": "The parish priest led the solemn Sunday morning worship service."
+    },
+    {
+      "wordId": "DAY13-14",
+      "no": 14,
+      "word": "approve",
+      "sentence": "The town council voted to approve the new park budget."
+    },
+    {
+      "wordId": "DAY13-15",
+      "no": 15,
+      "word": "carve",
+      "sentence": "Artists carve beautiful decorative patterns into soft blocks of wood."
+    },
+    {
+      "wordId": "DAY13-16",
+      "no": 16,
+      "word": "primitive",
+      "sentence": "Early humans made primitive tools using chipped stones and bones."
+    },
+    {
+      "wordId": "DAY13-17",
+      "no": 17,
+      "word": "invade",
+      "sentence": "Armies would invade neighboring lands to seize control of territory."
+    },
+    {
+      "wordId": "DAY13-18",
+      "no": 18,
+      "word": "arise",
+      "sentence": "Unexpected difficulties may arise during large construction projects in winter."
+    },
+    {
+      "wordId": "DAY13-19",
+      "no": 19,
+      "word": "register",
+      "sentence": "Students must register online before attending the weekend coding workshop."
+    },
+    {
+      "wordId": "DAY13-20",
+      "no": 20,
+      "word": "custom",
+      "sentence": "Wearing hanbok on Lunar New Year is a treasured custom."
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 9,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 09 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "just",
+      "partOfSpeech": "adj.",
+      "meaningKo": "공정한",
+      "definition": "fair and morally right",
+      "sentence": "The just referee gives both teams equal playing time.",
+      "ipa": "/dʒʌst/",
+      "wordImage": "images/01_just_word.png",
+      "sentenceImage": "images/01_just_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "moral",
+      "partOfSpeech": "adj.",
+      "meaningKo": "도덕적인",
+      "definition": "concerned with right and wrong behavior",
+      "sentence": "Returning the lost wallet is a moral choice.",
+      "ipa": "/mɔrəl/",
+      "wordImage": "images/02_moral_word.png",
+      "sentenceImage": "images/02_moral_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "peer",
+      "partOfSpeech": "n.",
+      "meaningKo": "또래",
+      "definition": "a person of the same age or social group",
+      "sentence": "The student solves a puzzle beside a peer.",
+      "ipa": "/pɪr/",
+      "wordImage": "images/03_peer_word.png",
+      "sentenceImage": "images/03_peer_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "achieve",
+      "partOfSpeech": "v.",
+      "meaningKo": "이루다",
+      "definition": "to successfully reach a goal through effort",
+      "sentence": "The climber will achieve the goal at the practice wall.",
+      "ipa": "/ətʃiv/",
+      "wordImage": "images/04_achieve_word.png",
+      "sentenceImage": "images/04_achieve_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "path",
+      "partOfSpeech": "n.",
+      "meaningKo": "길",
+      "definition": "a narrow track made for walking",
+      "sentence": "A winding path crosses the garden between tall flowers.",
+      "ipa": "/pæθ/",
+      "wordImage": "images/05_path_word.png",
+      "sentenceImage": "images/05_path_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "necessary",
+      "partOfSpeech": "adj.",
+      "meaningKo": "필요한",
+      "definition": "needed for a particular purpose",
+      "sentence": "Clean water is necessary for the thirsty seedlings.",
+      "ipa": "/nɛsəsɛri/",
+      "wordImage": "images/06_necessary_word.png",
+      "sentenceImage": "images/06_necessary_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "selfish",
+      "partOfSpeech": "adj.",
+      "meaningKo": "이기적인",
+      "definition": "caring only about yourself and not others",
+      "sentence": "The selfish squirrel keeps every acorn away from its friends.",
+      "ipa": "/sɛlfɪʃ/",
+      "wordImage": "images/07_selfish_word.png",
+      "sentenceImage": "images/07_selfish_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "penalty",
+      "partOfSpeech": "n.",
+      "meaningKo": "벌칙",
+      "definition": "a punishment for breaking a rule",
+      "sentence": "The player receives a penalty for crossing the marked line.",
+      "ipa": "/pɛnəlti/",
+      "wordImage": "images/08_penalty_word.png",
+      "sentenceImage": "images/08_penalty_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "adopt",
+      "partOfSpeech": "v.",
+      "meaningKo": "입양하다",
+      "definition": "to legally take a child or animal into your family",
+      "sentence": "The family will adopt a friendly dog from the shelter.",
+      "ipa": "/ədɑpt/",
+      "wordImage": "images/09_adopt_word.png",
+      "sentenceImage": "images/09_adopt_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "adapt",
+      "partOfSpeech": "v.",
+      "meaningKo": "적응하다",
+      "definition": "to change to fit new conditions",
+      "sentence": "The desert fox can adapt to hot dry weather.",
+      "ipa": "/ədæpt/",
+      "wordImage": "images/10_adapt_word.png",
+      "sentenceImage": "images/10_adapt_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

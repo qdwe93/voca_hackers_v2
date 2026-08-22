@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 23,
+  "range": "31-40",
+  "set": 4,
+  "title": "DAY 23 · 31-40",
+  "words": [
+    {
+      "no": 31,
+      "word": "forecast",
+      "partOfSpeech": "n.",
+      "meaningKo": "예보",
+      "ipa": "/ˈfɔːrkæst/",
+      "definition": "a report about future weather",
+      "sentence": "The morning forecast promised sunshine for the school trip.",
+      "wordImage": "images/31_forecast_word.png",
+      "sentenceImage": "images/31_forecast_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 32,
+      "word": "incident",
+      "partOfSpeech": "n.",
+      "meaningKo": "사건",
+      "ipa": "/ˈɪnsɪdənt/",
+      "definition": "something that happens, often unexpected",
+      "sentence": "One funny incident made the whole camp laugh together.",
+      "wordImage": "images/32_incident_word.png",
+      "sentenceImage": "images/32_incident_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 33,
+      "word": "continent",
+      "partOfSpeech": "n.",
+      "meaningKo": "대륙",
+      "ipa": "/ˈkɑːntɪnənt/",
+      "definition": "one of the huge land areas on earth",
+      "sentence": "Each continent has its own special plants and animals.",
+      "wordImage": "images/33_continent_word.png",
+      "sentenceImage": "images/33_continent_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 34,
+      "word": "spoil",
+      "partOfSpeech": "v.",
+      "meaningKo": "상하다",
+      "ipa": "/spɔɪl/",
+      "definition": "to go bad and not be usable",
+      "sentence": "Milk will spoil quickly on a very hot day.",
+      "wordImage": "images/34_spoil_word.png",
+      "sentenceImage": "images/34_spoil_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 35,
+      "word": "tremendous",
+      "partOfSpeech": "adj.",
+      "meaningKo": "엄청난",
+      "ipa": "/trəˈmendəs/",
+      "definition": "extremely large or great",
+      "sentence": "A tremendous wave rolled gently toward the sandy shore.",
+      "wordImage": "images/35_tremendous_word.png",
+      "sentenceImage": "images/35_tremendous_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 36,
+      "word": "steep",
+      "partOfSpeech": "adj.",
+      "meaningKo": "가파른",
+      "ipa": "/stiːp/",
+      "definition": "going up or down very sharply",
+      "sentence": "The steep hill path made everyone walk more slowly.",
+      "wordImage": "images/36_steep_word.png",
+      "sentenceImage": "images/36_steep_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 37,
+      "word": "territory",
+      "partOfSpeech": "n.",
+      "meaningKo": "영역",
+      "ipa": "/ˈterətɔːri/",
+      "definition": "an area that an animal calls its own",
+      "sentence": "The robin guards its small territory around the hedge.",
+      "wordImage": "images/37_territory_word.png",
+      "sentenceImage": "images/37_territory_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 38,
+      "word": "split",
+      "partOfSpeech": "v.",
+      "meaningKo": "나누다",
+      "ipa": "/splɪt/",
+      "definition": "to divide something into two parts",
+      "sentence": "The friends will split the melon into equal halves.",
+      "wordImage": "images/38_split_word.png",
+      "sentenceImage": "images/38_split_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 39,
+      "word": "flash",
+      "partOfSpeech": "v.",
+      "meaningKo": "번쩍이다",
+      "ipa": "/flæʃ/",
+      "definition": "to shine brightly for a short moment",
+      "sentence": "Fireflies flash softly above the dark summer meadow.",
+      "wordImage": "images/39_flash_word.png",
+      "sentenceImage": "images/39_flash_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 40,
+      "word": "deposit",
+      "partOfSpeech": "v.",
+      "meaningKo": "두다",
+      "ipa": "/dɪˈpɑːzɪt/",
+      "definition": "to leave something in a certain place",
+      "sentence": "Rivers deposit fine sand along the curving inner bank.",
+      "wordImage": "images/40_deposit_word.png",
+      "sentenceImage": "images/40_deposit_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

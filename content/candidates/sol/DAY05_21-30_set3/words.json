@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 5,
+  "range": "21-30",
+  "set": 3,
+  "title": "DAY 05 · 21-30",
+  "words": [
+    {
+      "no": 21,
+      "word": "capable",
+      "partOfSpeech": "adj.",
+      "meaningKo": "할 수 있는",
+      "definition": "having the ability needed to do something",
+      "sentence": "The capable robot carries three boxes without dropping them.",
+      "ipa": "/keɪpəbəl/",
+      "wordImage": "images/21_capable_word.png",
+      "sentenceImage": "images/21_capable_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 22,
+      "word": "proper",
+      "partOfSpeech": "adj.",
+      "meaningKo": "적절한",
+      "definition": "correct or suitable for a situation",
+      "sentence": "The scientist wears proper gloves during the safe experiment.",
+      "ipa": "/prɑpɚ/",
+      "wordImage": "images/22_proper_word.png",
+      "sentenceImage": "images/22_proper_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 23,
+      "word": "frequent",
+      "partOfSpeech": "adj.",
+      "meaningKo": "빈번한",
+      "definition": "happening often or many times",
+      "sentence": "Frequent rain keeps the garden path wet all week.",
+      "ipa": "/frikwənt/",
+      "wordImage": "images/23_frequent_word.png",
+      "sentenceImage": "images/23_frequent_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 24,
+      "word": "symptom",
+      "partOfSpeech": "n.",
+      "meaningKo": "증상",
+      "definition": "a sign that someone may have an illness",
+      "sentence": "A runny nose can be a symptom of a cold.",
+      "ipa": "/sɪmptəm/",
+      "wordImage": "images/24_symptom_word.png",
+      "sentenceImage": "images/24_symptom_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 25,
+      "word": "monitor",
+      "partOfSpeech": "v.",
+      "meaningKo": "관찰하다",
+      "definition": "to watch and check something over time",
+      "sentence": "The nurse will monitor the patient's temperature throughout the afternoon.",
+      "ipa": "/mɑnətɚ/",
+      "wordImage": "images/25_monitor_word.png",
+      "sentenceImage": "images/25_monitor_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 26,
+      "word": "consume",
+      "partOfSpeech": "v.",
+      "meaningKo": "섭취하다",
+      "definition": "to eat drink or use something",
+      "sentence": "The hungry panda will consume a bowl of bamboo shoots.",
+      "ipa": "/kənsum/",
+      "wordImage": "images/26_consume_word.png",
+      "sentenceImage": "images/26_consume_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 27,
+      "word": "struggle",
+      "partOfSpeech": "v.",
+      "meaningKo": "애쓰다",
+      "definition": "to try very hard against difficulty",
+      "sentence": "The small ant will struggle to move the heavy crumb.",
+      "ipa": "/strʌɡəl/",
+      "wordImage": "images/27_struggle_word.png",
+      "sentenceImage": "images/27_struggle_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 28,
+      "word": "strengthen",
+      "partOfSpeech": "v.",
+      "meaningKo": "강하게 하다",
+      "definition": "to make someone or something stronger",
+      "sentence": "Daily climbing exercises can strengthen the monkey's arms.",
+      "ipa": "/strɛŋθən/",
+      "wordImage": "images/28_strengthen_word.png",
+      "sentenceImage": "images/28_strengthen_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 29,
+      "word": "slide",
+      "partOfSpeech": "v.",
+      "meaningKo": "미끄러지다",
+      "definition": "to move smoothly across a surface",
+      "sentence": "The penguin will slide across the smooth ice.",
+      "ipa": "/slaɪd/",
+      "wordImage": "images/29_slide_word.png",
+      "sentenceImage": "images/29_slide_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 30,
+      "word": "slice",
+      "partOfSpeech": "v.",
+      "meaningKo": "얇게 썰다",
+      "definition": "to cut food into thin flat pieces",
+      "sentence": "The chef will slice the cucumber with a safe tool.",
+      "ipa": "/slaɪs/",
+      "wordImage": "images/30_slice_word.png",
+      "sentenceImage": "images/30_slice_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

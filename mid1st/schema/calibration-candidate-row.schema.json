@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "calibration-candidate-row.schema.json",
+  "title": "mid1st calibration sentence candidate JSONL row",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["wordId", "no", "word", "sentence"],
+  "properties": {
+    "wordId": { "type": "string", "pattern": "^DAY(0[1-9]|[12][0-9]|30)-(0[1-9]|[1-3][0-9]|40)$" },
+    "no": { "type": "integer", "minimum": 1, "maximum": 40 },
+    "word": { "type": "string", "minLength": 1 },
+    "sentence": { "type": "string", "minLength": 1 }
+  }
+}

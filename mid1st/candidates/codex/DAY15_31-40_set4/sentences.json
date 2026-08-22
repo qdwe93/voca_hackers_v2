@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 15,
+  "range": "31-40",
+  "set": 4,
+  "items": [
+    {
+      "wordId": "DAY15-31",
+      "no": 31,
+      "word": "bias",
+      "sentence": "Readers detect bias by checking sources and missing information."
+    },
+    {
+      "wordId": "DAY15-32",
+      "no": 32,
+      "word": "string",
+      "sentence": "Today, the kite string stretched high above the grassy hill."
+    },
+    {
+      "wordId": "DAY15-33",
+      "no": 33,
+      "word": "examination",
+      "sentence": "Today, the examination covered every plant in the school garden."
+    },
+    {
+      "wordId": "DAY15-34",
+      "no": 34,
+      "word": "rational",
+      "sentence": "One rational plan helped the team finish the model bridge."
+    },
+    {
+      "wordId": "DAY15-35",
+      "no": 35,
+      "word": "laboratory",
+      "sentence": "Today, the laboratory had bright beakers along every clean white shelf."
+    },
+    {
+      "wordId": "DAY15-36",
+      "no": 36,
+      "word": "authority",
+      "sentence": "The constitution limits government authority granted by the people."
+    },
+    {
+      "wordId": "DAY15-37",
+      "no": 37,
+      "word": "misunderstanding",
+      "sentence": "One small misunderstanding ended with laughter and warm handshakes."
+    },
+    {
+      "wordId": "DAY15-38",
+      "no": 38,
+      "word": "pursue",
+      "sentence": "Today, the young violinist will pursue her dream of playing well."
+    },
+    {
+      "wordId": "DAY15-39",
+      "no": 39,
+      "word": "deprived",
+      "sentence": "Students deprived of books receive equal library access."
+    },
+    {
+      "wordId": "DAY15-40",
+      "no": 40,
+      "word": "spell",
+      "sentence": "Students hear each sound before they spell the word."
+    }
+  ]
+}

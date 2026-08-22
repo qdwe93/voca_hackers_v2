@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 7,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 07 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "apologize",
+      "partOfSpeech": "v.",
+      "meaningKo": "사과하다",
+      "ipa": "/əˈpɑːlədʒaɪz/",
+      "definition": "to say you are sorry for something",
+      "sentence": "The puppy seemed to apologize after knocking the cup over.",
+      "wordImage": "images/11_apologize_word.png",
+      "sentenceImage": "images/11_apologize_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "refer",
+      "partOfSpeech": "v.",
+      "meaningKo": "참조하다",
+      "ipa": "/rɪˈfɜːr/",
+      "definition": "to look at something for information",
+      "sentence": "Sailors refer to the stars when clouds cover the moon.",
+      "wordImage": "images/12_refer_word.png",
+      "sentenceImage": "images/12_refer_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "colleague",
+      "partOfSpeech": "n.",
+      "meaningKo": "동료",
+      "ipa": "/ˈkɑːliːɡ/",
+      "definition": "a person who works with you",
+      "sentence": "The baker greeted a colleague at the early morning market.",
+      "wordImage": "images/13_colleague_word.png",
+      "sentenceImage": "images/13_colleague_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "rely",
+      "partOfSpeech": "v.",
+      "meaningKo": "의지하다",
+      "ipa": "/rɪˈlaɪ/",
+      "definition": "to trust someone to help you",
+      "sentence": "Young ducklings rely on their mother near the wide pond.",
+      "wordImage": "images/14_rely_word.png",
+      "sentenceImage": "images/14_rely_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "mistake",
+      "partOfSpeech": "n.",
+      "meaningKo": "실수",
+      "ipa": "/mɪˈsteɪk/",
+      "definition": "something done in the wrong way",
+      "sentence": "One small mistake turned the blue paint into bright green.",
+      "wordImage": "images/15_mistake_word.png",
+      "sentenceImage": "images/15_mistake_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "request",
+      "partOfSpeech": "n.",
+      "meaningKo": "요청",
+      "ipa": "/rɪˈkwest/",
+      "definition": "when you politely ask for something",
+      "sentence": "The polite request for extra crayons made the teacher smile.",
+      "wordImage": "images/16_request_word.png",
+      "sentenceImage": "images/16_request_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "assume",
+      "partOfSpeech": "v.",
+      "meaningKo": "가정하다",
+      "ipa": "/əˈsuːm/",
+      "definition": "to think something is true without checking",
+      "sentence": "Do not assume the box is empty before looking inside.",
+      "wordImage": "images/17_assume_word.png",
+      "sentenceImage": "images/17_assume_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "refuse",
+      "partOfSpeech": "v.",
+      "meaningKo": "거절하다",
+      "ipa": "/rɪˈfjuːz/",
+      "definition": "to say no to something",
+      "sentence": "The stubborn goat will refuse to cross the wet bridge.",
+      "wordImage": "images/18_refuse_word.png",
+      "sentenceImage": "images/18_refuse_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "reply",
+      "partOfSpeech": "v.",
+      "meaningKo": "대답하다",
+      "ipa": "/rɪˈplaɪ/",
+      "definition": "to answer someone who asked something",
+      "sentence": "The parrot will reply whenever someone says hello to it.",
+      "wordImage": "images/19_reply_word.png",
+      "sentenceImage": "images/19_reply_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "degree",
+      "partOfSpeech": "n.",
+      "meaningKo": "도(단위), 정도, 학위",
+      "ipa": "/dɪˈɡriː/",
+      "definition": "a unit for measuring temperature or angles",
+      "sentence": "The thermometer showed twenty degree Celsius on a warm morning.",
+      "wordImage": "images/20_degree_word.png",
+      "sentenceImage": "images/20_degree_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

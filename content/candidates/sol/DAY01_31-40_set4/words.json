@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 1,
+  "range": "31-40",
+  "set": 4,
+  "title": "DAY 01 · 31-40",
+  "words": [
+    {
+      "no": 31,
+      "word": "browse",
+      "partOfSpeech": "v.",
+      "meaningKo": "둘러보다",
+      "definition": "to look through items without choosing quickly",
+      "sentence": "Shoppers browse colorful books on the market table.",
+      "ipa": "/braʊz/",
+      "wordImage": "images/31_browse_word.png",
+      "sentenceImage": "images/31_browse_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 32,
+      "word": "appetite",
+      "partOfSpeech": "n.",
+      "meaningKo": "식욕",
+      "definition": "a natural desire to eat food",
+      "sentence": "The smell of warm bread gives the bear an appetite.",
+      "ipa": "/æpətaɪt/",
+      "wordImage": "images/32_appetite_word.png",
+      "sentenceImage": "images/32_appetite_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 33,
+      "word": "attach",
+      "partOfSpeech": "v.",
+      "meaningKo": "붙이다",
+      "definition": "to fasten or join one thing to another",
+      "sentence": "The child will attach a paper tail to the kite.",
+      "ipa": "/ətætʃ/",
+      "wordImage": "images/33_attach_word.png",
+      "sentenceImage": "images/33_attach_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 34,
+      "word": "shut",
+      "partOfSpeech": "v.",
+      "meaningKo": "닫다",
+      "definition": "to close something completely",
+      "sentence": "A shopkeeper will shut the window before the storm.",
+      "ipa": "/ʃʌt/",
+      "wordImage": "images/34_shut_word.png",
+      "sentenceImage": "images/34_shut_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 35,
+      "word": "tender",
+      "partOfSpeech": "adj.",
+      "meaningKo": "부드러운",
+      "definition": "soft and easy to cut or bite",
+      "sentence": "The tender carrots break easily under the wooden fork.",
+      "ipa": "/tɛndɚ/",
+      "wordImage": "images/35_tender_word.png",
+      "sentenceImage": "images/35_tender_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 36,
+      "word": "pour",
+      "partOfSpeech": "v.",
+      "meaningKo": "붓다",
+      "definition": "to make liquid flow from one container into another",
+      "sentence": "A robot will pour orange juice into three glasses.",
+      "ipa": "/pɔr/",
+      "wordImage": "images/36_pour_word.png",
+      "sentenceImage": "images/36_pour_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 37,
+      "word": "lean",
+      "partOfSpeech": "v.",
+      "meaningKo": "기대다",
+      "definition": "to rest against something for support",
+      "sentence": "The tired gardener will lean against the strong fence.",
+      "ipa": "/lin/",
+      "wordImage": "images/37_lean_word.png",
+      "sentenceImage": "images/37_lean_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 38,
+      "word": "temporary",
+      "partOfSpeech": "adj.",
+      "meaningKo": "임시의",
+      "definition": "lasting or used for only a short time",
+      "sentence": "Workers build a temporary bridge beside the damaged path.",
+      "ipa": "/tɛmpɚɛri/",
+      "wordImage": "images/38_temporary_word.png",
+      "sentenceImage": "images/38_temporary_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 39,
+      "word": "cottage",
+      "partOfSpeech": "n.",
+      "meaningKo": "작은 시골집",
+      "definition": "a small simple house usually in the countryside",
+      "sentence": "A stone cottage stands beside flowers in the countryside.",
+      "ipa": "/kɑtədʒ/",
+      "wordImage": "images/39_cottage_word.png",
+      "sentenceImage": "images/39_cottage_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 40,
+      "word": "minute",
+      "partOfSpeech": "n.",
+      "meaningKo": "분",
+      "definition": "a unit of time equal to sixty seconds",
+      "sentence": "The kitchen timer counts one minute beside the cooling cookies.",
+      "ipa": "/ˈmɪnɪt/",
+      "wordImage": "images/40_minute_word.png",
+      "sentenceImage": "images/40_minute_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

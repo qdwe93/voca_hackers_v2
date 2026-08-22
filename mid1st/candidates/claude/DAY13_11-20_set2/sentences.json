@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 13,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY13-11",
+      "no": 11,
+      "word": "myth",
+      "sentence": "This myth about a sun god matches an older village story."
+    },
+    {
+      "wordId": "DAY13-12",
+      "no": 12,
+      "word": "attitude",
+      "sentence": "A calm attitude helped the guide answer many visitor questions."
+    },
+    {
+      "wordId": "DAY13-13",
+      "no": 13,
+      "word": "priest",
+      "sentence": "The village priest rang the old bell at sunrise."
+    },
+    {
+      "wordId": "DAY13-14",
+      "no": 14,
+      "word": "approve",
+      "sentence": "Elders approve the new festival plan after a long discussion."
+    },
+    {
+      "wordId": "DAY13-15",
+      "no": 15,
+      "word": "carve",
+      "sentence": "Artists carve small flower shapes into the temple's wooden door."
+    },
+    {
+      "wordId": "DAY13-16",
+      "no": 16,
+      "word": "primitive",
+      "sentence": "These primitive stone tools were found near the river cave."
+    },
+    {
+      "wordId": "DAY13-17",
+      "no": 17,
+      "word": "invade",
+      "sentence": "Wild goats sometimes invade the garden and eat young cabbage."
+    },
+    {
+      "wordId": "DAY13-18",
+      "no": 18,
+      "word": "arise",
+      "sentence": "New questions arise whenever we compare two different customs."
+    },
+    {
+      "wordId": "DAY13-19",
+      "no": 19,
+      "word": "register",
+      "sentence": "Please register your name before joining the pottery class."
+    },
+    {
+      "wordId": "DAY13-20",
+      "no": 20,
+      "word": "custom",
+      "sentence": "Bowing to elders is a common custom in our neighborhood."
+    }
+  ]
+}

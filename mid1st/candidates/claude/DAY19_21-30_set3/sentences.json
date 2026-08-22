@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 19,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY19-21",
+      "no": 21,
+      "word": "widespread",
+      "sentence": "Solar lamps became widespread across these small mountain villages."
+    },
+    {
+      "wordId": "DAY19-22",
+      "no": 22,
+      "word": "edge",
+      "sentence": "We drew one straight edge parallel to the paper's bottom line."
+    },
+    {
+      "wordId": "DAY19-23",
+      "no": 23,
+      "word": "remind",
+      "sentence": "This alarm will remind us to water the classroom plants."
+    },
+    {
+      "wordId": "DAY19-24",
+      "no": 24,
+      "word": "acquire",
+      "sentence": "Beginners acquire coding skills slowly through weekly club meetings."
+    },
+    {
+      "wordId": "DAY19-25",
+      "no": 25,
+      "word": "interact",
+      "sentence": "Two robots interact by passing the ball back and forth."
+    },
+    {
+      "wordId": "DAY19-26",
+      "no": 26,
+      "word": "scatter",
+      "sentence": "Perfume particles scatter through the room until the smell spreads evenly."
+    },
+    {
+      "wordId": "DAY19-27",
+      "no": 27,
+      "word": "virtual",
+      "sentence": "In this virtual museum, clicking a painting opens more information."
+    },
+    {
+      "wordId": "DAY19-28",
+      "no": 28,
+      "word": "convert",
+      "sentence": "Heating will convert this solid butter into smooth yellow liquid."
+    },
+    {
+      "wordId": "DAY19-29",
+      "no": 29,
+      "word": "ease",
+      "sentence": "The new handle lets us lift the box with ease."
+    },
+    {
+      "wordId": "DAY19-30",
+      "no": 30,
+      "word": "erase",
+      "sentence": "Please erase the old numbers before writing today's results."
+    }
+  ]
+}

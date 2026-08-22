@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 1,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY01-11",
+      "no": 11,
+      "word": "sweep",
+      "sentence": "We sweep the kitchen floor with a broom after cooking."
+    },
+    {
+      "wordId": "DAY01-12",
+      "no": 12,
+      "word": "glance",
+      "sentence": "The boy can glance at the clock during his breakfast."
+    },
+    {
+      "wordId": "DAY01-13",
+      "no": 13,
+      "word": "match",
+      "sentence": "These blue curtains match the sofa in the living room."
+    },
+    {
+      "wordId": "DAY01-14",
+      "no": 14,
+      "word": "furniture",
+      "sentence": "The workers moved wooden furniture into the new apartment room."
+    },
+    {
+      "wordId": "DAY01-15",
+      "no": 15,
+      "word": "manual",
+      "sentence": "The instruction manual clearly explains each step of assembling the chair."
+    },
+    {
+      "wordId": "DAY01-16",
+      "no": 16,
+      "word": "value",
+      "sentence": "The antique wooden table has high market value today."
+    },
+    {
+      "wordId": "DAY01-17",
+      "no": 17,
+      "word": "pot",
+      "sentence": "A large metal pot boils soup on the kitchen stove."
+    },
+    {
+      "wordId": "DAY01-18",
+      "no": 18,
+      "word": "grocery",
+      "sentence": "Father buys fresh grocery items at the neighborhood supermarket."
+    },
+    {
+      "wordId": "DAY01-19",
+      "no": 19,
+      "word": "striped",
+      "sentence": "The girl wears a striped apron while preparing the salad."
+    },
+    {
+      "wordId": "DAY01-20",
+      "no": 20,
+      "word": "mind",
+      "sentence": "A peaceful mind helps you make thoughtful decisions every day."
+    }
+  ]
+}

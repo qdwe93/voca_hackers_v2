@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 30,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY30-21",
+      "no": 21,
+      "word": "depress",
+      "sentence": "Gloomy rainy weather can depress your mood during long winter weeks."
+    },
+    {
+      "wordId": "DAY30-22",
+      "no": 22,
+      "word": "demand",
+      "sentence": "Consumers demand high quality and safety standards from food manufacturing companies."
+    },
+    {
+      "wordId": "DAY30-23",
+      "no": 23,
+      "word": "identify",
+      "sentence": "Botanists use microscopic features to identify unknown wild flower plant species."
+    },
+    {
+      "wordId": "DAY30-24",
+      "no": 24,
+      "word": "award",
+      "sentence": "The young author received a prestigious literary award for her novel."
+    },
+    {
+      "wordId": "DAY30-25",
+      "no": 25,
+      "word": "regret",
+      "sentence": "He expressed deep regret for speaking harsh words to his classmate."
+    },
+    {
+      "wordId": "DAY30-26",
+      "no": 26,
+      "word": "regard",
+      "sentence": "Many historians regard the printing press as a monumental human invention."
+    },
+    {
+      "wordId": "DAY30-27",
+      "no": 27,
+      "word": "inquire",
+      "sentence": "Prospective students inquire about application deadlines at the university admissions office."
+    },
+    {
+      "wordId": "DAY30-28",
+      "no": 28,
+      "word": "script",
+      "sentence": "Actors practiced their assigned dialogue lines from the theater play script."
+    },
+    {
+      "wordId": "DAY30-29",
+      "no": 29,
+      "word": "decline",
+      "sentence": "Line graphs indicate that birth rates decline across several developed countries."
+    },
+    {
+      "wordId": "DAY30-30",
+      "no": 30,
+      "word": "declare",
+      "sentence": "Officials declare the opening of the international youth sports competition games."
+    }
+  ]
+}

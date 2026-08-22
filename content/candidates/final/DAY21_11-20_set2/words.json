@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 21,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 21 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "shape",
+      "partOfSpeech": "n.",
+      "meaningKo": "모양",
+      "ipa": "/ʃeɪp/",
+      "definition": "the outside form of something",
+      "sentence": "The cloud had the shape of a fluffy sheep.",
+      "wordImage": "images/11_shape_word.png",
+      "sentenceImage": "images/11_shape_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "fierce",
+      "partOfSpeech": "adj.",
+      "meaningKo": "사나운",
+      "ipa": "/fɪrs/",
+      "definition": "looking very strong and bold",
+      "sentence": "The toy tiger wore a fierce painted stripe pattern.",
+      "wordImage": "images/12_fierce_word.png",
+      "sentenceImage": "images/12_fierce_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "ripe",
+      "partOfSpeech": "adj.",
+      "meaningKo": "익은",
+      "ipa": "/raɪp/",
+      "definition": "ready to be picked and eaten",
+      "sentence": "The ripe peaches smelled sweet in the summer orchard.",
+      "wordImage": "images/13_ripe_word.png",
+      "sentenceImage": "images/13_ripe_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "lay",
+      "partOfSpeech": "v.",
+      "meaningKo": "알을 낳다, 놓다",
+      "ipa": "/leɪ/",
+      "definition": "to produce an egg from the body, or place down",
+      "sentence": "The mother hen will lay brown eggs in her straw nest.",
+      "wordImage": "images/14_lay_word.png",
+      "sentenceImage": "images/14_lay_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "male",
+      "partOfSpeech": "adj.",
+      "meaningKo": "수컷의",
+      "ipa": "/meɪl/",
+      "definition": "of the boy kind in animals",
+      "sentence": "The male peacock spread its bright tail feathers proudly.",
+      "wordImage": "images/15_male_word.png",
+      "sentenceImage": "images/15_male_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "foster",
+      "partOfSpeech": "v.",
+      "meaningKo": "기르다",
+      "ipa": "/ˈfɔːstər/",
+      "definition": "to care for a young animal or child",
+      "sentence": "The gentle hen will foster three lost little ducklings.",
+      "wordImage": "images/16_foster_word.png",
+      "sentenceImage": "images/16_foster_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "surface",
+      "partOfSpeech": "n.",
+      "meaningKo": "표면",
+      "ipa": "/ˈsɜːrfɪs/",
+      "definition": "the top or outside part of something",
+      "sentence": "The pond surface stayed perfectly still at quiet dawn.",
+      "wordImage": "images/17_surface_word.png",
+      "sentenceImage": "images/17_surface_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "engage",
+      "partOfSpeech": "v.",
+      "meaningKo": "참여시키다",
+      "ipa": "/ɪnˈɡeɪdʒ/",
+      "definition": "to get someone interested and involved",
+      "sentence": "The story will engage every child in the room.",
+      "wordImage": "images/18_engage_word.png",
+      "sentenceImage": "images/18_engage_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "location",
+      "partOfSpeech": "n.",
+      "meaningKo": "위치",
+      "ipa": "/loʊˈkeɪʃn/",
+      "definition": "the place where something is",
+      "sentence": "A hidden location behind the rocks held bird nests.",
+      "wordImage": "images/19_location_word.png",
+      "sentenceImage": "images/19_location_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "store",
+      "partOfSpeech": "v.",
+      "meaningKo": "저장하다",
+      "ipa": "/stɔːr/",
+      "definition": "to keep something for later use",
+      "sentence": "Squirrels store nuts inside a hollow tree each autumn.",
+      "wordImage": "images/20_store_word.png",
+      "sentenceImage": "images/20_store_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

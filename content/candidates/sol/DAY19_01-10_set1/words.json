@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 19,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 19 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "modern",
+      "partOfSpeech": "adj.",
+      "meaningKo": "현대의",
+      "definition": "using current ideas designs or technology",
+      "sentence": "A modern train glides beside an old steam engine.",
+      "ipa": "/mɑdɚn/",
+      "wordImage": "images/01_modern_word.png",
+      "sentenceImage": "images/01_modern_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "mobile",
+      "partOfSpeech": "adj.",
+      "meaningKo": "이동 가능한",
+      "definition": "able to move easily from place to place",
+      "sentence": "A mobile robot carries tools between different rooms.",
+      "ipa": "/moʊbəl/",
+      "wordImage": "images/02_mobile_word.png",
+      "sentenceImage": "images/02_mobile_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "function",
+      "partOfSpeech": "n.",
+      "meaningKo": "기능",
+      "definition": "the purpose or job of something",
+      "sentence": "The main function of the fan is moving air.",
+      "ipa": "/fʌŋkʃən/",
+      "wordImage": "images/03_function_word.png",
+      "sentenceImage": "images/03_function_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "machine",
+      "partOfSpeech": "n.",
+      "meaningKo": "기계",
+      "definition": "a device using power to perform work",
+      "sentence": "The machine sorts red and blue balls automatically.",
+      "ipa": "/məʃin/",
+      "wordImage": "images/04_machine_word.png",
+      "sentenceImage": "images/04_machine_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "repair",
+      "partOfSpeech": "v.",
+      "meaningKo": "수리하다",
+      "definition": "to fix something damaged or broken",
+      "sentence": "The mechanic will repair the cracked wheel on the robot.",
+      "ipa": "/rɪpɛr/",
+      "wordImage": "images/05_repair_word.png",
+      "sentenceImage": "images/05_repair_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "efficient",
+      "partOfSpeech": "adj.",
+      "meaningKo": "효율적인",
+      "definition": "working well without wasting time or energy",
+      "sentence": "The efficient robot cleans three rooms using little power.",
+      "ipa": "/ɪfɪʃənt/",
+      "wordImage": "images/06_efficient_word.png",
+      "sentenceImage": "images/06_efficient_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "install",
+      "partOfSpeech": "v.",
+      "meaningKo": "설치하다",
+      "definition": "to put equipment in place for use",
+      "sentence": "Workers install a new solar panel on the roof.",
+      "ipa": "/ɪnstɔl/",
+      "wordImage": "images/07_install_word.png",
+      "sentenceImage": "images/07_install_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "innovation",
+      "partOfSpeech": "n.",
+      "meaningKo": "혁신",
+      "definition": "a new idea method or product",
+      "sentence": "The folding bicycle is an innovation in city travel.",
+      "ipa": "/ɪnəveɪʃən/",
+      "wordImage": "images/08_innovation_word.png",
+      "sentenceImage": "images/08_innovation_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "trust",
+      "partOfSpeech": "n.",
+      "meaningKo": "신뢰",
+      "definition": "belief that someone is honest and reliable",
+      "sentence": "The guide earns the hikers' trust by choosing safe paths.",
+      "ipa": "/trʌst/",
+      "wordImage": "images/09_trust_word.png",
+      "sentenceImage": "images/09_trust_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "truth",
+      "partOfSpeech": "n.",
+      "meaningKo": "진실",
+      "definition": "the real facts about something",
+      "sentence": "The open box reveals the truth about the missing ball.",
+      "ipa": "/truθ/",
+      "wordImage": "images/10_truth_word.png",
+      "sentenceImage": "images/10_truth_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

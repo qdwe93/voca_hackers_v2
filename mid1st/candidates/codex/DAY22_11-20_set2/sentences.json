@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 22,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY22-11",
+      "no": 11,
+      "word": "huge",
+      "sentence": "One huge pumpkin sat proudly in the autumn field."
+    },
+    {
+      "wordId": "DAY22-12",
+      "no": 12,
+      "word": "pile",
+      "sentence": "A pile of yellow leaves grew next to the path."
+    },
+    {
+      "wordId": "DAY22-13",
+      "no": 13,
+      "word": "react",
+      "sentence": "Today, sunflowers react to sunlight by turning their bright heads."
+    },
+    {
+      "wordId": "DAY22-14",
+      "no": 14,
+      "word": "exist",
+      "sentence": "Today, deep sea creatures exist far below the ocean waves."
+    },
+    {
+      "wordId": "DAY22-15",
+      "no": 15,
+      "word": "shade",
+      "sentence": "Today, the cows rested in the shade of the tree."
+    },
+    {
+      "wordId": "DAY22-16",
+      "no": 16,
+      "word": "element",
+      "sentence": "Today, water is an important element of every healthy garden."
+    },
+    {
+      "wordId": "DAY22-17",
+      "no": 17,
+      "word": "layer",
+      "sentence": "One thin layer of snow covered the sleeping garden."
+    },
+    {
+      "wordId": "DAY22-18",
+      "no": 18,
+      "word": "horizon",
+      "sentence": "Students record the Sun rising above the eastern horizon."
+    },
+    {
+      "wordId": "DAY22-19",
+      "no": 19,
+      "word": "observe",
+      "sentence": "Students observe plant growth after changing only the light."
+    },
+    {
+      "wordId": "DAY22-20",
+      "no": 20,
+      "word": "block",
+      "sentence": "Tall trees block the strong wind close to the house."
+    }
+  ]
+}

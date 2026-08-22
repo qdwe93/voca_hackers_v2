@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 13,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 13 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "myth",
+      "partOfSpeech": "n.",
+      "meaningKo": "신화",
+      "ipa": "/mɪθ/",
+      "definition": "a very old story about gods or heroes",
+      "sentence": "The myth told how the moon became silver white.",
+      "wordImage": "images/11_myth_word.png",
+      "sentenceImage": "images/11_myth_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "attitude",
+      "partOfSpeech": "n.",
+      "meaningKo": "태도",
+      "ipa": "/ˈætɪtuːd/",
+      "definition": "the way you think and act about things",
+      "sentence": "A cheerful attitude made the long hike feel shorter.",
+      "wordImage": "images/12_attitude_word.png",
+      "sentenceImage": "images/12_attitude_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "priest",
+      "partOfSpeech": "n.",
+      "meaningKo": "사제",
+      "ipa": "/priːst/",
+      "definition": "a leader in a place of worship",
+      "sentence": "The kind priest greeted visitors at the old temple.",
+      "wordImage": "images/13_priest_word.png",
+      "sentenceImage": "images/13_priest_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "approve",
+      "partOfSpeech": "v.",
+      "meaningKo": "승인하다",
+      "ipa": "/əˈpruːv/",
+      "definition": "to say that something is good or allowed",
+      "sentence": "The teachers approve the new plan for the school garden.",
+      "wordImage": "images/14_approve_word.png",
+      "sentenceImage": "images/14_approve_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "carve",
+      "partOfSpeech": "v.",
+      "meaningKo": "조각하다",
+      "ipa": "/kɑːrv/",
+      "definition": "to cut shapes into wood or stone",
+      "sentence": "Artists carve gentle animal shapes into the soft wood.",
+      "wordImage": "images/15_carve_word.png",
+      "sentenceImage": "images/15_carve_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "primitive",
+      "partOfSpeech": "adj.",
+      "meaningKo": "원시의",
+      "ipa": "/ˈprɪmətɪv/",
+      "definition": "very simple and from long ago",
+      "sentence": "Primitive tools made of stone rested inside the display case.",
+      "wordImage": "images/16_primitive_word.png",
+      "sentenceImage": "images/16_primitive_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "invade",
+      "partOfSpeech": "v.",
+      "meaningKo": "침입하다",
+      "ipa": "/ɪnˈveɪd/",
+      "definition": "to come into a place without being asked",
+      "sentence": "Weeds may invade the garden if nobody pulls them.",
+      "wordImage": "images/17_invade_word.png",
+      "sentenceImage": "images/17_invade_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "arise",
+      "partOfSpeech": "v.",
+      "meaningKo": "생기다",
+      "ipa": "/əˈraɪz/",
+      "definition": "to begin or appear",
+      "sentence": "New questions arise whenever the class studies old maps.",
+      "wordImage": "images/18_arise_word.png",
+      "sentenceImage": "images/18_arise_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "register",
+      "partOfSpeech": "v.",
+      "meaningKo": "등록하다",
+      "ipa": "/ˈredʒɪstər/",
+      "definition": "to put your name on a list",
+      "sentence": "You must register early to join the swimming class.",
+      "wordImage": "images/19_register_word.png",
+      "sentenceImage": "images/19_register_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "custom",
+      "partOfSpeech": "n.",
+      "meaningKo": "관습",
+      "ipa": "/ˈkʌstəm/",
+      "definition": "something people always do in their group",
+      "sentence": "Bowing politely is a lovely custom in many countries.",
+      "wordImage": "images/20_custom_word.png",
+      "sentenceImage": "images/20_custom_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

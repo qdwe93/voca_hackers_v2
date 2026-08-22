@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 21,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY21-01",
+      "no": 1,
+      "word": "wild",
+      "sentence": "Rangers protect wild horses by preserving their grassland habitat."
+    },
+    {
+      "wordId": "DAY21-02",
+      "no": 2,
+      "word": "species",
+      "sentence": "Scientists group each species by shared feathers, fur, or scales."
+    },
+    {
+      "wordId": "DAY21-03",
+      "no": 3,
+      "word": "bark",
+      "sentence": "The young dogs bark cheerfully whenever the mail arrives."
+    },
+    {
+      "wordId": "DAY21-04",
+      "no": 4,
+      "word": "nest",
+      "sentence": "A robin built a small nest within the hedge."
+    },
+    {
+      "wordId": "DAY21-05",
+      "no": 5,
+      "word": "certain",
+      "sentence": "Today, the guide felt certain about the path through the woods."
+    },
+    {
+      "wordId": "DAY21-06",
+      "no": 6,
+      "word": "greet",
+      "sentence": "Students greet visitors, then wait for their spoken response."
+    },
+    {
+      "wordId": "DAY21-07",
+      "no": 7,
+      "word": "seed",
+      "sentence": "Today, one sunflower seed grew into a very tall plant."
+    },
+    {
+      "wordId": "DAY21-08",
+      "no": 8,
+      "word": "predator",
+      "sentence": "Today, an owl is a quiet predator of the night forest."
+    },
+    {
+      "wordId": "DAY21-09",
+      "no": 9,
+      "word": "scene",
+      "sentence": "The winter scene explains why the character stays indoors."
+    },
+    {
+      "wordId": "DAY21-10",
+      "no": 10,
+      "word": "scent",
+      "sentence": "The scent spreads as particles move across the kitchen."
+    }
+  ]
+}

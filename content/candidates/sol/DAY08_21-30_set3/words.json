@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 8,
+  "range": "21-30",
+  "set": 3,
+  "title": "DAY 08 · 21-30",
+  "words": [
+    {
+      "no": 21,
+      "word": "conclude",
+      "partOfSpeech": "v.",
+      "meaningKo": "결론짓다",
+      "definition": "to decide something after considering evidence",
+      "sentence": "The detective will conclude the muddy boots crossed the garden.",
+      "ipa": "/kənklud/",
+      "wordImage": "images/21_conclude_word.png",
+      "sentenceImage": "images/21_conclude_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 22,
+      "word": "intend",
+      "partOfSpeech": "v.",
+      "meaningKo": "의도하다",
+      "definition": "to plan or mean to do something",
+      "sentence": "The builders intend to finish the treehouse before sunset.",
+      "ipa": "/ɪntɛnd/",
+      "wordImage": "images/22_intend_word.png",
+      "sentenceImage": "images/22_intend_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 23,
+      "word": "worth",
+      "partOfSpeech": "adj.",
+      "meaningKo": "가치가 있는",
+      "definition": "valuable enough for the cost or effort",
+      "sentence": "The difficult climb is worth the beautiful mountain view.",
+      "ipa": "/wɝθ/",
+      "wordImage": "images/23_worth_word.png",
+      "sentenceImage": "images/23_worth_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 24,
+      "word": "outcome",
+      "partOfSpeech": "n.",
+      "meaningKo": "결과",
+      "definition": "the final result of an action or event",
+      "sentence": "The experiment's outcome is a tall column of blue foam.",
+      "ipa": "/aʊtkəm/",
+      "wordImage": "images/24_outcome_word.png",
+      "sentenceImage": "images/24_outcome_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 25,
+      "word": "honor",
+      "partOfSpeech": "n.",
+      "meaningKo": "명예",
+      "definition": "great respect given for achievement or character",
+      "sentence": "The firefighter receives an honor during a safe community ceremony.",
+      "ipa": "/ɑnɚ/",
+      "wordImage": "images/25_honor_word.png",
+      "sentenceImage": "images/25_honor_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 26,
+      "word": "internal",
+      "partOfSpeech": "adj.",
+      "meaningKo": "내부의",
+      "definition": "located or happening inside something",
+      "sentence": "The clear robot reveals its internal gears and wires.",
+      "ipa": "/ɪntɝnəl/",
+      "wordImage": "images/26_internal_word.png",
+      "sentenceImage": "images/26_internal_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 27,
+      "word": "verbal",
+      "partOfSpeech": "adj.",
+      "meaningKo": "말의",
+      "definition": "using spoken words rather than writing",
+      "sentence": "The coach gives verbal directions without using any signs.",
+      "ipa": "/vɝbəl/",
+      "wordImage": "images/27_verbal_word.png",
+      "sentenceImage": "images/27_verbal_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 28,
+      "word": "besides",
+      "partOfSpeech": "prep.",
+      "meaningKo": "~외에도",
+      "definition": "in addition to someone or something",
+      "sentence": "Besides apples the basket contains pears and oranges.",
+      "ipa": "/bɪsaɪdz/",
+      "wordImage": "images/28_besides_word.png",
+      "sentenceImage": "images/28_besides_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 29,
+      "word": "cure",
+      "partOfSpeech": "v.",
+      "meaningKo": "치료하다",
+      "definition": "to make an illness or health problem disappear",
+      "sentence": "The fantasy potion will cure the dragon's harmless hiccups.",
+      "ipa": "/kjʊr/",
+      "wordImage": "images/29_cure_word.png",
+      "sentenceImage": "images/29_cure_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 30,
+      "word": "core",
+      "partOfSpeech": "n.",
+      "meaningKo": "속",
+      "definition": "the central or most important part of something",
+      "sentence": "The apple core remains after the rabbit eats around it.",
+      "ipa": "/kɔr/",
+      "wordImage": "images/30_core_word.png",
+      "sentenceImage": "images/30_core_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 3,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 03 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "pack",
+      "partOfSpeech": "v.",
+      "meaningKo": "짐을 싸다",
+      "ipa": "/pæk/",
+      "definition": "to put things into bags or boxes for travel",
+      "sentence": "Remember to pack extra socks and a water bottle.",
+      "wordImage": "images/11_pack_word.png",
+      "sentenceImage": "images/11_pack_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "host",
+      "partOfSpeech": "n.",
+      "meaningKo": "주인, 진행자",
+      "ipa": "/hoʊst/",
+      "definition": "a person who welcomes guests or runs an event",
+      "sentence": "The friendly host welcomed all visitors with a warm beverage.",
+      "wordImage": "images/12_host_word.png",
+      "sentenceImage": "images/12_host_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "private",
+      "partOfSpeech": "adj.",
+      "meaningKo": "개인의, 사적인",
+      "ipa": "/ˈpraɪ.vət/",
+      "definition": "belonging to one particular person and not for everyone",
+      "sentence": "He keeps a private diary in his study desk drawer.",
+      "wordImage": "images/13_private_word.png",
+      "sentenceImage": "images/13_private_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "craft",
+      "partOfSpeech": "n.",
+      "meaningKo": "공예, 기술",
+      "ipa": "/kræft/",
+      "definition": "an activity involving skill in making things by hand",
+      "sentence": "Students created a colorful paper craft during art class today.",
+      "wordImage": "images/14_craft_word.png",
+      "sentenceImage": "images/14_craft_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "post",
+      "partOfSpeech": "v.",
+      "meaningKo": "우편을 부치다, 게시하다",
+      "ipa": "/poʊst/",
+      "definition": "to send a letter or display a notice publicly",
+      "sentence": "She went to the corner mailbox to post the letter.",
+      "wordImage": "images/15_post_word.png",
+      "sentenceImage": "images/15_post_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "relieve",
+      "partOfSpeech": "v.",
+      "meaningKo": "완화하다, 안도하게 하다",
+      "ipa": "/rɪˈliːv/",
+      "definition": "to make pain or worry less severe",
+      "sentence": "A cool glass of water helped relieve his dry thirst.",
+      "wordImage": "images/16_relieve_word.png",
+      "sentenceImage": "images/16_relieve_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "practice",
+      "partOfSpeech": "v.",
+      "meaningKo": "연습하다",
+      "ipa": "/ˈpræk.tɪs/",
+      "definition": "to do an activity regularly to become better",
+      "sentence": "She likes to practice the violin for thirty minutes daily.",
+      "wordImage": "images/17_practice_word.png",
+      "sentenceImage": "images/17_practice_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "souvenir",
+      "partOfSpeech": "n.",
+      "meaningKo": "기념품",
+      "ipa": "/ˌsuː.vəˈnɪr/",
+      "definition": "something you buy to remember a place or event",
+      "sentence": "He bought a small wooden windmill as a souvenir.",
+      "wordImage": "images/18_souvenir_word.png",
+      "sentenceImage": "images/18_souvenir_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "decorate",
+      "partOfSpeech": "v.",
+      "meaningKo": "장식하다, 꾸미다",
+      "ipa": "/ˈdek.ə.reɪt/",
+      "definition": "to make something look more attractive by adding objects",
+      "sentence": "They helped decorate the classroom with bright paper lanterns today.",
+      "wordImage": "images/19_decorate_word.png",
+      "sentenceImage": "images/19_decorate_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "book",
+      "partOfSpeech": "v.",
+      "meaningKo": "예약하다",
+      "ipa": "/bʊk/",
+      "definition": "to arrange to have a seat, room, or ticket",
+      "sentence": "We should book train tickets early for our weekend trip.",
+      "wordImage": "images/20_book_word.png",
+      "sentenceImage": "images/20_book_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

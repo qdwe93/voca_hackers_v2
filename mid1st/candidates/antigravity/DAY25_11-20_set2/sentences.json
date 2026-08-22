@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 25,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY25-11",
+      "no": 11,
+      "word": "protect",
+      "sentence": "Strict national laws protect endangered wildlife species from illegal poaching activities."
+    },
+    {
+      "wordId": "DAY25-12",
+      "no": 12,
+      "word": "loss",
+      "sentence": "Deforestation causes the loss of critical habitat for rare rainforest animals."
+    },
+    {
+      "wordId": "DAY25-13",
+      "no": 13,
+      "word": "generate",
+      "sentence": "Solar photovoltaic panels generate clean electrical power directly from bright sunlight."
+    },
+    {
+      "wordId": "DAY25-14",
+      "no": 14,
+      "word": "amazed",
+      "sentence": "Visitors were amazed by the breathtaking beauty of the coral reef."
+    },
+    {
+      "wordId": "DAY25-15",
+      "no": 15,
+      "word": "harm",
+      "sentence": "Chemical pollutants cause serious harm to aquatic life in freshwater lakes."
+    },
+    {
+      "wordId": "DAY25-16",
+      "no": 16,
+      "word": "intense",
+      "sentence": "Summer afternoon brings intense heat to the asphalt streets of city."
+    },
+    {
+      "wordId": "DAY25-17",
+      "no": 17,
+      "word": "amount",
+      "sentence": "Recycling reduces the massive amount of garbage sent to local landfills."
+    },
+    {
+      "wordId": "DAY25-18",
+      "no": 18,
+      "word": "marine",
+      "sentence": "Plastic debris poses a severe threat to delicate marine ecosystem species."
+    },
+    {
+      "wordId": "DAY25-19",
+      "no": 19,
+      "word": "permanent",
+      "sentence": "Habitat destruction causes permanent loss of biological diversity in fragile wetlands."
+    },
+    {
+      "wordId": "DAY25-20",
+      "no": 20,
+      "word": "fine",
+      "sentence": "Littering in public parks results in a steep monetary fine penalty."
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 16,
+  "range": "31-40",
+  "set": 4,
+  "items": [
+    {
+      "wordId": "DAY16-31",
+      "no": 31,
+      "word": "preserve",
+      "sentence": "We must preserve clean freshwater resources for future human generation needs."
+    },
+    {
+      "wordId": "DAY16-32",
+      "no": 32,
+      "word": "vapor",
+      "sentence": "Boiling water turns into invisible water vapor in hot kitchen air."
+    },
+    {
+      "wordId": "DAY16-33",
+      "no": 33,
+      "word": "invisible",
+      "sentence": "Air consists of invisible gas particles moving rapidly in all directions."
+    },
+    {
+      "wordId": "DAY16-34",
+      "no": 34,
+      "word": "substance",
+      "sentence": "Water has higher specific heat than any other common liquid substance."
+    },
+    {
+      "wordId": "DAY16-35",
+      "no": 35,
+      "word": "particle",
+      "sentence": "Each gas particle moves faster as temperature increases inside the container."
+    },
+    {
+      "wordId": "DAY16-36",
+      "no": 36,
+      "word": "moisture",
+      "sentence": "Morning moisture condenses into tiny water droplets on cold grass leaves."
+    },
+    {
+      "wordId": "DAY16-37",
+      "no": 37,
+      "word": "abstract",
+      "sentence": "Mathematics often deals with abstract concepts like infinity and imaginary numbers."
+    },
+    {
+      "wordId": "DAY16-38",
+      "no": 38,
+      "word": "valid",
+      "sentence": "The experiment conclusion is valid only when supported by verified data."
+    },
+    {
+      "wordId": "DAY16-39",
+      "no": 39,
+      "word": "invention",
+      "sentence": "The microscope was a revolutionary scientific invention for observing tiny cells."
+    },
+    {
+      "wordId": "DAY16-40",
+      "no": 40,
+      "word": "stick",
+      "sentence": "Electrostatic charges cause small pieces of dry paper to stick together."
+    }
+  ]
+}

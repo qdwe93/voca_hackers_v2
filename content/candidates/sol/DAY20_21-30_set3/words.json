@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 20,
+  "range": "21-30",
+  "set": 3,
+  "title": "DAY 20 · 21-30",
+  "words": [
+    {
+      "no": 21,
+      "word": "license",
+      "partOfSpeech": "n.",
+      "meaningKo": "허가증",
+      "definition": "an official permit to do or own something",
+      "sentence": "The driver holds a blank license card beside the vehicle.",
+      "ipa": "/laɪsəns/",
+      "wordImage": "images/21_license_word.png",
+      "sentenceImage": "images/21_license_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 22,
+      "word": "construction",
+      "partOfSpeech": "n.",
+      "meaningKo": "건설",
+      "definition": "the process of building something",
+      "sentence": "Bridge construction continues slowly with beams and cranes.",
+      "ipa": "/kənstrʌkʃən/",
+      "wordImage": "images/22_construction_word.png",
+      "sentenceImage": "images/22_construction_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 23,
+      "word": "wireless",
+      "partOfSpeech": "adj.",
+      "meaningKo": "무선의",
+      "definition": "working without connecting wires",
+      "sentence": "A wireless controller moves the small robot across the room.",
+      "ipa": "/waɪrlɪs/",
+      "wordImage": "images/23_wireless_word.png",
+      "sentenceImage": "images/23_wireless_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 24,
+      "word": "nevertheless",
+      "partOfSpeech": "adv.",
+      "meaningKo": "그럼에도 불구하고",
+      "definition": "despite what was just mentioned",
+      "sentence": "Rain falls; nevertheless the ducks continue swimming calmly.",
+      "ipa": "/nɛvɚðəlɛs/",
+      "wordImage": "images/24_nevertheless_word.png",
+      "sentenceImage": "images/24_nevertheless_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 25,
+      "word": "barrier",
+      "partOfSpeech": "n.",
+      "meaningKo": "장벽",
+      "definition": "something that blocks movement or access",
+      "sentence": "A bright barrier closes the unsafe mountain path.",
+      "ipa": "/bæriɚ/",
+      "wordImage": "images/25_barrier_word.png",
+      "sentenceImage": "images/25_barrier_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 26,
+      "word": "lift",
+      "partOfSpeech": "v.",
+      "meaningKo": "들어 올리다",
+      "definition": "to raise something to a higher position",
+      "sentence": "The crane will lift the heavy box onto the truck.",
+      "ipa": "/lɪft/",
+      "wordImage": "images/26_lift_word.png",
+      "sentenceImage": "images/26_lift_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 27,
+      "word": "curved",
+      "partOfSpeech": "adj.",
+      "meaningKo": "굽은",
+      "definition": "bending smoothly rather than straight",
+      "sentence": "A curved bridge arches above the quiet river.",
+      "ipa": "/kɝvd/",
+      "wordImage": "images/27_curved_word.png",
+      "sentenceImage": "images/27_curved_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 28,
+      "word": "eliminate",
+      "partOfSpeech": "v.",
+      "meaningKo": "제거하다",
+      "definition": "to completely remove something",
+      "sentence": "The filter will eliminate dirt from the cloudy water.",
+      "ipa": "/ɪlɪməneɪt/",
+      "wordImage": "images/28_eliminate_word.png",
+      "sentenceImage": "images/28_eliminate_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 29,
+      "word": "commit",
+      "partOfSpeech": "v.",
+      "meaningKo": "전념하다",
+      "definition": "to promise or devote yourself to something",
+      "sentence": "The athlete will commit to practicing every morning.",
+      "ipa": "/kəmɪt/",
+      "wordImage": "images/29_commit_word.png",
+      "sentenceImage": "images/29_commit_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 30,
+      "word": "commute",
+      "partOfSpeech": "v.",
+      "meaningKo": "통근하다",
+      "definition": "to travel regularly between home and work",
+      "sentence": "Many workers commute by train from nearby towns each morning.",
+      "ipa": "/kəmjut/",
+      "wordImage": "images/30_commute_word.png",
+      "sentenceImage": "images/30_commute_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

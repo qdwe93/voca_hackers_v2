@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 23,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY23-21",
+      "no": 21,
+      "word": "shift",
+      "sentence": "Kindly shift the pot toward the sunny window side."
+    },
+    {
+      "wordId": "DAY23-22",
+      "no": 22,
+      "word": "narrow",
+      "sentence": "One narrow bridge crossed the small mountain stream."
+    },
+    {
+      "wordId": "DAY23-23",
+      "no": 23,
+      "word": "drought",
+      "sentence": "Today, the long drought made the village save every drop."
+    },
+    {
+      "wordId": "DAY23-24",
+      "no": 24,
+      "word": "boundary",
+      "sentence": "The map marks each boundary and its neighboring region."
+    },
+    {
+      "wordId": "DAY23-25",
+      "no": 25,
+      "word": "alarming",
+      "sentence": "Today, the alarming forecast made everyone bring warm rain coats."
+    },
+    {
+      "wordId": "DAY23-26",
+      "no": 26,
+      "word": "harsh",
+      "sentence": "Today, harsh winter wind bent the tall dry grasses."
+    },
+    {
+      "wordId": "DAY23-27",
+      "no": 27,
+      "word": "cease",
+      "sentence": "Before the evening stars appear, the rain will cease."
+    },
+    {
+      "wordId": "DAY23-28",
+      "no": 28,
+      "word": "estimate",
+      "sentence": "Students use the sample average to estimate the whole group."
+    },
+    {
+      "wordId": "DAY23-29",
+      "no": 29,
+      "word": "plane",
+      "sentence": "One small plane flew above the wide green fields."
+    },
+    {
+      "wordId": "DAY23-30",
+      "no": 30,
+      "word": "plain",
+      "sentence": "Today, wild grasses covered the broad open plain everywhere."
+    }
+  ]
+}

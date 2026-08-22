@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 7,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY07-01",
+      "no": 1,
+      "word": "similar",
+      "sentence": "Today, the two kittens have similar stripes on their soft backs."
+    },
+    {
+      "wordId": "DAY07-02",
+      "no": 2,
+      "word": "situation",
+      "sentence": "Today, the rainy situation changed all the plans for the picnic."
+    },
+    {
+      "wordId": "DAY07-03",
+      "no": 3,
+      "word": "related",
+      "sentence": "Today, these two puzzles are related because they share one picture."
+    },
+    {
+      "wordId": "DAY07-04",
+      "no": 4,
+      "word": "suppose",
+      "sentence": "Readers suppose the door opened because muddy prints lead outside."
+    },
+    {
+      "wordId": "DAY07-05",
+      "no": 5,
+      "word": "social",
+      "sentence": "Students learn social rules by taking turns during group work."
+    },
+    {
+      "wordId": "DAY07-06",
+      "no": 6,
+      "word": "unique",
+      "sentence": "Today, every snowflake has a unique shape falling from the sky."
+    },
+    {
+      "wordId": "DAY07-07",
+      "no": 7,
+      "word": "prefer",
+      "sentence": "Today, some penguins prefer cold water to warm sunny beaches."
+    },
+    {
+      "wordId": "DAY07-08",
+      "no": 8,
+      "word": "remain",
+      "sentence": "Three apples remain within the basket after the long picnic."
+    },
+    {
+      "wordId": "DAY07-09",
+      "no": 9,
+      "word": "distract",
+      "sentence": "One buzzing bee can distract the artist from her painting."
+    },
+    {
+      "wordId": "DAY07-10",
+      "no": 10,
+      "word": "district",
+      "sentence": "Today, the quiet garden district has flowers along every narrow street."
+    }
+  ]
+}

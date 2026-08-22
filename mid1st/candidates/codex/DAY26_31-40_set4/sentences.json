@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 26,
+  "range": "31-40",
+  "set": 4,
+  "items": [
+    {
+      "wordId": "DAY26-31",
+      "no": 31,
+      "word": "stamp",
+      "sentence": "One colorful stamp decorated the corner of the envelope."
+    },
+    {
+      "wordId": "DAY26-32",
+      "no": 32,
+      "word": "secure",
+      "sentence": "Before leaving the rack, make sure the bicycle lock is secure."
+    },
+    {
+      "wordId": "DAY26-33",
+      "no": 33,
+      "word": "conference",
+      "sentence": "At the conference, groups compare plans and choose one solution."
+    },
+    {
+      "wordId": "DAY26-34",
+      "no": 34,
+      "word": "urge",
+      "sentence": "After practice, coaches urge the runners to drink water."
+    },
+    {
+      "wordId": "DAY26-35",
+      "no": 35,
+      "word": "confront",
+      "sentence": "Now, the young climber will confront the hardest wall today."
+    },
+    {
+      "wordId": "DAY26-36",
+      "no": 36,
+      "word": "persuade",
+      "sentence": "Students use evidence to persuade classmates to reduce plastic."
+    },
+    {
+      "wordId": "DAY26-37",
+      "no": 37,
+      "word": "scan",
+      "sentence": "Today, sailors scan the horizon for the first island shape."
+    },
+    {
+      "wordId": "DAY26-38",
+      "no": 38,
+      "word": "prohibit",
+      "sentence": "Library rules prohibit loud talking within the reading room."
+    },
+    {
+      "wordId": "DAY26-39",
+      "no": 39,
+      "word": "moreover",
+      "sentence": "The soup was tasty; moreover, it warmed everyone rapidly."
+    },
+    {
+      "wordId": "DAY26-40",
+      "no": 40,
+      "word": "determine",
+      "sentence": "Today, judges determine which pumpkin is the roundest and biggest."
+    }
+  ]
+}

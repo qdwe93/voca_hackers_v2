@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 2,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY02-21",
+      "no": 21,
+      "word": "participate",
+      "sentence": "Many pupils participate actively in the after-school music club."
+    },
+    {
+      "wordId": "DAY02-22",
+      "no": 22,
+      "word": "auditorium",
+      "sentence": "The choir practiced their song inside the spacious school auditorium."
+    },
+    {
+      "wordId": "DAY02-23",
+      "no": 23,
+      "word": "inform",
+      "sentence": "The notice will inform parents about the upcoming field trip schedule."
+    },
+    {
+      "wordId": "DAY02-24",
+      "no": 24,
+      "word": "duty",
+      "sentence": "Cleaning the whiteboard is his daily duty after homeroom ends."
+    },
+    {
+      "wordId": "DAY02-25",
+      "no": 25,
+      "word": "evaluate",
+      "sentence": "Teachers evaluate student essays using clear criteria for grammar and ideas."
+    },
+    {
+      "wordId": "DAY02-26",
+      "no": 26,
+      "word": "minimum",
+      "sentence": "The test requires a minimum passing score of sixty points."
+    },
+    {
+      "wordId": "DAY02-27",
+      "no": 27,
+      "word": "introduction",
+      "sentence": "The chapter begins with a brief introduction to modern geography."
+    },
+    {
+      "wordId": "DAY02-28",
+      "no": 28,
+      "word": "photograph",
+      "sentence": "She took a clear photograph of the microscopic plant cell."
+    },
+    {
+      "wordId": "DAY02-29",
+      "no": 29,
+      "word": "council",
+      "sentence": "The student council organized a recycling campaign across the campus."
+    },
+    {
+      "wordId": "DAY02-30",
+      "no": 30,
+      "word": "conceal",
+      "sentence": "You should not conceal your questions when studying difficult math topics."
+    }
+  ]
+}

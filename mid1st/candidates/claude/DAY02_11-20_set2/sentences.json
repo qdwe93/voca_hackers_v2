@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 2,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY02-11",
+      "no": 11,
+      "word": "graduate",
+      "sentence": "Sixth graders graduate in February and receive their certificates."
+    },
+    {
+      "wordId": "DAY02-12",
+      "no": 12,
+      "word": "sense",
+      "sentence": "Blindfolded students used the sense of touch to name objects."
+    },
+    {
+      "wordId": "DAY02-13",
+      "no": 13,
+      "word": "real",
+      "sentence": "That dinosaur bone in our classroom is a copy, not real."
+    },
+    {
+      "wordId": "DAY02-14",
+      "no": 14,
+      "word": "annual",
+      "sentence": "Our school holds an annual sports day each October."
+    },
+    {
+      "wordId": "DAY02-15",
+      "no": 15,
+      "word": "collect",
+      "sentence": "Volunteers collect used paper from each classroom on Fridays."
+    },
+    {
+      "wordId": "DAY02-16",
+      "no": 16,
+      "word": "deadline",
+      "sentence": "This book report deadline is Friday, so I started today."
+    },
+    {
+      "wordId": "DAY02-17",
+      "no": 17,
+      "word": "confident",
+      "sentence": "The singer felt confident about the solo after two rehearsals."
+    },
+    {
+      "wordId": "DAY02-18",
+      "no": 18,
+      "word": "include",
+      "sentence": "The field trip fee will include lunch and bus tickets."
+    },
+    {
+      "wordId": "DAY02-19",
+      "no": 19,
+      "word": "shout",
+      "sentence": "Players shout across the field because normal talking cannot reach there."
+    },
+    {
+      "wordId": "DAY02-20",
+      "no": 20,
+      "word": "subject",
+      "sentence": "History is the subject I study right after lunch."
+    }
+  ]
+}

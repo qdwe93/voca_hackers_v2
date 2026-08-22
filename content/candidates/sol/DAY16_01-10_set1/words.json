@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 16,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 16 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "nature",
+      "partOfSpeech": "n.",
+      "meaningKo": "자연",
+      "definition": "all living things and features not made by people",
+      "sentence": "The hikers quietly observe nature beside a clear stream.",
+      "ipa": "/neɪtʃɚ/",
+      "wordImage": "images/01_nature_word.png",
+      "sentenceImage": "images/01_nature_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "experiment",
+      "partOfSpeech": "n.",
+      "meaningKo": "실험",
+      "definition": "a scientific test used to discover something",
+      "sentence": "The students conduct an experiment with water and floating objects.",
+      "ipa": "/ɪkspɛrəmənt/",
+      "wordImage": "images/02_experiment_word.png",
+      "sentenceImage": "images/02_experiment_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "condition",
+      "partOfSpeech": "n.",
+      "meaningKo": "상태",
+      "definition": "the state that someone or something is in",
+      "sentence": "The bicycle remains in good condition after careful cleaning.",
+      "ipa": "/kəndɪʃən/",
+      "wordImage": "images/03_condition_word.png",
+      "sentenceImage": "images/03_condition_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "distance",
+      "partOfSpeech": "n.",
+      "meaningKo": "거리",
+      "definition": "the space between two places or objects",
+      "sentence": "The distance between the cones grows as one moves away.",
+      "ipa": "/dɪstəns/",
+      "wordImage": "images/04_distance_word.png",
+      "sentenceImage": "images/04_distance_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "evidence",
+      "partOfSpeech": "n.",
+      "meaningKo": "증거",
+      "definition": "facts or objects showing whether something is true",
+      "sentence": "Muddy paw prints provide evidence that the dog entered.",
+      "ipa": "/ɛvədəns/",
+      "wordImage": "images/05_evidence_word.png",
+      "sentenceImage": "images/05_evidence_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "chemical",
+      "partOfSpeech": "n.",
+      "meaningKo": "화학 물질",
+      "definition": "a substance used or produced in chemistry",
+      "sentence": "The scientist pours a safe blue chemical into water.",
+      "ipa": "/kɛməkəl/",
+      "wordImage": "images/06_chemical_word.png",
+      "sentenceImage": "images/06_chemical_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "fluid",
+      "partOfSpeech": "n.",
+      "meaningKo": "유체",
+      "definition": "a substance that flows such as liquid or gas",
+      "sentence": "The thick purple fluid moves slowly through the clear tube.",
+      "ipa": "/fluəd/",
+      "wordImage": "images/07_fluid_word.png",
+      "sentenceImage": "images/07_fluid_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "extensive",
+      "partOfSpeech": "adj.",
+      "meaningKo": "광범위한",
+      "definition": "large in area amount or range",
+      "sentence": "An extensive field of sunflowers stretches toward the horizon.",
+      "ipa": "/ɪkstɛnsɪv/",
+      "wordImage": "images/08_extensive_word.png",
+      "sentenceImage": "images/08_extensive_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "process",
+      "partOfSpeech": "n.",
+      "meaningKo": "과정",
+      "definition": "a series of actions producing a result",
+      "sentence": "The baking process changes wet dough into golden bread.",
+      "ipa": "/prɑsɛs/",
+      "wordImage": "images/09_process_word.png",
+      "sentenceImage": "images/09_process_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "progress",
+      "partOfSpeech": "n.",
+      "meaningKo": "진전",
+      "definition": "movement toward a goal or better condition",
+      "sentence": "Each completed row shows progress on the large puzzle.",
+      "ipa": "/ˈprɑːɡres/",
+      "wordImage": "images/10_progress_word.png",
+      "sentenceImage": "images/10_progress_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

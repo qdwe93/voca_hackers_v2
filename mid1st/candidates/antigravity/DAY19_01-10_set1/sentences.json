@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 19,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY19-01",
+      "no": 1,
+      "word": "modern",
+      "sentence": "Modern computer networks allow instant communication across distant global research laboratories."
+    },
+    {
+      "wordId": "DAY19-02",
+      "no": 2,
+      "word": "mobile",
+      "sentence": "The mobile hospital clinic travels to rural villages to deliver vaccines."
+    },
+    {
+      "wordId": "DAY19-03",
+      "no": 3,
+      "word": "function",
+      "sentence": "An essential function of the computer processor is executing mathematical calculations."
+    },
+    {
+      "wordId": "DAY19-04",
+      "no": 4,
+      "word": "machine",
+      "sentence": "The young engineer tests a small machine prototype to sort recyclables."
+    },
+    {
+      "wordId": "DAY19-05",
+      "no": 5,
+      "word": "repair",
+      "sentence": "Technicians use simple affordable tools to repair solar cookers in villages."
+    },
+    {
+      "wordId": "DAY19-06",
+      "no": 6,
+      "word": "efficient",
+      "sentence": "Electric motors provide an efficient method for converting electrical energy cleanly."
+    },
+    {
+      "wordId": "DAY19-07",
+      "no": 7,
+      "word": "install",
+      "sentence": "Technicians install solar energy panels on the school library roof today."
+    },
+    {
+      "wordId": "DAY19-08",
+      "no": 8,
+      "word": "innovation",
+      "sentence": "Technological innovation produces new devices that solve local clean water shortages."
+    },
+    {
+      "wordId": "DAY19-09",
+      "no": 9,
+      "word": "trust",
+      "sentence": "Computer users trust verified software programs to protect their personal data."
+    },
+    {
+      "wordId": "DAY19-10",
+      "no": 10,
+      "word": "truth",
+      "sentence": "Researchers verify data from multiple sources to determine the factual truth."
+    }
+  ]
+}

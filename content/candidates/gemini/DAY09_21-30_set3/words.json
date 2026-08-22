@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 9,
+  "range": "21-30",
+  "set": 3,
+  "title": "DAY 09 · 21-30",
+  "words": [
+    {
+      "no": 21,
+      "word": "devote",
+      "partOfSpeech": "v.",
+      "meaningKo": "바치다, 전념하다",
+      "ipa": "/dɪˈvoʊt/",
+      "definition": "to give your time, energy, or attention to something",
+      "sentence": "She decided to devote her summer vacation to volunteering locally.",
+      "wordImage": "images/21_devote_word.png",
+      "sentenceImage": "images/21_devote_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 22,
+      "word": "admit",
+      "partOfSpeech": "v.",
+      "meaningKo": "인정하다, 자백하다",
+      "ipa": "/ədˈmɪt/",
+      "definition": "to agree that something is true, especially something bad",
+      "sentence": "It takes courage to admit when you made a mistake.",
+      "wordImage": "images/22_admit_word.png",
+      "sentenceImage": "images/22_admit_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 23,
+      "word": "gender",
+      "partOfSpeech": "n.",
+      "meaningKo": "성별",
+      "ipa": "/ˈdʒen.dɚ/",
+      "definition": "the condition of being male, female, or another identity",
+      "sentence": "Sports clubs welcome all players regardless of their gender identity.",
+      "wordImage": "images/23_gender_word.png",
+      "sentenceImage": "images/23_gender_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 24,
+      "word": "permit",
+      "partOfSpeech": "v.",
+      "meaningKo": "허락하다, 허가하다",
+      "ipa": "/pɚˈmɪt/",
+      "definition": "to allow something to happen or give permission officially",
+      "sentence": "Park rules permit dogs on leashes on all walking trails.",
+      "wordImage": "images/24_permit_word.png",
+      "sentenceImage": "images/24_permit_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 25,
+      "word": "spouse",
+      "partOfSpeech": "n.",
+      "meaningKo": "배우자",
+      "ipa": "/spaʊs/",
+      "definition": "a husband or wife considered in relation to their partner",
+      "sentence": "My uncle and his spouse celebrated their tenth wedding anniversary.",
+      "wordImage": "images/25_spouse_word.png",
+      "sentenceImage": "images/25_spouse_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 26,
+      "word": "ultimate",
+      "partOfSpeech": "adj.",
+      "meaningKo": "궁극적인, 최고의",
+      "ipa": "/ˈʌl.tə.mət/",
+      "definition": "most important, highest, or coming at the end",
+      "sentence": "Reaching the mountain peak was our ultimate goal this summer.",
+      "wordImage": "images/26_ultimate_word.png",
+      "sentenceImage": "images/26_ultimate_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 27,
+      "word": "cheat",
+      "partOfSpeech": "v.",
+      "meaningKo": "속이다, 부정행위를 하다",
+      "ipa": "/tʃiːt/",
+      "definition": "to act in a dishonest way to gain an advantage",
+      "sentence": "True sports players never cheat to win any fun game.",
+      "wordImage": "images/27_cheat_word.png",
+      "sentenceImage": "images/27_cheat_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 28,
+      "word": "extraordinary",
+      "partOfSpeech": "adj.",
+      "meaningKo": "비범한, 놀라운",
+      "ipa": "/ɪkˈstrɔːr.dən.er.i/",
+      "definition": "very unusual, special, unexpected, or much better than normal",
+      "sentence": "The young musician has an extraordinary talent for playing violin.",
+      "wordImage": "images/28_extraordinary_word.png",
+      "sentenceImage": "images/28_extraordinary_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 29,
+      "word": "ethnic",
+      "partOfSpeech": "adj.",
+      "meaningKo": "민족의, 인종의",
+      "ipa": "/ˈeθ.nɪk/",
+      "definition": "relating to a particular race or cultural group of people",
+      "sentence": "The international food festival featured delicious dishes from ethnic cultures.",
+      "wordImage": "images/29_ethnic_word.png",
+      "sentenceImage": "images/29_ethnic_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 30,
+      "word": "ethical",
+      "partOfSpeech": "adj.",
+      "meaningKo": "윤리적인, 도덕적인",
+      "ipa": "/ˈeθ.ɪ.kəl/",
+      "definition": "relating to beliefs about what is right and wrong behavior",
+      "sentence": "Scientists must follow ethical rules when conducting any new experiment.",
+      "wordImage": "images/30_ethical_word.png",
+      "sentenceImage": "images/30_ethical_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

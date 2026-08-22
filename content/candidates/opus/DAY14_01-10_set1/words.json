@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 14,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 14 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "ancient",
+      "partOfSpeech": "adj.",
+      "meaningKo": "고대의",
+      "ipa": "/ˈeɪnʃənt/",
+      "definition": "very old, from long, long ago",
+      "sentence": "An ancient stone road ran beside the quiet river.",
+      "wordImage": "images/01_ancient_word.png",
+      "sentenceImage": "images/01_ancient_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "tradition",
+      "partOfSpeech": "n.",
+      "meaningKo": "전통",
+      "ipa": "/trəˈdɪʃn/",
+      "definition": "something a family does every year",
+      "sentence": "Making rice cakes is a warm family tradition here.",
+      "wordImage": "images/02_tradition_word.png",
+      "sentenceImage": "images/02_tradition_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "origin",
+      "partOfSpeech": "n.",
+      "meaningKo": "기원",
+      "ipa": "/ˈɔːrɪdʒɪn/",
+      "definition": "the place where something first began",
+      "sentence": "The origin of the river is a mountain spring.",
+      "wordImage": "images/03_origin_word.png",
+      "sentenceImage": "images/03_origin_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "folk",
+      "partOfSpeech": "adj.",
+      "meaningKo": "민속의",
+      "ipa": "/foʊk/",
+      "definition": "about the ordinary people of a place",
+      "sentence": "The band played cheerful folk songs at the market.",
+      "wordImage": "images/04_folk_word.png",
+      "sentenceImage": "images/04_folk_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "device",
+      "partOfSpeech": "n.",
+      "meaningKo": "장치",
+      "ipa": "/dɪˈvaɪs/",
+      "definition": "a small machine made for one job",
+      "sentence": "A clever device measured rain inside the school garden.",
+      "wordImage": "images/05_device_word.png",
+      "sentenceImage": "images/05_device_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "usual",
+      "partOfSpeech": "adj.",
+      "meaningKo": "평소의",
+      "ipa": "/ˈjuːʒuəl/",
+      "definition": "happening most of the time",
+      "sentence": "The cat took its usual nap on the windowsill.",
+      "wordImage": "images/06_usual_word.png",
+      "sentenceImage": "images/06_usual_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "ritual",
+      "partOfSpeech": "n.",
+      "meaningKo": "의식",
+      "ipa": "/ˈrɪtʃuəl/",
+      "definition": "the same actions done in a special order",
+      "sentence": "The morning ritual began with stretching and warm tea.",
+      "wordImage": "images/07_ritual_word.png",
+      "sentenceImage": "images/07_ritual_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "entire",
+      "partOfSpeech": "adj.",
+      "meaningKo": "전체의",
+      "ipa": "/ɪnˈtaɪər/",
+      "definition": "whole, with nothing left out",
+      "sentence": "The entire class helped paint the long garden wall.",
+      "wordImage": "images/08_entire_word.png",
+      "sentenceImage": "images/08_entire_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "region",
+      "partOfSpeech": "n.",
+      "meaningKo": "지역",
+      "ipa": "/ˈriːdʒən/",
+      "definition": "a large area of land",
+      "sentence": "Apples grow well in this cool northern region.",
+      "wordImage": "images/09_region_word.png",
+      "sentenceImage": "images/09_region_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "religion",
+      "partOfSpeech": "n.",
+      "meaningKo": "종교",
+      "ipa": "/rɪˈlɪdʒən/",
+      "definition": "a set of beliefs people follow together",
+      "sentence": "The museum showed art from every religion of the island.",
+      "wordImage": "images/10_religion_word.png",
+      "sentenceImage": "images/10_religion_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

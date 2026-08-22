@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 24,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY24-11",
+      "no": 11,
+      "word": "solve",
+      "sentence": "Students solve x plus three equals seven using balance blocks."
+    },
+    {
+      "wordId": "DAY24-12",
+      "no": 12,
+      "word": "survive",
+      "sentence": "Today, cactus plants survive many months without any rain."
+    },
+    {
+      "wordId": "DAY24-13",
+      "no": 13,
+      "word": "source",
+      "sentence": "Melting mountain snow is the source of this clear stream."
+    },
+    {
+      "wordId": "DAY24-14",
+      "no": 14,
+      "word": "produce",
+      "sentence": "Farms produce cotton before factories make and sell shirts."
+    },
+    {
+      "wordId": "DAY24-15",
+      "no": 15,
+      "word": "electronic",
+      "sentence": "An electronic clock glowed softly next to the sleeping child."
+    },
+    {
+      "wordId": "DAY24-16",
+      "no": 16,
+      "word": "coal",
+      "sentence": "Burning coal provides energy but releases gases into the air."
+    },
+    {
+      "wordId": "DAY24-17",
+      "no": 17,
+      "word": "benefit",
+      "sentence": "Today, fresh air is one benefit of walking outside daily."
+    },
+    {
+      "wordId": "DAY24-18",
+      "no": 18,
+      "word": "vacuum",
+      "sentence": "Air pressure crushes the can when a vacuum forms inside."
+    },
+    {
+      "wordId": "DAY24-19",
+      "no": 19,
+      "word": "treasure",
+      "sentence": "The map displayed treasure hidden beneath a palm tree."
+    },
+    {
+      "wordId": "DAY24-20",
+      "no": 20,
+      "word": "address",
+      "sentence": "One learner council president will address the whole assembly today."
+    }
+  ]
+}

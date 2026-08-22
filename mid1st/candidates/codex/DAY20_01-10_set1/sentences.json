@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 20,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY20-01",
+      "no": 1,
+      "word": "traffic",
+      "sentence": "A map shows traffic reaching markets along connected roads."
+    },
+    {
+      "wordId": "DAY20-02",
+      "no": 2,
+      "word": "major",
+      "sentence": "Today, the major road leads straight to the busy harbor."
+    },
+    {
+      "wordId": "DAY20-03",
+      "no": 3,
+      "word": "route",
+      "sentence": "The route shortens travel distance between farms and markets."
+    },
+    {
+      "wordId": "DAY20-04",
+      "no": 4,
+      "word": "rush",
+      "sentence": "While carrying the tall stack of plates, do not rush."
+    },
+    {
+      "wordId": "DAY20-05",
+      "no": 5,
+      "word": "vehicle",
+      "sentence": "One small yellow vehicle delivered bread to the village."
+    },
+    {
+      "wordId": "DAY20-06",
+      "no": 6,
+      "word": "transport",
+      "sentence": "Boats transport fruit farther where rivers connect distant towns."
+    },
+    {
+      "wordId": "DAY20-07",
+      "no": 7,
+      "word": "utilize",
+      "sentence": "Today, farmers utilize rainwater to keep the vegetables green."
+    },
+    {
+      "wordId": "DAY20-08",
+      "no": 8,
+      "word": "remote",
+      "sentence": "One remote cabin stood alone among the snowy pines."
+    },
+    {
+      "wordId": "DAY20-09",
+      "no": 9,
+      "word": "leap",
+      "sentence": "Today, frogs leap easily from one lily pad to another."
+    },
+    {
+      "wordId": "DAY20-10",
+      "no": 10,
+      "word": "leak",
+      "sentence": "Today, the old bucket started to leak water onto the ground."
+    }
+  ]
+}

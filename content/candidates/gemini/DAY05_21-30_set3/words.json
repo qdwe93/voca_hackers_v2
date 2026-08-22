@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 5,
+  "range": "21-30",
+  "set": 3,
+  "title": "DAY 05 · 21-30",
+  "words": [
+    {
+      "no": 21,
+      "word": "capable",
+      "partOfSpeech": "adj.",
+      "meaningKo": "능력 있는, ~할 수 있는",
+      "ipa": "/ˈkeɪ.pə.bəl/",
+      "definition": "having the ability, power, or qualities to do something",
+      "sentence": "The smart robot is capable of solving complex math puzzles.",
+      "wordImage": "images/21_capable_word.png",
+      "sentenceImage": "images/21_capable_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 22,
+      "word": "proper",
+      "partOfSpeech": "adj.",
+      "meaningKo": "적절한, 올바른",
+      "ipa": "/ˈprɑː.pɚ/",
+      "definition": "correct, suitable, or right for a particular purpose",
+      "sentence": "Always wear proper safety gear when riding your fast skateboard.",
+      "wordImage": "images/22_proper_word.png",
+      "sentenceImage": "images/22_proper_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 23,
+      "word": "frequent",
+      "partOfSpeech": "adj.",
+      "meaningKo": "자주 일어나는, 빈번한",
+      "ipa": "/ˈfriː.kwənt/",
+      "definition": "happening often or at short intervals",
+      "sentence": "Taking frequent water breaks is essential during hot summer soccer.",
+      "wordImage": "images/23_frequent_word.png",
+      "sentenceImage": "images/23_frequent_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 24,
+      "word": "symptom",
+      "partOfSpeech": "n.",
+      "meaningKo": "증상, 징후",
+      "ipa": "/ˈsɪmp.təm/",
+      "definition": "a physical feeling showing that you have an illness",
+      "sentence": "A slight cough was the only noticeable symptom he experienced.",
+      "wordImage": "images/24_symptom_word.png",
+      "sentenceImage": "images/24_symptom_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 25,
+      "word": "monitor",
+      "partOfSpeech": "v.",
+      "meaningKo": "관찰하다, 감시하다",
+      "ipa": "/ˈmɑː.nə.t̬ɚ/",
+      "definition": "to watch and check a situation carefully over time",
+      "sentence": "Scientists monitor weather patterns using modern satellite radar equipment daily.",
+      "wordImage": "images/25_monitor_word.png",
+      "sentenceImage": "images/25_monitor_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 26,
+      "word": "consume",
+      "partOfSpeech": "v.",
+      "meaningKo": "소비하다, 섭취하다",
+      "ipa": "/kənˈsuːm/",
+      "definition": "to eat, drink, or use up something completely",
+      "sentence": "Athletes consume plenty of fresh water during long practice sessions.",
+      "wordImage": "images/26_consume_word.png",
+      "sentenceImage": "images/26_consume_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 27,
+      "word": "struggle",
+      "partOfSpeech": "v.",
+      "meaningKo": "애쓰다, 고군분투하다",
+      "ipa": "/ˈstrʌɡ.əl/",
+      "definition": "to try very hard to do something difficult",
+      "sentence": "The young climber did not struggle on the practice wall.",
+      "wordImage": "images/27_struggle_word.png",
+      "sentenceImage": "images/27_struggle_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 28,
+      "word": "strengthen",
+      "partOfSpeech": "v.",
+      "meaningKo": "강화하다, 튼튼하게 하다",
+      "ipa": "/ˈstreŋ.θən/",
+      "definition": "to make someone or something stronger or more effective",
+      "sentence": "Daily swimming exercises help strengthen your back and shoulder muscles.",
+      "wordImage": "images/28_strengthen_word.png",
+      "sentenceImage": "images/28_strengthen_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 29,
+      "word": "slide",
+      "partOfSpeech": "v.",
+      "meaningKo": "미끄러지다",
+      "ipa": "/slaɪd/",
+      "definition": "to move smoothly along a shiny or wet surface",
+      "sentence": "Children love to slide across the smooth frozen ice rink.",
+      "wordImage": "images/29_slide_word.png",
+      "sentenceImage": "images/29_slide_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 30,
+      "word": "slice",
+      "partOfSpeech": "v.",
+      "meaningKo": "얇게 썰다, 자르다",
+      "ipa": "/slaɪs/",
+      "definition": "to cut something into thin, flat pieces",
+      "sentence": "Please help slice the red tomatoes for the garden salad.",
+      "wordImage": "images/30_slice_word.png",
+      "sentenceImage": "images/30_slice_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

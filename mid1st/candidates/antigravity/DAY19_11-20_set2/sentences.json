@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 19,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY19-11",
+      "no": 11,
+      "word": "imagine",
+      "sentence": "Creative engineers imagine new robotic tools to assist firefighters during emergencies."
+    },
+    {
+      "wordId": "DAY19-12",
+      "no": 12,
+      "word": "artificial",
+      "sentence": "Computer scientists train artificial intelligence models using large datasets of images."
+    },
+    {
+      "wordId": "DAY19-13",
+      "no": 13,
+      "word": "adjust",
+      "sentence": "Engineers adjust the optical telescope focus to capture clearer space images."
+    },
+    {
+      "wordId": "DAY19-14",
+      "no": 14,
+      "word": "ideal",
+      "sentence": "A sunny rooftop is an ideal location for solar panel installation."
+    },
+    {
+      "wordId": "DAY19-15",
+      "no": 15,
+      "word": "gather",
+      "sentence": "Autonomous weather drones gather atmospheric temperature data across the storm area."
+    },
+    {
+      "wordId": "DAY19-16",
+      "no": 16,
+      "word": "mechanic",
+      "sentence": "The skilled auto mechanic repaired the hybrid car's electric braking system."
+    },
+    {
+      "wordId": "DAY19-17",
+      "no": 17,
+      "word": "portable",
+      "sentence": "Volunteers carry a portable water filter to purify muddy river water."
+    },
+    {
+      "wordId": "DAY19-18",
+      "no": 18,
+      "word": "remove",
+      "sentence": "Specialized filter membranes remove microplastic particles from municipal drinking water supplies."
+    },
+    {
+      "wordId": "DAY19-19",
+      "no": 19,
+      "word": "master",
+      "sentence": "Dedicated students master computer programming languages through daily problem solving practice."
+    },
+    {
+      "wordId": "DAY19-20",
+      "no": 20,
+      "word": "screen",
+      "sentence": "Users tap the digital screen to select options and receive feedback."
+    }
+  ]
+}

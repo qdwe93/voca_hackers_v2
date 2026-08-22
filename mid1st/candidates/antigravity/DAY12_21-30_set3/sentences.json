@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 12,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY12-21",
+      "no": 21,
+      "word": "poll",
+      "sentence": "The student council conducted an opinion poll before making decisions."
+    },
+    {
+      "wordId": "DAY12-22",
+      "no": 22,
+      "word": "pitch",
+      "sentence": "The baseball player learned how to pitch a fast strike."
+    },
+    {
+      "wordId": "DAY12-23",
+      "no": 23,
+      "word": "eager",
+      "sentence": "Curious students were eager to start the new chemistry experiment."
+    },
+    {
+      "wordId": "DAY12-24",
+      "no": 24,
+      "word": "silly",
+      "sentence": "Wearing two different shoes to school looked rather silly today."
+    },
+    {
+      "wordId": "DAY12-25",
+      "no": 25,
+      "word": "furious",
+      "sentence": "The bus driver was furious about the reckless cyclist's behavior."
+    },
+    {
+      "wordId": "DAY12-26",
+      "no": 26,
+      "word": "barely",
+      "sentence": "The tired hiker could barely reach the mountain summit shelter."
+    },
+    {
+      "wordId": "DAY12-27",
+      "no": 27,
+      "word": "thrill",
+      "sentence": "Riding the giant roller coaster gave passengers an exciting thrill."
+    },
+    {
+      "wordId": "DAY12-28",
+      "no": 28,
+      "word": "particular",
+      "sentence": "She was looking for one particular book in the library."
+    },
+    {
+      "wordId": "DAY12-29",
+      "no": 29,
+      "word": "constant",
+      "sentence": "Traffic noise creates constant background sound in large modern cities."
+    },
+    {
+      "wordId": "DAY12-30",
+      "no": 30,
+      "word": "consistent",
+      "sentence": "Her consistent daily practice led to steady improvement on piano."
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 6,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 06 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "relax",
+      "partOfSpeech": "v.",
+      "meaningKo": "휴식을 취하다, 긴장을 풀다",
+      "ipa": "/rɪˈlæks/",
+      "definition": "to rest and become calm and comfortable",
+      "sentence": "After school, she likes to relax on the comfortable sofa.",
+      "wordImage": "images/01_relax_word.png",
+      "sentenceImage": "images/01_relax_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "grateful",
+      "partOfSpeech": "adj.",
+      "meaningKo": "감사하는, 고마워하는",
+      "ipa": "/ˈɡreɪt.fəl/",
+      "definition": "feeling or showing thanks for something received",
+      "sentence": "The hiker was grateful for the refreshing cup of water.",
+      "wordImage": "images/02_grateful_word.png",
+      "sentenceImage": "images/02_grateful_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "complain",
+      "partOfSpeech": "v.",
+      "meaningKo": "불평하다, 항의하다",
+      "ipa": "/kəmˈpleɪn/",
+      "definition": "to say that you are unhappy about something",
+      "sentence": "Good team players do not complain about bad weather today.",
+      "wordImage": "images/03_complain_word.png",
+      "sentenceImage": "images/03_complain_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "delighted",
+      "partOfSpeech": "adj.",
+      "meaningKo": "아주 기뻐하는",
+      "ipa": "/dɪˈlaɪ.t̬ɪd/",
+      "definition": "very pleased and happy about something",
+      "sentence": "The young artist was delighted with her first prize ribbon.",
+      "wordImage": "images/04_delighted_word.png",
+      "sentenceImage": "images/04_delighted_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "express",
+      "partOfSpeech": "v.",
+      "meaningKo": "표현하다, 나타내다",
+      "ipa": "/ɪkˈspres/",
+      "definition": "to show what you feel or think using words or art",
+      "sentence": "You can express your feelings through music and colorful paintings.",
+      "wordImage": "images/05_express_word.png",
+      "sentenceImage": "images/05_express_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "reward",
+      "partOfSpeech": "n.",
+      "meaningKo": "보상, 포상",
+      "ipa": "/rɪˈwɔːrd/",
+      "definition": "something given in return for good behavior or work",
+      "sentence": "A delicious apple was a tasty reward for the hardworking puppy.",
+      "wordImage": "images/06_reward_word.png",
+      "sentenceImage": "images/06_reward_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "frustrated",
+      "partOfSpeech": "adj.",
+      "meaningKo": "좌절감을 느끼는, 답답한",
+      "ipa": "/ˈfrʌs.treɪ.t̬ɪd/",
+      "definition": "feeling annoyed because you cannot achieve what you want",
+      "sentence": "He felt frustrated when the tricky wooden puzzle did not fit.",
+      "wordImage": "images/07_frustrated_word.png",
+      "sentenceImage": "images/07_frustrated_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "recognize",
+      "partOfSpeech": "v.",
+      "meaningKo": "알아보다, 인정하다",
+      "ipa": "/ˈrek.əɡ.naɪz/",
+      "definition": "to know someone or something because you have seen them before",
+      "sentence": "I could easily recognize my classmate in the old group photo.",
+      "wordImage": "images/08_recognize_word.png",
+      "sentenceImage": "images/08_recognize_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "temper",
+      "partOfSpeech": "n.",
+      "meaningKo": "성미, 기분",
+      "ipa": "/ˈtem.pɚ/",
+      "definition": "the state of your mind regarding being angry or calm",
+      "sentence": "Take deep breaths to keep your temper calm during disagreements.",
+      "wordImage": "images/09_temper_word.png",
+      "sentenceImage": "images/09_temper_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "temple",
+      "partOfSpeech": "n.",
+      "meaningKo": "사원, 절",
+      "ipa": "/ˈtem.pəl/",
+      "definition": "a building used for religious worship and prayer",
+      "sentence": "Ancient stone statues guarded the entrance of the mountain temple.",
+      "wordImage": "images/10_temple_word.png",
+      "sentenceImage": "images/10_temple_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

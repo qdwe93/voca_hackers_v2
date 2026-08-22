@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 27,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 27 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "politics",
+      "partOfSpeech": "n.",
+      "meaningKo": "정치",
+      "definition": "activities related to governing and public decisions",
+      "sentence": "The class learns politics through a peaceful mock election.",
+      "ipa": "/pɑlətɪks/",
+      "wordImage": "images/01_politics_word.png",
+      "sentenceImage": "images/01_politics_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "facility",
+      "partOfSpeech": "n.",
+      "meaningKo": "시설",
+      "definition": "a building or place designed for a purpose",
+      "sentence": "The sports facility contains a pool court and track.",
+      "ipa": "/fəsɪlɪti/",
+      "wordImage": "images/02_facility_word.png",
+      "sentenceImage": "images/02_facility_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "vote",
+      "partOfSpeech": "v.",
+      "meaningKo": "투표하다",
+      "definition": "to choose formally between candidates or options",
+      "sentence": "The students vote by placing stones into covered boxes.",
+      "ipa": "/voʊt/",
+      "wordImage": "images/03_vote_word.png",
+      "sentenceImage": "images/03_vote_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "candidate",
+      "partOfSpeech": "n.",
+      "meaningKo": "후보자",
+      "definition": "a person seeking election or a position",
+      "sentence": "Each candidate speaks before the school club election.",
+      "ipa": "/kændədeɪt/",
+      "wordImage": "images/04_candidate_word.png",
+      "sentenceImage": "images/04_candidate_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "civil",
+      "partOfSpeech": "adj.",
+      "meaningKo": "시민의",
+      "definition": "related to citizens and ordinary public life",
+      "sentence": "Civil leaders meet residents in the town hall.",
+      "ipa": "/sɪvəl/",
+      "wordImage": "images/05_civil_word.png",
+      "sentenceImage": "images/05_civil_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "limit",
+      "partOfSpeech": "n.",
+      "meaningKo": "한계",
+      "definition": "the greatest allowed amount or boundary",
+      "sentence": "The measuring pole marks the height limit for the ride.",
+      "ipa": "/lɪmət/",
+      "wordImage": "images/06_limit_word.png",
+      "sentenceImage": "images/06_limit_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "conservative",
+      "partOfSpeech": "adj.",
+      "meaningKo": "보수적인",
+      "definition": "preferring traditional ideas and slow change",
+      "sentence": "The conservative designer keeps the building's traditional shape.",
+      "ipa": "/kənsɝvətɪv/",
+      "wordImage": "images/07_conservative_word.png",
+      "sentenceImage": "images/07_conservative_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "belong",
+      "partOfSpeech": "v.",
+      "meaningKo": "속하다",
+      "definition": "to be in the correct place or group",
+      "sentence": "The blue piece will belong in the matching blue box.",
+      "ipa": "/bɪlɔŋ/",
+      "wordImage": "images/08_belong_word.png",
+      "sentenceImage": "images/08_belong_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "official",
+      "partOfSpeech": "n.",
+      "meaningKo": "공무원",
+      "definition": "a person holding a position of public authority",
+      "sentence": "A city official carefully inspects the new bridge.",
+      "ipa": "/əfɪʃəl/",
+      "wordImage": "images/09_official_word.png",
+      "sentenceImage": "images/09_official_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "officer",
+      "partOfSpeech": "n.",
+      "meaningKo": "경찰관",
+      "definition": "a person with authority in police or military",
+      "sentence": "The officer directs traffic around the fallen branch.",
+      "ipa": "/ɔfəsɚ/",
+      "wordImage": "images/10_officer_word.png",
+      "sentenceImage": "images/10_officer_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 17,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY17-01",
+      "no": 1,
+      "word": "biology",
+      "sentence": "Today, biology class explored the pond life this sunny morning."
+    },
+    {
+      "wordId": "DAY17-02",
+      "no": 2,
+      "word": "gene",
+      "sentence": "A gene can influence one trait, alongside the environment."
+    },
+    {
+      "wordId": "DAY17-03",
+      "no": 3,
+      "word": "factor",
+      "sentence": "Today, sunlight is an important factor in how plants grow."
+    },
+    {
+      "wordId": "DAY17-04",
+      "no": 4,
+      "word": "trace",
+      "sentence": "Today, the ranger will trace animal footprints through the soft mud."
+    },
+    {
+      "wordId": "DAY17-05",
+      "no": 5,
+      "word": "require",
+      "sentence": "Today, baby birds require warm food many times each day."
+    },
+    {
+      "wordId": "DAY17-06",
+      "no": 6,
+      "word": "structure",
+      "sentence": "Today, the honeycomb structure has many neat six sided rooms."
+    },
+    {
+      "wordId": "DAY17-07",
+      "no": 7,
+      "word": "research",
+      "sentence": "Their research changes one condition and records turtle behavior."
+    },
+    {
+      "wordId": "DAY17-08",
+      "no": 8,
+      "word": "intelligent",
+      "sentence": "Today, crows are intelligent birds that solve puzzles for food."
+    },
+    {
+      "wordId": "DAY17-09",
+      "no": 9,
+      "word": "sign",
+      "sentence": "One wooden sign pointed toward the quiet forest pond."
+    },
+    {
+      "wordId": "DAY17-10",
+      "no": 10,
+      "word": "sigh",
+      "sentence": "The weary dog will sigh before falling fast asleep."
+    }
+  ]
+}

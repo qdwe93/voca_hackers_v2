@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 3,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY03-01",
+      "no": 1,
+      "word": "journey",
+      "sentence": "Our train journey to the east coast took five hours."
+    },
+    {
+      "wordId": "DAY03-02",
+      "no": 2,
+      "word": "theater",
+      "sentence": "We watched a puppet play at the small neighborhood theater."
+    },
+    {
+      "wordId": "DAY03-03",
+      "no": 3,
+      "word": "fee",
+      "sentence": "The swimming pool fee is cheaper for students on weekdays."
+    },
+    {
+      "wordId": "DAY03-04",
+      "no": 4,
+      "word": "prepare",
+      "sentence": "Campers prepare their tents before the sun goes down."
+    },
+    {
+      "wordId": "DAY03-05",
+      "no": 5,
+      "word": "surprised",
+      "sentence": "Everyone looked surprised when the magician found the hidden card."
+    },
+    {
+      "wordId": "DAY03-06",
+      "no": 6,
+      "word": "receive",
+      "sentence": "Winners receive a small medal at the end of the race."
+    },
+    {
+      "wordId": "DAY03-07",
+      "no": 7,
+      "word": "nervous",
+      "sentence": "Before the first dance, the young dancer felt nervous backstage."
+    },
+    {
+      "wordId": "DAY03-08",
+      "no": 8,
+      "word": "stage",
+      "sentence": "Four drummers set their instruments on the wide wooden stage."
+    },
+    {
+      "wordId": "DAY03-09",
+      "no": 9,
+      "word": "vacation",
+      "sentence": "During summer vacation my family visited a quiet mountain village."
+    },
+    {
+      "wordId": "DAY03-10",
+      "no": 10,
+      "word": "vocation",
+      "sentence": "Teaching children to swim became this coach's true vocation."
+    }
+  ]
+}

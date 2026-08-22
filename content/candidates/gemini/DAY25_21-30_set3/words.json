@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 25,
+  "range": "21-30",
+  "set": 3,
+  "title": "DAY 25 · 21-30",
+  "words": [
+    {
+      "no": 21,
+      "word": "pesticide",
+      "partOfSpeech": "n.",
+      "meaningKo": "살충제, 농약",
+      "ipa": "/ˈpes.tə.saɪd/",
+      "definition": "a chemical substance used to kill harmful insects on crops",
+      "sentence": "Organic farmers choose natural remedies instead of chemical pesticide sprays.",
+      "wordImage": "images/21_pesticide_word.png",
+      "sentenceImage": "images/21_pesticide_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 22,
+      "word": "alternative",
+      "partOfSpeech": "n.",
+      "meaningKo": "대안, 대체물",
+      "ipa": "/ɑːlˈtɝː.nə.t̬ɪv/",
+      "definition": "one of two or more things that can be chosen",
+      "sentence": "Riding a bicycle is a healthy green alternative to driving.",
+      "wordImage": "images/22_alternative_word.png",
+      "sentenceImage": "images/22_alternative_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 23,
+      "word": "respect",
+      "partOfSpeech": "n.",
+      "meaningKo": "존중, 존경",
+      "ipa": "/rɪˈspekt/",
+      "definition": "admiration felt or shown for someone because of good qualities",
+      "sentence": "Showing respect to teachers and classmates creates a happy classroom.",
+      "wordImage": "images/23_respect_word.png",
+      "sentenceImage": "images/23_respect_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 24,
+      "word": "vast",
+      "partOfSpeech": "adj.",
+      "meaningKo": "광대한, 거대한",
+      "ipa": "/væst/",
+      "definition": "extremely large in area, size, or amount, immense",
+      "sentence": "A vast blue ocean stretched endlessly toward the distant horizon.",
+      "wordImage": "images/24_vast_word.png",
+      "sentenceImage": "images/24_vast_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 25,
+      "word": "refreshing",
+      "partOfSpeech": "adj.",
+      "meaningKo": "상쾌한, 신선한",
+      "ipa": "/rɪˈfreʃ.ɪŋ/",
+      "definition": "making you feel cool, less hot, or full of energy",
+      "sentence": "A cool glass of lemonade was very refreshing after soccer.",
+      "wordImage": "images/25_refreshing_word.png",
+      "sentenceImage": "images/25_refreshing_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 26,
+      "word": "responsible",
+      "partOfSpeech": "adj.",
+      "meaningKo": "책임감 있는, 책임이 있는",
+      "ipa": "/rɪˈspɑːn.sə.bəl/",
+      "definition": "having the duty of taking care of something or someone",
+      "sentence": "A responsible pet owner feeds and walks the dog daily.",
+      "wordImage": "images/26_responsible_word.png",
+      "sentenceImage": "images/26_responsible_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 27,
+      "word": "confuse",
+      "partOfSpeech": "v.",
+      "meaningKo": "혼란스럽게 하다, 혼동하다",
+      "ipa": "/kənˈfjuːz/",
+      "definition": "to make someone feel uncertain or unable to understand clearly",
+      "sentence": "Clear instructions help so we do not confuse the rules.",
+      "wordImage": "images/27_confuse_word.png",
+      "sentenceImage": "images/27_confuse_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 28,
+      "word": "separate",
+      "partOfSpeech": "v.",
+      "meaningKo": "분리하다, 나누다",
+      "ipa": "/ˈsep.ə.reɪt/",
+      "definition": "to divide into different parts or keep things apart",
+      "sentence": "Remember to separate plastic bottles from paper for proper recycling.",
+      "wordImage": "images/28_separate_word.png",
+      "sentenceImage": "images/28_separate_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 29,
+      "word": "delicate",
+      "partOfSpeech": "adj.",
+      "meaningKo": "섬세한, 연약한",
+      "ipa": "/ˈdel.ə.kət/",
+      "definition": "easily broken or damaged, made with fine care and skill",
+      "sentence": "The delicate glass vase was decorated with tiny painted blossoms.",
+      "wordImage": "images/29_delicate_word.png",
+      "sentenceImage": "images/29_delicate_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 30,
+      "word": "dedicate",
+      "partOfSpeech": "v.",
+      "meaningKo": "바치다, 헌신하다",
+      "ipa": "/ˈded.ə.keɪt/",
+      "definition": "to give your time and energy to a particular activity",
+      "sentence": "She will dedicate her afternoon to volunteering at animal shelter.",
+      "wordImage": "images/30_dedicate_word.png",
+      "sentenceImage": "images/30_dedicate_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

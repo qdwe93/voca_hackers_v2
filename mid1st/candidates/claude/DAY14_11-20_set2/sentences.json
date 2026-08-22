@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 14,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY14-11",
+      "no": 11,
+      "word": "record",
+      "sentence": "Students record the old song so the melody stays."
+    },
+    {
+      "wordId": "DAY14-12",
+      "no": 12,
+      "word": "settle",
+      "sentence": "Farmers settle near flat land because rice needs level fields."
+    },
+    {
+      "wordId": "DAY14-13",
+      "no": 13,
+      "word": "occupation",
+      "sentence": "Weaving was the main occupation in this town long ago."
+    },
+    {
+      "wordId": "DAY14-14",
+      "no": 14,
+      "word": "mass",
+      "sentence": "The potter pressed a large mass of clay onto the wheel."
+    },
+    {
+      "wordId": "DAY14-15",
+      "no": 15,
+      "word": "tap",
+      "sentence": "Children tap the small drum while the parade passes by."
+    },
+    {
+      "wordId": "DAY14-16",
+      "no": 16,
+      "word": "grasp",
+      "sentence": "The dancer must grasp the long ribbon pole with both hands."
+    },
+    {
+      "wordId": "DAY14-17",
+      "no": 17,
+      "word": "fame",
+      "sentence": "This paper craft brought fame to the whole mountain village."
+    },
+    {
+      "wordId": "DAY14-18",
+      "no": 18,
+      "word": "comfort",
+      "sentence": "Thick straw mats gave comfort during the cold winter nights."
+    },
+    {
+      "wordId": "DAY14-19",
+      "no": 19,
+      "word": "hole",
+      "sentence": "A round hole in the old coin held a silk cord."
+    },
+    {
+      "wordId": "DAY14-20",
+      "no": 20,
+      "word": "succeed",
+      "sentence": "Young potters succeed after shaping many bowls on the wheel."
+    }
+  ]
+}

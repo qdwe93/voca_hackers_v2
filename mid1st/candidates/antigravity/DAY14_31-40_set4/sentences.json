@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 14,
+  "range": "31-40",
+  "set": 4,
+  "items": [
+    {
+      "wordId": "DAY14-31",
+      "no": 31,
+      "word": "harvest",
+      "sentence": "Farmers gathered a bountiful autumn harvest of rice and barley."
+    },
+    {
+      "wordId": "DAY14-32",
+      "no": 32,
+      "word": "illustrate",
+      "sentence": "Artists illustrate children's picture books with bright colorful drawings throughout."
+    },
+    {
+      "wordId": "DAY14-33",
+      "no": 33,
+      "word": "dare",
+      "sentence": "Few brave sailors dare to navigate through stormy arctic waters."
+    },
+    {
+      "wordId": "DAY14-34",
+      "no": 34,
+      "word": "voyage",
+      "sentence": "The explorer embarked on a dangerous ocean voyage across Pacific."
+    },
+    {
+      "wordId": "DAY14-35",
+      "no": 35,
+      "word": "conventional",
+      "sentence": "Conventional farming techniques were replaced by modern automated agricultural machinery."
+    },
+    {
+      "wordId": "DAY14-36",
+      "no": 36,
+      "word": "contemporary",
+      "sentence": "The gallery exhibits contemporary digital art created by modern artists."
+    },
+    {
+      "wordId": "DAY14-37",
+      "no": 37,
+      "word": "revolution",
+      "sentence": "The industrial revolution changed how goods were manufactured across cities."
+    },
+    {
+      "wordId": "DAY14-38",
+      "no": 38,
+      "word": "cooperation",
+      "sentence": "International cooperation is necessary to protect endangered global wildlife habitats."
+    },
+    {
+      "wordId": "DAY14-39",
+      "no": 39,
+      "word": "conquer",
+      "sentence": "Ancient empires attempted to conquer distant territories across the sea."
+    },
+    {
+      "wordId": "DAY14-40",
+      "no": 40,
+      "word": "stable",
+      "sentence": "Balanced opposing forces keep the suspension bridge in stable equilibrium."
+    }
+  ]
+}

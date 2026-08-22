@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 13,
+  "range": "31-40",
+  "set": 4,
+  "items": [
+    {
+      "wordId": "DAY13-31",
+      "no": 31,
+      "word": "outstanding",
+      "sentence": "Her outstanding academic achievement earned her a prestigious university scholarship."
+    },
+    {
+      "wordId": "DAY13-32",
+      "no": 32,
+      "word": "resist",
+      "sentence": "Strong fortifications helped the castle resist enemy attacks for months."
+    },
+    {
+      "wordId": "DAY13-33",
+      "no": 33,
+      "word": "hesitate",
+      "sentence": "Do not hesitate to ask questions when you need help."
+    },
+    {
+      "wordId": "DAY13-34",
+      "no": 34,
+      "word": "protest",
+      "sentence": "Citizens gather peacefully to protest against unfair municipal tax increases."
+    },
+    {
+      "wordId": "DAY13-35",
+      "no": 35,
+      "word": "restore",
+      "sentence": "Specialists work carefully to restore damaged ancient paintings to museum."
+    },
+    {
+      "wordId": "DAY13-36",
+      "no": 36,
+      "word": "associate",
+      "sentence": "People often associate white doves with the idea of peace."
+    },
+    {
+      "wordId": "DAY13-37",
+      "no": 37,
+      "word": "heritage",
+      "sentence": "Historic palaces are an important part of our cultural heritage."
+    },
+    {
+      "wordId": "DAY13-38",
+      "no": 38,
+      "word": "restriction",
+      "sentence": "The government placed a temporary restriction on water usage today."
+    },
+    {
+      "wordId": "DAY13-39",
+      "no": 39,
+      "word": "perceive",
+      "sentence": "Humans perceive colors through specialized photoreceptor cells in their eyes."
+    },
+    {
+      "wordId": "DAY13-40",
+      "no": 40,
+      "word": "scale",
+      "sentence": "Geographers examine spatial patterns at both local and global scale."
+    }
+  ]
+}

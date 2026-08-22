@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 6,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY06-21",
+      "no": 21,
+      "word": "discouraged",
+      "sentence": "After missing the first jump, the young penguin felt discouraged."
+    },
+    {
+      "wordId": "DAY06-22",
+      "no": 22,
+      "word": "stare",
+      "sentence": "The small owl will stare at the moon all night long."
+    },
+    {
+      "wordId": "DAY06-23",
+      "no": 23,
+      "word": "burst",
+      "sentence": "Today, the balloon may burst if you squeeze it too hard."
+    },
+    {
+      "wordId": "DAY06-24",
+      "no": 24,
+      "word": "miserable",
+      "sentence": "Today, the soggy scarecrow looked miserable in the long gray rain."
+    },
+    {
+      "wordId": "DAY06-25",
+      "no": 25,
+      "word": "embarrassed",
+      "sentence": "After tripping over his own shoes, the clown felt embarrassed."
+    },
+    {
+      "wordId": "DAY06-26",
+      "no": 26,
+      "word": "hardly",
+      "sentence": "The small mouse could hardly reach the top shelf."
+    },
+    {
+      "wordId": "DAY06-27",
+      "no": 27,
+      "word": "panic",
+      "sentence": "When the picnic basket went missing, a small panic spread."
+    },
+    {
+      "wordId": "DAY06-28",
+      "no": 28,
+      "word": "correspond",
+      "sentence": "The pen pals correspond by answering each other's questions in letters."
+    },
+    {
+      "wordId": "DAY06-29",
+      "no": 29,
+      "word": "cruel",
+      "sentence": "The cruel game character refuses to share any supplies."
+    },
+    {
+      "wordId": "DAY06-30",
+      "no": 30,
+      "word": "crucial",
+      "sentence": "Today, water is a crucial part of every growing green plant."
+    }
+  ]
+}

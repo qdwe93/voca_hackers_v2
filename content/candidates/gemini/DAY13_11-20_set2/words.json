@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 13,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 13 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "myth",
+      "partOfSpeech": "n.",
+      "meaningKo": "신화, 근거 없는 믿음",
+      "ipa": "/mɪθ/",
+      "definition": "an ancient story explaining natural events using gods or heroes",
+      "sentence": "We read a fascinating Greek myth about the winged horse.",
+      "wordImage": "images/11_myth_word.png",
+      "sentenceImage": "images/11_myth_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "attitude",
+      "partOfSpeech": "n.",
+      "meaningKo": "태도, 자세",
+      "ipa": "/ˈæt̬.ə.tuːd/",
+      "definition": "a feeling or opinion about something, or how you behave",
+      "sentence": "A positive attitude helps you overcome difficult challenges in school.",
+      "wordImage": "images/12_attitude_word.png",
+      "sentenceImage": "images/12_attitude_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "priest",
+      "partOfSpeech": "n.",
+      "meaningKo": "사제, 성직자",
+      "ipa": "/priːst/",
+      "definition": "a person who performs religious ceremonies in a church",
+      "sentence": "The kind priest welcomed visitors to the quiet stone cathedral.",
+      "wordImage": "images/13_priest_word.png",
+      "sentenceImage": "images/13_priest_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "approve",
+      "partOfSpeech": "v.",
+      "meaningKo": "승인하다, 찬성하다",
+      "ipa": "/əˈpruːv/",
+      "definition": "to officially accept or have a positive opinion of something",
+      "sentence": "The principal will approve our plan for the school garden.",
+      "wordImage": "images/14_approve_word.png",
+      "sentenceImage": "images/14_approve_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "carve",
+      "partOfSpeech": "v.",
+      "meaningKo": "조각하다, 새기다",
+      "ipa": "/kɑːrv/",
+      "definition": "to make an object by cutting away stone or wood",
+      "sentence": "Artists use sharp wooden chisels to carve intricate decorative statues.",
+      "wordImage": "images/15_carve_word.png",
+      "sentenceImage": "images/15_carve_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "primitive",
+      "partOfSpeech": "adj.",
+      "meaningKo": "원시의, 초기의",
+      "ipa": "/ˈprɪm.ə.t̬ɪv/",
+      "definition": "relating to human society at a very early stage",
+      "sentence": "Early humans created primitive stone tools for daily survival tasks.",
+      "wordImage": "images/16_primitive_word.png",
+      "sentenceImage": "images/16_primitive_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "invade",
+      "partOfSpeech": "v.",
+      "meaningKo": "침입하다, 몰려들다",
+      "ipa": "/ɪnˈveɪd/",
+      "definition": "to enter a place in large numbers or by force",
+      "sentence": "Hungry sea gulls invade the sandy picnic area for breadcrumbs.",
+      "wordImage": "images/17_invade_word.png",
+      "sentenceImage": "images/17_invade_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "arise",
+      "partOfSpeech": "v.",
+      "meaningKo": "발생하다, 생기다",
+      "ipa": "/əˈraɪz/",
+      "definition": "to happen or start to exist unexpectedly",
+      "sentence": "New unexpected questions may arise during the science experiment today.",
+      "wordImage": "images/18_arise_word.png",
+      "sentenceImage": "images/18_arise_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "register",
+      "partOfSpeech": "v.",
+      "meaningKo": "등록하다, 기록하다",
+      "ipa": "/ˈredʒ.ə.stɚ/",
+      "definition": "to record your name on an official list",
+      "sentence": "Students must register online before joining the after-school art club.",
+      "wordImage": "images/19_register_word.png",
+      "sentenceImage": "images/19_register_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "custom",
+      "partOfSpeech": "n.",
+      "meaningKo": "관습, 풍습",
+      "ipa": "/ˈkʌs.təm/",
+      "definition": "an accepted way of behaving or doing things in society",
+      "sentence": "Bowing politely is a traditional respectful custom in many cultures.",
+      "wordImage": "images/20_custom_word.png",
+      "sentenceImage": "images/20_custom_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

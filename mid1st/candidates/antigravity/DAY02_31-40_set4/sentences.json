@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 2,
+  "range": "31-40",
+  "set": 4,
+  "items": [
+    {
+      "wordId": "DAY02-31",
+      "no": 31,
+      "word": "session",
+      "sentence": "Our group completed an intensive study session in the library."
+    },
+    {
+      "wordId": "DAY02-32",
+      "no": 32,
+      "word": "strict",
+      "sentence": "The strict librarian asked everyone to whisper in the reading room."
+    },
+    {
+      "wordId": "DAY02-33",
+      "no": 33,
+      "word": "twist",
+      "sentence": "Be careful not to twist the wire while connecting circuits."
+    },
+    {
+      "wordId": "DAY02-34",
+      "no": 34,
+      "word": "spill",
+      "sentence": "Do not spill water near the computer keyboards in lab."
+    },
+    {
+      "wordId": "DAY02-35",
+      "no": 35,
+      "word": "union",
+      "sentence": "Workers formed a trade union to improve workplace safety standards."
+    },
+    {
+      "wordId": "DAY02-36",
+      "no": 36,
+      "word": "maximum",
+      "sentence": "The thermometer reached a maximum recorded temperature of thirty degrees."
+    },
+    {
+      "wordId": "DAY02-37",
+      "no": 37,
+      "word": "semester",
+      "sentence": "We study Korean history during the first semester of school."
+    },
+    {
+      "wordId": "DAY02-38",
+      "no": 38,
+      "word": "ceiling",
+      "sentence": "Bright fluorescent lights hang from the high classroom ceiling."
+    },
+    {
+      "wordId": "DAY02-39",
+      "no": 39,
+      "word": "stationery",
+      "sentence": "He bought new notebooks and pens at the local stationery store."
+    },
+    {
+      "wordId": "DAY02-40",
+      "no": 40,
+      "word": "term",
+      "sentence": "The teacher explained the scientific term before the reading began."
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 22,
+  "range": "21-30",
+  "set": 3,
+  "title": "DAY 22 · 21-30",
+  "words": [
+    {
+      "no": 21,
+      "word": "reason",
+      "partOfSpeech": "n.",
+      "meaningKo": "이유, 까닭, 이성",
+      "ipa": "/ˈriː.zən/",
+      "definition": "the cause of an event or why something happened",
+      "sentence": "Lack of rain was the main reason for dry soil conditions.",
+      "wordImage": "images/21_reason_word.png",
+      "sentenceImage": "images/21_reason_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 22,
+      "word": "herd",
+      "partOfSpeech": "n.",
+      "meaningKo": "무리, 떼",
+      "ipa": "/hɝːd/",
+      "definition": "a large group of animals that live and feed together",
+      "sentence": "A large herd of wild horses galloped across the green plain.",
+      "wordImage": "images/22_herd_word.png",
+      "sentenceImage": "images/22_herd_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 23,
+      "word": "filter",
+      "partOfSpeech": "n.",
+      "meaningKo": "여과기, 필터",
+      "ipa": "/ˈfɪl.tɚ/",
+      "definition": "a device with porous material through which liquid passes cleanly",
+      "sentence": "The water filter removes tiny sand particles to make clean water.",
+      "wordImage": "images/23_filter_word.png",
+      "sentenceImage": "images/23_filter_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 24,
+      "word": "eco-friendly",
+      "partOfSpeech": "adj.",
+      "meaningKo": "친환경적인",
+      "ipa": "/ˌiː.koʊˈfrend.li/",
+      "definition": "not harmful to the environment or natural surroundings",
+      "sentence": "Using reusable bamboo straws is an eco-friendly choice for everyone.",
+      "wordImage": "images/24_eco-friendly_word.png",
+      "sentenceImage": "images/24_eco-friendly_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 25,
+      "word": "portion",
+      "partOfSpeech": "n.",
+      "meaningKo": "부분, 1인분",
+      "ipa": "/ˈpɔːr.ʃən/",
+      "definition": "a part of a larger amount, or single food serving",
+      "sentence": "She served a generous portion of fresh fruit salad for dessert.",
+      "wordImage": "images/25_portion_word.png",
+      "sentenceImage": "images/25_portion_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 26,
+      "word": "deadly",
+      "partOfSpeech": "adj.",
+      "meaningKo": "치명적인, 극심한",
+      "ipa": "/ˈded.li/",
+      "definition": "likely to cause extreme harm, ruin, or defeat in games",
+      "sentence": "The hot midday desert heat was deadly to unprepared travelers.",
+      "wordImage": "images/26_deadly_word.png",
+      "sentenceImage": "images/26_deadly_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 27,
+      "word": "tension",
+      "partOfSpeech": "n.",
+      "meaningKo": "긴장, 장력",
+      "ipa": "/ˈten.ʃən/",
+      "definition": "a feeling of nervousness, or the state of being stretched tight",
+      "sentence": "Deep breathing exercises helped release physical tension in his neck.",
+      "wordImage": "images/27_tension_word.png",
+      "sentenceImage": "images/27_tension_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 28,
+      "word": "migrate",
+      "partOfSpeech": "v.",
+      "meaningKo": "이동하다, 이주하다",
+      "ipa": "/ˈmaɪ.ɡreɪt/",
+      "definition": "to travel from one region to another with the seasons",
+      "sentence": "Monarch butterflies migrate thousands of miles south before winter freezes.",
+      "wordImage": "images/28_migrate_word.png",
+      "sentenceImage": "images/28_migrate_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 29,
+      "word": "access",
+      "partOfSpeech": "n.",
+      "meaningKo": "접근, 입장",
+      "ipa": "/ˈæk.ses/",
+      "definition": "the right or opportunity to use or enter a place",
+      "sentence": "All students have free access to the digital school library.",
+      "wordImage": "images/29_access_word.png",
+      "sentenceImage": "images/29_access_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 30,
+      "word": "excess",
+      "partOfSpeech": "n.",
+      "meaningKo": "과잉, 초과량",
+      "ipa": "/ˈek.ses/",
+      "definition": "an amount of something that is more than necessary or allowed",
+      "sentence": "Pour away any excess water from the plant saucer after watering.",
+      "wordImage": "images/30_excess_word.png",
+      "sentenceImage": "images/30_excess_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

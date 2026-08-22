@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 18,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY18-21",
+      "no": 21,
+      "word": "track",
+      "sentence": "Doctors track the patient's heart rate using digital electrocardiogram monitor screens."
+    },
+    {
+      "wordId": "DAY18-22",
+      "no": 22,
+      "word": "perhaps",
+      "sentence": "Getting more rest will perhaps relieve your mild afternoon headache symptoms."
+    },
+    {
+      "wordId": "DAY18-23",
+      "no": 23,
+      "word": "bump",
+      "sentence": "Be careful not to bump your head against the low ceiling."
+    },
+    {
+      "wordId": "DAY18-24",
+      "no": 24,
+      "word": "alert",
+      "sentence": "The emergency nurse stayed alert during the busy hospital night shift."
+    },
+    {
+      "wordId": "DAY18-25",
+      "no": 25,
+      "word": "slip",
+      "sentence": "Shoes with rubber soles will not slip on wet laboratory floors."
+    },
+    {
+      "wordId": "DAY18-26",
+      "no": 26,
+      "word": "modest",
+      "sentence": "The celebrated surgeon gave a modest response to the prestigious award."
+    },
+    {
+      "wordId": "DAY18-27",
+      "no": 27,
+      "word": "disabled",
+      "sentence": "Public buildings must provide wheelchair ramps for disabled citizens and visitors."
+    },
+    {
+      "wordId": "DAY18-28",
+      "no": 28,
+      "word": "rapid",
+      "sentence": "Antibiotics caused a rapid improvement in the patient's bacterial infection condition."
+    },
+    {
+      "wordId": "DAY18-29",
+      "no": 29,
+      "word": "spin",
+      "sentence": "Spin a rectangle around its axis to form a solid cylinder."
+    },
+    {
+      "wordId": "DAY18-30",
+      "no": 30,
+      "word": "spine",
+      "sentence": "The human spine supports body weight and protects the spinal cord."
+    }
+  ]
+}

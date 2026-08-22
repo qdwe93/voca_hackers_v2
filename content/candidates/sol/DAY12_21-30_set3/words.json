@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 12,
+  "range": "21-30",
+  "set": 3,
+  "title": "DAY 12 · 21-30",
+  "words": [
+    {
+      "no": 21,
+      "word": "poll",
+      "partOfSpeech": "n.",
+      "meaningKo": "여론 조사",
+      "definition": "a survey asking many people the same question",
+      "sentence": "A classroom poll uses colored stones in two jars.",
+      "ipa": "/poʊl/",
+      "wordImage": "images/21_poll_word.png",
+      "sentenceImage": "images/21_poll_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 22,
+      "word": "pitch",
+      "partOfSpeech": "n.",
+      "meaningKo": "음의 높이",
+      "definition": "how high or low a sound is",
+      "sentence": "The bird's whistle rises to a very high pitch.",
+      "ipa": "/pɪtʃ/",
+      "wordImage": "images/22_pitch_word.png",
+      "sentenceImage": "images/22_pitch_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 23,
+      "word": "eager",
+      "partOfSpeech": "adj.",
+      "meaningKo": "열망하는",
+      "definition": "very excited and ready to do something",
+      "sentence": "The eager puppy waits beside the unopened park gate.",
+      "ipa": "/iɡɚ/",
+      "wordImage": "images/23_eager_word.png",
+      "sentenceImage": "images/23_eager_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 24,
+      "word": "silly",
+      "partOfSpeech": "adj.",
+      "meaningKo": "우스운",
+      "definition": "foolish or playfully funny",
+      "sentence": "The silly penguin wears a bucket as a hat.",
+      "ipa": "/sɪli/",
+      "wordImage": "images/24_silly_word.png",
+      "sentenceImage": "images/24_silly_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 25,
+      "word": "furious",
+      "partOfSpeech": "adj.",
+      "meaningKo": "격노한",
+      "definition": "extremely angry",
+      "sentence": "The furious dragon stomps beside its collapsed block tower.",
+      "ipa": "/fjʊriəs/",
+      "wordImage": "images/25_furious_word.png",
+      "sentenceImage": "images/25_furious_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 26,
+      "word": "barely",
+      "partOfSpeech": "adv.",
+      "meaningKo": "간신히",
+      "definition": "only just or almost not",
+      "sentence": "The tiny mouse barely reaches the cookie on the shelf.",
+      "ipa": "/bɛrli/",
+      "wordImage": "images/26_barely_word.png",
+      "sentenceImage": "images/26_barely_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 27,
+      "word": "thrill",
+      "partOfSpeech": "n.",
+      "meaningKo": "짜릿함",
+      "definition": "a sudden feeling of excitement",
+      "sentence": "The fast safe slide gives the child a thrill.",
+      "ipa": "/θrɪl/",
+      "wordImage": "images/27_thrill_word.png",
+      "sentenceImage": "images/27_thrill_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 28,
+      "word": "particular",
+      "partOfSpeech": "adj.",
+      "meaningKo": "특정한",
+      "definition": "a specific one rather than any other",
+      "sentence": "The collector wants one particular shell from the display.",
+      "ipa": "/pɚtɪkjəlɚ/",
+      "wordImage": "images/28_particular_word.png",
+      "sentenceImage": "images/28_particular_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 29,
+      "word": "constant",
+      "partOfSpeech": "adj.",
+      "meaningKo": "끊임없는",
+      "definition": "continuing without stopping or changing",
+      "sentence": "The waterfall makes a constant stream into the pond.",
+      "ipa": "/kɑnstənt/",
+      "wordImage": "images/29_constant_word.png",
+      "sentenceImage": "images/29_constant_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 30,
+      "word": "consistent",
+      "partOfSpeech": "adj.",
+      "meaningKo": "한결같은",
+      "definition": "always behaving or happening in a similar way",
+      "sentence": "The clock keeps a consistent rhythm throughout the day.",
+      "ipa": "/kənsɪstənt/",
+      "wordImage": "images/30_consistent_word.png",
+      "sentenceImage": "images/30_consistent_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

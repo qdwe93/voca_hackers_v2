@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 16,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY16-01",
+      "no": 1,
+      "word": "nature",
+      "sentence": "Today, the hikers enjoyed nature along the quiet forest trail."
+    },
+    {
+      "wordId": "DAY16-02",
+      "no": 2,
+      "word": "experiment",
+      "sentence": "In the experiment, students change light and record plant growth."
+    },
+    {
+      "wordId": "DAY16-03",
+      "no": 3,
+      "word": "condition",
+      "sentence": "Today, the old bicycle was in very good condition still."
+    },
+    {
+      "wordId": "DAY16-04",
+      "no": 4,
+      "word": "distance",
+      "sentence": "The map shows how distance changes the range of deliveries."
+    },
+    {
+      "wordId": "DAY16-05",
+      "no": 5,
+      "word": "evidence",
+      "sentence": "Students change only sunlight and record plant growth as evidence."
+    },
+    {
+      "wordId": "DAY16-06",
+      "no": 6,
+      "word": "chemical",
+      "sentence": "The teacher stores each chemical safely after the classroom experiment."
+    },
+    {
+      "wordId": "DAY16-07",
+      "no": 7,
+      "word": "fluid",
+      "sentence": "Warm fluid rises while cooler fluid sinks in the tank."
+    },
+    {
+      "wordId": "DAY16-08",
+      "no": 8,
+      "word": "extensive",
+      "sentence": "Today, an extensive forest stretched beyond the tall blue mountains."
+    },
+    {
+      "wordId": "DAY16-09",
+      "no": 9,
+      "word": "process",
+      "sentence": "Today, the baking process takes about one warm quiet hour."
+    },
+    {
+      "wordId": "DAY16-10",
+      "no": 10,
+      "word": "progress",
+      "sentence": "Today, the young reader made great progress during the summer."
+    }
+  ]
+}

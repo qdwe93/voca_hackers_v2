@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 23,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY23-11",
+      "no": 11,
+      "word": "valley",
+      "sentence": "Morning fog fills the valley between those two green mountains."
+    },
+    {
+      "wordId": "DAY23-12",
+      "no": 12,
+      "word": "influence",
+      "sentence": "Ocean winds influence how quickly the coastal snow melts."
+    },
+    {
+      "wordId": "DAY23-13",
+      "no": 13,
+      "word": "damage",
+      "sentence": "The flood caused damage to the wooden bridge railings."
+    },
+    {
+      "wordId": "DAY23-14",
+      "no": 14,
+      "word": "lack",
+      "sentence": "A lack of rain left the reservoir half empty."
+    },
+    {
+      "wordId": "DAY23-15",
+      "no": 15,
+      "word": "predict",
+      "sentence": "Scientists predict warmer nights across this region next summer."
+    },
+    {
+      "wordId": "DAY23-16",
+      "no": 16,
+      "word": "aware",
+      "sentence": "Farmers stay aware of frost warnings during early spring."
+    },
+    {
+      "wordId": "DAY23-17",
+      "no": 17,
+      "word": "correct",
+      "sentence": "Your map reading was correct, so we found the shelter."
+    },
+    {
+      "wordId": "DAY23-18",
+      "no": 18,
+      "word": "earthquake",
+      "sentence": "A small earthquake shook the windows for three short seconds."
+    },
+    {
+      "wordId": "DAY23-19",
+      "no": 19,
+      "word": "due",
+      "sentence": "The next weather report is due at seven tonight."
+    },
+    {
+      "wordId": "DAY23-20",
+      "no": 20,
+      "word": "level",
+      "sentence": "The river level rose two centimeters after last night's rain."
+    }
+  ]
+}

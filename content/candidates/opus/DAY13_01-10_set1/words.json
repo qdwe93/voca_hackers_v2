@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 13,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 13 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "represent",
+      "partOfSpeech": "v.",
+      "meaningKo": "대표하다",
+      "ipa": "/ˌreprɪˈzent/",
+      "definition": "to speak or act for a group",
+      "sentence": "Two students represent the class at the spring meeting.",
+      "wordImage": "images/01_represent_word.png",
+      "sentenceImage": "images/01_represent_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "exhibit",
+      "partOfSpeech": "v.",
+      "meaningKo": "전시하다",
+      "ipa": "/ɪɡˈzɪbɪt/",
+      "definition": "to show something for people to see",
+      "sentence": "The museum will exhibit old pots from a river village.",
+      "wordImage": "images/02_exhibit_word.png",
+      "sentenceImage": "images/02_exhibit_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "minister",
+      "partOfSpeech": "n.",
+      "meaningKo": "장관",
+      "ipa": "/ˈmɪnɪstər/",
+      "definition": "an important leader in a government",
+      "sentence": "The minister opened the new bridge with a warm speech.",
+      "wordImage": "images/03_minister_word.png",
+      "sentenceImage": "images/03_minister_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "vary",
+      "partOfSpeech": "v.",
+      "meaningKo": "다양하다",
+      "ipa": "/ˈveri/",
+      "definition": "to be different from one another",
+      "sentence": "Butterfly wings vary in color across the wide meadow.",
+      "wordImage": "images/04_vary_word.png",
+      "sentenceImage": "images/04_vary_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "tribe",
+      "partOfSpeech": "n.",
+      "meaningKo": "부족",
+      "ipa": "/traɪb/",
+      "definition": "a group of families living together",
+      "sentence": "The mountain tribe shared songs around a warm fire.",
+      "wordImage": "images/05_tribe_word.png",
+      "sentenceImage": "images/05_tribe_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "community",
+      "partOfSpeech": "n.",
+      "meaningKo": "공동체",
+      "ipa": "/kəˈmjuːnəti/",
+      "definition": "all the people living in one area",
+      "sentence": "The whole community planted trees along the sunny riverbank.",
+      "wordImage": "images/06_community_word.png",
+      "sentenceImage": "images/06_community_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "consider",
+      "partOfSpeech": "v.",
+      "meaningKo": "고려하다",
+      "ipa": "/kənˈsɪdər/",
+      "definition": "to think carefully before deciding",
+      "sentence": "Please consider two colors before painting the wooden fence.",
+      "wordImage": "images/07_consider_word.png",
+      "sentenceImage": "images/07_consider_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "concept",
+      "partOfSpeech": "n.",
+      "meaningKo": "개념",
+      "ipa": "/ˈkɑːnsept/",
+      "definition": "an idea about how something works",
+      "sentence": "Sharing is an easy concept for young children to learn.",
+      "wordImage": "images/08_concept_word.png",
+      "sentenceImage": "images/08_concept_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "pray",
+      "partOfSpeech": "v.",
+      "meaningKo": "기도하다",
+      "ipa": "/preɪ/",
+      "definition": "to speak quietly to ask for something",
+      "sentence": "The villagers pray for gentle rain during the dry season.",
+      "wordImage": "images/09_pray_word.png",
+      "sentenceImage": "images/09_pray_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "prey",
+      "partOfSpeech": "n.",
+      "meaningKo": "먹이",
+      "ipa": "/preɪ/",
+      "definition": "an animal that another animal eats",
+      "sentence": "Small fish are the prey of the fast diving bird.",
+      "wordImage": "images/10_prey_word.png",
+      "sentenceImage": "images/10_prey_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

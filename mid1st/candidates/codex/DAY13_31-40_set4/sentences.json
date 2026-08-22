@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 13,
+  "range": "31-40",
+  "set": 4,
+  "items": [
+    {
+      "wordId": "DAY13-31",
+      "no": 31,
+      "word": "outstanding",
+      "sentence": "Today, the outstanding young cellist won first prize this year."
+    },
+    {
+      "wordId": "DAY13-32",
+      "no": 32,
+      "word": "resist",
+      "sentence": "Today, the heavy anchor helps the boat resist strong wind."
+    },
+    {
+      "wordId": "DAY13-33",
+      "no": 33,
+      "word": "hesitate",
+      "sentence": "The young dog will hesitate before jumping over the small stream."
+    },
+    {
+      "wordId": "DAY13-34",
+      "no": 34,
+      "word": "protest",
+      "sentence": "Residents protest unsafe roads and request lights from the council."
+    },
+    {
+      "wordId": "DAY13-35",
+      "no": 35,
+      "word": "restore",
+      "sentence": "Today, workers will restore the old fountain in the town square."
+    },
+    {
+      "wordId": "DAY13-36",
+      "no": 36,
+      "word": "associate",
+      "sentence": "Today, many people associate warm cocoa with cold winter evenings."
+    },
+    {
+      "wordId": "DAY13-37",
+      "no": 37,
+      "word": "heritage",
+      "sentence": "Island buildings, dances, and foods show its diverse heritage."
+    },
+    {
+      "wordId": "DAY13-38",
+      "no": 38,
+      "word": "restriction",
+      "sentence": "Students question whether the restriction protects swimmers without going too far."
+    },
+    {
+      "wordId": "DAY13-39",
+      "no": 39,
+      "word": "perceive",
+      "sentence": "Today, bats perceive tiny sounds that human ears cannot hear."
+    },
+    {
+      "wordId": "DAY13-40",
+      "no": 40,
+      "word": "scale",
+      "sentence": "The map changes scale to show neighborhoods, cities, and countries."
+    }
+  ]
+}

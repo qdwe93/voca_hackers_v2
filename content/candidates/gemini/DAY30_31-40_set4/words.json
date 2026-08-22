@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 30,
+  "range": "31-40",
+  "set": 4,
+  "title": "DAY 30 · 31-40",
+  "words": [
+    {
+      "no": 31,
+      "word": "deceive",
+      "partOfSpeech": "v.",
+      "meaningKo": "속이다, 기만하다",
+      "ipa": "/dɪˈsiːv/",
+      "definition": "to cause someone to believe something that is not true",
+      "sentence": "Optical illusions can easily deceive our eyes with playful perspective tricks.",
+      "wordImage": "images/31_deceive_word.png",
+      "sentenceImage": "images/31_deceive_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 32,
+      "word": "external",
+      "partOfSpeech": "adj.",
+      "meaningKo": "외부의, 밖의",
+      "ipa": "/ɪkˈstɝː.nəl/",
+      "definition": "belonging to or forming the outer surface or structure",
+      "sentence": "The turtle’s hard shell provides strong external protection from predators.",
+      "wordImage": "images/32_external_word.png",
+      "sentenceImage": "images/32_external_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 33,
+      "word": "instantly",
+      "partOfSpeech": "adv.",
+      "meaningKo": "즉시, 당장",
+      "ipa": "/ˈɪn.stənt.li/",
+      "definition": "at once, immediately, without any delay in time",
+      "sentence": "Flipping the wall switch will instantly illuminate the whole room.",
+      "wordImage": "images/33_instantly_word.png",
+      "sentenceImage": "images/33_instantly_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 34,
+      "word": "norm",
+      "partOfSpeech": "n.",
+      "meaningKo": "규범, 표준, 기준",
+      "ipa": "/nɔːrm/",
+      "definition": "something that is usual, typical, or standard practice in society",
+      "sentence": "Recycling paper and cans is a healthy community norm here.",
+      "wordImage": "images/34_norm_word.png",
+      "sentenceImage": "images/34_norm_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 35,
+      "word": "analyze",
+      "partOfSpeech": "v.",
+      "meaningKo": "분석하다, 분해하다",
+      "ipa": "/ˈæn.əl.aɪz/",
+      "definition": "to examine methodically and in detail the constitution or structure",
+      "sentence": "Students use charts to analyze daily rainfall patterns in science.",
+      "wordImage": "images/35_analyze_word.png",
+      "sentenceImage": "images/35_analyze_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 36,
+      "word": "clarify",
+      "partOfSpeech": "v.",
+      "meaningKo": "명확하게 하다, 분명히 하다",
+      "ipa": "/ˈkler.ə.faɪ/",
+      "definition": "to make an idea or statement clear or easy to understand",
+      "sentence": "The teacher used diagrams to clarify the complex math rule.",
+      "wordImage": "images/36_clarify_word.png",
+      "sentenceImage": "images/36_clarify_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 37,
+      "word": "defend",
+      "partOfSpeech": "v.",
+      "meaningKo": "방어하다, 지키다",
+      "ipa": "/dɪˈfend/",
+      "definition": "to protect from harm or danger, or guard a goal",
+      "sentence": "The alert goalkeeper leaped across to defend the soccer goal.",
+      "wordImage": "images/37_defend_word.png",
+      "sentenceImage": "images/37_defend_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 38,
+      "word": "reputation",
+      "partOfSpeech": "n.",
+      "meaningKo": "명성, 평판",
+      "ipa": "/ˌrep.jəˈteɪ.ʃən/",
+      "definition": "the beliefs or opinions that are generally held about someone",
+      "sentence": "The bakery has a well-deserved reputation for delicious sourdough loaves.",
+      "wordImage": "images/38_reputation_word.png",
+      "sentenceImage": "images/38_reputation_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 39,
+      "word": "exclude",
+      "partOfSpeech": "v.",
+      "meaningKo": "제외하다, 배제하다",
+      "ipa": "/ɪkˈskluːd/",
+      "definition": "to deny someone or something access to place or group",
+      "sentence": "Our inclusive playground games never exclude any student from joining.",
+      "wordImage": "images/39_exclude_word.png",
+      "sentenceImage": "images/39_exclude_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 40,
+      "word": "net",
+      "partOfSpeech": "n.",
+      "meaningKo": "그물, 골대 망, 순수한",
+      "ipa": "/net/",
+      "definition": "a piece of open-meshed material used for catching or goals",
+      "sentence": "The soccer ball flew cleanly into the back of net.",
+      "wordImage": "images/40_net_word.png",
+      "sentenceImage": "images/40_net_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

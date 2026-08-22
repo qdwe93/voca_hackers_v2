@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 11,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY11-21",
+      "no": 21,
+      "word": "wisdom",
+      "sentence": "Today, the old tortoise shared wisdom with the young forest animals."
+    },
+    {
+      "wordId": "DAY11-22",
+      "no": 22,
+      "word": "impressed",
+      "sentence": "Today, everyone felt impressed by the tall sandcastle on the beach."
+    },
+    {
+      "wordId": "DAY11-23",
+      "no": 23,
+      "word": "emphasize",
+      "sentence": "A sports teacher will emphasize teamwork before the helpful relay race."
+    },
+    {
+      "wordId": "DAY11-24",
+      "no": 24,
+      "word": "bold",
+      "sentence": "One bold little mouse stepped onto the wide open field."
+    },
+    {
+      "wordId": "DAY11-25",
+      "no": 25,
+      "word": "admire",
+      "sentence": "Several students admire the giant painting in the quiet hall."
+    },
+    {
+      "wordId": "DAY11-26",
+      "no": 26,
+      "word": "vivid",
+      "sentence": "Today, the parrot had vivid green and orange feathers everywhere."
+    },
+    {
+      "wordId": "DAY11-27",
+      "no": 27,
+      "word": "multiple",
+      "sentence": "Now, multiple rainbows appeared above the wet green valley today."
+    },
+    {
+      "wordId": "DAY11-28",
+      "no": 28,
+      "word": "profound",
+      "sentence": "The quiet forest offered the hikers a profound calm feeling."
+    },
+    {
+      "wordId": "DAY11-29",
+      "no": 29,
+      "word": "terrible",
+      "sentence": "Today, the burnt toast tasted terrible, so everyone laughed together."
+    },
+    {
+      "wordId": "DAY11-30",
+      "no": 30,
+      "word": "terrific",
+      "sentence": "Today, the puppet show was terrific from beginning to end."
+    }
+  ]
+}

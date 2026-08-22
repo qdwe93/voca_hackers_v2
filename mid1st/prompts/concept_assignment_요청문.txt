@@ -1,0 +1,50 @@
+[mid1st 공통 교과 개념 배정 요청문]
+
+작업 기준 폴더는 C:\Workspaces\english\hackers_video_project_v2 이다.
+쓰기는 mid1st/data/concept_assignments.jsonl, mid1st/data/concept_usage.json,
+mid1st/reports/assignment-validation.md와 이 작업에 필요한 mid1st 내부 임시 파일에만 허용한다.
+기존 프로젝트 원본과 C:\Workspaces\junbe_study\middle_1st\content_eng 는 읽기만 하고 절대
+수정하지 마라. 이미 완성된 concept_assignments.jsonl이나 concept_usage.json을 덮어쓰지 마라.
+
+시작 전에 다음을 처음부터 끝까지 읽어라.
+
+1. mid1st/AGENTS.md
+2. mid1st/README.md
+3. mid1st/DECISIONS.md
+4. mid1st/PLAN.md
+5. mid1st/prompts/P1_교과개념_배정.md
+6. mid1st/schema/README.md
+7. mid1st/data/word_inventory.jsonl
+8. mid1st/data/concept_catalog.json
+
+P1 규칙에 따라 1,200단어의 공통 개념 배정을 정확히 한 번 수행하라. 단어 철자, 뜻, 품사,
+IPA, 영영 정의, PART·DAY는 확정값이며 바꾸지 마라. 이 단계에서는 영어 예문이나 모델별
+후보를 만들지 마라.
+
+의미 정확성, 문자적 직접성, 교과 사실성, 한 장면 가능성을 먼저 판단하라. 동등하게 정확한
+개념이 둘 이상일 때만 현재 사용 횟수가 적은 개념을 우선한다. 비유·은유·장식적 과목 문맥은
+금지한다. 정직한 연결이 없으면 day_fallback 또는 word_fallback을 사용하며 153개 전부를
+억지로 쓰지 마라.
+
+P1의 strict 스키마로 mid1st/data/concept_assignments.jsonl 1,200줄을 inventory 순서대로
+만들어라. 판단이 애매한 행은 reviewRequired와 구체적인 reviewReason을 숨기지 말고 기록하라.
+배정 수치는 손으로 세거나 수정하지 말고 다음 도구로 전체 개념 사용량을 결정론적으로 만든다.
+
+  node mid1st/scripts/build-concept-usage.mjs
+
+미사용·저사용·과다사용 개념을 검토하되 뜻·직접성·사실성이 동등한 항목만 재배정한다.
+배정을 바꿨다면 이 세션이 방금 만든 파생 파일만
+`node mid1st/scripts/build-concept-usage.mjs --force`로 갱신한다. 계산 필드는 고치지 말고
+`balanceReviewNotesKo`에 실제 재검토 결과만 짧게 기록하라.
+
+초안과 균형 검토 뒤 다음을 실행하라.
+
+  node mid1st/scripts/validate-assignments.mjs --report mid1st/reports/assignment-validation.md
+
+FAIL이면 수정하고 다시 실행하라. 최종 상태는 반드시 1,200/1,200이어야 한다. 분포 WARN은
+강제 재배정 사유가 아니며, 사용 0회·저사용 개념을 실제로 재검토했는지만 확인한다.
+
+배정 파일은 유효하고 사용량 파일만 없으면 배정을 재생성하지 말고 누락된 사용량 파일만
+만든다. 이미 두 파일이 모두 유효하면 재생성하지 말고 검증 결과만 보고한다. 마지막에는 배정 수,
+direct/contextual/day_fallback/word_fallback 수, 사용/미사용/저사용 개념 수, reviewRequired 수,
+검증 결과와 산출물 경로만 간결하게 보고하라.

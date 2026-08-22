@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 25,
+  "range": "31-40",
+  "set": 4,
+  "title": "DAY 25 · 31-40",
+  "words": [
+    {
+      "no": 31,
+      "word": "extinction",
+      "partOfSpeech": "n.",
+      "meaningKo": "멸종, 소멸",
+      "ipa": "/ɪkˈstɪŋk.ʃən/",
+      "definition": "the state or situation that results when a species dies out",
+      "sentence": "Museum exhibits teach how ancient dinosaurs faced complete global extinction.",
+      "wordImage": "images/31_extinction_word.png",
+      "sentenceImage": "images/31_extinction_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 32,
+      "word": "superior",
+      "partOfSpeech": "adj.",
+      "meaningKo": "우수한, 뛰어난",
+      "ipa": "/səˈpɪr.i.ɚ/",
+      "definition": "better than average or better than other people or things",
+      "sentence": "The sturdy wooden blocks had superior durability compared to plastic.",
+      "wordImage": "images/32_superior_word.png",
+      "sentenceImage": "images/32_superior_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 33,
+      "word": "consequence",
+      "partOfSpeech": "n.",
+      "meaningKo": "결과, 결말",
+      "ipa": "/ˈkɑːn.sə.kwəns/",
+      "definition": "a result of a particular action or situation, outcome",
+      "sentence": "A healthy strong body is a natural consequence of regular exercise.",
+      "wordImage": "images/33_consequence_word.png",
+      "sentenceImage": "images/33_consequence_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 34,
+      "word": "fabric",
+      "partOfSpeech": "n.",
+      "meaningKo": "직물, 천, 구조",
+      "ipa": "/ˈfæb.rɪk/",
+      "definition": "cloth or material produced by weaving cotton, wool, or silk",
+      "sentence": "She chose a soft floral cotton fabric to sew a dress.",
+      "wordImage": "images/34_fabric_word.png",
+      "sentenceImage": "images/34_fabric_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 35,
+      "word": "interrupt",
+      "partOfSpeech": "v.",
+      "meaningKo": "방해하다, 중단시키다",
+      "ipa": "/ˌɪn.t̬əˈrʌpt/",
+      "definition": "to stop a person from speaking by saying something yourself",
+      "sentence": "Wait for your turn and do not interrupt when someone talks.",
+      "wordImage": "images/35_interrupt_word.png",
+      "sentenceImage": "images/35_interrupt_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 36,
+      "word": "concrete",
+      "partOfSpeech": "n.",
+      "meaningKo": "콘크리트, 구체적인",
+      "ipa": "/ˈkɑːn.kriːt/",
+      "definition": "a hard building material made from cement, sand, and water",
+      "sentence": "Workers poured smooth gray concrete to pave the new sidewalk.",
+      "wordImage": "images/36_concrete_word.png",
+      "sentenceImage": "images/36_concrete_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 37,
+      "word": "acknowledge",
+      "partOfSpeech": "v.",
+      "meaningKo": "인정하다, 감사를 표하다",
+      "ipa": "/əkˈnɑː.lɪdʒ/",
+      "definition": "to accept, admit, or recognize the truth or existence of something",
+      "sentence": "The principal will acknowledge all student volunteers during the assembly.",
+      "wordImage": "images/37_acknowledge_word.png",
+      "sentenceImage": "images/37_acknowledge_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 38,
+      "word": "considerable",
+      "partOfSpeech": "adj.",
+      "meaningKo": "상당한, 많은",
+      "ipa": "/kənˈsɪd.ɚ.ə.bəl/",
+      "definition": "large or of noticeable importance, amount, or extent",
+      "sentence": "Building the community wooden playground required a considerable team effort.",
+      "wordImage": "images/38_considerable_word.png",
+      "sentenceImage": "images/38_considerable_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 39,
+      "word": "discard",
+      "partOfSpeech": "v.",
+      "meaningKo": "버리다, 폐기하다",
+      "ipa": "/dɪˈskɑːrd/",
+      "definition": "to throw something away that you no longer want or need",
+      "sentence": "Please discard fruit peelings into the green compost bin properly.",
+      "wordImage": "images/39_discard_word.png",
+      "sentenceImage": "images/39_discard_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 40,
+      "word": "matter",
+      "partOfSpeech": "n.",
+      "meaningKo": "문제, 물질, 중요하다",
+      "ipa": "/ˈmæt̬.ɚ/",
+      "definition": "physical substance in the universe, or an issue for discussion",
+      "sentence": "Solids, liquids, and gases are three common states of matter.",
+      "wordImage": "images/40_matter_word.png",
+      "sentenceImage": "images/40_matter_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

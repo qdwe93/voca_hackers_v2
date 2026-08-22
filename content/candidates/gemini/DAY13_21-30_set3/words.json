@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 13,
+  "range": "21-30",
+  "set": 3,
+  "title": "DAY 13 · 21-30",
+  "words": [
+    {
+      "no": 21,
+      "word": "punish",
+      "partOfSpeech": "v.",
+      "meaningKo": "처벌하다, 벌주다",
+      "ipa": "/ˈpʌn.ɪʃ/",
+      "definition": "to make someone suffer for doing something wrong by rules",
+      "sentence": "Board game rules will punish players who skip their turn.",
+      "wordImage": "images/21_punish_word.png",
+      "sentenceImage": "images/21_punish_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 22,
+      "word": "tie",
+      "partOfSpeech": "v.",
+      "meaningKo": "묶다, 동점을 이루다",
+      "ipa": "/taɪ/",
+      "definition": "to fasten something with string or rope securely",
+      "sentence": "Remember to tie your running shoelaces tightly before the race.",
+      "wordImage": "images/22_tie_word.png",
+      "sentenceImage": "images/22_tie_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 23,
+      "word": "indicate",
+      "partOfSpeech": "v.",
+      "meaningKo": "나타내다, 가리키다",
+      "ipa": "/ˈɪn.də.keɪt/",
+      "definition": "to show, point, or make something clear",
+      "sentence": "Flashing arrow signs indicate the correct exit direction along highway.",
+      "wordImage": "images/23_indicate_word.png",
+      "sentenceImage": "images/23_indicate_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 24,
+      "word": "humor",
+      "partOfSpeech": "n.",
+      "meaningKo": "유머, 해학",
+      "ipa": "/ˈhjuː.mɚ/",
+      "definition": "the ability to find things funny or be amusing",
+      "sentence": "The comedian’s gentle humor made the whole theater laugh happily.",
+      "wordImage": "images/24_humor_word.png",
+      "sentenceImage": "images/24_humor_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 25,
+      "word": "stack",
+      "partOfSpeech": "n.",
+      "meaningKo": "더미, 쌓아 올린 것",
+      "ipa": "/stæk/",
+      "definition": "a neat pile of things arranged one on top of another",
+      "sentence": "He placed a heavy stack of storybooks onto the wooden table.",
+      "wordImage": "images/25_stack_word.png",
+      "sentenceImage": "images/25_stack_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 26,
+      "word": "odd",
+      "partOfSpeech": "adj.",
+      "meaningKo": "이상한, 홀수의",
+      "ipa": "/ɑːd/",
+      "definition": "strange or unusual, or not divisible by two",
+      "sentence": "The old clock made an odd ticking sound at midnight.",
+      "wordImage": "images/26_odd_word.png",
+      "sentenceImage": "images/26_odd_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 27,
+      "word": "persist",
+      "partOfSpeech": "v.",
+      "meaningKo": "지속하다, 끈질기게 계속하다",
+      "ipa": "/pɚˈsɪst/",
+      "definition": "to continue doing something firmly despite difficulties",
+      "sentence": "If you persist with daily practice, you will surely succeed.",
+      "wordImage": "images/27_persist_word.png",
+      "sentenceImage": "images/27_persist_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 28,
+      "word": "insight",
+      "partOfSpeech": "n.",
+      "meaningKo": "통찰력, 이해",
+      "ipa": "/ˈɪn.saɪt/",
+      "definition": "a clear, deep understanding of a complicated problem or situation",
+      "sentence": "The documentary gave us valuable insight into deep ocean life.",
+      "wordImage": "images/28_insight_word.png",
+      "sentenceImage": "images/28_insight_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 29,
+      "word": "novel",
+      "partOfSpeech": "n.",
+      "meaningKo": "소설",
+      "ipa": "/ˈnɑː.vəl/",
+      "definition": "a long printed story about imaginary characters and events",
+      "sentence": "She read a thrilling fantasy novel about enchanted forest creatures.",
+      "wordImage": "images/29_novel_word.png",
+      "sentenceImage": "images/29_novel_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 30,
+      "word": "noble",
+      "partOfSpeech": "adj.",
+      "meaningKo": "고결한, 귀족의",
+      "ipa": "/ˈnoʊ.bəl/",
+      "definition": "having high moral qualities like courage, honesty, and honor",
+      "sentence": "Saving the lost puppy was a truly noble and kind deed.",
+      "wordImage": "images/30_noble_word.png",
+      "sentenceImage": "images/30_noble_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 5,
+  "range": "31-40",
+  "set": 4,
+  "title": "DAY 05 · 31-40",
+  "words": [
+    {
+      "no": 31,
+      "word": "sufficient",
+      "partOfSpeech": "adj.",
+      "meaningKo": "충분한",
+      "ipa": "/səˈfɪʃnt/",
+      "definition": "enough for what you need",
+      "sentence": "One basket held sufficient apples for the whole picnic group.",
+      "wordImage": "images/31_sufficient_word.png",
+      "sentenceImage": "images/31_sufficient_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 32,
+      "word": "fulfill",
+      "partOfSpeech": "v.",
+      "meaningKo": "이루다",
+      "ipa": "/fʊlˈfɪl/",
+      "definition": "to make something you hoped for come true",
+      "sentence": "The little bird will fulfill its dream of flying high.",
+      "wordImage": "images/32_fulfill_word.png",
+      "sentenceImage": "images/32_fulfill_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 33,
+      "word": "suggest",
+      "partOfSpeech": "v.",
+      "meaningKo": "제안하다",
+      "ipa": "/səˈdʒest/",
+      "definition": "to give someone an idea to think about",
+      "sentence": "The guide will suggest an easier path up the hill.",
+      "wordImage": "images/33_suggest_word.png",
+      "sentenceImage": "images/33_suggest_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 34,
+      "word": "fatigue",
+      "partOfSpeech": "n.",
+      "meaningKo": "피로",
+      "ipa": "/fəˈtiːɡ/",
+      "definition": "a very tired feeling after hard work",
+      "sentence": "Deep fatigue made the hiker rest under a shady tree.",
+      "wordImage": "images/34_fatigue_word.png",
+      "sentenceImage": "images/34_fatigue_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 35,
+      "word": "intake",
+      "partOfSpeech": "n.",
+      "meaningKo": "섭취량",
+      "ipa": "/ˈɪnteɪk/",
+      "definition": "the amount of food or drink you take",
+      "sentence": "The coach checked the water intake of every young runner.",
+      "wordImage": "images/35_intake_word.png",
+      "sentenceImage": "images/35_intake_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 36,
+      "word": "pace",
+      "partOfSpeech": "n.",
+      "meaningKo": "속도",
+      "ipa": "/peɪs/",
+      "definition": "how fast or slow you move",
+      "sentence": "The turtle kept a slow, steady pace along the path.",
+      "wordImage": "images/36_pace_word.png",
+      "sentenceImage": "images/36_pace_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 37,
+      "word": "disorder",
+      "partOfSpeech": "n.",
+      "meaningKo": "무질서",
+      "ipa": "/dɪsˈɔːrdər/",
+      "definition": "a messy state with nothing in order",
+      "sentence": "The playroom fell into cheerful disorder after the busy afternoon.",
+      "wordImage": "images/37_disorder_word.png",
+      "sentenceImage": "images/37_disorder_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 38,
+      "word": "flexible",
+      "partOfSpeech": "adj.",
+      "meaningKo": "유연한",
+      "ipa": "/ˈfleksəbl/",
+      "definition": "able to bend easily without breaking",
+      "sentence": "A flexible young dancer bent smoothly like a soft ribbon.",
+      "wordImage": "images/38_flexible_word.png",
+      "sentenceImage": "images/38_flexible_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 39,
+      "word": "supplement",
+      "partOfSpeech": "n.",
+      "meaningKo": "보충제",
+      "ipa": "/ˈsʌplɪmənt/",
+      "definition": "extra food or vitamins that help your body",
+      "sentence": "The vet added a healthy supplement to the puppy's meal.",
+      "wordImage": "images/39_supplement_word.png",
+      "sentenceImage": "images/39_supplement_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 40,
+      "word": "physical",
+      "partOfSpeech": "adj.",
+      "meaningKo": "신체의",
+      "ipa": "/ˈfɪzɪkl/",
+      "definition": "about your body, not your mind",
+      "sentence": "Running and jumping are fun physical games for young children.",
+      "wordImage": "images/40_physical_word.png",
+      "sentenceImage": "images/40_physical_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

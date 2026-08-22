@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 21,
+  "range": "21-30",
+  "set": 3,
+  "title": "DAY 21 · 21-30",
+  "words": [
+    {
+      "no": 21,
+      "word": "attract",
+      "partOfSpeech": "v.",
+      "meaningKo": "끌어당기다",
+      "ipa": "/əˈtrækt/",
+      "definition": "to make something come closer to you",
+      "sentence": "Bright flowers attract many busy bees each warm morning.",
+      "wordImage": "images/21_attract_word.png",
+      "sentenceImage": "images/21_attract_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 22,
+      "word": "poison",
+      "partOfSpeech": "n.",
+      "meaningKo": "독",
+      "ipa": "/ˈpɔɪzn/",
+      "definition": "something that is not safe to eat",
+      "sentence": "The bright frog's skin holds a natural poison inside.",
+      "wordImage": "images/22_poison_word.png",
+      "sentenceImage": "images/22_poison_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 23,
+      "word": "weigh",
+      "partOfSpeech": "v.",
+      "meaningKo": "무게가 나가다",
+      "ipa": "/weɪ/",
+      "definition": "to show how heavy something is",
+      "sentence": "These melons weigh more than the small green apples.",
+      "wordImage": "images/23_weigh_word.png",
+      "sentenceImage": "images/23_weigh_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 24,
+      "word": "automatic",
+      "partOfSpeech": "adj.",
+      "meaningKo": "자동의",
+      "ipa": "/ˌɔːtəˈmætɪk/",
+      "definition": "working by itself without a person",
+      "sentence": "An automatic gate opened when the truck came close.",
+      "wordImage": "images/24_automatic_word.png",
+      "sentenceImage": "images/24_automatic_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 25,
+      "word": "role",
+      "partOfSpeech": "n.",
+      "meaningKo": "역할",
+      "ipa": "/roʊl/",
+      "definition": "the part someone plays in a group",
+      "sentence": "Each ant has a special role inside the busy nest.",
+      "wordImage": "images/25_role_word.png",
+      "sentenceImage": "images/25_role_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 26,
+      "word": "exchange",
+      "partOfSpeech": "v.",
+      "meaningKo": "교환하다",
+      "ipa": "/ɪksˈtʃeɪndʒ/",
+      "definition": "to give one thing and get another",
+      "sentence": "The children exchange colorful stickers during the lunch break.",
+      "wordImage": "images/26_exchange_word.png",
+      "sentenceImage": "images/26_exchange_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 27,
+      "word": "contain",
+      "partOfSpeech": "v.",
+      "meaningKo": "담고 있다",
+      "ipa": "/kənˈteɪn/",
+      "definition": "to hold something inside",
+      "sentence": "This basket can contain twelve round brown eggs.",
+      "wordImage": "images/27_contain_word.png",
+      "sentenceImage": "images/27_contain_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 28,
+      "word": "trail",
+      "partOfSpeech": "n.",
+      "meaningKo": "오솔길",
+      "ipa": "/treɪl/",
+      "definition": "a rough path through woods or hills",
+      "sentence": "A narrow trail wound upward through the misty forest.",
+      "wordImage": "images/28_trail_word.png",
+      "sentenceImage": "images/28_trail_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 29,
+      "word": "trait",
+      "partOfSpeech": "n.",
+      "meaningKo": "특성",
+      "ipa": "/treɪt/",
+      "definition": "a quality that makes someone special",
+      "sentence": "Kindness is the best trait of the village baker.",
+      "wordImage": "images/29_trait_word.png",
+      "sentenceImage": "images/29_trait_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 30,
+      "word": "trial",
+      "partOfSpeech": "n.",
+      "meaningKo": "시도",
+      "ipa": "/ˈtraɪəl/",
+      "definition": "a test to see if something works",
+      "sentence": "The first flight trial of the paper glider succeeded.",
+      "wordImage": "images/30_trial_word.png",
+      "sentenceImage": "images/30_trial_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

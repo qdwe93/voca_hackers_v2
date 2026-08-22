@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 13,
+  "range": "21-30",
+  "set": 3,
+  "title": "DAY 13 · 21-30",
+  "words": [
+    {
+      "no": 21,
+      "word": "punish",
+      "partOfSpeech": "v.",
+      "meaningKo": "벌주다",
+      "definition": "to give a consequence for breaking rules",
+      "sentence": "The referee will punish the player with a brief timeout.",
+      "ipa": "/pʌnɪʃ/",
+      "wordImage": "images/21_punish_word.png",
+      "sentenceImage": "images/21_punish_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 22,
+      "word": "tie",
+      "partOfSpeech": "v.",
+      "meaningKo": "묶다",
+      "definition": "to fasten something with string or rope",
+      "sentence": "The camper will tie the tent rope to a post.",
+      "ipa": "/taɪ/",
+      "wordImage": "images/22_tie_word.png",
+      "sentenceImage": "images/22_tie_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 23,
+      "word": "indicate",
+      "partOfSpeech": "v.",
+      "meaningKo": "가리키다",
+      "definition": "to point out or show something",
+      "sentence": "The weather vane can indicate the wind's direction.",
+      "ipa": "/ɪndəkeɪt/",
+      "wordImage": "images/23_indicate_word.png",
+      "sentenceImage": "images/23_indicate_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 24,
+      "word": "humor",
+      "partOfSpeech": "n.",
+      "meaningKo": "유머",
+      "definition": "the quality of being funny",
+      "sentence": "The clown's gentle humor makes the audience laugh.",
+      "ipa": "/hjumɚ/",
+      "wordImage": "images/24_humor_word.png",
+      "sentenceImage": "images/24_humor_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 25,
+      "word": "stack",
+      "partOfSpeech": "v.",
+      "meaningKo": "쌓다",
+      "definition": "to arrange objects in a neat pile",
+      "sentence": "The robot will stack colored boxes beside the wall.",
+      "ipa": "/stæk/",
+      "wordImage": "images/25_stack_word.png",
+      "sentenceImage": "images/25_stack_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 26,
+      "word": "odd",
+      "partOfSpeech": "adj.",
+      "meaningKo": "이상한",
+      "definition": "strange unusual or unexpected",
+      "sentence": "An odd umbrella has three handles and no cloth.",
+      "ipa": "/ɑd/",
+      "wordImage": "images/26_odd_word.png",
+      "sentenceImage": "images/26_odd_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 27,
+      "word": "persist",
+      "partOfSpeech": "v.",
+      "meaningKo": "끈기 있게 계속하다",
+      "definition": "to continue despite difficulty",
+      "sentence": "The ant will persist in moving the large crumb.",
+      "ipa": "/pɚsɪst/",
+      "wordImage": "images/27_persist_word.png",
+      "sentenceImage": "images/27_persist_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 28,
+      "word": "insight",
+      "partOfSpeech": "n.",
+      "meaningKo": "통찰력",
+      "definition": "a clear deep understanding of something",
+      "sentence": "The detective gains insight by comparing the muddy footprints.",
+      "ipa": "/ɪnsaɪt/",
+      "wordImage": "images/28_insight_word.png",
+      "sentenceImage": "images/28_insight_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 29,
+      "word": "novel",
+      "partOfSpeech": "adj.",
+      "meaningKo": "참신한",
+      "definition": "new unusual and different from earlier ideas",
+      "sentence": "The inventor demonstrates a novel bicycle with folding wheels.",
+      "ipa": "/nɑvəl/",
+      "wordImage": "images/29_novel_word.png",
+      "sentenceImage": "images/29_novel_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 30,
+      "word": "noble",
+      "partOfSpeech": "adj.",
+      "meaningKo": "고귀한",
+      "definition": "honest brave and caring toward others",
+      "sentence": "The noble knight safely returns the lost crown.",
+      "ipa": "/noʊbəl/",
+      "wordImage": "images/30_noble_word.png",
+      "sentenceImage": "images/30_noble_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

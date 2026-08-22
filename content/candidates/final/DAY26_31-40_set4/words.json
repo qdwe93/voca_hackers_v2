@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 26,
+  "range": "31-40",
+  "set": 4,
+  "title": "DAY 26 · 31-40",
+  "words": [
+    {
+      "no": 31,
+      "word": "stamp",
+      "partOfSpeech": "n.",
+      "meaningKo": "우표",
+      "ipa": "/stæmp/",
+      "definition": "a small paper you stick on mail",
+      "sentence": "A colorful stamp decorated the corner of the envelope.",
+      "wordImage": "images/31_stamp_word.png",
+      "sentenceImage": "images/31_stamp_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 32,
+      "word": "secure",
+      "partOfSpeech": "adj.",
+      "meaningKo": "안전한, 튼튼한",
+      "ipa": "/səˈkjʊr/",
+      "definition": "safe from danger, firmly fastened, and not likely to fail",
+      "sentence": "Make sure the bicycle lock is secure before leaving the rack.",
+      "wordImage": "images/32_secure_word.png",
+      "sentenceImage": "images/32_secure_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 33,
+      "word": "conference",
+      "partOfSpeech": "n.",
+      "meaningKo": "회의",
+      "ipa": "/ˈkɑːnfərəns/",
+      "definition": "a meeting where people share ideas",
+      "sentence": "The garden conference brought growers from many small towns.",
+      "wordImage": "images/33_conference_word.png",
+      "sentenceImage": "images/33_conference_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 34,
+      "word": "urge",
+      "partOfSpeech": "v.",
+      "meaningKo": "촉구하다",
+      "ipa": "/ɜːrdʒ/",
+      "definition": "to strongly ask someone to do something",
+      "sentence": "Coaches urge the runners to drink water after practice.",
+      "wordImage": "images/34_urge_word.png",
+      "sentenceImage": "images/34_urge_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 35,
+      "word": "confront",
+      "partOfSpeech": "v.",
+      "meaningKo": "맞서다",
+      "ipa": "/kənˈfrʌnt/",
+      "definition": "to face a problem bravely",
+      "sentence": "The young climber will confront the hardest wall today.",
+      "wordImage": "images/35_confront_word.png",
+      "sentenceImage": "images/35_confront_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 36,
+      "word": "persuade",
+      "partOfSpeech": "v.",
+      "meaningKo": "설득하다",
+      "ipa": "/pərˈsweɪd/",
+      "definition": "to make someone agree with your idea",
+      "sentence": "The children persuade their friends to join the cleanup.",
+      "wordImage": "images/36_persuade_word.png",
+      "sentenceImage": "images/36_persuade_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 37,
+      "word": "scan",
+      "partOfSpeech": "v.",
+      "meaningKo": "훑어보다",
+      "ipa": "/skæn/",
+      "definition": "to look over something quickly",
+      "sentence": "Sailors scan the horizon for the first island shape.",
+      "wordImage": "images/37_scan_word.png",
+      "sentenceImage": "images/37_scan_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 38,
+      "word": "prohibit",
+      "partOfSpeech": "v.",
+      "meaningKo": "금지하다",
+      "ipa": "/prəˈhɪbɪt/",
+      "definition": "to not allow something at all",
+      "sentence": "Library rules prohibit loud talking inside the reading room.",
+      "wordImage": "images/38_prohibit_word.png",
+      "sentenceImage": "images/38_prohibit_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 39,
+      "word": "moreover",
+      "partOfSpeech": "adv.",
+      "meaningKo": "게다가",
+      "ipa": "/mɔːrˈoʊvər/",
+      "definition": "also, and in addition",
+      "sentence": "The soup was tasty; moreover, it warmed everyone quickly.",
+      "wordImage": "images/39_moreover_word.png",
+      "sentenceImage": "images/39_moreover_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 40,
+      "word": "determine",
+      "partOfSpeech": "v.",
+      "meaningKo": "결정하다",
+      "ipa": "/dɪˈtɜːrmɪn/",
+      "definition": "to decide something after looking carefully",
+      "sentence": "Judges determine which pumpkin is the roundest and biggest.",
+      "wordImage": "images/40_determine_word.png",
+      "sentenceImage": "images/40_determine_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 19,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 19 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "imagine",
+      "partOfSpeech": "v.",
+      "meaningKo": "상상하다",
+      "ipa": "/ɪˈmædʒɪn/",
+      "definition": "to make a picture in your mind",
+      "sentence": "Children imagine castles when they look at fluffy clouds.",
+      "wordImage": "images/11_imagine_word.png",
+      "sentenceImage": "images/11_imagine_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "artificial",
+      "partOfSpeech": "adj.",
+      "meaningKo": "인공의",
+      "ipa": "/ˌɑːrtɪˈfɪʃl/",
+      "definition": "made by people, not by nature",
+      "sentence": "The artificial pond in the park has plastic lilies.",
+      "wordImage": "images/12_artificial_word.png",
+      "sentenceImage": "images/12_artificial_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "adjust",
+      "partOfSpeech": "v.",
+      "meaningKo": "조정하다",
+      "ipa": "/əˈdʒʌst/",
+      "definition": "to change something a little to fit better",
+      "sentence": "Please adjust the seat before you ride the bicycle.",
+      "wordImage": "images/13_adjust_word.png",
+      "sentenceImage": "images/13_adjust_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "ideal",
+      "partOfSpeech": "adj.",
+      "meaningKo": "이상적인",
+      "ipa": "/aɪˈdiːəl/",
+      "definition": "the best it could possibly be",
+      "sentence": "A calm sunny day is ideal for flying kites.",
+      "wordImage": "images/14_ideal_word.png",
+      "sentenceImage": "images/14_ideal_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "gather",
+      "partOfSpeech": "v.",
+      "meaningKo": "모으다",
+      "ipa": "/ˈɡæðər/",
+      "definition": "to bring things or people together",
+      "sentence": "The villagers gather firewood before the cold season starts.",
+      "wordImage": "images/15_gather_word.png",
+      "sentenceImage": "images/15_gather_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "mechanic",
+      "partOfSpeech": "n.",
+      "meaningKo": "정비사",
+      "ipa": "/məˈkænɪk/",
+      "definition": "a person who fixes machines",
+      "sentence": "A cheerful mechanic checked the wheels of the old bus.",
+      "wordImage": "images/16_mechanic_word.png",
+      "sentenceImage": "images/16_mechanic_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "portable",
+      "partOfSpeech": "adj.",
+      "meaningKo": "휴대용의",
+      "ipa": "/ˈpɔːrtəbl/",
+      "definition": "easy to carry from place to place",
+      "sentence": "A portable lamp lit the small camping tent softly.",
+      "wordImage": "images/17_portable_word.png",
+      "sentenceImage": "images/17_portable_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "remove",
+      "partOfSpeech": "v.",
+      "meaningKo": "제거하다",
+      "ipa": "/rɪˈmuːv/",
+      "definition": "to take something away from a place",
+      "sentence": "Please remove your muddy boots before entering the hall.",
+      "wordImage": "images/18_remove_word.png",
+      "sentenceImage": "images/18_remove_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "master",
+      "partOfSpeech": "v.",
+      "meaningKo": "숙달하다",
+      "ipa": "/ˈmæstər/",
+      "definition": "to learn to do something very well",
+      "sentence": "The young baker will master this bread recipe soon.",
+      "wordImage": "images/19_master_word.png",
+      "sentenceImage": "images/19_master_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "screen",
+      "partOfSpeech": "n.",
+      "meaningKo": "화면",
+      "ipa": "/skriːn/",
+      "definition": "a flat surface that shows pictures",
+      "sentence": "A big screen showed the funny film outdoors tonight.",
+      "wordImage": "images/20_screen_word.png",
+      "sentenceImage": "images/20_screen_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

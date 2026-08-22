@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 23,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY23-01",
+      "no": 1,
+      "word": "climate",
+      "sentence": "A dry climate leads farmers to grow crops needing little water."
+    },
+    {
+      "wordId": "DAY23-02",
+      "no": 2,
+      "word": "landscape",
+      "sentence": "The landscape combines natural hills with farms and roads."
+    },
+    {
+      "wordId": "DAY23-03",
+      "no": 3,
+      "word": "storm",
+      "sentence": "One summer storm rolled across the wide open sea."
+    },
+    {
+      "wordId": "DAY23-04",
+      "no": 4,
+      "word": "average",
+      "sentence": "Today, the average of four and eight is exactly six."
+    },
+    {
+      "wordId": "DAY23-05",
+      "no": 5,
+      "word": "drown",
+      "sentence": "One lifeguard prevents the swimmer from beginning to drown."
+    },
+    {
+      "wordId": "DAY23-06",
+      "no": 6,
+      "word": "happen",
+      "sentence": "When everyone helps in the garden, wonderful things happen."
+    },
+    {
+      "wordId": "DAY23-07",
+      "no": 7,
+      "word": "rough",
+      "sentence": "The block moves slowly on rough wood because friction is stronger."
+    },
+    {
+      "wordId": "DAY23-08",
+      "no": 8,
+      "word": "geography",
+      "sentence": "Students use scale, direction, and symbols to study geography."
+    },
+    {
+      "wordId": "DAY23-09",
+      "no": 9,
+      "word": "effect",
+      "sentence": "Today, warm sunlight had a strong effect on the seedlings."
+    },
+    {
+      "wordId": "DAY23-10",
+      "no": 10,
+      "word": "affect",
+      "sentence": "Cold nights affect how rapidly the flowers open up."
+    }
+  ]
+}

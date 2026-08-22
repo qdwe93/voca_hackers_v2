@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 7,
+  "range": "31-40",
+  "set": 4,
+  "items": [
+    {
+      "wordId": "DAY07-31",
+      "no": 31,
+      "word": "reject",
+      "sentence": "The judges reject any drawing that arrives after the deadline."
+    },
+    {
+      "wordId": "DAY07-32",
+      "no": 32,
+      "word": "gaze",
+      "sentence": "Two friends gaze at the night sky and count stars."
+    },
+    {
+      "wordId": "DAY07-33",
+      "no": 33,
+      "word": "cherish",
+      "sentence": "We cherish the letters our grandfather wrote during long travels."
+    },
+    {
+      "wordId": "DAY07-34",
+      "no": 34,
+      "word": "hospitality",
+      "sentence": "The village showed warm hospitality by sharing tea with travelers."
+    },
+    {
+      "wordId": "DAY07-35",
+      "no": 35,
+      "word": "uncover",
+      "sentence": "We uncover an old family photo under the dusty cloth."
+    },
+    {
+      "wordId": "DAY07-36",
+      "no": 36,
+      "word": "casual",
+      "sentence": "With close friends we use casual words, but teachers hear polite ones."
+    },
+    {
+      "wordId": "DAY07-37",
+      "no": 37,
+      "word": "mutual",
+      "sentence": "Their mutual respect helped the two teams share one field."
+    },
+    {
+      "wordId": "DAY07-38",
+      "no": 38,
+      "word": "farewell",
+      "sentence": "Classmates waved and said a cheerful farewell at the station."
+    },
+    {
+      "wordId": "DAY07-39",
+      "no": 39,
+      "word": "owe",
+      "sentence": "I owe my cousin two thousand won for the bus ticket."
+    },
+    {
+      "wordId": "DAY07-40",
+      "no": 40,
+      "word": "treat",
+      "sentence": "Good teammates treat every player with the same fair respect."
+    }
+  ]
+}

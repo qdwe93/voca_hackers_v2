@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 16,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY16-11",
+      "no": 11,
+      "word": "planet",
+      "sentence": "Mars is a rocky planet that circles the sun."
+    },
+    {
+      "wordId": "DAY16-12",
+      "no": 12,
+      "word": "conduct",
+      "sentence": "We conduct the test three times and record every result."
+    },
+    {
+      "wordId": "DAY16-13",
+      "no": 13,
+      "word": "solid",
+      "sentence": "Ice is solid, so it keeps its shape inside the cup."
+    },
+    {
+      "wordId": "DAY16-14",
+      "no": 14,
+      "word": "eternal",
+      "sentence": "Nothing on this list is eternal; even mountains change slowly."
+    },
+    {
+      "wordId": "DAY16-15",
+      "no": 15,
+      "word": "gravity",
+      "sentence": "The scale shows more weight because gravity pulls harder on heavier stones."
+    },
+    {
+      "wordId": "DAY16-16",
+      "no": 16,
+      "word": "melt",
+      "sentence": "Ice cubes melt at zero degrees, turning into clear water."
+    },
+    {
+      "wordId": "DAY16-17",
+      "no": 17,
+      "word": "astronaut",
+      "sentence": "An astronaut floated near the moon and photographed its gray craters."
+    },
+    {
+      "wordId": "DAY16-18",
+      "no": 18,
+      "word": "smooth",
+      "sentence": "A smooth glass surface lets the coin slide much farther."
+    },
+    {
+      "wordId": "DAY16-19",
+      "no": 19,
+      "word": "oxygen",
+      "sentence": "Green plants release oxygen while sunlight reaches their leaves."
+    },
+    {
+      "wordId": "DAY16-20",
+      "no": 20,
+      "word": "support",
+      "sentence": "Two wooden blocks support the shelf, so it does not tip."
+    }
+  ]
+}

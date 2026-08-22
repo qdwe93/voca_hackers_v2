@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 22,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY22-11",
+      "no": 11,
+      "word": "huge",
+      "sentence": "One huge whale swam beside our small watching boat."
+    },
+    {
+      "wordId": "DAY22-12",
+      "no": 12,
+      "word": "pile",
+      "sentence": "A pile of dry leaves grew beside the garden wall."
+    },
+    {
+      "wordId": "DAY22-13",
+      "no": 13,
+      "word": "react",
+      "sentence": "Sunflowers react to sunlight by turning their heads slowly."
+    },
+    {
+      "wordId": "DAY22-14",
+      "no": 14,
+      "word": "exist",
+      "sentence": "Some deep sea fish exist far below the sunlight zone."
+    },
+    {
+      "wordId": "DAY22-15",
+      "no": 15,
+      "word": "shade",
+      "sentence": "Cows rested in the shade under the wide chestnut tree."
+    },
+    {
+      "wordId": "DAY22-16",
+      "no": 16,
+      "word": "element",
+      "sentence": "Clean water is one important element of every healthy wetland."
+    },
+    {
+      "wordId": "DAY22-17",
+      "no": 17,
+      "word": "layer",
+      "sentence": "A thin layer of moss covers the north side rocks."
+    },
+    {
+      "wordId": "DAY22-18",
+      "no": 18,
+      "word": "horizon",
+      "sentence": "The sun rose above the eastern horizon at six o'clock."
+    },
+    {
+      "wordId": "DAY22-19",
+      "no": 19,
+      "word": "observe",
+      "sentence": "We observe the pond each morning and record the water level."
+    },
+    {
+      "wordId": "DAY22-20",
+      "no": 20,
+      "word": "block",
+      "sentence": "Tall reeds block the wind along the edge of the marsh."
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 7,
+  "range": "31-40",
+  "set": 4,
+  "items": [
+    {
+      "wordId": "DAY07-31",
+      "no": 31,
+      "word": "reject",
+      "sentence": "Today, the picky cat will reject any food without fresh fish."
+    },
+    {
+      "wordId": "DAY07-32",
+      "no": 32,
+      "word": "gaze",
+      "sentence": "Today, sailors gaze at the wide ocean from the tall deck."
+    },
+    {
+      "wordId": "DAY07-33",
+      "no": 33,
+      "word": "cherish",
+      "sentence": "The brown bear will cherish the drawing from its little friend."
+    },
+    {
+      "wordId": "DAY07-34",
+      "no": 34,
+      "word": "hospitality",
+      "sentence": "The village displayed great hospitality to the weary traveling musicians."
+    },
+    {
+      "wordId": "DAY07-35",
+      "no": 35,
+      "word": "uncover",
+      "sentence": "Today, the archaeologists will uncover an old pot beneath the sand."
+    },
+    {
+      "wordId": "DAY07-36",
+      "no": 36,
+      "word": "casual",
+      "sentence": "Friends use casual language while chatting after the formal meeting."
+    },
+    {
+      "wordId": "DAY07-37",
+      "no": 37,
+      "word": "mutual",
+      "sentence": "Today, their mutual love of drawing made them fast friends."
+    },
+    {
+      "wordId": "DAY07-38",
+      "no": 38,
+      "word": "farewell",
+      "sentence": "Today, the crew waved a cheerful farewell from the sailing ship."
+    },
+    {
+      "wordId": "DAY07-39",
+      "no": 39,
+      "word": "owe",
+      "sentence": "Today, I owe my neighbor two coins for the fresh eggs."
+    },
+    {
+      "wordId": "DAY07-40",
+      "no": 40,
+      "word": "treat",
+      "sentence": "Classmates treat the new student with patience and respect."
+    }
+  ]
+}

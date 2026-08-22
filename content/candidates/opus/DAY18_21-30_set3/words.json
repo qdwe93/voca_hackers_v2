@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 18,
+  "range": "21-30",
+  "set": 3,
+  "title": "DAY 18 · 21-30",
+  "words": [
+    {
+      "no": 21,
+      "word": "track",
+      "partOfSpeech": "n.",
+      "meaningKo": "자국",
+      "ipa": "/træk/",
+      "definition": "a mark or path left behind",
+      "sentence": "A deer track showed clearly in the soft mud.",
+      "wordImage": "images/21_track_word.png",
+      "sentenceImage": "images/21_track_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 22,
+      "word": "perhaps",
+      "partOfSpeech": "adv.",
+      "meaningKo": "아마도",
+      "ipa": "/pərˈhæps/",
+      "definition": "maybe, but not for sure",
+      "sentence": "Perhaps the rain will stop before the picnic begins.",
+      "wordImage": "images/22_perhaps_word.png",
+      "sentenceImage": "images/22_perhaps_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 23,
+      "word": "bump",
+      "partOfSpeech": "v.",
+      "meaningKo": "부딪치다",
+      "ipa": "/bʌmp/",
+      "definition": "to knock lightly against something",
+      "sentence": "Careful, or you might bump into the low door frame.",
+      "wordImage": "images/23_bump_word.png",
+      "sentenceImage": "images/23_bump_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 24,
+      "word": "alert",
+      "partOfSpeech": "adj.",
+      "meaningKo": "경계하는",
+      "ipa": "/əˈlɜːrt/",
+      "definition": "watching carefully and ready to act",
+      "sentence": "The alert meerkat stood tall and watched the horizon.",
+      "wordImage": "images/24_alert_word.png",
+      "sentenceImage": "images/24_alert_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 25,
+      "word": "slip",
+      "partOfSpeech": "v.",
+      "meaningKo": "미끄러지다",
+      "ipa": "/slɪp/",
+      "definition": "to slide by accident on something",
+      "sentence": "Do not slip on the shiny wet kitchen floor.",
+      "wordImage": "images/25_slip_word.png",
+      "sentenceImage": "images/25_slip_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 26,
+      "word": "modest",
+      "partOfSpeech": "adj.",
+      "meaningKo": "겸손한",
+      "ipa": "/ˈmɑːdɪst/",
+      "definition": "not boastful about what you did",
+      "sentence": "The modest winner smiled quietly and thanked her coach.",
+      "wordImage": "images/26_modest_word.png",
+      "sentenceImage": "images/26_modest_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 27,
+      "word": "disabled",
+      "partOfSpeech": "adj.",
+      "meaningKo": "장애가 있는",
+      "ipa": "/dɪsˈeɪbld/",
+      "definition": "having a body part that works differently",
+      "sentence": "The disabled bird used a tiny wheeled cart happily.",
+      "wordImage": "images/27_disabled_word.png",
+      "sentenceImage": "images/27_disabled_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 28,
+      "word": "rapid",
+      "partOfSpeech": "adj.",
+      "meaningKo": "빠른",
+      "ipa": "/ˈræpɪd/",
+      "definition": "moving or happening very fast",
+      "sentence": "A rapid stream rushed between the smooth gray rocks.",
+      "wordImage": "images/28_rapid_word.png",
+      "sentenceImage": "images/28_rapid_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 29,
+      "word": "spin",
+      "partOfSpeech": "v.",
+      "meaningKo": "돌다",
+      "ipa": "/spɪn/",
+      "definition": "to turn around and around quickly",
+      "sentence": "The colorful top will spin across the wooden table.",
+      "wordImage": "images/29_spin_word.png",
+      "sentenceImage": "images/29_spin_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 30,
+      "word": "spine",
+      "partOfSpeech": "n.",
+      "meaningKo": "척추",
+      "ipa": "/spaɪn/",
+      "definition": "the line of bones along your back",
+      "sentence": "A cat stretches its spine after a long nap.",
+      "wordImage": "images/30_spine_word.png",
+      "sentenceImage": "images/30_spine_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

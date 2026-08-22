@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 3,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 03 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "journey",
+      "partOfSpeech": "n.",
+      "meaningKo": "여행",
+      "definition": "the act of traveling from one place to another",
+      "sentence": "The family begins a long journey across snowy mountains.",
+      "ipa": "/dʒɝni/",
+      "wordImage": "images/01_journey_word.png",
+      "sentenceImage": "images/01_journey_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "theater",
+      "partOfSpeech": "n.",
+      "meaningKo": "극장",
+      "definition": "a building where plays or movies are shown",
+      "sentence": "People enter the theater beneath bright blank poster frames.",
+      "ipa": "/θiətɚ/",
+      "wordImage": "images/02_theater_word.png",
+      "sentenceImage": "images/02_theater_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "fee",
+      "partOfSpeech": "n.",
+      "meaningKo": "요금",
+      "definition": "money paid for a service or permission",
+      "sentence": "A visitor pays the entrance fee with several coins.",
+      "ipa": "/fi/",
+      "wordImage": "images/03_fee_word.png",
+      "sentenceImage": "images/03_fee_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "prepare",
+      "partOfSpeech": "v.",
+      "meaningKo": "준비하다",
+      "definition": "to make something ready for use or an event",
+      "sentence": "The campers prepare their tent before the rain arrives.",
+      "ipa": "/pripɛr/",
+      "wordImage": "images/04_prepare_word.png",
+      "sentenceImage": "images/04_prepare_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "surprised",
+      "partOfSpeech": "adj.",
+      "meaningKo": "놀란",
+      "definition": "feeling sudden wonder because something unexpected happened",
+      "sentence": "The surprised child opens a box containing a tiny robot.",
+      "ipa": "/sɚpraɪzd/",
+      "wordImage": "images/05_surprised_word.png",
+      "sentenceImage": "images/05_surprised_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "receive",
+      "partOfSpeech": "v.",
+      "meaningKo": "받다",
+      "definition": "to get or accept something given or sent",
+      "sentence": "A goalkeeper will receive the ball with both hands.",
+      "ipa": "/rəsiv/",
+      "wordImage": "images/06_receive_word.png",
+      "sentenceImage": "images/06_receive_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "nervous",
+      "partOfSpeech": "adj.",
+      "meaningKo": "긴장한",
+      "definition": "worried or uneasy about what may happen",
+      "sentence": "The nervous performer waits behind the closed stage curtain.",
+      "ipa": "/nɝvəs/",
+      "wordImage": "images/07_nervous_word.png",
+      "sentenceImage": "images/07_nervous_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "stage",
+      "partOfSpeech": "n.",
+      "meaningKo": "무대",
+      "definition": "a raised area where performers appear",
+      "sentence": "A magician stands on the stage beneath a spotlight.",
+      "ipa": "/steɪdʒ/",
+      "wordImage": "images/08_stage_word.png",
+      "sentenceImage": "images/08_stage_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "vacation",
+      "partOfSpeech": "n.",
+      "meaningKo": "휴가",
+      "definition": "a period of rest away from school or work",
+      "sentence": "The family enjoys a vacation beside the calm sea.",
+      "ipa": "/veɪkeɪʃən/",
+      "wordImage": "images/09_vacation_word.png",
+      "sentenceImage": "images/09_vacation_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "vocation",
+      "partOfSpeech": "n.",
+      "meaningKo": "천직",
+      "definition": "a job that a person feels especially suited to do",
+      "sentence": "Caring for animals is the veterinarian's chosen vocation.",
+      "ipa": "/voʊkeɪʃən/",
+      "wordImage": "images/10_vocation_word.png",
+      "sentenceImage": "images/10_vocation_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

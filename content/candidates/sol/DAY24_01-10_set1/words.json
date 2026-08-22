@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 24,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 24 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "resource",
+      "partOfSpeech": "n.",
+      "meaningKo": "자원",
+      "definition": "a useful supply of something",
+      "sentence": "Clean water is a valuable resource for every village.",
+      "ipa": "/risɔrs/",
+      "wordImage": "images/01_resource_word.png",
+      "sentenceImage": "images/01_resource_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "fossil",
+      "partOfSpeech": "n.",
+      "meaningKo": "화석",
+      "definition": "preserved remains or traces of ancient life",
+      "sentence": "A fish fossil appears inside the split rock.",
+      "ipa": "/fɑsəl/",
+      "wordImage": "images/02_fossil_word.png",
+      "sentenceImage": "images/02_fossil_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "supply",
+      "partOfSpeech": "n.",
+      "meaningKo": "공급량",
+      "definition": "an amount available for use",
+      "sentence": "The shelter keeps a supply of clean water.",
+      "ipa": "/səplaɪ/",
+      "wordImage": "images/03_supply_word.png",
+      "sentenceImage": "images/03_supply_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "common",
+      "partOfSpeech": "adj.",
+      "meaningKo": "흔한",
+      "definition": "occurring often or found in many places",
+      "sentence": "The common sparrow appears in parks throughout the city.",
+      "ipa": "/kɑmən/",
+      "wordImage": "images/04_common_word.png",
+      "sentenceImage": "images/04_common_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "explanation",
+      "partOfSpeech": "n.",
+      "meaningKo": "설명",
+      "definition": "a statement making something clear",
+      "sentence": "The model provides an explanation of the moon's orbit.",
+      "ipa": "/ɛkspləneɪʃən/",
+      "wordImage": "images/05_explanation_word.png",
+      "sentenceImage": "images/05_explanation_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "nuclear",
+      "partOfSpeech": "adj.",
+      "meaningKo": "원자력의",
+      "definition": "related to energy from splitting or joining atoms",
+      "sentence": "A nuclear power plant stands behind protected barriers.",
+      "ipa": "/nukliɚ/",
+      "wordImage": "images/06_nuclear_word.png",
+      "sentenceImage": "images/06_nuclear_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "material",
+      "partOfSpeech": "n.",
+      "meaningKo": "재료",
+      "definition": "a substance used to make something",
+      "sentence": "Strong bamboo is the main material in the basket.",
+      "ipa": "/mətɪriəl/",
+      "wordImage": "images/07_material_word.png",
+      "sentenceImage": "images/07_material_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "essential",
+      "partOfSpeech": "adj.",
+      "meaningKo": "필수적인",
+      "definition": "completely necessary",
+      "sentence": "Warm sunlight is essential for the green seedlings.",
+      "ipa": "/ɛsɛnʃəl/",
+      "wordImage": "images/08_essential_word.png",
+      "sentenceImage": "images/08_essential_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "metal",
+      "partOfSpeech": "n.",
+      "meaningKo": "금속",
+      "definition": "a hard shiny material that carries heat and electricity",
+      "sentence": "The metal spoon shines beside the wooden spoon.",
+      "ipa": "/mɛtəl/",
+      "wordImage": "images/09_metal_word.png",
+      "sentenceImage": "images/09_metal_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "mental",
+      "partOfSpeech": "adj.",
+      "meaningKo": "정신의",
+      "definition": "related to the mind and thinking",
+      "sentence": "Solving puzzles is a form of mental exercise.",
+      "ipa": "/mɛntəl/",
+      "wordImage": "images/10_mental_word.png",
+      "sentenceImage": "images/10_mental_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

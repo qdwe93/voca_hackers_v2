@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 12,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 12 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "upset",
+      "partOfSpeech": "adj.",
+      "meaningKo": "속상한, 화난",
+      "ipa": "/ʌpˈset/",
+      "definition": "unhappy, disappointed, or worried because of something bad",
+      "sentence": "The little girl was upset after losing her favorite hairclip.",
+      "wordImage": "images/11_upset_word.png",
+      "sentenceImage": "images/11_upset_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "respond",
+      "partOfSpeech": "v.",
+      "meaningKo": "응답하다, 반응하다",
+      "ipa": "/rɪˈspɑːnd/",
+      "definition": "to say or do something as an answer or reaction",
+      "sentence": "Please respond promptly to the birthday party invitation by Friday.",
+      "wordImage": "images/12_respond_word.png",
+      "sentenceImage": "images/12_respond_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "steady",
+      "partOfSpeech": "adj.",
+      "meaningKo": "안정된, 꾸준한",
+      "ipa": "/ˈsted.i/",
+      "definition": "not shaking or moving, continuing in a reliable way",
+      "sentence": "He held a steady hand while painting fine details on ceramic.",
+      "wordImage": "images/13_steady_word.png",
+      "sentenceImage": "images/13_steady_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "dislike",
+      "partOfSpeech": "v.",
+      "meaningKo": "싫어하다",
+      "ipa": "/dɪˈslaɪk/",
+      "definition": "to not like someone or something",
+      "sentence": "Some children dislike eating bitter green bell peppers with dinner.",
+      "wordImage": "images/14_dislike_word.png",
+      "sentenceImage": "images/14_dislike_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "define",
+      "partOfSpeech": "v.",
+      "meaningKo": "정의하다, 명시하다",
+      "ipa": "/dɪˈfaɪn/",
+      "definition": "to explain and describe the exact meaning of a word",
+      "sentence": "Can you define the word habitat using your own simple words?",
+      "wordImage": "images/15_define_word.png",
+      "sentenceImage": "images/15_define_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "celebrity",
+      "partOfSpeech": "n.",
+      "meaningKo": "유명인사, 유명인",
+      "ipa": "/səˈleb.rə.t̬i/",
+      "definition": "a person who is famous, especially in entertainment or sports",
+      "sentence": "The Olympic runner became a popular sports celebrity across the nation.",
+      "wordImage": "images/16_celebrity_word.png",
+      "sentenceImage": "images/16_celebrity_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "genius",
+      "partOfSpeech": "n.",
+      "meaningKo": "천재, 비범한 재능",
+      "ipa": "/ˈdʒiː.ni.əs/",
+      "definition": "someone with exceptionally high intelligence or extraordinary skill",
+      "sentence": "Albert Einstein was recognized as a scientific genius worldwide.",
+      "wordImage": "images/17_genius_word.png",
+      "sentenceImage": "images/17_genius_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "visual",
+      "partOfSpeech": "adj.",
+      "meaningKo": "시각의, 눈에 보이는",
+      "ipa": "/ˈvɪʒ.u.əl/",
+      "definition": "relating to seeing or to things that can be seen",
+      "sentence": "Colorful visual charts help students understand solar system planets better.",
+      "wordImage": "images/18_visual_word.png",
+      "sentenceImage": "images/18_visual_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "compose",
+      "partOfSpeech": "v.",
+      "meaningKo": "작곡하다, 구성하다",
+      "ipa": "/kəmˈpoʊz/",
+      "definition": "to write music, poetry, or a letter with care",
+      "sentence": "The young musician learned to compose gentle piano melodies daily.",
+      "wordImage": "images/19_compose_word.png",
+      "sentenceImage": "images/19_compose_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "deal",
+      "partOfSpeech": "n.",
+      "meaningKo": "거래, 합의",
+      "ipa": "/diːl/",
+      "definition": "an agreement or arrangement, especially in business or sports",
+      "sentence": "They made a fair deal to trade two collectible cards.",
+      "wordImage": "images/20_deal_word.png",
+      "sentenceImage": "images/20_deal_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

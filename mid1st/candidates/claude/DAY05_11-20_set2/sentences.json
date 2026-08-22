@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 5,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY05-11",
+      "no": 11,
+      "word": "rather",
+      "sentence": "This morning walk felt rather long for the youngest beginners."
+    },
+    {
+      "wordId": "DAY05-12",
+      "no": 12,
+      "word": "straight",
+      "sentence": "The white court lines stay straight and meet at right angles."
+    },
+    {
+      "wordId": "DAY05-13",
+      "no": 13,
+      "word": "meanwhile",
+      "sentence": "One team stretches; meanwhile, the other team runs slow laps."
+    },
+    {
+      "wordId": "DAY05-14",
+      "no": 14,
+      "word": "continuous",
+      "sentence": "Swimming needs continuous arm movement from start to finish."
+    },
+    {
+      "wordId": "DAY05-15",
+      "no": 15,
+      "word": "ordinary",
+      "sentence": "An ordinary cotton shirt works fine for this easy jog."
+    },
+    {
+      "wordId": "DAY05-16",
+      "no": 16,
+      "word": "relationship",
+      "sentence": "This chart shows the relationship between rest days and faster times."
+    },
+    {
+      "wordId": "DAY05-17",
+      "no": 17,
+      "word": "throat",
+      "sentence": "Cold water cooled my throat after the long race."
+    },
+    {
+      "wordId": "DAY05-18",
+      "no": 18,
+      "word": "encounter",
+      "sentence": "Morning joggers encounter a friendly dog near the river path."
+    },
+    {
+      "wordId": "DAY05-19",
+      "no": 19,
+      "word": "disturb",
+      "sentence": "Loud music can disturb runners who count their breathing."
+    },
+    {
+      "wordId": "DAY05-20",
+      "no": 20,
+      "word": "lead",
+      "sentence": "Our captain will lead the warm-up jog around the field."
+    }
+  ]
+}

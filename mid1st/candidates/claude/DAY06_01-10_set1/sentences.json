@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 6,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY06-01",
+      "no": 1,
+      "word": "relax",
+      "sentence": "After the long test, we relax on the grass together."
+    },
+    {
+      "wordId": "DAY06-02",
+      "no": 2,
+      "word": "grateful",
+      "sentence": "The lost hiker felt grateful for the warm blanket offered."
+    },
+    {
+      "wordId": "DAY06-03",
+      "no": 3,
+      "word": "complain",
+      "sentence": "When neighbors complain politely, we listen and answer with a calm request."
+    },
+    {
+      "wordId": "DAY06-04",
+      "no": 4,
+      "word": "delighted",
+      "sentence": "Grandpa looked delighted when the whole family arrived for dinner."
+    },
+    {
+      "wordId": "DAY06-05",
+      "no": 5,
+      "word": "express",
+      "sentence": "She writes about the salty sea wind to express her joy."
+    },
+    {
+      "wordId": "DAY06-06",
+      "no": 6,
+      "word": "reward",
+      "sentence": "A sticker chart gives a small reward for finishing homework."
+    },
+    {
+      "wordId": "DAY06-07",
+      "no": 7,
+      "word": "frustrated",
+      "sentence": "That puzzle piece would not fit, so I felt frustrated."
+    },
+    {
+      "wordId": "DAY06-08",
+      "no": 8,
+      "word": "recognize",
+      "sentence": "We recognize our old classmate by the same curly hair."
+    },
+    {
+      "wordId": "DAY06-09",
+      "no": 9,
+      "word": "temper",
+      "sentence": "The quiet farmer has a calm temper, even during busy days."
+    },
+    {
+      "wordId": "DAY06-10",
+      "no": 10,
+      "word": "temple",
+      "sentence": "Visitors bow quietly inside the old wooden mountain temple."
+    }
+  ]
+}

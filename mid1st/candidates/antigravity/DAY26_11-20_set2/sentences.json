@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 26,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY26-11",
+      "no": 11,
+      "word": "search",
+      "sentence": "Detectives search the room carefully to find important missing evidence documents."
+    },
+    {
+      "wordId": "DAY26-12",
+      "no": 12,
+      "word": "raise",
+      "sentence": "Students raise their hands politely before asking questions during class discussions."
+    },
+    {
+      "wordId": "DAY26-13",
+      "no": 13,
+      "word": "aim",
+      "sentence": "Archers aim at the center target circle before releasing their arrows."
+    },
+    {
+      "wordId": "DAY26-14",
+      "no": 14,
+      "word": "criminal",
+      "sentence": "The convicted criminal received a fair sentence from the presiding judge."
+    },
+    {
+      "wordId": "DAY26-15",
+      "no": 15,
+      "word": "suspect",
+      "sentence": "The police questioned the main suspect about his whereabouts that evening."
+    },
+    {
+      "wordId": "DAY26-16",
+      "no": 16,
+      "word": "neutral",
+      "sentence": "Judges maintain a neutral attitude while evaluating evidence presented in court."
+    },
+    {
+      "wordId": "DAY26-17",
+      "no": 17,
+      "word": "accuse",
+      "sentence": "Prosecutors accuse the company of violating environmental clean water regulations openly."
+    },
+    {
+      "wordId": "DAY26-18",
+      "no": 18,
+      "word": "firm",
+      "sentence": "The school principal took a firm stand against any bullying behavior."
+    },
+    {
+      "wordId": "DAY26-19",
+      "no": 19,
+      "word": "aid",
+      "sentence": "International organizations provide emergency disaster relief aid to earthquake affected regions."
+    },
+    {
+      "wordId": "DAY26-20",
+      "no": 20,
+      "word": "interest",
+      "sentence": "The fascinating science exhibit sparked great student interest in astronomy careers."
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 21,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 21 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "wild",
+      "partOfSpeech": "adj.",
+      "meaningKo": "야생의, 자연 그대로의",
+      "ipa": "/waɪld/",
+      "definition": "living or growing in natural conditions without human care",
+      "sentence": "Beautiful wild purple daisies grew all along the forest trail.",
+      "wordImage": "images/01_wild_word.png",
+      "sentenceImage": "images/01_wild_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "species",
+      "partOfSpeech": "n.",
+      "meaningKo": "종, 생물종",
+      "ipa": "/ˈspiː.ʃiːz/",
+      "definition": "a set of animals or plants with similar characteristics",
+      "sentence": "The rainforest is home to thousands of rare butterfly species.",
+      "wordImage": "images/02_species_word.png",
+      "sentenceImage": "images/02_species_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "bark",
+      "partOfSpeech": "v.",
+      "meaningKo": "짖다, 나무껍질",
+      "ipa": "/bɑːrk/",
+      "definition": "to make the characteristic loud sound of a dog",
+      "sentence": "The friendly puppy began to bark happily at the bouncing ball.",
+      "wordImage": "images/03_bark_word.png",
+      "sentenceImage": "images/03_bark_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "nest",
+      "partOfSpeech": "n.",
+      "meaningKo": "둥지, 보금자리",
+      "ipa": "/nest/",
+      "definition": "a structure built by birds to hold their eggs",
+      "sentence": "A blue robin built a cozy twig nest in tree.",
+      "wordImage": "images/04_nest_word.png",
+      "sentenceImage": "images/04_nest_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "certain",
+      "partOfSpeech": "adj.",
+      "meaningKo": "확실한, 특정한",
+      "ipa": "/ˈsɝː.tən/",
+      "definition": "completely sure of something, or particular",
+      "sentence": "She was certain that her answer on the quiz was correct.",
+      "wordImage": "images/05_certain_word.png",
+      "sentenceImage": "images/05_certain_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "greet",
+      "partOfSpeech": "v.",
+      "meaningKo": "맞이하다, 인사하다",
+      "ipa": "/ɡriːt/",
+      "definition": "to welcome someone with friendly words or gestures",
+      "sentence": "The friendly librarian will greet every student with a warm smile.",
+      "wordImage": "images/06_greet_word.png",
+      "sentenceImage": "images/06_greet_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "seed",
+      "partOfSpeech": "n.",
+      "meaningKo": "씨앗, 종자",
+      "ipa": "/siːd/",
+      "definition": "a small hard part produced by a plant to grow new plants",
+      "sentence": "A tiny sunflower seed sprouted into a tall golden blossom.",
+      "wordImage": "images/07_seed_word.png",
+      "sentenceImage": "images/07_seed_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "predator",
+      "partOfSpeech": "n.",
+      "meaningKo": "포식자, 육식 동물",
+      "ipa": "/ˈpred.ə.t̬ɚ/",
+      "definition": "an animal that hunts and eats other animals for food",
+      "sentence": "The sharp-eyed hawk is a skilled predator of open grasslands.",
+      "wordImage": "images/08_predator_word.png",
+      "sentenceImage": "images/08_predator_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "scene",
+      "partOfSpeech": "n.",
+      "meaningKo": "장면, 현장, 풍경",
+      "ipa": "/siːn/",
+      "definition": "the place where an action happens, or a view in nature",
+      "sentence": "The sunset over the lake was a peaceful and picturesque scene.",
+      "wordImage": "images/09_scene_word.png",
+      "sentenceImage": "images/09_scene_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "scent",
+      "partOfSpeech": "n.",
+      "meaningKo": "향기, 냄새",
+      "ipa": "/sent/",
+      "definition": "a pleasant, natural smell, especially from flowers",
+      "sentence": "The sweet scent of blooming jasmine filled the warm evening air.",
+      "wordImage": "images/10_scent_word.png",
+      "sentenceImage": "images/10_scent_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 5,
+  "range": "31-40",
+  "set": 4,
+  "items": [
+    {
+      "wordId": "DAY05-31",
+      "no": 31,
+      "word": "sufficient",
+      "sentence": "Eight hours of sleep provides sufficient rest for active teenagers."
+    },
+    {
+      "wordId": "DAY05-32",
+      "no": 32,
+      "word": "fulfill",
+      "sentence": "Dedicated training helped him fulfill his dream of running marathons."
+    },
+    {
+      "wordId": "DAY05-33",
+      "no": 33,
+      "word": "suggest",
+      "sentence": "Fitness trainers suggest drinking green tea after workouts for recovery."
+    },
+    {
+      "wordId": "DAY05-34",
+      "no": 34,
+      "word": "fatigue",
+      "sentence": "Drinking water and resting helps relieve muscle fatigue after exercise."
+    },
+    {
+      "wordId": "DAY05-35",
+      "no": 35,
+      "word": "intake",
+      "sentence": "Doctors measure daily sodium intake to protect normal blood pressure."
+    },
+    {
+      "wordId": "DAY05-36",
+      "no": 36,
+      "word": "pace",
+      "sentence": "Runners maintain a steady pace throughout the long distance race."
+    },
+    {
+      "wordId": "DAY05-37",
+      "no": 37,
+      "word": "disorder",
+      "sentence": "Messy equipment created temporary disorder on the gymnasium floor today."
+    },
+    {
+      "wordId": "DAY05-38",
+      "no": 38,
+      "word": "flexible",
+      "sentence": "The flexible rubber band returns quickly to its original shape."
+    },
+    {
+      "wordId": "DAY05-39",
+      "no": 39,
+      "word": "supplement",
+      "sentence": "Taking a daily vitamin supplement supports overall immune system health."
+    },
+    {
+      "wordId": "DAY05-40",
+      "no": 40,
+      "word": "physical",
+      "sentence": "Regular sports activities improve physical health and boost mental focus."
+    }
+  ]
+}

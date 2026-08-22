@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 17,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY17-01",
+      "no": 1,
+      "word": "biology",
+      "sentence": "Middle school biology introduces students to cell structure and plant classification."
+    },
+    {
+      "wordId": "DAY17-02",
+      "no": 2,
+      "word": "gene",
+      "sentence": "A specific gene determines whether pea plant flowers are purple white."
+    },
+    {
+      "wordId": "DAY17-03",
+      "no": 3,
+      "word": "factor",
+      "sentence": "Sunlight is an important environmental factor in healthy plant growth."
+    },
+    {
+      "wordId": "DAY17-04",
+      "no": 4,
+      "word": "trace",
+      "sentence": "Scientists trace the evolutionary lineage of modern birds from ancient dinosaurs."
+    },
+    {
+      "wordId": "DAY17-05",
+      "no": 5,
+      "word": "require",
+      "sentence": "Green plants require sunlight, water, and minerals to sustain healthy growth."
+    },
+    {
+      "wordId": "DAY17-06",
+      "no": 6,
+      "word": "structure",
+      "sentence": "The cellular structure of plant tissue is visible under optical microscope."
+    },
+    {
+      "wordId": "DAY17-07",
+      "no": 7,
+      "word": "research",
+      "sentence": "Her botanical research revealed how roots absorb water from sandy soil."
+    },
+    {
+      "wordId": "DAY17-08",
+      "no": 8,
+      "word": "intelligent",
+      "sentence": "Dolphins are intelligent marine mammals that communicate with complex sound clicks."
+    },
+    {
+      "wordId": "DAY17-09",
+      "no": 9,
+      "word": "sign",
+      "sentence": "A warning sign near the wetland protects the fragile bird habitat."
+    },
+    {
+      "wordId": "DAY17-10",
+      "no": 10,
+      "word": "sigh",
+      "sentence": "The tired botanist let out a quiet sigh after fieldwork."
+    }
+  ]
+}

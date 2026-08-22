@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 24,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY24-21",
+      "no": 21,
+      "word": "shortage",
+      "sentence": "A water shortage last summer closed the town swimming pool."
+    },
+    {
+      "wordId": "DAY24-22",
+      "no": 22,
+      "word": "renewable",
+      "sentence": "Wind is renewable, so these turbines keep making electricity daily."
+    },
+    {
+      "wordId": "DAY24-23",
+      "no": 23,
+      "word": "potential",
+      "sentence": "This young pianist has potential to join the city orchestra."
+    },
+    {
+      "wordId": "DAY24-24",
+      "no": 24,
+      "word": "native",
+      "sentence": "We planted native grasses so local butterflies find their food."
+    },
+    {
+      "wordId": "DAY24-25",
+      "no": 25,
+      "word": "grain",
+      "sentence": "Farmers dried the grain on wide mats under the sun."
+    },
+    {
+      "wordId": "DAY24-26",
+      "no": 26,
+      "word": "extreme",
+      "sentence": "Extreme heat last week wilted the young cucumber plants."
+    },
+    {
+      "wordId": "DAY24-27",
+      "no": 27,
+      "word": "typical",
+      "sentence": "A typical winter here brings snow for about thirty days."
+    },
+    {
+      "wordId": "DAY24-28",
+      "no": 28,
+      "word": "contact",
+      "sentence": "After contact with the warm stone, the cold spoon slowly heated."
+    },
+    {
+      "wordId": "DAY24-29",
+      "no": 29,
+      "word": "content",
+      "sentence": "The label lists the sugar content of this fruit drink."
+    },
+    {
+      "wordId": "DAY24-30",
+      "no": 30,
+      "word": "context",
+      "sentence": "The photograph's context explains why the family looked so tired."
+    }
+  ]
+}

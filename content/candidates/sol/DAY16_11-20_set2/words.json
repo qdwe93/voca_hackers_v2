@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 16,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 16 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "planet",
+      "partOfSpeech": "n.",
+      "meaningKo": "행성",
+      "definition": "a large round object moving around a star",
+      "sentence": "A blue planet circles the bright star in space.",
+      "ipa": "/plænət/",
+      "wordImage": "images/11_planet_word.png",
+      "sentenceImage": "images/11_planet_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "conduct",
+      "partOfSpeech": "v.",
+      "meaningKo": "수행하다",
+      "definition": "to organize and carry out an activity",
+      "sentence": "The scientist will conduct a safe test with magnets.",
+      "ipa": "/kənˈdʌkt/",
+      "wordImage": "images/12_conduct_word.png",
+      "sentenceImage": "images/12_conduct_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "solid",
+      "partOfSpeech": "adj.",
+      "meaningKo": "고체의",
+      "definition": "firm and keeping a fixed shape",
+      "sentence": "The solid ice cube keeps its shape in the cold room.",
+      "ipa": "/sɑləd/",
+      "wordImage": "images/13_solid_word.png",
+      "sentenceImage": "images/13_solid_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "eternal",
+      "partOfSpeech": "adj.",
+      "meaningKo": "영원한",
+      "definition": "lasting forever without an end",
+      "sentence": "The fantasy fountain seems eternal as water flows endlessly.",
+      "ipa": "/ɪtɝnəl/",
+      "wordImage": "images/14_eternal_word.png",
+      "sentenceImage": "images/14_eternal_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "gravity",
+      "partOfSpeech": "n.",
+      "meaningKo": "중력",
+      "definition": "the force pulling objects toward Earth",
+      "sentence": "Gravity makes the dropped apple fall toward the ground.",
+      "ipa": "/ɡrævəti/",
+      "wordImage": "images/15_gravity_word.png",
+      "sentenceImage": "images/15_gravity_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "melt",
+      "partOfSpeech": "v.",
+      "meaningKo": "녹다",
+      "definition": "to change from solid into liquid",
+      "sentence": "The ice sculpture will melt under the warm sunlight.",
+      "ipa": "/mɛlt/",
+      "wordImage": "images/16_melt_word.png",
+      "sentenceImage": "images/16_melt_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "astronaut",
+      "partOfSpeech": "n.",
+      "meaningKo": "우주 비행사",
+      "definition": "a person trained to travel in space",
+      "sentence": "The astronaut floats beside the spacecraft above Earth.",
+      "ipa": "/æstrənɑt/",
+      "wordImage": "images/17_astronaut_word.png",
+      "sentenceImage": "images/17_astronaut_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "smooth",
+      "partOfSpeech": "adj.",
+      "meaningKo": "매끄러운",
+      "definition": "having an even surface without rough parts",
+      "sentence": "The smooth stone shines beside several rough rocks.",
+      "ipa": "/smuð/",
+      "wordImage": "images/18_smooth_word.png",
+      "sentenceImage": "images/18_smooth_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "oxygen",
+      "partOfSpeech": "n.",
+      "meaningKo": "산소",
+      "definition": "a gas needed by people and animals for breathing",
+      "sentence": "The diver carries oxygen in a tank underwater.",
+      "ipa": "/ɑksədʒən/",
+      "wordImage": "images/19_oxygen_word.png",
+      "sentenceImage": "images/19_oxygen_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "support",
+      "partOfSpeech": "v.",
+      "meaningKo": "받치다",
+      "definition": "to hold something up or keep it steady",
+      "sentence": "Strong columns support the roof of the ancient hall.",
+      "ipa": "/səpɔrt/",
+      "wordImage": "images/20_support_word.png",
+      "sentenceImage": "images/20_support_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

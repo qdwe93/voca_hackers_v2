@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 12,
+  "range": "21-30",
+  "set": 3,
+  "title": "DAY 12 · 21-30",
+  "words": [
+    {
+      "no": 21,
+      "word": "poll",
+      "partOfSpeech": "n.",
+      "meaningKo": "투표 조사",
+      "ipa": "/poʊl/",
+      "definition": "a count of what people choose",
+      "sentence": "The class poll showed that most children like winter.",
+      "wordImage": "images/21_poll_word.png",
+      "sentenceImage": "images/21_poll_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 22,
+      "word": "pitch",
+      "partOfSpeech": "v.",
+      "meaningKo": "던지다",
+      "ipa": "/pɪtʃ/",
+      "definition": "to throw a ball toward someone",
+      "sentence": "The player will pitch the soft ball to a friend.",
+      "wordImage": "images/22_pitch_word.png",
+      "sentenceImage": "images/22_pitch_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 23,
+      "word": "eager",
+      "partOfSpeech": "adj.",
+      "meaningKo": "열망하는",
+      "ipa": "/ˈiːɡər/",
+      "definition": "wanting to do something very much",
+      "sentence": "The eager puppy waited by the door for a walk.",
+      "wordImage": "images/23_eager_word.png",
+      "sentenceImage": "images/23_eager_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 24,
+      "word": "silly",
+      "partOfSpeech": "adj.",
+      "meaningKo": "우스꽝스러운",
+      "ipa": "/ˈsɪli/",
+      "definition": "funny in a not serious way",
+      "sentence": "The clown wore silly shoes that squeaked with each step.",
+      "wordImage": "images/24_silly_word.png",
+      "sentenceImage": "images/24_silly_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 25,
+      "word": "furious",
+      "partOfSpeech": "adj.",
+      "meaningKo": "몹시 화난",
+      "ipa": "/ˈfjʊriəs/",
+      "definition": "feeling very, very angry",
+      "sentence": "The cartoon dragon looked furious about the empty cookie jar.",
+      "wordImage": "images/25_furious_word.png",
+      "sentenceImage": "images/25_furious_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 26,
+      "word": "barely",
+      "partOfSpeech": "adv.",
+      "meaningKo": "간신히",
+      "ipa": "/ˈberli/",
+      "definition": "almost not at all",
+      "sentence": "The kitten could barely reach the toy under the sofa.",
+      "wordImage": "images/26_barely_word.png",
+      "sentenceImage": "images/26_barely_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 27,
+      "word": "thrill",
+      "partOfSpeech": "n.",
+      "meaningKo": "짜릿함",
+      "ipa": "/θrɪl/",
+      "definition": "a sudden happy excited feeling",
+      "sentence": "The first snowfall gave the children a wonderful thrill.",
+      "wordImage": "images/27_thrill_word.png",
+      "sentenceImage": "images/27_thrill_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 28,
+      "word": "particular",
+      "partOfSpeech": "adj.",
+      "meaningKo": "특정한",
+      "ipa": "/pərˈtɪkjələr/",
+      "definition": "one special one, not any other",
+      "sentence": "This particular seashell has a perfect pink spiral shape.",
+      "wordImage": "images/28_particular_word.png",
+      "sentenceImage": "images/28_particular_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 29,
+      "word": "constant",
+      "partOfSpeech": "adj.",
+      "meaningKo": "끊임없는",
+      "ipa": "/ˈkɑːnstənt/",
+      "definition": "happening all the time without stopping",
+      "sentence": "The constant hum of bees filled the flower garden.",
+      "wordImage": "images/29_constant_word.png",
+      "sentenceImage": "images/29_constant_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 30,
+      "word": "consistent",
+      "partOfSpeech": "adj.",
+      "meaningKo": "일관된",
+      "ipa": "/kənˈsɪstənt/",
+      "definition": "always the same and not changing",
+      "sentence": "The baker keeps a consistent taste in every honey loaf.",
+      "wordImage": "images/30_consistent_word.png",
+      "sentenceImage": "images/30_consistent_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

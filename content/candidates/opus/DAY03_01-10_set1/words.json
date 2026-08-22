@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 3,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 03 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "journey",
+      "partOfSpeech": "n.",
+      "meaningKo": "여행",
+      "ipa": "/ˈdʒɜːrni/",
+      "definition": "a long trip from one place to another",
+      "sentence": "The little turtle began a long journey across the meadow.",
+      "wordImage": "images/01_journey_word.png",
+      "sentenceImage": "images/01_journey_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "theater",
+      "partOfSpeech": "n.",
+      "meaningKo": "극장",
+      "ipa": "/ˈθiːətər/",
+      "definition": "a place where people watch plays or movies",
+      "sentence": "The whole family watched a puppet show at the theater.",
+      "wordImage": "images/02_theater_word.png",
+      "sentenceImage": "images/02_theater_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "fee",
+      "partOfSpeech": "n.",
+      "meaningKo": "요금",
+      "ipa": "/fiː/",
+      "definition": "money you pay to use or join something",
+      "sentence": "The zoo asked a small fee for the boat ride.",
+      "wordImage": "images/03_fee_word.png",
+      "sentenceImage": "images/03_fee_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "prepare",
+      "partOfSpeech": "v.",
+      "meaningKo": "준비하다",
+      "ipa": "/prɪˈper/",
+      "definition": "to get something ready before you use it",
+      "sentence": "The bakers prepare warm bread before the morning market opens.",
+      "wordImage": "images/04_prepare_word.png",
+      "sentenceImage": "images/04_prepare_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "surprised",
+      "partOfSpeech": "adj.",
+      "meaningKo": "놀란",
+      "ipa": "/sərˈpraɪzd/",
+      "definition": "feeling something you did not expect",
+      "sentence": "The kitten looked surprised when the balloon floated up high.",
+      "wordImage": "images/05_surprised_word.png",
+      "sentenceImage": "images/05_surprised_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "receive",
+      "partOfSpeech": "v.",
+      "meaningKo": "받다",
+      "ipa": "/rɪˈsiːv/",
+      "definition": "to get something that someone gives you",
+      "sentence": "The tiny robot will receive a shiny medal this afternoon.",
+      "wordImage": "images/06_receive_word.png",
+      "sentenceImage": "images/06_receive_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "nervous",
+      "partOfSpeech": "adj.",
+      "meaningKo": "긴장한",
+      "ipa": "/ˈnɜːrvəs/",
+      "definition": "feeling worried about something you must do",
+      "sentence": "The young singer felt nervous before stepping onto the stage.",
+      "wordImage": "images/07_nervous_word.png",
+      "sentenceImage": "images/07_nervous_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "stage",
+      "partOfSpeech": "n.",
+      "meaningKo": "무대",
+      "ipa": "/steɪdʒ/",
+      "definition": "the raised floor where people perform",
+      "sentence": "Dancers spun happily across the bright wooden stage tonight.",
+      "wordImage": "images/08_stage_word.png",
+      "sentenceImage": "images/08_stage_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "vacation",
+      "partOfSpeech": "n.",
+      "meaningKo": "휴가",
+      "ipa": "/veɪˈkeɪʃn/",
+      "definition": "time away from school or work for fun",
+      "sentence": "The family spent their summer vacation beside a warm sea.",
+      "wordImage": "images/09_vacation_word.png",
+      "sentenceImage": "images/09_vacation_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "vocation",
+      "partOfSpeech": "n.",
+      "meaningKo": "천직",
+      "ipa": "/voʊˈkeɪʃn/",
+      "definition": "a job that you feel born to do",
+      "sentence": "Baking bread became the happy vocation of the cheerful bear.",
+      "wordImage": "images/10_vocation_word.png",
+      "sentenceImage": "images/10_vocation_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

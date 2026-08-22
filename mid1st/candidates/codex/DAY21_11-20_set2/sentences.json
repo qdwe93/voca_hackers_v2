@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 21,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY21-11",
+      "no": 11,
+      "word": "shape",
+      "sentence": "Today, the cloud had the shape of a fluffy sheep."
+    },
+    {
+      "wordId": "DAY21-12",
+      "no": 12,
+      "word": "fierce",
+      "sentence": "Today, the toy tiger wore a fierce painted stripe pattern."
+    },
+    {
+      "wordId": "DAY21-13",
+      "no": 13,
+      "word": "ripe",
+      "sentence": "Today, the ripe peaches smelled sweet in the summer orchard."
+    },
+    {
+      "wordId": "DAY21-14",
+      "no": 14,
+      "word": "lay",
+      "sentence": "Today, the mother hen will lay brown eggs in her straw nest."
+    },
+    {
+      "wordId": "DAY21-15",
+      "no": 15,
+      "word": "male",
+      "sentence": "Today, the male peacock spread its bright tail feathers proudly."
+    },
+    {
+      "wordId": "DAY21-16",
+      "no": 16,
+      "word": "foster",
+      "sentence": "Today, the gentle hen will foster three lost little ducklings."
+    },
+    {
+      "wordId": "DAY21-17",
+      "no": 17,
+      "word": "surface",
+      "sentence": "Students mark each flat surface on a cardboard cube."
+    },
+    {
+      "wordId": "DAY21-18",
+      "no": 18,
+      "word": "engage",
+      "sentence": "Today, the story will engage every child in the room."
+    },
+    {
+      "wordId": "DAY21-19",
+      "no": 19,
+      "word": "location",
+      "sentence": "Students describe the location north of the river and hills."
+    },
+    {
+      "wordId": "DAY21-20",
+      "no": 20,
+      "word": "store",
+      "sentence": "Today, squirrels store nuts inside a hollow tree each autumn."
+    }
+  ]
+}

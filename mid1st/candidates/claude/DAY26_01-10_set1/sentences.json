@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 26,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY26-01",
+      "no": 1,
+      "word": "legal",
+      "sentence": "The judge applies the same legal steps to both sides fairly."
+    },
+    {
+      "wordId": "DAY26-02",
+      "no": 2,
+      "word": "obey",
+      "sentence": "Every driver must obey the same traffic light rules."
+    },
+    {
+      "wordId": "DAY26-03",
+      "no": 3,
+      "word": "arrest",
+      "sentence": "In this story, officers arrest the fox who took the pies."
+    },
+    {
+      "wordId": "DAY26-04",
+      "no": 4,
+      "word": "report",
+      "sentence": "We report each step of the class vote in order."
+    },
+    {
+      "wordId": "DAY26-05",
+      "no": 5,
+      "word": "innocent",
+      "sentence": "The court found the shopkeeper innocent after hearing every witness."
+    },
+    {
+      "wordId": "DAY26-06",
+      "no": 6,
+      "word": "caution",
+      "sentence": "Workers use caution when carrying glass across the wet floor."
+    },
+    {
+      "wordId": "DAY26-07",
+      "no": 7,
+      "word": "charge",
+      "sentence": "Bus companies charge less money for students on weekends."
+    },
+    {
+      "wordId": "DAY26-08",
+      "no": 8,
+      "word": "violate",
+      "sentence": "Riders who violate the helmet rule receive the same warning."
+    },
+    {
+      "wordId": "DAY26-09",
+      "no": 9,
+      "word": "law",
+      "sentence": "This law protects every child's right to attend school."
+    },
+    {
+      "wordId": "DAY26-10",
+      "no": 10,
+      "word": "raw",
+      "sentence": "Wash the raw carrots before you put them in salad."
+    }
+  ]
+}

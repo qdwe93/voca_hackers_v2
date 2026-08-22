@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 13,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY13-01",
+      "no": 1,
+      "word": "represent",
+      "sentence": "Elected students represent classmates while others speak directly at meetings."
+    },
+    {
+      "wordId": "DAY13-02",
+      "no": 2,
+      "word": "exhibit",
+      "sentence": "Today, the museum will exhibit old pots from a river village."
+    },
+    {
+      "wordId": "DAY13-03",
+      "no": 3,
+      "word": "minister",
+      "sentence": "The minister leads the department and explains its new policy."
+    },
+    {
+      "wordId": "DAY13-04",
+      "no": 4,
+      "word": "vary",
+      "sentence": "Today, butterfly wings vary in color across the wide meadow."
+    },
+    {
+      "wordId": "DAY13-05",
+      "no": 5,
+      "word": "tribe",
+      "sentence": "The tribe preserves its language, clothing, and harvest festival."
+    },
+    {
+      "wordId": "DAY13-06",
+      "no": 6,
+      "word": "community",
+      "sentence": "The community asks its council to improve the riverside path."
+    },
+    {
+      "wordId": "DAY13-07",
+      "no": 7,
+      "word": "consider",
+      "sentence": "Kindly consider two colors before painting the wooden fence."
+    },
+    {
+      "wordId": "DAY13-08",
+      "no": 8,
+      "word": "concept",
+      "sentence": "Sharing is an easy concept for school children to learn."
+    },
+    {
+      "wordId": "DAY13-09",
+      "no": 9,
+      "word": "pray",
+      "sentence": "Local residents pray for gentle rain during the dry season."
+    },
+    {
+      "wordId": "DAY13-10",
+      "no": 10,
+      "word": "prey",
+      "sentence": "Today, small fish are the prey of the fast diving bird."
+    }
+  ]
+}

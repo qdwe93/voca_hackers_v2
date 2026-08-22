@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 16,
+  "range": "21-30",
+  "set": 3,
+  "title": "DAY 16 · 21-30",
+  "words": [
+    {
+      "no": 21,
+      "word": "acid",
+      "partOfSpeech": "n.",
+      "meaningKo": "산, 산성 물질",
+      "ipa": "/ˈæs.ɪd/",
+      "definition": "a chemical substance with a sour taste like lemon juice",
+      "sentence": "Citric acid gives fresh lemons their sharp and sour taste.",
+      "wordImage": "images/21_acid_word.png",
+      "sentenceImage": "images/21_acid_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 22,
+      "word": "orbit",
+      "partOfSpeech": "n.",
+      "meaningKo": "궤도",
+      "ipa": "/ˈɔːr.bɪt/",
+      "definition": "the curved path of a celestial object around a star",
+      "sentence": "The moon travels in a steady circular orbit around Earth.",
+      "wordImage": "images/22_orbit_word.png",
+      "sentenceImage": "images/22_orbit_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 23,
+      "word": "toxic",
+      "partOfSpeech": "adj.",
+      "meaningKo": "유독한, 해로운",
+      "ipa": "/ˈtɑːk.sɪk/",
+      "definition": "containing poisonous substances that are harmful to living things",
+      "sentence": "Wild colorful mushrooms in the woods can sometimes be toxic.",
+      "wordImage": "images/23_toxic_word.png",
+      "sentenceImage": "images/23_toxic_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 24,
+      "word": "atom",
+      "partOfSpeech": "n.",
+      "meaningKo": "원자",
+      "ipa": "/ˈæt̬.əm/",
+      "definition": "the smallest particle of a chemical element that can exist",
+      "sentence": "Every drop of water is made of hydrogen and oxygen atom units.",
+      "wordImage": "images/24_atom_word.png",
+      "sentenceImage": "images/24_atom_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 25,
+      "word": "liquid",
+      "partOfSpeech": "n.",
+      "meaningKo": "액체",
+      "ipa": "/ˈlɪk.wɪd/",
+      "definition": "a substance that flows freely like water, not solid or gas",
+      "sentence": "She poured the cool clear liquid into a tall glass.",
+      "wordImage": "images/25_liquid_word.png",
+      "sentenceImage": "images/25_liquid_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 26,
+      "word": "universe",
+      "partOfSpeech": "n.",
+      "meaningKo": "우주, 만물",
+      "ipa": "/ˈjuː.nə.vɝːs/",
+      "definition": "all of space and everything in it, including stars and planets",
+      "sentence": "Astronomers study billions of distant galaxies across the vast universe.",
+      "wordImage": "images/26_universe_word.png",
+      "sentenceImage": "images/26_universe_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 27,
+      "word": "reverse",
+      "partOfSpeech": "v.",
+      "meaningKo": "반대로 하다, 뒤집다",
+      "ipa": "/rɪˈvɝːs/",
+      "definition": "to change the direction, order, or position to the opposite",
+      "sentence": "You can reverse the toy train by flipping the switch.",
+      "wordImage": "images/27_reverse_word.png",
+      "sentenceImage": "images/27_reverse_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 28,
+      "word": "extend",
+      "partOfSpeech": "v.",
+      "meaningKo": "연장하다, 뻗다",
+      "ipa": "/ɪkˈstend/",
+      "definition": "to make something longer or stretch out your body parts",
+      "sentence": "The gymnast will extend her arms gracefully during the beam routine.",
+      "wordImage": "images/28_extend_word.png",
+      "sentenceImage": "images/28_extend_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 29,
+      "word": "extent",
+      "partOfSpeech": "n.",
+      "meaningKo": "정도, 범위",
+      "ipa": "/ɪkˈstent/",
+      "definition": "the area, length, or degree to which something extends",
+      "sentence": "We were amazed by the vast extent of the green forest.",
+      "wordImage": "images/29_extent_word.png",
+      "sentenceImage": "images/29_extent_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 30,
+      "word": "expand",
+      "partOfSpeech": "v.",
+      "meaningKo": "확장하다, 팽창하다",
+      "ipa": "/ɪkˈspænd/",
+      "definition": "to increase in size, number, or importance, or open out",
+      "sentence": "Balloons expand as you blow warm air into them gently.",
+      "wordImage": "images/30_expand_word.png",
+      "sentenceImage": "images/30_expand_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

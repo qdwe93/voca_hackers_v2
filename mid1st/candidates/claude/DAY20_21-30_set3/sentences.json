@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 20,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY20-21",
+      "no": 21,
+      "word": "license",
+      "sentence": "The driver showed a license before renting the small van."
+    },
+    {
+      "wordId": "DAY20-22",
+      "no": 22,
+      "word": "construction",
+      "sentence": "Bridge construction closed one lane for the whole summer."
+    },
+    {
+      "wordId": "DAY20-23",
+      "no": 23,
+      "word": "wireless",
+      "sentence": "This wireless speaker plays music without any cable attached."
+    },
+    {
+      "wordId": "DAY20-24",
+      "no": 24,
+      "word": "nevertheless",
+      "sentence": "Rain fell hard; nevertheless, the ferry left exactly on time."
+    },
+    {
+      "wordId": "DAY20-25",
+      "no": 25,
+      "word": "barrier",
+      "sentence": "A yellow barrier blocks the road beside the wet cement."
+    },
+    {
+      "wordId": "DAY20-26",
+      "no": 26,
+      "word": "lift",
+      "sentence": "The crane must lift the beam with force greater than its weight."
+    },
+    {
+      "wordId": "DAY20-27",
+      "no": 27,
+      "word": "curved",
+      "sentence": "We drew one curved line beside a perfectly straight one."
+    },
+    {
+      "wordId": "DAY20-28",
+      "no": 28,
+      "word": "eliminate",
+      "sentence": "New sound walls eliminate most highway noise from our classroom."
+    },
+    {
+      "wordId": "DAY20-29",
+      "no": 29,
+      "word": "commit",
+      "sentence": "Drivers commit to stopping fully at every school crossing."
+    },
+    {
+      "wordId": "DAY20-30",
+      "no": 30,
+      "word": "commute",
+      "sentence": "Many workers commute forty minutes by subway from nearby cities."
+    }
+  ]
+}

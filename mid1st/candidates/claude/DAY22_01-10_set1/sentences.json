@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 22,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY22-01",
+      "no": 1,
+      "word": "ecosystem",
+      "sentence": "This pond ecosystem holds frogs, water plants, and many insects."
+    },
+    {
+      "wordId": "DAY22-02",
+      "no": 2,
+      "word": "desert",
+      "sentence": "Few plants grow in this desert because rain falls rarely."
+    },
+    {
+      "wordId": "DAY22-03",
+      "no": 3,
+      "word": "creature",
+      "sentence": "One tiny creature moved slowly under the wet leaf."
+    },
+    {
+      "wordId": "DAY22-04",
+      "no": 4,
+      "word": "mature",
+      "sentence": "A mature oak tree produces many acorns every autumn season."
+    },
+    {
+      "wordId": "DAY22-05",
+      "no": 5,
+      "word": "habitat",
+      "sentence": "Protecting this wetland habitat keeps rare frogs from disappearing."
+    },
+    {
+      "wordId": "DAY22-06",
+      "no": 6,
+      "word": "maintain",
+      "sentence": "Rangers maintain the forest paths so plants stay undamaged."
+    },
+    {
+      "wordId": "DAY22-07",
+      "no": 7,
+      "word": "tide",
+      "sentence": "The tide rises twice each day along this rocky shore."
+    },
+    {
+      "wordId": "DAY22-08",
+      "no": 8,
+      "word": "balance",
+      "sentence": "The seesaw found its balance when both children sat still."
+    },
+    {
+      "wordId": "DAY22-09",
+      "no": 9,
+      "word": "grand",
+      "sentence": "A grand waterfall drops down the cliff into the river."
+    },
+    {
+      "wordId": "DAY22-10",
+      "no": 10,
+      "word": "grant",
+      "sentence": "The city will grant our club money for tree planting."
+    }
+  ]
+}

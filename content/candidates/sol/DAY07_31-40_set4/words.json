@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 7,
+  "range": "31-40",
+  "set": 4,
+  "title": "DAY 07 · 31-40",
+  "words": [
+    {
+      "no": 31,
+      "word": "reject",
+      "partOfSpeech": "v.",
+      "meaningKo": "거절하다",
+      "definition": "to refuse to accept or use something",
+      "sentence": "The picky rabbit will reject the wilted lettuce leaf.",
+      "ipa": "/rɪˈdʒekt/",
+      "wordImage": "images/31_reject_word.png",
+      "sentenceImage": "images/31_reject_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 32,
+      "word": "gaze",
+      "partOfSpeech": "v.",
+      "meaningKo": "응시하다",
+      "definition": "to look steadily for a long time",
+      "sentence": "The child will gaze at stars through the telescope.",
+      "ipa": "/ɡeɪz/",
+      "wordImage": "images/32_gaze_word.png",
+      "sentenceImage": "images/32_gaze_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 33,
+      "word": "cherish",
+      "partOfSpeech": "v.",
+      "meaningKo": "소중히 여기다",
+      "definition": "to love and protect someone or something deeply",
+      "sentence": "The bear will cherish the small blanket from childhood.",
+      "ipa": "/tʃɛrɪʃ/",
+      "wordImage": "images/33_cherish_word.png",
+      "sentenceImage": "images/33_cherish_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 34,
+      "word": "hospitality",
+      "partOfSpeech": "n.",
+      "meaningKo": "환대",
+      "definition": "friendly treatment of guests and visitors",
+      "sentence": "The family shows hospitality by offering guests warm soup.",
+      "ipa": "/hɑspətæləti/",
+      "wordImage": "images/34_hospitality_word.png",
+      "sentenceImage": "images/34_hospitality_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 35,
+      "word": "uncover",
+      "partOfSpeech": "v.",
+      "meaningKo": "발견하다",
+      "definition": "to remove a cover or reveal something hidden",
+      "sentence": "The archaeologist will uncover an ancient bowl beneath the sand.",
+      "ipa": "/ənkʌvɚ/",
+      "wordImage": "images/35_uncover_word.png",
+      "sentenceImage": "images/35_uncover_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 36,
+      "word": "casual",
+      "partOfSpeech": "adj.",
+      "meaningKo": "격식을 차리지 않은",
+      "definition": "relaxed and not formal",
+      "sentence": "The friends wear casual clothes at the backyard picnic.",
+      "ipa": "/kæʒəwəl/",
+      "wordImage": "images/36_casual_word.png",
+      "sentenceImage": "images/36_casual_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 37,
+      "word": "mutual",
+      "partOfSpeech": "adj.",
+      "meaningKo": "서로의",
+      "definition": "shared or felt equally by two sides",
+      "sentence": "Mutual respect helps two teams shake hands after competing.",
+      "ipa": "/mjutʃuəl/",
+      "wordImage": "images/37_mutual_word.png",
+      "sentenceImage": "images/37_mutual_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 38,
+      "word": "farewell",
+      "partOfSpeech": "n.",
+      "meaningKo": "작별 인사",
+      "definition": "words or actions used when leaving someone",
+      "sentence": "The travelers wave farewell from the departing train.",
+      "ipa": "/fɛrwɛl/",
+      "wordImage": "images/38_farewell_word.png",
+      "sentenceImage": "images/38_farewell_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 39,
+      "word": "owe",
+      "partOfSpeech": "v.",
+      "meaningKo": "빚지고 있다",
+      "definition": "to need to pay or return something",
+      "sentence": "The rabbit will owe the shopkeeper three silver coins.",
+      "ipa": "/oʊ/",
+      "wordImage": "images/39_owe_word.png",
+      "sentenceImage": "images/39_owe_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 40,
+      "word": "treat",
+      "partOfSpeech": "v.",
+      "meaningKo": "대하다",
+      "definition": "to behave toward someone in a particular way",
+      "sentence": "The children treat the new student with kindness.",
+      "ipa": "/trit/",
+      "wordImage": "images/40_treat_word.png",
+      "sentenceImage": "images/40_treat_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

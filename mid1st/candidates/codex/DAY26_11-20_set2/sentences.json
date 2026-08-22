@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 26,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY26-11",
+      "no": 11,
+      "word": "search",
+      "sentence": "Several children search the garden for the hidden key."
+    },
+    {
+      "wordId": "DAY26-12",
+      "no": 12,
+      "word": "raise",
+      "sentence": "Sailors raise the colorful flag every sunny morning."
+    },
+    {
+      "wordId": "DAY26-13",
+      "no": 13,
+      "word": "aim",
+      "sentence": "Today, the archer will aim the arrow at the target."
+    },
+    {
+      "wordId": "DAY26-14",
+      "no": 14,
+      "word": "criminal",
+      "sentence": "A criminal trial examines whether the suspect broke a law."
+    },
+    {
+      "wordId": "DAY26-15",
+      "no": 15,
+      "word": "suspect",
+      "sentence": "The suspect hears the evidence during a criminal trial."
+    },
+    {
+      "wordId": "DAY26-16",
+      "no": 16,
+      "word": "neutral",
+      "sentence": "The neutral judge follows evidence despite outside pressure."
+    },
+    {
+      "wordId": "DAY26-17",
+      "no": 17,
+      "word": "accuse",
+      "sentence": "Lawyers accuse the suspect only after presenting evidence in court."
+    },
+    {
+      "wordId": "DAY26-18",
+      "no": 18,
+      "word": "firm",
+      "sentence": "A sports teacher offered firm but kind advice to everyone."
+    },
+    {
+      "wordId": "DAY26-19",
+      "no": 19,
+      "word": "aid",
+      "sentence": "Today, warm blankets arrived as aid for the snowy village."
+    },
+    {
+      "wordId": "DAY26-20",
+      "no": 20,
+      "word": "interest",
+      "sentence": "After the museum visit, her interest in stars grew."
+    }
+  ]
+}

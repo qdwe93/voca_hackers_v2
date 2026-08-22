@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 1,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 01 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "sweep",
+      "partOfSpeech": "v.",
+      "meaningKo": "쓸다, 청소하다",
+      "ipa": "/swiːp/",
+      "definition": "to clean a floor by using a brush",
+      "sentence": "The friendly guard helped sweep dry leaves off the sidewalk.",
+      "wordImage": "images/11_sweep_word.png",
+      "sentenceImage": "images/11_sweep_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "glance",
+      "partOfSpeech": "v.",
+      "meaningKo": "힐끗 보다",
+      "ipa": "/ɡlæns/",
+      "definition": "to look quickly at something",
+      "sentence": "She gave a quick glance at the ticking wall clock.",
+      "wordImage": "images/12_glance_word.png",
+      "sentenceImage": "images/12_glance_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "match",
+      "partOfSpeech": "v.",
+      "meaningKo": "일치하다, 어울리다",
+      "ipa": "/mætʃ/",
+      "definition": "to be equal to or go well with something",
+      "sentence": "These striped warm socks match the color of my shoes.",
+      "wordImage": "images/13_match_word.png",
+      "sentenceImage": "images/13_match_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "furniture",
+      "partOfSpeech": "n.",
+      "meaningKo": "가구",
+      "ipa": "/ˈfɜːr.nɪ.tʃər/",
+      "definition": "movable objects like chairs, tables, and beds",
+      "sentence": "They moved new wooden furniture into the sunny living room.",
+      "wordImage": "images/14_furniture_word.png",
+      "sentenceImage": "images/14_furniture_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "manual",
+      "partOfSpeech": "n.",
+      "meaningKo": "설명서, 안내서",
+      "ipa": "/ˈmæn.ju.əl/",
+      "definition": "a book that gives instructions for doing something",
+      "sentence": "He opened the toy manual to assemble the model spaceship.",
+      "wordImage": "images/15_manual_word.png",
+      "sentenceImage": "images/15_manual_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "value",
+      "partOfSpeech": "n.",
+      "meaningKo": "가치, 중요성",
+      "ipa": "/ˈvæl.juː/",
+      "definition": "the importance, worth, or usefulness of something",
+      "sentence": "This shiny antique coin has great historical value to collectors.",
+      "wordImage": "images/16_value_word.png",
+      "sentenceImage": "images/16_value_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "pot",
+      "partOfSpeech": "n.",
+      "meaningKo": "냄비, 화분",
+      "ipa": "/pɑːt/",
+      "definition": "a deep round container used for cooking or plants",
+      "sentence": "A green herb grew happily in a clay flower pot.",
+      "wordImage": "images/17_pot_word.png",
+      "sentenceImage": "images/17_pot_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "grocery",
+      "partOfSpeech": "n.",
+      "meaningKo": "식료품, 식료품점",
+      "ipa": "/ˈɡroʊ.sər.i/",
+      "definition": "food and other household goods sold in a store",
+      "sentence": "The brown paper bag was packed with healthy grocery items.",
+      "wordImage": "images/18_grocery_word.png",
+      "sentenceImage": "images/18_grocery_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "striped",
+      "partOfSpeech": "adj.",
+      "meaningKo": "줄무늬의",
+      "ipa": "/straɪpt/",
+      "definition": "having lines or bands of different colors",
+      "sentence": "A cute puppy wore a warm striped sweater in winter.",
+      "wordImage": "images/19_striped_word.png",
+      "sentenceImage": "images/19_striped_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "mind",
+      "partOfSpeech": "v.",
+      "meaningKo": "신경 쓰다, 꺼리다",
+      "ipa": "/maɪnd/",
+      "definition": "to feel annoyed or worried about something",
+      "sentence": "Do you mind if we open the window for fresh air?",
+      "wordImage": "images/20_mind_word.png",
+      "sentenceImage": "images/20_mind_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 30,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 30 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "magazine",
+      "partOfSpeech": "n.",
+      "meaningKo": "잡지",
+      "ipa": "/ˌmæɡ.əˈziːn/",
+      "definition": "a periodical publication containing articles, stories, and photographs",
+      "sentence": "She enjoyed reading a colorful children’s science magazine every month.",
+      "wordImage": "images/01_magazine_word.png",
+      "sentenceImage": "images/01_magazine_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "article",
+      "partOfSpeech": "n.",
+      "meaningKo": "기사, 글, 품목",
+      "ipa": "/ˈɑːr.t̬ɪ.kəl/",
+      "definition": "a piece of writing included with others in a newspaper/magazine",
+      "sentence": "He wrote an interesting news article for the school newspaper.",
+      "wordImage": "images/02_article_word.png",
+      "sentenceImage": "images/02_article_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "press",
+      "partOfSpeech": "v.",
+      "meaningKo": "누르다, 언론",
+      "ipa": "/pres/",
+      "definition": "to apply firm, steady weight or force against something",
+      "sentence": "Please press the green button to start the elevator motor.",
+      "wordImage": "images/03_press_word.png",
+      "sentenceImage": "images/03_press_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "advertise",
+      "partOfSpeech": "v.",
+      "meaningKo": "광고하다, 홍보하다",
+      "ipa": "/ˈæd.vɚ.taɪz/",
+      "definition": "to describe or draw attention to a product to encourage sales",
+      "sentence": "Students made colorful posters to advertise the school bake sale.",
+      "wordImage": "images/04_advertise_word.png",
+      "sentenceImage": "images/04_advertise_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "recent",
+      "partOfSpeech": "adj.",
+      "meaningKo": "최근의, 얼마 전의",
+      "ipa": "/ˈriː.sənt/",
+      "definition": "having happened, begun, or been done not long ago",
+      "sentence": "The library received a recent shipment of exciting adventure storybooks.",
+      "wordImage": "images/05_recent_word.png",
+      "sentenceImage": "images/05_recent_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "diverse",
+      "partOfSpeech": "adj.",
+      "meaningKo": "다양한",
+      "ipa": "/daɪˈvɝːs/",
+      "definition": "showing a great deal of variety, very different",
+      "sentence": "The botanical conservatory features a diverse collection of tropical plants.",
+      "wordImage": "images/06_diverse_word.png",
+      "sentenceImage": "images/06_diverse_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "document",
+      "partOfSpeech": "n.",
+      "meaningKo": "문서, 서류",
+      "ipa": "/ˈdɑː.kjə.mənt/",
+      "definition": "a piece of written, printed, or electronic matter providing information",
+      "sentence": "Save your completed homework document in the shared project folder.",
+      "wordImage": "images/07_document_word.png",
+      "sentenceImage": "images/07_document_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "expert",
+      "partOfSpeech": "n.",
+      "meaningKo": "전문가",
+      "ipa": "/ˈek.spɝːt/",
+      "definition": "a person who has a comprehensive knowledge or skill in area",
+      "sentence": "The visiting astronomer was a leading expert on distant galaxies.",
+      "wordImage": "images/08_expert_word.png",
+      "sentenceImage": "images/08_expert_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "explore",
+      "partOfSpeech": "v.",
+      "meaningKo": "탐험하다, 탐구하다",
+      "ipa": "/ɪkˈsplɔːr/",
+      "definition": "to travel through an unfamiliar area to learn about it",
+      "sentence": "Curious hikers love to explore winding nature trails in spring.",
+      "wordImage": "images/09_explore_word.png",
+      "sentenceImage": "images/09_explore_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "explode",
+      "partOfSpeech": "v.",
+      "meaningKo": "폭발하다, 터지다",
+      "ipa": "/ɪkˈsploʊd/",
+      "definition": "to burst or shatter violently and noisily, like party popper",
+      "sentence": "Party poppers will explode with colorful shiny paper confetti ribbons.",
+      "wordImage": "images/10_explode_word.png",
+      "sentenceImage": "images/10_explode_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

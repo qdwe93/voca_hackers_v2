@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 11,
+  "range": "21-30",
+  "set": 3,
+  "title": "DAY 11 · 21-30",
+  "words": [
+    {
+      "no": 21,
+      "word": "wisdom",
+      "partOfSpeech": "n.",
+      "meaningKo": "지혜, 슬기",
+      "ipa": "/ˈwɪz.dəm/",
+      "definition": "the ability to use knowledge and experience to make good decisions",
+      "sentence": "The village elder shared words of ancient wisdom with children.",
+      "wordImage": "images/21_wisdom_word.png",
+      "sentenceImage": "images/21_wisdom_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 22,
+      "word": "impressed",
+      "partOfSpeech": "adj.",
+      "meaningKo": "감명받은, 깊은 인상을 받은",
+      "ipa": "/ɪmˈprest/",
+      "definition": "feeling admiration and respect for someone or something",
+      "sentence": "The science teacher was very impressed by his volcano model.",
+      "wordImage": "images/22_impressed_word.png",
+      "sentenceImage": "images/22_impressed_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 23,
+      "word": "emphasize",
+      "partOfSpeech": "v.",
+      "meaningKo": "강조하다, 역설하다",
+      "ipa": "/ˈem.fə.saɪz/",
+      "definition": "to show that something is especially important or needs attention",
+      "sentence": "Teachers always emphasize the importance of regular reading every day.",
+      "wordImage": "images/23_emphasize_word.png",
+      "sentenceImage": "images/23_emphasize_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 24,
+      "word": "bold",
+      "partOfSpeech": "adj.",
+      "meaningKo": "대담한, 굵은",
+      "ipa": "/boʊld/",
+      "definition": "brave and not afraid of taking risks, or strong text",
+      "sentence": "The brave knight made a bold move across the board.",
+      "wordImage": "images/24_bold_word.png",
+      "sentenceImage": "images/24_bold_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 25,
+      "word": "admire",
+      "partOfSpeech": "v.",
+      "meaningKo": "존경하다, 감탄하다",
+      "ipa": "/ədˈmaɪr/",
+      "definition": "to look at someone with great respect and approval",
+      "sentence": "Many young athletes admire the Olympic champion for her dedication.",
+      "wordImage": "images/25_admire_word.png",
+      "sentenceImage": "images/25_admire_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 26,
+      "word": "vivid",
+      "partOfSpeech": "adj.",
+      "meaningKo": "생생한, 선명한",
+      "ipa": "/ˈvɪv.ɪd/",
+      "definition": "producing very clear and detailed pictures in your mind",
+      "sentence": "The artist used vivid red and yellow colors for sunset.",
+      "wordImage": "images/26_vivid_word.png",
+      "sentenceImage": "images/26_vivid_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 27,
+      "word": "multiple",
+      "partOfSpeech": "adj.",
+      "meaningKo": "다수의, 다양한",
+      "ipa": "/ˈmʌl.tə.pəl/",
+      "definition": "involving or having many different parts, individuals, or elements",
+      "sentence": "The library offers multiple choices of interesting mystery adventure books.",
+      "wordImage": "images/27_multiple_word.png",
+      "sentenceImage": "images/27_multiple_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 28,
+      "word": "profound",
+      "partOfSpeech": "adj.",
+      "meaningKo": "깊은, 심오한",
+      "ipa": "/prəˈfaʊnd/",
+      "definition": "showing great knowledge or understanding of serious topics",
+      "sentence": "The wise philosopher wrote a book of profound life lessons.",
+      "wordImage": "images/28_profound_word.png",
+      "sentenceImage": "images/28_profound_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 29,
+      "word": "terrible",
+      "partOfSpeech": "adj.",
+      "meaningKo": "끔찍한, 형편없는",
+      "ipa": "/ˈter.ə.bəl/",
+      "definition": "very unpleasant, serious, or of bad quality",
+      "sentence": "The stormy wind created a terrible mess in the yard.",
+      "wordImage": "images/29_terrible_word.png",
+      "sentenceImage": "images/29_terrible_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 30,
+      "word": "terrific",
+      "partOfSpeech": "adj.",
+      "meaningKo": "아주 멋진, 훌륭한",
+      "ipa": "/təˈrɪf.ɪk/",
+      "definition": "very good, wonderful, or of great quality",
+      "sentence": "Our school concert was a terrific success with many songs.",
+      "wordImage": "images/30_terrific_word.png",
+      "sentenceImage": "images/30_terrific_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 4,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY04-01",
+      "no": 1,
+      "word": "career",
+      "sentence": "The brown bear dreams of a career baking cakes and pies."
+    },
+    {
+      "wordId": "DAY04-02",
+      "no": 2,
+      "word": "skill",
+      "sentence": "Years of careful practice gave the carpenter this useful skill."
+    },
+    {
+      "wordId": "DAY04-03",
+      "no": 3,
+      "word": "task",
+      "sentence": "The small robot completed each task on the busy morning."
+    },
+    {
+      "wordId": "DAY04-04",
+      "no": 4,
+      "word": "tend",
+      "sentence": "A student gardener will tend the roses every quiet spring morning."
+    },
+    {
+      "wordId": "DAY04-05",
+      "no": 5,
+      "word": "position",
+      "sentence": "The goalkeeper stood in her position next to the wooden net."
+    },
+    {
+      "wordId": "DAY04-06",
+      "no": 6,
+      "word": "hire",
+      "sentence": "The company will hire workers with fair pay and safe hours."
+    },
+    {
+      "wordId": "DAY04-07",
+      "no": 7,
+      "word": "quit",
+      "sentence": "The weary hamster decided to quit running on its wheel."
+    },
+    {
+      "wordId": "DAY04-08",
+      "no": 8,
+      "word": "proud",
+      "sentence": "The young painter felt proud of her bright completed picture."
+    },
+    {
+      "wordId": "DAY04-09",
+      "no": 9,
+      "word": "labor",
+      "sentence": "Workers discuss fair wages and safe labor conditions together."
+    },
+    {
+      "wordId": "DAY04-10",
+      "no": 10,
+      "word": "label",
+      "sentence": "One colorful label was stuck on every jam jar."
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 28,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 28 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "economic",
+      "partOfSpeech": "adj.",
+      "meaningKo": "경제의",
+      "definition": "related to money trade and business",
+      "sentence": "The chart uses pictures to show economic growth.",
+      "ipa": "/ɛkənɑmɪk/",
+      "wordImage": "images/01_economic_word.png",
+      "sentenceImage": "images/01_economic_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "budget",
+      "partOfSpeech": "n.",
+      "meaningKo": "예산",
+      "definition": "a plan for spending available money",
+      "sentence": "The family budget divides coins among food travel and savings.",
+      "ipa": "/bʌdʒɪt/",
+      "wordImage": "images/02_budget_word.png",
+      "sentenceImage": "images/02_budget_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "possible",
+      "partOfSpeech": "adj.",
+      "meaningKo": "가능한",
+      "definition": "able to happen or be done",
+      "sentence": "Crossing the stream becomes possible after workers build a bridge.",
+      "ipa": "/pɑsəbəl/",
+      "wordImage": "images/03_possible_word.png",
+      "sentenceImage": "images/03_possible_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "income",
+      "partOfSpeech": "n.",
+      "meaningKo": "소득",
+      "definition": "money earned from work or business",
+      "sentence": "The baker divides monthly income between expenses and savings.",
+      "ipa": "/ɪnkəm/",
+      "wordImage": "images/04_income_word.png",
+      "sentenceImage": "images/04_income_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "crisis",
+      "partOfSpeech": "n.",
+      "meaningKo": "위기",
+      "definition": "a dangerous difficult or unstable situation",
+      "sentence": "A water crisis leaves the village storage tanks nearly empty.",
+      "ipa": "/kraɪsəs/",
+      "wordImage": "images/05_crisis_word.png",
+      "sentenceImage": "images/05_crisis_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "trade",
+      "partOfSpeech": "v.",
+      "meaningKo": "거래하다",
+      "definition": "to exchange or buy and sell goods",
+      "sentence": "Two merchants trade baskets of apples for cloth.",
+      "ipa": "/treɪd/",
+      "wordImage": "images/06_trade_word.png",
+      "sentenceImage": "images/06_trade_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "offer",
+      "partOfSpeech": "v.",
+      "meaningKo": "제공하다",
+      "definition": "to present something for acceptance",
+      "sentence": "The host will offer warm soup to every guest.",
+      "ipa": "/ɔfɚ/",
+      "wordImage": "images/07_offer_word.png",
+      "sentenceImage": "images/07_offer_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "specific",
+      "partOfSpeech": "adj.",
+      "meaningKo": "구체적인",
+      "definition": "clearly named or identified",
+      "sentence": "The collector searches for one specific blue shell.",
+      "ipa": "/spəsɪfɪk/",
+      "wordImage": "images/08_specific_word.png",
+      "sentenceImage": "images/08_specific_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "several",
+      "partOfSpeech": "det.",
+      "meaningKo": "몇몇의",
+      "definition": "more than two but not many",
+      "sentence": "Several ducks swim together across the quiet pond.",
+      "ipa": "/sɛvrəl/",
+      "wordImage": "images/09_several_word.png",
+      "sentenceImage": "images/09_several_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "severe",
+      "partOfSpeech": "adj.",
+      "meaningKo": "심각한",
+      "definition": "very serious or intense",
+      "sentence": "A severe storm bends trees outside the secure shelter.",
+      "ipa": "/səvɪr/",
+      "wordImage": "images/10_severe_word.png",
+      "sentenceImage": "images/10_severe_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 12,
+  "range": "21-30",
+  "set": 3,
+  "title": "DAY 12 · 21-30",
+  "words": [
+    {
+      "no": 21,
+      "word": "poll",
+      "partOfSpeech": "n.",
+      "meaningKo": "여론조사, 투표",
+      "ipa": "/poʊl/",
+      "definition": "a survey of people’s opinions on a particular subject",
+      "sentence": "The classroom poll showed pizza as the favorite lunch choice.",
+      "wordImage": "images/21_poll_word.png",
+      "sentenceImage": "images/21_poll_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 22,
+      "word": "pitch",
+      "partOfSpeech": "n.",
+      "meaningKo": "음의 높낮이, 투구",
+      "ipa": "/pɪtʃ/",
+      "definition": "the highness or lowness of a musical sound tone",
+      "sentence": "The soprano singer reached a very high pitch effortlessly today.",
+      "wordImage": "images/22_pitch_word.png",
+      "sentenceImage": "images/22_pitch_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 23,
+      "word": "eager",
+      "partOfSpeech": "adj.",
+      "meaningKo": "열망하는, 간절히 바라는",
+      "ipa": "/ˈiː.ɡɚ/",
+      "definition": "wanting very much to do or have something good",
+      "sentence": "The eager puppy waited by the front door for his walk.",
+      "wordImage": "images/23_eager_word.png",
+      "sentenceImage": "images/23_eager_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 24,
+      "word": "silly",
+      "partOfSpeech": "adj.",
+      "meaningKo": "어리석은, 우스꽝스러운",
+      "ipa": "/ˈsɪl.i/",
+      "definition": "showing a lack of thought or being playfully funny",
+      "sentence": "He wore a silly giant foam hat to the carnival.",
+      "wordImage": "images/24_silly_word.png",
+      "sentenceImage": "images/24_silly_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 25,
+      "word": "furious",
+      "partOfSpeech": "adj.",
+      "meaningKo": "몹시 화난, 맹렬한",
+      "ipa": "/ˈfjʊr.i.əs/",
+      "definition": "extremely angry, or showing great violent energy in weather",
+      "sentence": "The furious winter gale shook the sturdy wooden cabin walls.",
+      "wordImage": "images/25_furious_word.png",
+      "sentenceImage": "images/25_furious_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 26,
+      "word": "barely",
+      "partOfSpeech": "adv.",
+      "meaningKo": "간신히, 거의 ~않게",
+      "ipa": "/ˈber.li/",
+      "definition": "by the smallest amount, almost not at all",
+      "sentence": "We could barely hear the quiet whisper across the room.",
+      "wordImage": "images/26_barely_word.png",
+      "sentenceImage": "images/26_barely_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 27,
+      "word": "thrill",
+      "partOfSpeech": "n.",
+      "meaningKo": "스릴, 짜릿한 흥분",
+      "ipa": "/θrɪl/",
+      "definition": "a sudden feeling of great excitement and pleasure",
+      "sentence": "Riding the water slide gave the children a wonderful thrill.",
+      "wordImage": "images/27_thrill_word.png",
+      "sentenceImage": "images/27_thrill_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 28,
+      "word": "particular",
+      "partOfSpeech": "adj.",
+      "meaningKo": "특정한, 특별한",
+      "ipa": "/pɚˈtɪk.jə.lɚ/",
+      "definition": "special, specific, or relating to one thing only",
+      "sentence": "She was looking for one particular book about desert animals.",
+      "wordImage": "images/28_particular_word.png",
+      "sentenceImage": "images/28_particular_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 29,
+      "word": "constant",
+      "partOfSpeech": "adj.",
+      "meaningKo": "끊임없는, 일정한",
+      "ipa": "/ˈkɑːn.stənt/",
+      "definition": "happening all the time or staying at the same rate",
+      "sentence": "The mountain stream flowed with a steady constant rushing sound.",
+      "wordImage": "images/29_constant_word.png",
+      "sentenceImage": "images/29_constant_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 30,
+      "word": "consistent",
+      "partOfSpeech": "adj.",
+      "meaningKo": "한결같은, 일관된",
+      "ipa": "/kənˈsɪs.tənt/",
+      "definition": "always behaving or happening in a similar, positive way",
+      "sentence": "His consistent daily practice made him a champion tennis player.",
+      "wordImage": "images/30_consistent_word.png",
+      "sentenceImage": "images/30_consistent_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

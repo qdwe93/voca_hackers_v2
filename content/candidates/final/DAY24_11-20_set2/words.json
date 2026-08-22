@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 24,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 24 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "solve",
+      "partOfSpeech": "v.",
+      "meaningKo": "해결하다",
+      "ipa": "/sɑːlv/",
+      "definition": "to find the answer to a problem",
+      "sentence": "The class will solve the riddle before lunch time.",
+      "wordImage": "images/11_solve_word.png",
+      "sentenceImage": "images/11_solve_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "survive",
+      "partOfSpeech": "v.",
+      "meaningKo": "살아남다",
+      "ipa": "/sərˈvaɪv/",
+      "definition": "to stay alive through a hard time",
+      "sentence": "Cactus plants survive many months without any rain.",
+      "wordImage": "images/12_survive_word.png",
+      "sentenceImage": "images/12_survive_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "source",
+      "partOfSpeech": "n.",
+      "meaningKo": "근원",
+      "ipa": "/sɔːrs/",
+      "definition": "the place something comes from",
+      "sentence": "The source of this stream is a mountain spring.",
+      "wordImage": "images/13_source_word.png",
+      "sentenceImage": "images/13_source_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "produce",
+      "partOfSpeech": "v.",
+      "meaningKo": "생산하다",
+      "ipa": "/prəˈduːs/",
+      "definition": "to make or grow something",
+      "sentence": "These bees produce golden honey all through the summer.",
+      "wordImage": "images/14_produce_word.png",
+      "sentenceImage": "images/14_produce_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "electronic",
+      "partOfSpeech": "adj.",
+      "meaningKo": "전자의",
+      "ipa": "/ɪˌlekˈtrɑːnɪk/",
+      "definition": "working with electricity and small parts",
+      "sentence": "An electronic clock glowed softly beside the sleeping child.",
+      "wordImage": "images/15_electronic_word.png",
+      "sentenceImage": "images/15_electronic_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "coal",
+      "partOfSpeech": "n.",
+      "meaningKo": "석탄",
+      "ipa": "/koʊl/",
+      "definition": "a black rock that people burn for heat",
+      "sentence": "Old trains once used coal to travel long distances.",
+      "wordImage": "images/16_coal_word.png",
+      "sentenceImage": "images/16_coal_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "benefit",
+      "partOfSpeech": "n.",
+      "meaningKo": "이점",
+      "ipa": "/ˈbenɪfɪt/",
+      "definition": "a good thing that helps you",
+      "sentence": "Fresh air is one benefit of walking outside daily.",
+      "wordImage": "images/17_benefit_word.png",
+      "sentenceImage": "images/17_benefit_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "vacuum",
+      "partOfSpeech": "n.",
+      "meaningKo": "진공",
+      "ipa": "/ˈvækjuːm/",
+      "definition": "a space with no air inside it",
+      "sentence": "Sound cannot travel through the vacuum of open space.",
+      "wordImage": "images/18_vacuum_word.png",
+      "sentenceImage": "images/18_vacuum_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "treasure",
+      "partOfSpeech": "n.",
+      "meaningKo": "보물",
+      "ipa": "/ˈtreʒər/",
+      "definition": "gold and jewels that are very valuable",
+      "sentence": "The map showed treasure hidden beneath a palm tree.",
+      "wordImage": "images/19_treasure_word.png",
+      "sentenceImage": "images/19_treasure_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "address",
+      "partOfSpeech": "v.",
+      "meaningKo": "다루다, 연설하다",
+      "ipa": "/əˈdres/",
+      "definition": "to speak to people or give attention to a problem",
+      "sentence": "The student council president will address the whole assembly today.",
+      "wordImage": "images/20_address_word.png",
+      "sentenceImage": "images/20_address_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 3,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY03-21",
+      "no": 21,
+      "word": "reserve",
+      "sentence": "We should reserve a table at the restaurant for Saturday evening."
+    },
+    {
+      "wordId": "DAY03-22",
+      "no": 22,
+      "word": "wrap",
+      "sentence": "Use shiny paper to wrap the present for your friend."
+    },
+    {
+      "wordId": "DAY03-23",
+      "no": 23,
+      "word": "occasion",
+      "sentence": "The annual town festival is a special occasion for everyone."
+    },
+    {
+      "wordId": "DAY03-24",
+      "no": 24,
+      "word": "allow",
+      "sentence": "Museum guards do not allow flash photography inside the gallery."
+    },
+    {
+      "wordId": "DAY03-25",
+      "no": 25,
+      "word": "ensure",
+      "sentence": "Wearing life jackets helps ensure your safety while riding boats."
+    },
+    {
+      "wordId": "DAY03-26",
+      "no": 26,
+      "word": "agent",
+      "sentence": "The travel agent arranged our flight tickets and hotel rooms."
+    },
+    {
+      "wordId": "DAY03-27",
+      "no": 27,
+      "word": "argue",
+      "sentence": "The two friends argue over game rules and then apologize."
+    },
+    {
+      "wordId": "DAY03-28",
+      "no": 28,
+      "word": "confirm",
+      "sentence": "Researchers confirm the source of the news article before sharing."
+    },
+    {
+      "wordId": "DAY03-29",
+      "no": 29,
+      "word": "wonder",
+      "sentence": "Children wonder how birds navigate across long distances in autumn."
+    },
+    {
+      "wordId": "DAY03-30",
+      "no": 30,
+      "word": "wander",
+      "sentence": "Tourists wander slowly through the historical streets of the old city."
+    }
+  ]
+}

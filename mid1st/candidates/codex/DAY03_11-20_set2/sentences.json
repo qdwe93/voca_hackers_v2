@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 3,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY03-11",
+      "no": 11,
+      "word": "pack",
+      "sentence": "The campers pack warm socks into a large blue backpack."
+    },
+    {
+      "wordId": "DAY03-12",
+      "no": 12,
+      "word": "host",
+      "sentence": "Today, our neighbors will host a garden party this sunny weekend."
+    },
+    {
+      "wordId": "DAY03-13",
+      "no": 13,
+      "word": "private",
+      "sentence": "Today, the koala keeps a private notebook inside its wooden desk."
+    },
+    {
+      "wordId": "DAY03-14",
+      "no": 14,
+      "word": "craft",
+      "sentence": "Several children made a paper craft with glue and ribbons."
+    },
+    {
+      "wordId": "DAY03-15",
+      "no": 15,
+      "word": "post",
+      "sentence": "The small rabbit will post a colorful card to its friend."
+    },
+    {
+      "wordId": "DAY03-16",
+      "no": 16,
+      "word": "relieve",
+      "sentence": "Warm tea can relieve the weary feeling after long walks."
+    },
+    {
+      "wordId": "DAY03-17",
+      "no": 17,
+      "word": "practice",
+      "sentence": "The young penguins practice their dance every evening close to the ice."
+    },
+    {
+      "wordId": "DAY03-18",
+      "no": 18,
+      "word": "souvenir",
+      "sentence": "A small shell became the best souvenir from the beach."
+    },
+    {
+      "wordId": "DAY03-19",
+      "no": 19,
+      "word": "decorate",
+      "sentence": "The small mice decorate their treehouse with leaves and small lanterns."
+    },
+    {
+      "wordId": "DAY03-20",
+      "no": 20,
+      "word": "book",
+      "sentence": "Today, you should book two seats for the evening puppet show."
+    }
+  ]
+}

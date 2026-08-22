@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 6,
+  "range": "31-40",
+  "set": 4,
+  "items": [
+    {
+      "wordId": "DAY06-31",
+      "no": 31,
+      "word": "isolated",
+      "sentence": "That isolated island cabin stands far from any other house."
+    },
+    {
+      "wordId": "DAY06-32",
+      "no": 32,
+      "word": "awkward",
+      "sentence": "Our first club meeting felt awkward until everyone shared names."
+    },
+    {
+      "wordId": "DAY06-33",
+      "no": 33,
+      "word": "sympathy",
+      "sentence": "My friend showed sympathy by repeating my worry and offering help."
+    },
+    {
+      "wordId": "DAY06-34",
+      "no": 34,
+      "word": "terrifying",
+      "sentence": "The tiny mouse thought the vacuum sound was terrifying."
+    },
+    {
+      "wordId": "DAY06-35",
+      "no": 35,
+      "word": "optimistic",
+      "sentence": "Even after losing once, our team stayed optimistic about tomorrow."
+    },
+    {
+      "wordId": "DAY06-36",
+      "no": 36,
+      "word": "sincere",
+      "sentence": "A sincere apology helped the two friends play together again."
+    },
+    {
+      "wordId": "DAY06-37",
+      "no": 37,
+      "word": "likely",
+      "sentence": "Thick gray clouds mean rain is likely this afternoon."
+    },
+    {
+      "wordId": "DAY06-38",
+      "no": 38,
+      "word": "endure",
+      "sentence": "Desert camels endure long days without drinking any water."
+    },
+    {
+      "wordId": "DAY06-39",
+      "no": 39,
+      "word": "cognitive",
+      "sentence": "Memory games train cognitive skills such as remembering and comparing."
+    },
+    {
+      "wordId": "DAY06-40",
+      "no": 40,
+      "word": "reflect",
+      "sentence": "Still lake water can reflect the mountain and the clouds."
+    }
+  ]
+}

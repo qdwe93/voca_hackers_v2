@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 28,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 28 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "economic",
+      "partOfSpeech": "adj.",
+      "meaningKo": "경제의, 경제학의",
+      "ipa": "/ˌiː.kəˈnɑː.mɪk/",
+      "definition": "relating to trade, industry, and the management of money",
+      "sentence": "Opening new local craft markets gave an economic boost to town.",
+      "wordImage": "images/01_economic_word.png",
+      "sentenceImage": "images/01_economic_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "budget",
+      "partOfSpeech": "n.",
+      "meaningKo": "예산, 비용",
+      "ipa": "/ˈbʌdʒ.ɪt/",
+      "definition": "a plan showing how much money will be earned and spent",
+      "sentence": "The student club planned a careful budget for the spring picnic.",
+      "wordImage": "images/02_budget_word.png",
+      "sentenceImage": "images/02_budget_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "possible",
+      "partOfSpeech": "adj.",
+      "meaningKo": "가능한",
+      "ipa": "/ˈpɑː.sə.bəl/",
+      "definition": "able to be done or achieved, not impossible",
+      "sentence": "With team cooperation, it is possible to achieve any great goal.",
+      "wordImage": "images/03_possible_word.png",
+      "sentenceImage": "images/03_possible_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "income",
+      "partOfSpeech": "n.",
+      "meaningKo": "수입, 소득",
+      "ipa": "/ˈɪn.kʌm/",
+      "definition": "money that is earned from work, investments, or business",
+      "sentence": "Part of her weekly allowance income went into the savings jar.",
+      "wordImage": "images/04_income_word.png",
+      "sentenceImage": "images/04_income_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "crisis",
+      "partOfSpeech": "n.",
+      "meaningKo": "위기, 중대한 국면",
+      "ipa": "/ˈkraɪ.sɪs/",
+      "definition": "a time of great difficulty, danger, or difficulty in story",
+      "sentence": "The brave firefighters resolved the water pipe crisis quickly and safely.",
+      "wordImage": "images/05_crisis_word.png",
+      "sentenceImage": "images/05_crisis_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "trade",
+      "partOfSpeech": "n.",
+      "meaningKo": "무역, 거래, 교환",
+      "ipa": "/treɪd/",
+      "definition": "the buying, selling, or exchanging of goods and services",
+      "sentence": "Ancient merchant ships sailed across oceans for the spice trade route.",
+      "wordImage": "images/06_trade_word.png",
+      "sentenceImage": "images/06_trade_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "offer",
+      "partOfSpeech": "v.",
+      "meaningKo": "제공하다, 제안하다",
+      "ipa": "/ˈɑː.fɚ/",
+      "definition": "to provide or supply something, or ask if someone wants",
+      "sentence": "The friendly baker will offer a warm sample cookie to visitors.",
+      "wordImage": "images/07_offer_word.png",
+      "sentenceImage": "images/07_offer_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "specific",
+      "partOfSpeech": "adj.",
+      "meaningKo": "구체적인, 특정한",
+      "ipa": "/spəˈsɪf.ɪk/",
+      "definition": "clearly defined or identified, particular rather than general",
+      "sentence": "Follow the specific recipe steps carefully when baking delicious vanilla cake.",
+      "wordImage": "images/08_specific_word.png",
+      "sentenceImage": "images/08_specific_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "several",
+      "partOfSpeech": "det.",
+      "meaningKo": "몇몇의, 서너 개의",
+      "ipa": "/ˈsev.ɚ.əl/",
+      "definition": "more than two but not many, a small number of",
+      "sentence": "She picked several ripe red apples from the backyard orchard tree.",
+      "wordImage": "images/09_several_word.png",
+      "sentenceImage": "images/09_several_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "severe",
+      "partOfSpeech": "adj.",
+      "meaningKo": "극심한, 엄격한",
+      "ipa": "/səˈvɪr/",
+      "definition": "very serious, harsh, or extreme in degree",
+      "sentence": "The cabin was well built to withstand severe winter mountain blizzards.",
+      "wordImage": "images/10_severe_word.png",
+      "sentenceImage": "images/10_severe_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 21,
+  "range": "21-30",
+  "set": 3,
+  "title": "DAY 21 · 21-30",
+  "words": [
+    {
+      "no": 21,
+      "word": "attract",
+      "partOfSpeech": "v.",
+      "meaningKo": "끌어들이다",
+      "definition": "to draw someone or something closer",
+      "sentence": "Many bright flowers attract butterflies into the garden.",
+      "ipa": "/ətrækt/",
+      "wordImage": "images/21_attract_word.png",
+      "sentenceImage": "images/21_attract_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 22,
+      "word": "poison",
+      "partOfSpeech": "n.",
+      "meaningKo": "독",
+      "definition": "a substance that can cause illness or death",
+      "sentence": "The fantasy poison stays sealed behind a safety shield.",
+      "ipa": "/pɔɪzən/",
+      "wordImage": "images/22_poison_word.png",
+      "sentenceImage": "images/22_poison_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 23,
+      "word": "weigh",
+      "partOfSpeech": "v.",
+      "meaningKo": "무게가 나가다",
+      "definition": "to have a particular weight",
+      "sentence": "The giant pumpkin may weigh more than the small wagon.",
+      "ipa": "/weɪ/",
+      "wordImage": "images/23_weigh_word.png",
+      "sentenceImage": "images/23_weigh_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 24,
+      "word": "automatic",
+      "partOfSpeech": "adj.",
+      "meaningKo": "자동의",
+      "definition": "working by itself without direct control",
+      "sentence": "The automatic door opens when the robot approaches.",
+      "ipa": "/ɔtəmætɪk/",
+      "wordImage": "images/24_automatic_word.png",
+      "sentenceImage": "images/24_automatic_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 25,
+      "word": "role",
+      "partOfSpeech": "n.",
+      "meaningKo": "역할",
+      "definition": "the part someone plays in an activity",
+      "sentence": "The goalkeeper's role is protecting the net during games.",
+      "ipa": "/roʊl/",
+      "wordImage": "images/25_role_word.png",
+      "sentenceImage": "images/25_role_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 26,
+      "word": "exchange",
+      "partOfSpeech": "v.",
+      "meaningKo": "교환하다",
+      "definition": "to give something and receive another thing",
+      "sentence": "Two children exchange a red marble for a blue one.",
+      "ipa": "/ɪkstʃeɪndʒ/",
+      "wordImage": "images/26_exchange_word.png",
+      "sentenceImage": "images/26_exchange_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 27,
+      "word": "contain",
+      "partOfSpeech": "v.",
+      "meaningKo": "담고 있다",
+      "definition": "to have something inside",
+      "sentence": "The glass jar will contain colorful stones and shells.",
+      "ipa": "/kənteɪn/",
+      "wordImage": "images/27_contain_word.png",
+      "sentenceImage": "images/27_contain_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 28,
+      "word": "trail",
+      "partOfSpeech": "n.",
+      "meaningKo": "오솔길",
+      "definition": "a path through countryside or forest",
+      "sentence": "A narrow trail winds between tall forest trees.",
+      "ipa": "/treɪl/",
+      "wordImage": "images/28_trail_word.png",
+      "sentenceImage": "images/28_trail_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 29,
+      "word": "trait",
+      "partOfSpeech": "n.",
+      "meaningKo": "특성",
+      "definition": "a quality belonging to a person or living thing",
+      "sentence": "Thick fur is a useful trait for polar bears.",
+      "ipa": "/treɪt/",
+      "wordImage": "images/29_trait_word.png",
+      "sentenceImage": "images/29_trait_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 30,
+      "word": "trial",
+      "partOfSpeech": "n.",
+      "meaningKo": "시험",
+      "definition": "a test of ability quality or performance",
+      "sentence": "The robot completes a trial on the obstacle course.",
+      "ipa": "/traɪəl/",
+      "wordImage": "images/30_trial_word.png",
+      "sentenceImage": "images/30_trial_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

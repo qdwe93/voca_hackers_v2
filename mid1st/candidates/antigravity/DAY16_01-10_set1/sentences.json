@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 16,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY16-01",
+      "no": 1,
+      "word": "nature",
+      "sentence": "We observe the beauty of untouched nature in the national park."
+    },
+    {
+      "wordId": "DAY16-02",
+      "no": 2,
+      "word": "experiment",
+      "sentence": "Students conduct a plant growth experiment with controlled sunlight and water."
+    },
+    {
+      "wordId": "DAY16-03",
+      "no": 3,
+      "word": "condition",
+      "sentence": "The old microscope is still in excellent working condition for research."
+    },
+    {
+      "wordId": "DAY16-04",
+      "no": 4,
+      "word": "distance",
+      "sentence": "A detailed map shows the exact distance between two mountain cities."
+    },
+    {
+      "wordId": "DAY16-05",
+      "no": 5,
+      "word": "evidence",
+      "sentence": "The recorded experiment data gives strong evidence to support our conclusion."
+    },
+    {
+      "wordId": "DAY16-06",
+      "no": 6,
+      "word": "chemical",
+      "sentence": "The laboratory stores each hazardous chemical inside a sealed metal cabinet."
+    },
+    {
+      "wordId": "DAY16-07",
+      "no": 7,
+      "word": "fluid",
+      "sentence": "Warm heated fluid rises to the top of the glass beaker."
+    },
+    {
+      "wordId": "DAY16-08",
+      "no": 8,
+      "word": "extensive",
+      "sentence": "Scientists conducted extensive laboratory research to analyze the new mineral compound."
+    },
+    {
+      "wordId": "DAY16-09",
+      "no": 9,
+      "word": "process",
+      "sentence": "Photosynthesis is an essential biological process that produces sugar and oxygen."
+    },
+    {
+      "wordId": "DAY16-10",
+      "no": 10,
+      "word": "progress",
+      "sentence": "The research team made significant progress in developing clean solar cells."
+    }
+  ]
+}

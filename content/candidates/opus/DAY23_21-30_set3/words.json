@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 23,
+  "range": "21-30",
+  "set": 3,
+  "title": "DAY 23 · 21-30",
+  "words": [
+    {
+      "no": 21,
+      "word": "shift",
+      "partOfSpeech": "v.",
+      "meaningKo": "옮기다",
+      "ipa": "/ʃɪft/",
+      "definition": "to move something a little",
+      "sentence": "Please shift the pot toward the sunny window side.",
+      "wordImage": "images/21_shift_word.png",
+      "sentenceImage": "images/21_shift_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 22,
+      "word": "narrow",
+      "partOfSpeech": "adj.",
+      "meaningKo": "좁은",
+      "ipa": "/ˈnæroʊ/",
+      "definition": "not wide at all",
+      "sentence": "A narrow bridge crossed the small mountain stream.",
+      "wordImage": "images/22_narrow_word.png",
+      "sentenceImage": "images/22_narrow_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 23,
+      "word": "drought",
+      "partOfSpeech": "n.",
+      "meaningKo": "가뭄",
+      "ipa": "/draʊt/",
+      "definition": "a long time with almost no rain",
+      "sentence": "The long drought made the village save every drop.",
+      "wordImage": "images/23_drought_word.png",
+      "sentenceImage": "images/23_drought_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 24,
+      "word": "boundary",
+      "partOfSpeech": "n.",
+      "meaningKo": "경계",
+      "ipa": "/ˈbaʊndri/",
+      "definition": "a line showing where an area ends",
+      "sentence": "A stone wall marks the boundary of the orchard.",
+      "wordImage": "images/24_boundary_word.png",
+      "sentenceImage": "images/24_boundary_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 25,
+      "word": "alarming",
+      "partOfSpeech": "adj.",
+      "meaningKo": "걱정스러운",
+      "ipa": "/əˈlɑːrmɪŋ/",
+      "definition": "making people feel a bit worried",
+      "sentence": "The alarming forecast made everyone bring warm rain coats.",
+      "wordImage": "images/25_alarming_word.png",
+      "sentenceImage": "images/25_alarming_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 26,
+      "word": "harsh",
+      "partOfSpeech": "adj.",
+      "meaningKo": "혹독한",
+      "ipa": "/hɑːrʃ/",
+      "definition": "very rough and hard to bear",
+      "sentence": "Harsh winter wind bent the tall dry grasses.",
+      "wordImage": "images/26_harsh_word.png",
+      "sentenceImage": "images/26_harsh_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 27,
+      "word": "cease",
+      "partOfSpeech": "v.",
+      "meaningKo": "멈추다",
+      "ipa": "/siːs/",
+      "definition": "to stop happening",
+      "sentence": "The rain will cease before the evening stars appear.",
+      "wordImage": "images/27_cease_word.png",
+      "sentenceImage": "images/27_cease_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 28,
+      "word": "estimate",
+      "partOfSpeech": "v.",
+      "meaningKo": "추정하다",
+      "ipa": "/ˈestɪmeɪt/",
+      "definition": "to guess an amount quite closely",
+      "sentence": "Farmers estimate how much rain fell during the night.",
+      "wordImage": "images/28_estimate_word.png",
+      "sentenceImage": "images/28_estimate_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 29,
+      "word": "plane",
+      "partOfSpeech": "n.",
+      "meaningKo": "비행기",
+      "ipa": "/pleɪn/",
+      "definition": "a machine with wings that flies",
+      "sentence": "A small plane flew above the wide green fields.",
+      "wordImage": "images/29_plane_word.png",
+      "sentenceImage": "images/29_plane_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 30,
+      "word": "plain",
+      "partOfSpeech": "n.",
+      "meaningKo": "평야",
+      "ipa": "/pleɪn/",
+      "definition": "a large flat area of land",
+      "sentence": "Wild grasses covered the broad open plain everywhere.",
+      "wordImage": "images/30_plain_word.png",
+      "sentenceImage": "images/30_plain_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

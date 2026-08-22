@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 28,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 28 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "economic",
+      "partOfSpeech": "adj.",
+      "meaningKo": "경제의",
+      "ipa": "/ˌiːkəˈnɑːmɪk/",
+      "definition": "about money and how it is used",
+      "sentence": "The economic news pleased every shopkeeper on the street.",
+      "wordImage": "images/01_economic_word.png",
+      "sentenceImage": "images/01_economic_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "budget",
+      "partOfSpeech": "n.",
+      "meaningKo": "예산",
+      "ipa": "/ˈbʌdʒɪt/",
+      "definition": "a plan for how to spend money",
+      "sentence": "The class budget covered paint, brushes, and new paper.",
+      "wordImage": "images/02_budget_word.png",
+      "sentenceImage": "images/02_budget_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "possible",
+      "partOfSpeech": "adj.",
+      "meaningKo": "가능한",
+      "ipa": "/ˈpɑːsəbl/",
+      "definition": "able to happen or be done",
+      "sentence": "It is possible to grow carrots in small pots.",
+      "wordImage": "images/03_possible_word.png",
+      "sentenceImage": "images/03_possible_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "income",
+      "partOfSpeech": "n.",
+      "meaningKo": "수입",
+      "ipa": "/ˈɪnkʌm/",
+      "definition": "money a person earns from working",
+      "sentence": "The farmer's income came from apples and fresh honey.",
+      "wordImage": "images/04_income_word.png",
+      "sentenceImage": "images/04_income_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "crisis",
+      "partOfSpeech": "n.",
+      "meaningKo": "위기",
+      "ipa": "/ˈkraɪsɪs/",
+      "definition": "a difficult time needing quick help",
+      "sentence": "The garden crisis ended when rain finally arrived.",
+      "wordImage": "images/05_crisis_word.png",
+      "sentenceImage": "images/05_crisis_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "trade",
+      "partOfSpeech": "n.",
+      "meaningKo": "무역",
+      "ipa": "/treɪd/",
+      "definition": "the buying and selling of goods",
+      "sentence": "Ships carried salt and cloth in the old trade.",
+      "wordImage": "images/06_trade_word.png",
+      "sentenceImage": "images/06_trade_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "offer",
+      "partOfSpeech": "v.",
+      "meaningKo": "제안하다",
+      "ipa": "/ˈɔːfər/",
+      "definition": "to hold something out for someone",
+      "sentence": "The baker will offer warm rolls to early customers.",
+      "wordImage": "images/07_offer_word.png",
+      "sentenceImage": "images/07_offer_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "specific",
+      "partOfSpeech": "adj.",
+      "meaningKo": "구체적인",
+      "ipa": "/spəˈsɪfɪk/",
+      "definition": "one exact thing, not a general one",
+      "sentence": "She wanted a specific blue button for the coat.",
+      "wordImage": "images/08_specific_word.png",
+      "sentenceImage": "images/08_specific_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "several",
+      "partOfSpeech": "adj.",
+      "meaningKo": "여러 개의",
+      "ipa": "/ˈsevrəl/",
+      "definition": "more than two but not many",
+      "sentence": "Several kites floated above the wide green hillside.",
+      "wordImage": "images/09_several_word.png",
+      "sentenceImage": "images/09_several_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "severe",
+      "partOfSpeech": "adj.",
+      "meaningKo": "심한",
+      "ipa": "/səˈvɪr/",
+      "definition": "very strong and hard to bear",
+      "sentence": "Severe cold kept the little birds inside the barn.",
+      "wordImage": "images/10_severe_word.png",
+      "sentenceImage": "images/10_severe_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

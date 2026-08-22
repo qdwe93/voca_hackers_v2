@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 30,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 30 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "handle",
+      "partOfSpeech": "v.",
+      "meaningKo": "다루다",
+      "ipa": "/ˈhændl/",
+      "definition": "to deal with something carefully",
+      "sentence": "Please handle these eggs gently on the way home.",
+      "wordImage": "images/11_handle_word.png",
+      "sentenceImage": "images/11_handle_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "phrase",
+      "partOfSpeech": "n.",
+      "meaningKo": "구절",
+      "ipa": "/freɪz/",
+      "definition": "a small group of words together",
+      "sentence": "The parrot learned one funny phrase from the sailor.",
+      "wordImage": "images/12_phrase_word.png",
+      "sentenceImage": "images/12_phrase_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "annoy",
+      "partOfSpeech": "v.",
+      "meaningKo": "짜증나게 하다",
+      "ipa": "/əˈnɔɪ/",
+      "definition": "to bother someone in a small way",
+      "sentence": "Buzzing flies annoy the cows in the warm field.",
+      "wordImage": "images/13_annoy_word.png",
+      "sentenceImage": "images/13_annoy_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "obvious",
+      "partOfSpeech": "adj.",
+      "meaningKo": "분명한",
+      "ipa": "/ˈɑːbviəs/",
+      "definition": "very easy to see or understand",
+      "sentence": "It was obvious that the puppy wanted a walk.",
+      "wordImage": "images/14_obvious_word.png",
+      "sentenceImage": "images/14_obvious_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "mention",
+      "partOfSpeech": "v.",
+      "meaningKo": "언급하다",
+      "ipa": "/ˈmenʃn/",
+      "definition": "to say something briefly while talking",
+      "sentence": "Did the guide mention the old bridge near town?",
+      "wordImage": "images/15_mention_word.png",
+      "sentenceImage": "images/15_mention_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "entertain",
+      "partOfSpeech": "v.",
+      "meaningKo": "즐겁게 하다",
+      "ipa": "/ˌentərˈteɪn/",
+      "definition": "to make people enjoy their time",
+      "sentence": "Puppets entertain young children at the library every weekend.",
+      "wordImage": "images/16_entertain_word.png",
+      "sentenceImage": "images/16_entertain_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "detail",
+      "partOfSpeech": "n.",
+      "meaningKo": "세부 사항",
+      "ipa": "/ˈdiːteɪl/",
+      "definition": "a small part of something bigger",
+      "sentence": "Every tiny detail of the model ship looked perfect.",
+      "wordImage": "images/17_detail_word.png",
+      "sentenceImage": "images/17_detail_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "conflict",
+      "partOfSpeech": "n.",
+      "meaningKo": "갈등",
+      "ipa": "/ˈkɑːnflɪkt/",
+      "definition": "a disagreement between two people or sides",
+      "sentence": "A small conflict about turns ended with a handshake.",
+      "wordImage": "images/18_conflict_word.png",
+      "sentenceImage": "images/18_conflict_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "thus",
+      "partOfSpeech": "adv.",
+      "meaningKo": "따라서",
+      "ipa": "/ðʌs/",
+      "definition": "for that reason",
+      "sentence": "Rain fell all night; thus, the river rose higher.",
+      "wordImage": "images/19_thus_word.png",
+      "sentenceImage": "images/19_thus_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "medium",
+      "partOfSpeech": "n.",
+      "meaningKo": "매체",
+      "ipa": "/ˈmiːdiəm/",
+      "definition": "a way of sharing news or art",
+      "sentence": "Radio was the favorite medium in the small village.",
+      "wordImage": "images/20_medium_word.png",
+      "sentenceImage": "images/20_medium_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

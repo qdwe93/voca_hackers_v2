@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 25,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY25-21",
+      "no": 21,
+      "word": "pesticide",
+      "sentence": "Organic farmers avoid using synthetic pesticide sprays on fresh vegetable crops."
+    },
+    {
+      "wordId": "DAY25-22",
+      "no": 22,
+      "word": "alternative",
+      "sentence": "Electric vehicles offer a clean alternative to gasoline powered city automobiles."
+    },
+    {
+      "wordId": "DAY25-23",
+      "no": 23,
+      "word": "respect",
+      "sentence": "Citizens should show respect for natural wildlife habitats during mountain hikes."
+    },
+    {
+      "wordId": "DAY25-24",
+      "no": 24,
+      "word": "vast",
+      "sentence": "The Pacific Ocean covers a vast portion of Earth's total surface."
+    },
+    {
+      "wordId": "DAY25-25",
+      "no": 25,
+      "word": "refreshing",
+      "sentence": "A cool breeze felt very refreshing after a hot afternoon walk."
+    },
+    {
+      "wordId": "DAY25-26",
+      "no": 26,
+      "word": "responsible",
+      "sentence": "Every responsible citizen sorts recyclable paper, glass, and plastic into bins."
+    },
+    {
+      "wordId": "DAY25-27",
+      "no": 27,
+      "word": "confuse",
+      "sentence": "Do not confuse biodegradable organic waste with non-recyclable synthetic plastic packaging."
+    },
+    {
+      "wordId": "DAY25-28",
+      "no": 28,
+      "word": "separate",
+      "sentence": "Residents separate household trash into designated recycling bins outside their homes."
+    },
+    {
+      "wordId": "DAY25-29",
+      "no": 29,
+      "word": "delicate",
+      "sentence": "Coral reefs are delicate marine structures vulnerable to rising ocean temperatures."
+    },
+    {
+      "wordId": "DAY25-30",
+      "no": 30,
+      "word": "dedicate",
+      "sentence": "Environmental activists dedicate their lives to protecting ancient old-growth temperate forests."
+    }
+  ]
+}

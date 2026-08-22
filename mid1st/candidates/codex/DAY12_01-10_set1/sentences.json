@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 12,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY12-01",
+      "no": 1,
+      "word": "perform",
+      "sentence": "Today, the young dancers perform on stage every autumn evening."
+    },
+    {
+      "wordId": "DAY12-02",
+      "no": 2,
+      "word": "feature",
+      "sentence": "Today, the tall glass roof is the best feature here."
+    },
+    {
+      "wordId": "DAY12-03",
+      "no": 3,
+      "word": "genre",
+      "sentence": "Today, adventure is her favorite genre of storybook to read."
+    },
+    {
+      "wordId": "DAY12-04",
+      "no": 4,
+      "word": "instrument",
+      "sentence": "Today, the violin is a lovely instrument with four strings."
+    },
+    {
+      "wordId": "DAY12-05",
+      "no": 5,
+      "word": "broadcast",
+      "sentence": "The station will broadcast edited news to thousands of listeners."
+    },
+    {
+      "wordId": "DAY12-06",
+      "no": 6,
+      "word": "artwork",
+      "sentence": "Students combine narration, music, and artwork in one video."
+    },
+    {
+      "wordId": "DAY12-07",
+      "no": 7,
+      "word": "suit",
+      "sentence": "These soft blue shoes suit the dancer's silver costume."
+    },
+    {
+      "wordId": "DAY12-08",
+      "no": 8,
+      "word": "inspire",
+      "sentence": "Today, ocean waves inspire the young painter every single morning."
+    },
+    {
+      "wordId": "DAY12-09",
+      "no": 9,
+      "word": "belief",
+      "sentence": "Today, her strong belief in kindness changed the whole classroom."
+    },
+    {
+      "wordId": "DAY12-10",
+      "no": 10,
+      "word": "brief",
+      "sentence": "One brief rain shower cooled the warm summer garden."
+    }
+  ]
+}

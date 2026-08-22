@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 9,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY09-11",
+      "no": 11,
+      "word": "pause",
+      "sentence": "The hikers will pause next to the cool mountain stream."
+    },
+    {
+      "wordId": "DAY09-12",
+      "no": 12,
+      "word": "incentive",
+      "sentence": "One shiny sticker became a fun incentive for reading books."
+    },
+    {
+      "wordId": "DAY09-13",
+      "no": 13,
+      "word": "sacrifice",
+      "sentence": "The brown bear will sacrifice its warm seat for a friend."
+    },
+    {
+      "wordId": "DAY09-14",
+      "no": 14,
+      "word": "generous",
+      "sentence": "The generous baker offered extra rolls to every child."
+    },
+    {
+      "wordId": "DAY09-15",
+      "no": 15,
+      "word": "appropriate",
+      "sentence": "Today, warm boots are appropriate for a walk in deep snow."
+    },
+    {
+      "wordId": "DAY09-16",
+      "no": 16,
+      "word": "chase",
+      "sentence": "Two puppies cheerfully chase a rolling red ball outside."
+    },
+    {
+      "wordId": "DAY09-17",
+      "no": 17,
+      "word": "deserve",
+      "sentence": "The helpful robots deserve a colorful medal for their work."
+    },
+    {
+      "wordId": "DAY09-18",
+      "no": 18,
+      "word": "pretend",
+      "sentence": "Today, the kittens pretend the cardboard box is a fast rocket."
+    },
+    {
+      "wordId": "DAY09-19",
+      "no": 19,
+      "word": "neglect",
+      "sentence": "Today, do not neglect the plants during the long summer trip."
+    },
+    {
+      "wordId": "DAY09-20",
+      "no": 20,
+      "word": "lie",
+      "sentence": "A lie breaks trust, although no written law was broken."
+    }
+  ]
+}

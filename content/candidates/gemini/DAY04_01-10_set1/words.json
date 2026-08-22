@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 4,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 04 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "career",
+      "partOfSpeech": "n.",
+      "meaningKo": "경력, 직업",
+      "ipa": "/kəˈrɪr/",
+      "definition": "a job or profession that you do for a long time",
+      "sentence": "She chose a rewarding career as a friendly elementary teacher.",
+      "wordImage": "images/01_career_word.png",
+      "sentenceImage": "images/01_career_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "skill",
+      "partOfSpeech": "n.",
+      "meaningKo": "기술, 솜씨",
+      "ipa": "/skɪl/",
+      "definition": "the ability to do something well through practice",
+      "sentence": "Learning to code is a very useful modern computer skill.",
+      "wordImage": "images/02_skill_word.png",
+      "sentenceImage": "images/02_skill_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "task",
+      "partOfSpeech": "n.",
+      "meaningKo": "과업, 일",
+      "ipa": "/tæsk/",
+      "definition": "a piece of work to be done, especially something difficult",
+      "sentence": "Cleaning his messy bedroom was his first morning task today.",
+      "wordImage": "images/03_task_word.png",
+      "sentenceImage": "images/03_task_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "tend",
+      "partOfSpeech": "v.",
+      "meaningKo": "~하는 경향이 있다, 돌보다",
+      "ipa": "/tend/",
+      "definition": "to be likely to do something or care for something",
+      "sentence": "Young children tend to fall asleep during long car rides.",
+      "wordImage": "images/04_tend_word.png",
+      "sentenceImage": "images/04_tend_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "position",
+      "partOfSpeech": "n.",
+      "meaningKo": "위치, 직책",
+      "ipa": "/pəˈzɪʃ.ən/",
+      "definition": "the place where someone or something is or a job",
+      "sentence": "He applied for the open position of student team captain.",
+      "wordImage": "images/05_position_word.png",
+      "sentenceImage": "images/05_position_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "hire",
+      "partOfSpeech": "v.",
+      "meaningKo": "고용하다, 채용하다",
+      "ipa": "/haɪr/",
+      "definition": "to give someone a job in return for pay",
+      "sentence": "The bakery owner decided to hire an assistant for morning baking.",
+      "wordImage": "images/06_hire_word.png",
+      "sentenceImage": "images/06_hire_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "quit",
+      "partOfSpeech": "v.",
+      "meaningKo": "그만두다, 중단하다",
+      "ipa": "/kwɪt/",
+      "definition": "to stop doing something or leave a job",
+      "sentence": "She decided to quit eating sugary candy before going to bed.",
+      "wordImage": "images/07_quit_word.png",
+      "sentenceImage": "images/07_quit_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "proud",
+      "partOfSpeech": "adj.",
+      "meaningKo": "자랑스러운, 뿌듯한",
+      "ipa": "/praʊd/",
+      "definition": "feeling pleased and satisfied about something you did",
+      "sentence": "The parents were proud of their daughter’s science fair victory.",
+      "wordImage": "images/08_proud_word.png",
+      "sentenceImage": "images/08_proud_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "labor",
+      "partOfSpeech": "n.",
+      "meaningKo": "노동, 근로",
+      "ipa": "/ˈleɪ.bɚ/",
+      "definition": "hard physical or mental work",
+      "sentence": "Building the stone wall required many hours of physical labor.",
+      "wordImage": "images/09_labor_word.png",
+      "sentenceImage": "images/09_labor_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "label",
+      "partOfSpeech": "n.",
+      "meaningKo": "라벨, 상표표",
+      "ipa": "/ˈleɪ.bəl/",
+      "definition": "a piece of paper or cloth giving information about something",
+      "sentence": "Check the price label on the shirt before buying it.",
+      "wordImage": "images/10_label_word.png",
+      "sentenceImage": "images/10_label_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

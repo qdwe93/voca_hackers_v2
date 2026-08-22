@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 18,
+  "range": "31-40",
+  "set": 4,
+  "title": "DAY 18 · 31-40",
+  "words": [
+    {
+      "no": 31,
+      "word": "rare",
+      "partOfSpeech": "adj.",
+      "meaningKo": "희귀한",
+      "definition": "not common and seldom found",
+      "sentence": "A rare blue flower grows among many yellow ones.",
+      "ipa": "/rɛr/",
+      "wordImage": "images/31_rare_word.png",
+      "sentenceImage": "images/31_rare_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 32,
+      "word": "beat",
+      "partOfSpeech": "v.",
+      "meaningKo": "뛰다",
+      "definition": "to move regularly like a heart",
+      "sentence": "The glowing model heart will beat in a steady rhythm.",
+      "ipa": "/bit/",
+      "wordImage": "images/32_beat_word.png",
+      "sentenceImage": "images/32_beat_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 33,
+      "word": "indifferent",
+      "partOfSpeech": "adj.",
+      "meaningKo": "무관심한",
+      "definition": "not interested or caring about something",
+      "sentence": "The indifferent cat ignores both colorful toys nearby.",
+      "ipa": "/ɪndɪfrənt/",
+      "wordImage": "images/33_indifferent_word.png",
+      "sentenceImage": "images/33_indifferent_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 34,
+      "word": "sew",
+      "partOfSpeech": "v.",
+      "meaningKo": "바느질하다",
+      "definition": "to join cloth using a needle and thread",
+      "sentence": "The tailor will sew two pieces of cloth together.",
+      "ipa": "/soʊ/",
+      "wordImage": "images/34_sew_word.png",
+      "sentenceImage": "images/34_sew_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 35,
+      "word": "antibiotic",
+      "partOfSpeech": "n.",
+      "meaningKo": "항생제",
+      "definition": "a medicine that kills harmful bacteria",
+      "sentence": "The physician gives an antibiotic for the bacterial infection.",
+      "ipa": "/æntibaɪɑtɪk/",
+      "wordImage": "images/35_antibiotic_word.png",
+      "sentenceImage": "images/35_antibiotic_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 36,
+      "word": "chronic",
+      "partOfSpeech": "adj.",
+      "meaningKo": "만성적인",
+      "definition": "lasting a long time or returning often",
+      "sentence": "The patient manages chronic back pain with gentle exercises.",
+      "ipa": "/krɑnɪk/",
+      "wordImage": "images/36_chronic_word.png",
+      "sentenceImage": "images/36_chronic_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 37,
+      "word": "sight",
+      "partOfSpeech": "n.",
+      "meaningKo": "시력",
+      "definition": "the ability to see",
+      "sentence": "The new glasses improve the child's distant sight.",
+      "ipa": "/saɪt/",
+      "wordImage": "images/37_sight_word.png",
+      "sentenceImage": "images/37_sight_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 38,
+      "word": "fatal",
+      "partOfSpeech": "adj.",
+      "meaningKo": "치명적인",
+      "definition": "causing death",
+      "sentence": "A fatal game hazard is blocked by bright safety barriers.",
+      "ipa": "/feɪtəl/",
+      "wordImage": "images/38_fatal_word.png",
+      "sentenceImage": "images/38_fatal_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 39,
+      "word": "tremble",
+      "partOfSpeech": "v.",
+      "meaningKo": "떨다",
+      "definition": "to shake slightly from fear cold or weakness",
+      "sentence": "The small dog will tremble during the loud storm.",
+      "ipa": "/trɛmbəl/",
+      "wordImage": "images/39_tremble_word.png",
+      "sentenceImage": "images/39_tremble_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 40,
+      "word": "patient",
+      "partOfSpeech": "n.",
+      "meaningKo": "환자",
+      "definition": "a person receiving medical care",
+      "sentence": "The patient sits calmly while the nurse checks temperature.",
+      "ipa": "/peɪʃənt/",
+      "wordImage": "images/40_patient_word.png",
+      "sentenceImage": "images/40_patient_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

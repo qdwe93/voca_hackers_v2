@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 21,
+  "range": "31-40",
+  "set": 4,
+  "items": [
+    {
+      "wordId": "DAY21-31",
+      "no": 31,
+      "word": "overcome",
+      "sentence": "The shy character learned to overcome fear and speak first."
+    },
+    {
+      "wordId": "DAY21-32",
+      "no": 32,
+      "word": "tiny",
+      "sentence": "Tiny ants carry crumbs along the crack in the sidewalk."
+    },
+    {
+      "wordId": "DAY21-33",
+      "no": 33,
+      "word": "exceed",
+      "sentence": "These sunflowers exceed two meters by the end of summer."
+    },
+    {
+      "wordId": "DAY21-34",
+      "no": 34,
+      "word": "bury",
+      "sentence": "Gardeners bury the flower bulbs under ten centimeters of soil."
+    },
+    {
+      "wordId": "DAY21-35",
+      "no": 35,
+      "word": "stem",
+      "sentence": "A thick green stem holds this heavy sunflower head upright."
+    },
+    {
+      "wordId": "DAY21-36",
+      "no": 36,
+      "word": "diameter",
+      "sentence": "We measured the diameter of this circle through its center point."
+    },
+    {
+      "wordId": "DAY21-37",
+      "no": 37,
+      "word": "fascinate",
+      "sentence": "Moving leaf insects fascinate the children at the nature center."
+    },
+    {
+      "wordId": "DAY21-38",
+      "no": 38,
+      "word": "furthermore",
+      "sentence": "This plant grows quickly; furthermore, it needs very little water."
+    },
+    {
+      "wordId": "DAY21-39",
+      "no": 39,
+      "word": "concentrate",
+      "sentence": "Birdwatchers concentrate on one branch and wait without talking."
+    },
+    {
+      "wordId": "DAY21-40",
+      "no": 40,
+      "word": "general",
+      "sentence": "The general rule is that green plants need light."
+    }
+  ]
+}

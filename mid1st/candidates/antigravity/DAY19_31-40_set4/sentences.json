@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 19,
+  "range": "31-40",
+  "set": 4,
+  "items": [
+    {
+      "wordId": "DAY19-31",
+      "no": 31,
+      "word": "navigate",
+      "sentence": "Digital map applications help drivers navigate through unfamiliar city streets safely."
+    },
+    {
+      "wordId": "DAY19-32",
+      "no": 32,
+      "word": "reproduce",
+      "sentence": "Digital printers reproduce high-resolution color photographs with sharp visual detail accuracy."
+    },
+    {
+      "wordId": "DAY19-33",
+      "no": 33,
+      "word": "differ",
+      "sentence": "The two software versions differ in their user interface design layouts."
+    },
+    {
+      "wordId": "DAY19-34",
+      "no": 34,
+      "word": "instruction",
+      "sentence": "The manual provides clear instruction for assembling the new drone kit."
+    },
+    {
+      "wordId": "DAY19-35",
+      "no": 35,
+      "word": "significant",
+      "sentence": "The invention of microchips was a significant milestone in computer technology."
+    },
+    {
+      "wordId": "DAY19-36",
+      "no": 36,
+      "word": "satellite",
+      "sentence": "The communications satellite orbits Earth to transmit international television broadcast signals."
+    },
+    {
+      "wordId": "DAY19-37",
+      "no": 37,
+      "word": "demonstrate",
+      "sentence": "Engineers demonstrate how the new robotic arm sorts recyclable metal cans."
+    },
+    {
+      "wordId": "DAY19-38",
+      "no": 38,
+      "word": "emerge",
+      "sentence": "New technological solutions emerge when creative inventors collaborate on difficult challenges."
+    },
+    {
+      "wordId": "DAY19-39",
+      "no": 39,
+      "word": "trigger",
+      "sentence": "Sensors trigger an automatic emergency alarm when detecting elevated smoke levels."
+    },
+    {
+      "wordId": "DAY19-40",
+      "no": 40,
+      "word": "current",
+      "sentence": "The website displays the current local temperature and hourly weather forecast."
+    }
+  ]
+}

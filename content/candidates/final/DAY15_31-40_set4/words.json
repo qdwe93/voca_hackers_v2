@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 15,
+  "range": "31-40",
+  "set": 4,
+  "title": "DAY 15 · 31-40",
+  "words": [
+    {
+      "no": 31,
+      "word": "bias",
+      "partOfSpeech": "n.",
+      "meaningKo": "편향",
+      "ipa": "/ˈbaɪəs/",
+      "definition": "liking one side more than the other",
+      "sentence": "A fair judge must leave every bias outside the room.",
+      "wordImage": "images/31_bias_word.png",
+      "sentenceImage": "images/31_bias_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 32,
+      "word": "string",
+      "partOfSpeech": "n.",
+      "meaningKo": "끈",
+      "ipa": "/strɪŋ/",
+      "definition": "a thin cord used to tie things",
+      "sentence": "The kite string stretched high above the grassy hill.",
+      "wordImage": "images/32_string_word.png",
+      "sentenceImage": "images/32_string_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 33,
+      "word": "examination",
+      "partOfSpeech": "n.",
+      "meaningKo": "시험",
+      "ipa": "/ɪɡˌzæmɪˈneɪʃn/",
+      "definition": "a test that shows what you learned",
+      "sentence": "The examination covered every plant in the school garden.",
+      "wordImage": "images/33_examination_word.png",
+      "sentenceImage": "images/33_examination_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 34,
+      "word": "rational",
+      "partOfSpeech": "adj.",
+      "meaningKo": "이성적인",
+      "ipa": "/ˈræʃnəl/",
+      "definition": "using clear thinking, not just feelings",
+      "sentence": "A rational plan helped the team finish the model bridge.",
+      "wordImage": "images/34_rational_word.png",
+      "sentenceImage": "images/34_rational_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 35,
+      "word": "laboratory",
+      "partOfSpeech": "n.",
+      "meaningKo": "실험실",
+      "ipa": "/ˈlæbrətɔːri/",
+      "definition": "a room where scientists do experiments",
+      "sentence": "The laboratory had bright beakers along every clean white shelf.",
+      "wordImage": "images/35_laboratory_word.png",
+      "sentenceImage": "images/35_laboratory_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 36,
+      "word": "authority",
+      "partOfSpeech": "n.",
+      "meaningKo": "권한",
+      "ipa": "/əˈθɔːrəti/",
+      "definition": "the power to make rules or decisions",
+      "sentence": "The park keeper has authority over the playground rules.",
+      "wordImage": "images/36_authority_word.png",
+      "sentenceImage": "images/36_authority_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 37,
+      "word": "misunderstanding",
+      "partOfSpeech": "n.",
+      "meaningKo": "오해",
+      "ipa": "/ˌmɪsʌndərˈstændɪŋ/",
+      "definition": "when people think something wrong about each other",
+      "sentence": "A small misunderstanding ended with laughter and warm handshakes.",
+      "wordImage": "images/37_misunderstanding_word.png",
+      "sentenceImage": "images/37_misunderstanding_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 38,
+      "word": "pursue",
+      "partOfSpeech": "v.",
+      "meaningKo": "추구하다",
+      "ipa": "/pərˈsuː/",
+      "definition": "to keep trying to reach a goal",
+      "sentence": "The young violinist will pursue her dream of playing well.",
+      "wordImage": "images/38_pursue_word.png",
+      "sentenceImage": "images/38_pursue_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 39,
+      "word": "deprived",
+      "partOfSpeech": "adj.",
+      "meaningKo": "빼앗긴",
+      "ipa": "/dɪˈpraɪvd/",
+      "definition": "not having something you really need",
+      "sentence": "The deprived seedlings grew slowly without enough warm sunlight.",
+      "wordImage": "images/39_deprived_word.png",
+      "sentenceImage": "images/39_deprived_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 40,
+      "word": "spell",
+      "partOfSpeech": "v.",
+      "meaningKo": "철자를 말하다",
+      "ipa": "/spel/",
+      "definition": "to say the letters of a word",
+      "sentence": "Can you spell the long name of that flower?",
+      "wordImage": "images/40_spell_word.png",
+      "sentenceImage": "images/40_spell_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

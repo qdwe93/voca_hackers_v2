@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 7,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY07-11",
+      "no": 11,
+      "word": "apologize",
+      "sentence": "He chose to apologize sincerely for breaking his classmate's pencil."
+    },
+    {
+      "wordId": "DAY07-12",
+      "no": 12,
+      "word": "refer",
+      "sentence": "Please refer to page twenty in the manual for instructions."
+    },
+    {
+      "wordId": "DAY07-13",
+      "no": 13,
+      "word": "colleague",
+      "sentence": "She worked with a trusted colleague to finish the report."
+    },
+    {
+      "wordId": "DAY07-14",
+      "no": 14,
+      "word": "rely",
+      "sentence": "Blind pedestrians rely on trained guide dogs to cross streets."
+    },
+    {
+      "wordId": "DAY07-15",
+      "no": 15,
+      "word": "mistake",
+      "sentence": "Making an honest mistake helps students learn better math methods."
+    },
+    {
+      "wordId": "DAY07-16",
+      "no": 16,
+      "word": "request",
+      "sentence": "Citizens request additional street lighting from the local town council."
+    },
+    {
+      "wordId": "DAY07-17",
+      "no": 17,
+      "word": "assume",
+      "sentence": "Do not assume the experiment outcome before recording your measurements."
+    },
+    {
+      "wordId": "DAY07-18",
+      "no": 18,
+      "word": "refuse",
+      "sentence": "Fair athletes refuse to use unfair advantages in sports games."
+    },
+    {
+      "wordId": "DAY07-19",
+      "no": 19,
+      "word": "reply",
+      "sentence": "The polite student will reply promptly to the teacher's question."
+    },
+    {
+      "wordId": "DAY07-20",
+      "no": 20,
+      "word": "degree",
+      "sentence": "The boiling water reached one hundred degree temperature on thermometer."
+    }
+  ]
+}

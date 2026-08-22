@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 7,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY07-21",
+      "no": 21,
+      "word": "capacity",
+      "sentence": "Students calculate the box's capacity using equal unit cubes."
+    },
+    {
+      "wordId": "DAY07-22",
+      "no": 22,
+      "word": "passion",
+      "sentence": "Today, painting sunsets is the young artist's greatest passion."
+    },
+    {
+      "wordId": "DAY07-23",
+      "no": 23,
+      "word": "surround",
+      "sentence": "Today, tall green trees surround the small pond in the park."
+    },
+    {
+      "wordId": "DAY07-24",
+      "no": 24,
+      "word": "indeed",
+      "sentence": "Today, the cake was indeed the sweetest one at the fair."
+    },
+    {
+      "wordId": "DAY07-25",
+      "no": 25,
+      "word": "imitate",
+      "sentence": "Today, baby monkeys imitate the way older monkeys peel bananas."
+    },
+    {
+      "wordId": "DAY07-26",
+      "no": 26,
+      "word": "bond",
+      "sentence": "One warm bond grew between the horse and the girl."
+    },
+    {
+      "wordId": "DAY07-27",
+      "no": 27,
+      "word": "obtain",
+      "sentence": "Today, the explorer hoped to obtain a map of the island."
+    },
+    {
+      "wordId": "DAY07-28",
+      "no": 28,
+      "word": "precious",
+      "sentence": "A precious blue stone shone within the old wooden box."
+    },
+    {
+      "wordId": "DAY07-29",
+      "no": 29,
+      "word": "contribute",
+      "sentence": "Two towns contribute workers and tools to repair the bridge."
+    },
+    {
+      "wordId": "DAY07-30",
+      "no": 30,
+      "word": "distribute",
+      "sentence": "Today, helpers distribute warm blankets to everyone at the camp."
+    }
+  ]
+}

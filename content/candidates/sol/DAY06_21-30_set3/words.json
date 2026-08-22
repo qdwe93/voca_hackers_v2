@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 6,
+  "range": "21-30",
+  "set": 3,
+  "title": "DAY 06 · 21-30",
+  "words": [
+    {
+      "no": 21,
+      "word": "discouraged",
+      "partOfSpeech": "adj.",
+      "meaningKo": "낙담한",
+      "definition": "feeling less confident after difficulty or failure",
+      "sentence": "The discouraged climber sits below the unfinished practice wall.",
+      "ipa": "/dɪskɝədʒd/",
+      "wordImage": "images/21_discouraged_word.png",
+      "sentenceImage": "images/21_discouraged_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 22,
+      "word": "stare",
+      "partOfSpeech": "v.",
+      "meaningKo": "빤히 보다",
+      "definition": "to look at something for a long time",
+      "sentence": "The curious owl will stare at the glowing moon.",
+      "ipa": "/stɛr/",
+      "wordImage": "images/22_stare_word.png",
+      "sentenceImage": "images/22_stare_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 23,
+      "word": "burst",
+      "partOfSpeech": "v.",
+      "meaningKo": "터지다",
+      "definition": "to break open suddenly",
+      "sentence": "The overfilled balloon may burst beside the startled clown.",
+      "ipa": "/bɝst/",
+      "wordImage": "images/23_burst_word.png",
+      "sentenceImage": "images/23_burst_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 24,
+      "word": "miserable",
+      "partOfSpeech": "adj.",
+      "meaningKo": "비참한",
+      "definition": "very unhappy or uncomfortable",
+      "sentence": "The miserable kitten sits beneath a dripping umbrella.",
+      "ipa": "/mɪzɚəbəl/",
+      "wordImage": "images/24_miserable_word.png",
+      "sentenceImage": "images/24_miserable_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 25,
+      "word": "embarrassed",
+      "partOfSpeech": "adj.",
+      "meaningKo": "당황한",
+      "definition": "feeling ashamed or uncomfortable about a mistake",
+      "sentence": "The embarrassed penguin sees its hat worn backward.",
+      "ipa": "/ɪmbɛrəst/",
+      "wordImage": "images/25_embarrassed_word.png",
+      "sentenceImage": "images/25_embarrassed_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 26,
+      "word": "hardly",
+      "partOfSpeech": "adv.",
+      "meaningKo": "거의 아니다",
+      "definition": "almost not or only a little",
+      "sentence": "The tiny candle hardly lights the large dark room.",
+      "ipa": "/hɑrdli/",
+      "wordImage": "images/26_hardly_word.png",
+      "sentenceImage": "images/26_hardly_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 27,
+      "word": "panic",
+      "partOfSpeech": "n.",
+      "meaningKo": "공황",
+      "definition": "a sudden strong feeling of fear or worry",
+      "sentence": "A brief panic spreads when the toy train rolls away.",
+      "ipa": "/pænɪk/",
+      "wordImage": "images/27_panic_word.png",
+      "sentenceImage": "images/27_panic_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 28,
+      "word": "correspond",
+      "partOfSpeech": "v.",
+      "meaningKo": "일치하다",
+      "definition": "to match or be connected with something",
+      "sentence": "Each colored key must correspond to the same colored lock.",
+      "ipa": "/kɔrəspɑnd/",
+      "wordImage": "images/28_correspond_word.png",
+      "sentenceImage": "images/28_correspond_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 29,
+      "word": "cruel",
+      "partOfSpeech": "adj.",
+      "meaningKo": "잔인한",
+      "definition": "causing pain or suffering without caring",
+      "sentence": "A cruel game character takes food from smaller creatures.",
+      "ipa": "/kruəl/",
+      "wordImage": "images/29_cruel_word.png",
+      "sentenceImage": "images/29_cruel_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 30,
+      "word": "crucial",
+      "partOfSpeech": "adj.",
+      "meaningKo": "결정적인",
+      "definition": "extremely important for success",
+      "sentence": "The final puzzle piece is crucial for completing the picture.",
+      "ipa": "/kruʃəl/",
+      "wordImage": "images/30_crucial_word.png",
+      "sentenceImage": "images/30_crucial_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

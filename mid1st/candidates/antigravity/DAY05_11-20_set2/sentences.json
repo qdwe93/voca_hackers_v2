@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 5,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY05-11",
+      "no": 11,
+      "word": "rather",
+      "sentence": "The morning gym session was rather difficult for beginning runners."
+    },
+    {
+      "wordId": "DAY05-12",
+      "no": 12,
+      "word": "straight",
+      "sentence": "Draw a straight line connecting points A and B precisely."
+    },
+    {
+      "wordId": "DAY05-13",
+      "no": 13,
+      "word": "meanwhile",
+      "sentence": "He rested quietly; meanwhile, his teammate continued practicing free throws."
+    },
+    {
+      "wordId": "DAY05-14",
+      "no": 14,
+      "word": "continuous",
+      "sentence": "Jogging requires continuous rhythmic breathing to maintain a steady pace."
+    },
+    {
+      "wordId": "DAY05-15",
+      "no": 15,
+      "word": "ordinary",
+      "sentence": "Taking ordinary daily walks improves physical fitness for people everywhere."
+    },
+    {
+      "wordId": "DAY05-16",
+      "no": 16,
+      "word": "relationship",
+      "sentence": "A positive relationship between diet and energy levels is proven."
+    },
+    {
+      "wordId": "DAY05-17",
+      "no": 17,
+      "word": "throat",
+      "sentence": "Warm honey tea soothed his dry throat after soccer practice."
+    },
+    {
+      "wordId": "DAY05-18",
+      "no": 18,
+      "word": "encounter",
+      "sentence": "Hikers may encounter sudden weather changes on high mountain trails."
+    },
+    {
+      "wordId": "DAY05-19",
+      "no": 19,
+      "word": "disturb",
+      "sentence": "Loud noise can disturb your natural sleep cycle at night."
+    },
+    {
+      "wordId": "DAY05-20",
+      "no": 20,
+      "word": "lead",
+      "sentence": "Experienced coaches lead their team through rigorous daily warm-up routines."
+    }
+  ]
+}

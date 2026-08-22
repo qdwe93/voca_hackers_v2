@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 9,
+  "range": "31-40",
+  "set": 4,
+  "items": [
+    {
+      "wordId": "DAY09-31",
+      "no": 31,
+      "word": "fundamental",
+      "sentence": "Honesty is a fundamental rule in every team we join."
+    },
+    {
+      "wordId": "DAY09-32",
+      "no": 32,
+      "word": "modify",
+      "sentence": "We modify one club rule so younger members can join."
+    },
+    {
+      "wordId": "DAY09-33",
+      "no": 33,
+      "word": "instinct",
+      "sentence": "Baby turtles follow instinct and crawl toward the bright sea."
+    },
+    {
+      "wordId": "DAY09-34",
+      "no": 34,
+      "word": "volunteer",
+      "sentence": "Each volunteer takes one task, so the village cleanup finishes quickly."
+    },
+    {
+      "wordId": "DAY09-35",
+      "no": 35,
+      "word": "conscious",
+      "sentence": "The resting hiker was conscious and knew where the group waited."
+    },
+    {
+      "wordId": "DAY09-36",
+      "no": 36,
+      "word": "tempt",
+      "sentence": "Warm cookies tempt the children waiting beside the kitchen door."
+    },
+    {
+      "wordId": "DAY09-37",
+      "no": 37,
+      "word": "humble",
+      "sentence": "The winning runner stayed humble and thanked every teammate quietly."
+    },
+    {
+      "wordId": "DAY09-38",
+      "no": 38,
+      "word": "ashamed",
+      "sentence": "I felt ashamed after forgetting my friend's birthday party."
+    },
+    {
+      "wordId": "DAY09-39",
+      "no": 39,
+      "word": "prejudice",
+      "sentence": "Real data about the island removed our prejudice about its people."
+    },
+    {
+      "wordId": "DAY09-40",
+      "no": 40,
+      "word": "order",
+      "sentence": "We placed the five fractions in order from smallest to largest."
+    }
+  ]
+}

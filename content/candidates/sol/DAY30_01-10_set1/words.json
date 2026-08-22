@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 30,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 30 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "magazine",
+      "partOfSpeech": "n.",
+      "meaningKo": "잡지",
+      "definition": "a regular publication with articles and pictures",
+      "sentence": "A colorful magazine lies open beside the reading chair.",
+      "ipa": "/mæɡəzin/",
+      "wordImage": "images/01_magazine_word.png",
+      "sentenceImage": "images/01_magazine_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "article",
+      "partOfSpeech": "n.",
+      "meaningKo": "기사",
+      "definition": "a piece of writing in a publication",
+      "sentence": "The newspaper article includes pictures of the new bridge.",
+      "ipa": "/ɑrtəkəl/",
+      "wordImage": "images/02_article_word.png",
+      "sentenceImage": "images/02_article_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "press",
+      "partOfSpeech": "n.",
+      "meaningKo": "언론",
+      "definition": "newspapers and reporters as a group",
+      "sentence": "The press gathers with cameras outside the town hall.",
+      "ipa": "/prɛs/",
+      "wordImage": "images/03_press_word.png",
+      "sentenceImage": "images/03_press_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "advertise",
+      "partOfSpeech": "v.",
+      "meaningKo": "광고하다",
+      "definition": "to publicly promote a product or event",
+      "sentence": "The bakery will advertise fresh bread using window pictures.",
+      "ipa": "/ædvɚtaɪz/",
+      "wordImage": "images/04_advertise_word.png",
+      "sentenceImage": "images/04_advertise_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "recent",
+      "partOfSpeech": "adj.",
+      "meaningKo": "최근의",
+      "definition": "happening not long ago",
+      "sentence": "Recent deep snow still covers the mountain trail.",
+      "ipa": "/risənt/",
+      "wordImage": "images/05_recent_word.png",
+      "sentenceImage": "images/05_recent_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "diverse",
+      "partOfSpeech": "adj.",
+      "meaningKo": "다양한",
+      "definition": "including many different types",
+      "sentence": "A diverse group of animals shares the forest pond.",
+      "ipa": "/daɪvɝs/",
+      "wordImage": "images/06_diverse_word.png",
+      "sentenceImage": "images/06_diverse_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "document",
+      "partOfSpeech": "n.",
+      "meaningKo": "문서",
+      "definition": "an official or written record",
+      "sentence": "A sealed document rests inside the plain folder.",
+      "ipa": "/dɑkjəmɛnt/",
+      "wordImage": "images/07_document_word.png",
+      "sentenceImage": "images/07_document_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "expert",
+      "partOfSpeech": "n.",
+      "meaningKo": "전문가",
+      "definition": "a person with special knowledge or skill",
+      "sentence": "The bird expert examines feathers through a magnifying glass.",
+      "ipa": "/ɛkspɚt/",
+      "wordImage": "images/08_expert_word.png",
+      "sentenceImage": "images/08_expert_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "explore",
+      "partOfSpeech": "v.",
+      "meaningKo": "탐험하다",
+      "definition": "to travel around and learn about a place",
+      "sentence": "The astronauts will explore a colorful cave on the moon.",
+      "ipa": "/ɪksplɔr/",
+      "wordImage": "images/09_explore_word.png",
+      "sentenceImage": "images/09_explore_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "explode",
+      "partOfSpeech": "v.",
+      "meaningKo": "폭발하다",
+      "definition": "to burst apart suddenly",
+      "sentence": "The overfilled cartoon balloon may explode into harmless confetti.",
+      "ipa": "/ɪksploʊd/",
+      "wordImage": "images/10_explode_word.png",
+      "sentenceImage": "images/10_explode_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

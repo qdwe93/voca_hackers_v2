@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 7,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY07-11",
+      "no": 11,
+      "word": "apologize",
+      "sentence": "We apologize for interrupting, then wait until our friend finishes."
+    },
+    {
+      "wordId": "DAY07-12",
+      "no": 12,
+      "word": "refer",
+      "sentence": "Please refer to the club calendar before choosing a meeting day."
+    },
+    {
+      "wordId": "DAY07-13",
+      "no": 13,
+      "word": "colleague",
+      "sentence": "My mother's colleague brought warm soup when our family moved."
+    },
+    {
+      "wordId": "DAY07-14",
+      "no": 14,
+      "word": "rely",
+      "sentence": "Younger children rely on the crossing guard every school morning."
+    },
+    {
+      "wordId": "DAY07-15",
+      "no": 15,
+      "word": "mistake",
+      "sentence": "Calling the wrong number was an honest mistake, not rudeness."
+    },
+    {
+      "wordId": "DAY07-16",
+      "no": 16,
+      "word": "request",
+      "sentence": "A polite request for help usually gets a friendly answer back."
+    },
+    {
+      "wordId": "DAY07-17",
+      "no": 17,
+      "word": "assume",
+      "sentence": "Do not assume the answer; check the writer's real evidence first."
+    },
+    {
+      "wordId": "DAY07-18",
+      "no": 18,
+      "word": "refuse",
+      "sentence": "You may refuse politely and explain why the plan feels difficult."
+    },
+    {
+      "wordId": "DAY07-19",
+      "no": 19,
+      "word": "reply",
+      "sentence": "I nod first, then reply that I understand my friend's worry."
+    },
+    {
+      "wordId": "DAY07-20",
+      "no": 20,
+      "word": "degree",
+      "sentence": "Turning the polygon's side one degree changes its interior and exterior angles."
+    }
+  ]
+}

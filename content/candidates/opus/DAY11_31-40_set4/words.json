@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 11,
+  "range": "31-40",
+  "set": 4,
+  "title": "DAY 11 · 31-40",
+  "words": [
+    {
+      "no": 31,
+      "word": "calculate",
+      "partOfSpeech": "v.",
+      "meaningKo": "계산하다",
+      "ipa": "/ˈkælkjuleɪt/",
+      "definition": "to work out an answer with numbers",
+      "sentence": "The robot can calculate the seeds needed for each row.",
+      "wordImage": "images/31_calculate_word.png",
+      "sentenceImage": "images/31_calculate_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 32,
+      "word": "opportunity",
+      "partOfSpeech": "n.",
+      "meaningKo": "기회",
+      "ipa": "/ˌɑːpərˈtuːnəti/",
+      "definition": "a good chance to do something",
+      "sentence": "Rainy days give a great opportunity for indoor board games.",
+      "wordImage": "images/32_opportunity_word.png",
+      "sentenceImage": "images/32_opportunity_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 33,
+      "word": "poetry",
+      "partOfSpeech": "n.",
+      "meaningKo": "시",
+      "ipa": "/ˈpoʊətri/",
+      "definition": "writing with short lines and pretty sounds",
+      "sentence": "The class wrote poetry about falling autumn leaves today.",
+      "wordImage": "images/33_poetry_word.png",
+      "sentenceImage": "images/33_poetry_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 34,
+      "word": "recall",
+      "partOfSpeech": "v.",
+      "meaningKo": "기억해내다",
+      "ipa": "/rɪˈkɔːl/",
+      "definition": "to remember something from before",
+      "sentence": "Can you recall the name of that tiny island?",
+      "wordImage": "images/34_recall_word.png",
+      "sentenceImage": "images/34_recall_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 35,
+      "word": "inferior",
+      "partOfSpeech": "adj.",
+      "meaningKo": "열등한",
+      "ipa": "/ɪnˈfɪriər/",
+      "definition": "not as good as something else",
+      "sentence": "The paper kite was inferior to the strong silk one.",
+      "wordImage": "images/35_inferior_word.png",
+      "sentenceImage": "images/35_inferior_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 36,
+      "word": "spirit",
+      "partOfSpeech": "n.",
+      "meaningKo": "정신",
+      "ipa": "/ˈspɪrɪt/",
+      "definition": "the feeling or mood inside a person",
+      "sentence": "The team kept a cheerful spirit through the long game.",
+      "wordImage": "images/36_spirit_word.png",
+      "sentenceImage": "images/36_spirit_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 37,
+      "word": "fade",
+      "partOfSpeech": "v.",
+      "meaningKo": "희미해지다",
+      "ipa": "/feɪd/",
+      "definition": "to slowly become weaker or lighter",
+      "sentence": "The bright poster colors fade after many sunny days.",
+      "wordImage": "images/37_fade_word.png",
+      "sentenceImage": "images/37_fade_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 38,
+      "word": "generation",
+      "partOfSpeech": "n.",
+      "meaningKo": "세대",
+      "ipa": "/ˌdʒenəˈreɪʃn/",
+      "definition": "all the people born around the same time",
+      "sentence": "Each generation of birds returns to the same green cliff.",
+      "wordImage": "images/38_generation_word.png",
+      "sentenceImage": "images/38_generation_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 39,
+      "word": "masterpiece",
+      "partOfSpeech": "n.",
+      "meaningKo": "걸작",
+      "ipa": "/ˈmæstərpiːs/",
+      "definition": "the very best work someone has made",
+      "sentence": "The painter called this bright mural her greatest masterpiece.",
+      "wordImage": "images/39_masterpiece_word.png",
+      "sentenceImage": "images/39_masterpiece_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 40,
+      "word": "figure",
+      "partOfSpeech": "n.",
+      "meaningKo": "인물",
+      "ipa": "/ˈfɪɡjər/",
+      "definition": "the shape of a person or thing",
+      "sentence": "A tall figure appeared through the soft morning mist.",
+      "wordImage": "images/40_figure_word.png",
+      "sentenceImage": "images/40_figure_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 27,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 27 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "politics",
+      "partOfSpeech": "n.",
+      "meaningKo": "정치",
+      "ipa": "/ˈpɑːlətɪks/",
+      "definition": "the work of leading a town or country",
+      "sentence": "Class politics decided who would plan the spring festival.",
+      "wordImage": "images/01_politics_word.png",
+      "sentenceImage": "images/01_politics_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "facility",
+      "partOfSpeech": "n.",
+      "meaningKo": "시설",
+      "ipa": "/fəˈsɪləti/",
+      "definition": "a building made for one special use",
+      "sentence": "The new sports facility opened beside the town park.",
+      "wordImage": "images/02_facility_word.png",
+      "sentenceImage": "images/02_facility_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "vote",
+      "partOfSpeech": "v.",
+      "meaningKo": "투표하다",
+      "ipa": "/voʊt/",
+      "definition": "to choose by raising a hand or paper",
+      "sentence": "Students vote for the best name for the garden.",
+      "wordImage": "images/03_vote_word.png",
+      "sentenceImage": "images/03_vote_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "candidate",
+      "partOfSpeech": "n.",
+      "meaningKo": "후보자",
+      "ipa": "/ˈkændɪdət/",
+      "definition": "a person hoping to be chosen",
+      "sentence": "Each candidate shared one idea for a kinder classroom.",
+      "wordImage": "images/04_candidate_word.png",
+      "sentenceImage": "images/04_candidate_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "civil",
+      "partOfSpeech": "adj.",
+      "meaningKo": "시민의",
+      "ipa": "/ˈsɪvl/",
+      "definition": "about the people of a town",
+      "sentence": "Civil groups planted trees along the wide main street.",
+      "wordImage": "images/05_civil_word.png",
+      "sentenceImage": "images/05_civil_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "limit",
+      "partOfSpeech": "n.",
+      "meaningKo": "제한",
+      "ipa": "/ˈlɪmɪt/",
+      "definition": "the largest amount that is allowed",
+      "sentence": "The boat has a limit of six small passengers.",
+      "wordImage": "images/06_limit_word.png",
+      "sentenceImage": "images/06_limit_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "conservative",
+      "partOfSpeech": "adj.",
+      "meaningKo": "보수적인",
+      "ipa": "/kənˈsɜːrvətɪv/",
+      "definition": "liking old ways and careful change",
+      "sentence": "The conservative baker keeps the same recipe every year.",
+      "wordImage": "images/07_conservative_word.png",
+      "sentenceImage": "images/07_conservative_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "belong",
+      "partOfSpeech": "v.",
+      "meaningKo": "속하다",
+      "ipa": "/bɪˈlɔːŋ/",
+      "definition": "to be part of a group",
+      "sentence": "These red boots belong to the smallest team member.",
+      "wordImage": "images/08_belong_word.png",
+      "sentenceImage": "images/08_belong_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "official",
+      "partOfSpeech": "adj.",
+      "meaningKo": "공식적인",
+      "ipa": "/əˈfɪʃl/",
+      "definition": "approved and made by the people in charge",
+      "sentence": "The official flag flew above the small town hall.",
+      "wordImage": "images/09_official_word.png",
+      "sentenceImage": "images/09_official_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "officer",
+      "partOfSpeech": "n.",
+      "meaningKo": "담당자",
+      "ipa": "/ˈɔːfɪsər/",
+      "definition": "a person with a job of helping others",
+      "sentence": "A friendly park officer showed visitors the safest path.",
+      "wordImage": "images/10_officer_word.png",
+      "sentenceImage": "images/10_officer_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

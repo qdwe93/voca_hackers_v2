@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 8,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 08 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "comment",
+      "partOfSpeech": "n.",
+      "meaningKo": "논평",
+      "definition": "a spoken or written opinion about something",
+      "sentence": "The judge gives a comment while pointing at the sculpture.",
+      "ipa": "/kɑmɛnt/",
+      "wordImage": "images/01_comment_word.png",
+      "sentenceImage": "images/01_comment_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "popular",
+      "partOfSpeech": "adj.",
+      "meaningKo": "인기 있는",
+      "definition": "liked or enjoyed by many people",
+      "sentence": "The popular playground swing has a line of waiting children.",
+      "ipa": "/pɑpjəlɚ/",
+      "wordImage": "images/02_popular_word.png",
+      "sentenceImage": "images/02_popular_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "develop",
+      "partOfSpeech": "v.",
+      "meaningKo": "발달시키다",
+      "definition": "to grow or cause something to become more advanced",
+      "sentence": "Practice will gradually develop the robot's balancing skill.",
+      "ipa": "/dɪvɛləp/",
+      "wordImage": "images/03_develop_word.png",
+      "sentenceImage": "images/03_develop_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "moment",
+      "partOfSpeech": "n.",
+      "meaningKo": "잠깐",
+      "definition": "a very short period of time",
+      "sentence": "For one moment the butterfly rests on the flower.",
+      "ipa": "/moʊmənt/",
+      "wordImage": "images/04_moment_word.png",
+      "sentenceImage": "images/04_moment_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "public",
+      "partOfSpeech": "adj.",
+      "meaningKo": "공공의",
+      "definition": "open or available for everyone to use",
+      "sentence": "A public garden welcomes families through its wide gate.",
+      "ipa": "/pʌblɪk/",
+      "wordImage": "images/05_public_word.png",
+      "sentenceImage": "images/05_public_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "promise",
+      "partOfSpeech": "v.",
+      "meaningKo": "약속하다",
+      "definition": "to say firmly that you will do something",
+      "sentence": "The child will promise to return the borrowed toy tomorrow.",
+      "ipa": "/prɑməs/",
+      "wordImage": "images/06_promise_word.png",
+      "sentenceImage": "images/06_promise_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "select",
+      "partOfSpeech": "v.",
+      "meaningKo": "고르다",
+      "definition": "to carefully choose from several options",
+      "sentence": "The artist will select a blue brush from the jar.",
+      "ipa": "/səlɛkt/",
+      "wordImage": "images/07_select_word.png",
+      "sentenceImage": "images/07_select_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "pleasure",
+      "partOfSpeech": "n.",
+      "meaningKo": "기쁨",
+      "definition": "a feeling of happiness or enjoyment",
+      "sentence": "The puppy's playful dance brings pleasure to the children.",
+      "ipa": "/plɛʒɚ/",
+      "wordImage": "images/08_pleasure_word.png",
+      "sentenceImage": "images/08_pleasure_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "involve",
+      "partOfSpeech": "v.",
+      "meaningKo": "포함하다",
+      "definition": "to include someone or something as a necessary part",
+      "sentence": "The science project will involve measuring three growing plants.",
+      "ipa": "/ɪnvɑlv/",
+      "wordImage": "images/09_involve_word.png",
+      "sentenceImage": "images/09_involve_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "evolve",
+      "partOfSpeech": "v.",
+      "meaningKo": "진화하다",
+      "definition": "to develop gradually over a long time",
+      "sentence": "The creature will evolve from a simple form into another.",
+      "ipa": "/ɪvɑlv/",
+      "wordImage": "images/10_evolve_word.png",
+      "sentenceImage": "images/10_evolve_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

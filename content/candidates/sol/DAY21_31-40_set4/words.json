@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 21,
+  "range": "31-40",
+  "set": 4,
+  "title": "DAY 21 · 31-40",
+  "words": [
+    {
+      "no": 31,
+      "word": "overcome",
+      "partOfSpeech": "v.",
+      "meaningKo": "극복하다",
+      "definition": "to succeed against a difficulty",
+      "sentence": "The small game hero will overcome the final maze.",
+      "ipa": "/oʊvɚkəm/",
+      "wordImage": "images/31_overcome_word.png",
+      "sentenceImage": "images/31_overcome_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 32,
+      "word": "tiny",
+      "partOfSpeech": "adj.",
+      "meaningKo": "아주 작은",
+      "definition": "extremely small",
+      "sentence": "A tiny frog sits beside an enormous green leaf.",
+      "ipa": "/taɪni/",
+      "wordImage": "images/32_tiny_word.png",
+      "sentenceImage": "images/32_tiny_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 33,
+      "word": "exceed",
+      "partOfSpeech": "v.",
+      "meaningKo": "초과하다",
+      "definition": "to be greater than a limit",
+      "sentence": "The tower will exceed the height of the measuring pole.",
+      "ipa": "/ɪksid/",
+      "wordImage": "images/33_exceed_word.png",
+      "sentenceImage": "images/33_exceed_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 34,
+      "word": "bury",
+      "partOfSpeech": "v.",
+      "meaningKo": "묻다",
+      "definition": "to put something under the ground",
+      "sentence": "The squirrel will bury an acorn beneath soft soil.",
+      "ipa": "/bɛri/",
+      "wordImage": "images/34_bury_word.png",
+      "sentenceImage": "images/34_bury_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 35,
+      "word": "stem",
+      "partOfSpeech": "n.",
+      "meaningKo": "줄기",
+      "definition": "the main stalk supporting a plant",
+      "sentence": "The thick stem holds the tall sunflower upright.",
+      "ipa": "/stɛm/",
+      "wordImage": "images/35_stem_word.png",
+      "sentenceImage": "images/35_stem_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 36,
+      "word": "diameter",
+      "partOfSpeech": "n.",
+      "meaningKo": "지름",
+      "definition": "a straight line across a circle's center",
+      "sentence": "A rope shows the diameter across the round pond.",
+      "ipa": "/daɪæmətɚ/",
+      "wordImage": "images/36_diameter_word.png",
+      "sentenceImage": "images/36_diameter_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 37,
+      "word": "fascinate",
+      "partOfSpeech": "v.",
+      "meaningKo": "매료시키다",
+      "definition": "to hold someone's interest completely",
+      "sentence": "Glowing deep-sea creatures fascinate the young visitors.",
+      "ipa": "/fæsəneɪt/",
+      "wordImage": "images/37_fascinate_word.png",
+      "sentenceImage": "images/37_fascinate_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 38,
+      "word": "furthermore",
+      "partOfSpeech": "adv.",
+      "meaningKo": "더욱이",
+      "definition": "in addition to what was said",
+      "sentence": "The cave is wide; furthermore it contains sparkling crystals.",
+      "ipa": "/fɝðɚmɔr/",
+      "wordImage": "images/38_furthermore_word.png",
+      "sentenceImage": "images/38_furthermore_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 39,
+      "word": "concentrate",
+      "partOfSpeech": "v.",
+      "meaningKo": "집중하다",
+      "definition": "to give full attention to something",
+      "sentence": "The player will concentrate on balancing the final block.",
+      "ipa": "/kɑnsəntreɪt/",
+      "wordImage": "images/39_concentrate_word.png",
+      "sentenceImage": "images/39_concentrate_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 40,
+      "word": "general",
+      "partOfSpeech": "adj.",
+      "meaningKo": "일반적인",
+      "definition": "including the main features but not details",
+      "sentence": "The map gives a general view of the island.",
+      "ipa": "/dʒɛnɚəl/",
+      "wordImage": "images/40_general_word.png",
+      "sentenceImage": "images/40_general_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

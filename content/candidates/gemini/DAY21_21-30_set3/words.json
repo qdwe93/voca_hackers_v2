@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 21,
+  "range": "21-30",
+  "set": 3,
+  "title": "DAY 21 · 21-30",
+  "words": [
+    {
+      "no": 21,
+      "word": "attract",
+      "partOfSpeech": "v.",
+      "meaningKo": "끌어당기다, 유인하다",
+      "ipa": "/əˈtrækt/",
+      "definition": "to pull something toward itself by natural physical force",
+      "sentence": "Bright sweet flowers attract buzzing honeybees and colorful butterflies.",
+      "wordImage": "images/21_attract_word.png",
+      "sentenceImage": "images/21_attract_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 22,
+      "word": "poison",
+      "partOfSpeech": "n.",
+      "meaningKo": "독, 독극물",
+      "ipa": "/ˈpɔɪ.zən/",
+      "definition": "a substance that can cause illness if swallowed or absorbed",
+      "sentence": "Some wild red berries contain natural poison to protect themselves.",
+      "wordImage": "images/22_poison_word.png",
+      "sentenceImage": "images/22_poison_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 23,
+      "word": "weigh",
+      "partOfSpeech": "v.",
+      "meaningKo": "무게를 달다, 무게가 나가다",
+      "ipa": "/weɪ/",
+      "definition": "to measure how heavy someone or something is",
+      "sentence": "The baker used a kitchen scale to weigh the flour.",
+      "wordImage": "images/23_weigh_word.png",
+      "sentenceImage": "images/23_weigh_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 24,
+      "word": "automatic",
+      "partOfSpeech": "adj.",
+      "meaningKo": "자동의",
+      "ipa": "/ˌɑː.t̬əˈmæt̬.ɪk/",
+      "definition": "working by itself with little or no direct human control",
+      "sentence": "The greenhouse has an automatic watering system for potted flowers.",
+      "wordImage": "images/24_automatic_word.png",
+      "sentenceImage": "images/24_automatic_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 25,
+      "word": "role",
+      "partOfSpeech": "n.",
+      "meaningKo": "역할, 배역",
+      "ipa": "/roʊl/",
+      "definition": "the position, purpose, or part played by someone or something",
+      "sentence": "Every team member has an important role in our project.",
+      "wordImage": "images/25_role_word.png",
+      "sentenceImage": "images/25_role_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 26,
+      "word": "exchange",
+      "partOfSpeech": "v.",
+      "meaningKo": "교환하다, 주고받다",
+      "ipa": "/ɪksˈtʃeɪndʒ/",
+      "definition": "to give something and receive something of equal value back",
+      "sentence": "Students love to exchange colorful friendship cards during holiday celebrations.",
+      "wordImage": "images/26_exchange_word.png",
+      "sentenceImage": "images/26_exchange_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 27,
+      "word": "contain",
+      "partOfSpeech": "v.",
+      "meaningKo": "포함하다, 담고 있다",
+      "ipa": "/kənˈteɪn/",
+      "definition": "to have something inside or include something as a part",
+      "sentence": "These fresh oranges contain plenty of healthy natural vitamin C.",
+      "wordImage": "images/27_contain_word.png",
+      "sentenceImage": "images/27_contain_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 28,
+      "word": "trail",
+      "partOfSpeech": "n.",
+      "meaningKo": "오솔길, 자국",
+      "ipa": "/treɪl/",
+      "definition": "a path through the countryside, mountain, or forest",
+      "sentence": "We followed a gentle wooden trail through the pine forest.",
+      "wordImage": "images/28_trail_word.png",
+      "sentenceImage": "images/28_trail_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 29,
+      "word": "trait",
+      "partOfSpeech": "n.",
+      "meaningKo": "특성, 특색",
+      "ipa": "/treɪt/",
+      "definition": "a particular characteristic or quality that someone has",
+      "sentence": "Curiosity is a wonderful personality trait of young scientists.",
+      "wordImage": "images/29_trait_word.png",
+      "sentenceImage": "images/29_trait_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 30,
+      "word": "trial",
+      "partOfSpeech": "n.",
+      "meaningKo": "시험, 시도, 재판",
+      "ipa": "/traɪəl/",
+      "definition": "a test of the performance, qualities, or suitability of something",
+      "sentence": "The engineers ran a successful speed trial for the car.",
+      "wordImage": "images/30_trial_word.png",
+      "sentenceImage": "images/30_trial_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

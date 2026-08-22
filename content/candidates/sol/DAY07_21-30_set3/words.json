@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 7,
+  "range": "21-30",
+  "set": 3,
+  "title": "DAY 07 · 21-30",
+  "words": [
+    {
+      "no": 21,
+      "word": "capacity",
+      "partOfSpeech": "n.",
+      "meaningKo": "용량",
+      "definition": "the greatest amount a container can hold",
+      "sentence": "The tiny cup has less capacity than the bucket.",
+      "ipa": "/kəpæsəti/",
+      "wordImage": "images/21_capacity_word.png",
+      "sentenceImage": "images/21_capacity_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 22,
+      "word": "passion",
+      "partOfSpeech": "n.",
+      "meaningKo": "열정",
+      "definition": "a very strong interest or love for something",
+      "sentence": "The young painter shows passion while finishing a colorful mural.",
+      "ipa": "/pæʃən/",
+      "wordImage": "images/22_passion_word.png",
+      "sentenceImage": "images/22_passion_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 23,
+      "word": "surround",
+      "partOfSpeech": "v.",
+      "meaningKo": "둘러싸다",
+      "definition": "to be on every side of something",
+      "sentence": "Tall sunflowers surround the small wooden garden bench.",
+      "ipa": "/sɚaʊnd/",
+      "wordImage": "images/23_surround_word.png",
+      "sentenceImage": "images/23_surround_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 24,
+      "word": "indeed",
+      "partOfSpeech": "adv.",
+      "meaningKo": "실제로",
+      "definition": "used to emphasize that something is certainly true",
+      "sentence": "The tiny seed indeed grows into an enormous sunflower.",
+      "ipa": "/ɪndid/",
+      "wordImage": "images/24_indeed_word.png",
+      "sentenceImage": "images/24_indeed_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 25,
+      "word": "imitate",
+      "partOfSpeech": "v.",
+      "meaningKo": "흉내 내다",
+      "definition": "to copy someone's actions or sounds",
+      "sentence": "The parrot will imitate the drummer's steady head movements.",
+      "ipa": "/ɪməteɪt/",
+      "wordImage": "images/25_imitate_word.png",
+      "sentenceImage": "images/25_imitate_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 26,
+      "word": "bond",
+      "partOfSpeech": "n.",
+      "meaningKo": "유대",
+      "definition": "a close connection between people or animals",
+      "sentence": "Daily walks create a strong bond between dog and owner.",
+      "ipa": "/bɑnd/",
+      "wordImage": "images/26_bond_word.png",
+      "sentenceImage": "images/26_bond_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 27,
+      "word": "obtain",
+      "partOfSpeech": "v.",
+      "meaningKo": "얻다",
+      "definition": "to get something through effort",
+      "sentence": "The explorer will obtain the key after solving the puzzle.",
+      "ipa": "/əbteɪn/",
+      "wordImage": "images/27_obtain_word.png",
+      "sentenceImage": "images/27_obtain_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 28,
+      "word": "precious",
+      "partOfSpeech": "adj.",
+      "meaningKo": "소중한",
+      "definition": "very valuable or deeply loved",
+      "sentence": "The child protects a precious family photograph inside a box.",
+      "ipa": "/prɛʃəs/",
+      "wordImage": "images/28_precious_word.png",
+      "sentenceImage": "images/28_precious_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 29,
+      "word": "contribute",
+      "partOfSpeech": "v.",
+      "meaningKo": "기부하다",
+      "definition": "to give something that helps a shared effort",
+      "sentence": "Each neighbor will contribute one plant to the community garden.",
+      "ipa": "/kəntrɪbjut/",
+      "wordImage": "images/29_contribute_word.png",
+      "sentenceImage": "images/29_contribute_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 30,
+      "word": "distribute",
+      "partOfSpeech": "v.",
+      "meaningKo": "나누어 주다",
+      "definition": "to give things to several people",
+      "sentence": "The helper will distribute fruit equally among the children.",
+      "ipa": "/dɪstrɪbjut/",
+      "wordImage": "images/30_distribute_word.png",
+      "sentenceImage": "images/30_distribute_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

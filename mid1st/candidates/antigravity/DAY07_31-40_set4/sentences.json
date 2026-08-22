@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 7,
+  "range": "31-40",
+  "set": 4,
+  "items": [
+    {
+      "wordId": "DAY07-31",
+      "no": 31,
+      "word": "reject",
+      "sentence": "The editor had to reject the article because of inaccuracies."
+    },
+    {
+      "wordId": "DAY07-32",
+      "no": 32,
+      "word": "gaze",
+      "sentence": "Astronomers gaze at distant glowing stars through the optical telescope."
+    },
+    {
+      "wordId": "DAY07-33",
+      "no": 33,
+      "word": "cherish",
+      "sentence": "We cherish old family photographs preserved in our history album."
+    },
+    {
+      "wordId": "DAY07-34",
+      "no": 34,
+      "word": "hospitality",
+      "sentence": "The village elders welcomed the travelers with warm local hospitality."
+    },
+    {
+      "wordId": "DAY07-35",
+      "no": 35,
+      "word": "uncover",
+      "sentence": "Archaeologists uncover ancient clay pottery buried deep beneath the sand."
+    },
+    {
+      "wordId": "DAY07-36",
+      "no": 36,
+      "word": "casual",
+      "sentence": "He wore a comfortable casual shirt to the weekend picnic."
+    },
+    {
+      "wordId": "DAY07-37",
+      "no": 37,
+      "word": "mutual",
+      "sentence": "A lasting friendship requires mutual respect between two caring partners."
+    },
+    {
+      "wordId": "DAY07-38",
+      "no": 38,
+      "word": "farewell",
+      "sentence": "The class organized a farewell party for their departing teacher."
+    },
+    {
+      "wordId": "DAY07-39",
+      "no": 39,
+      "word": "owe",
+      "sentence": "I owe a sincere debt of gratitude to my parents."
+    },
+    {
+      "wordId": "DAY07-40",
+      "no": 40,
+      "word": "treat",
+      "sentence": "Doctors treat injured patients with gentle care in emergency rooms."
+    }
+  ]
+}

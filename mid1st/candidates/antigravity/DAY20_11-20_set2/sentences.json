@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 20,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY20-11",
+      "no": 11,
+      "word": "guess",
+      "sentence": "Can you guess which train arrival time is listed on board?"
+    },
+    {
+      "wordId": "DAY20-12",
+      "no": 12,
+      "word": "temperature",
+      "sentence": "The thermometer measures rising temperature inside the sealed glass laboratory container."
+    },
+    {
+      "wordId": "DAY20-13",
+      "no": 13,
+      "word": "passage",
+      "sentence": "A narrow pedestrian passage connects the train station to shopping street."
+    },
+    {
+      "wordId": "DAY20-14",
+      "no": 14,
+      "word": "flat",
+      "sentence": "Draw a flat geometric plane on the whiteboard using straight lines."
+    },
+    {
+      "wordId": "DAY20-15",
+      "no": 15,
+      "word": "enormous",
+      "sentence": "The container ship carried an enormous cargo of international shipping containers."
+    },
+    {
+      "wordId": "DAY20-16",
+      "no": 16,
+      "word": "accurate",
+      "sentence": "GPS receivers provide accurate geographic positioning data for commercial aviation navigation."
+    },
+    {
+      "wordId": "DAY20-17",
+      "no": 17,
+      "word": "freeze",
+      "sentence": "Water in puddle will freeze into solid ice during cold night."
+    },
+    {
+      "wordId": "DAY20-18",
+      "no": 18,
+      "word": "gear",
+      "sentence": "Cyclists inspect their protective safety gear before embarking on long rides."
+    },
+    {
+      "wordId": "DAY20-19",
+      "no": 19,
+      "word": "fuel",
+      "sentence": "Aviation fuel powers jet turbine engines during long transcontinental passenger flights."
+    },
+    {
+      "wordId": "DAY20-20",
+      "no": 20,
+      "word": "miss",
+      "sentence": "Hurry so you do not miss the last evening express bus."
+    }
+  ]
+}

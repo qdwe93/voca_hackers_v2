@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 3,
+  "range": "31-40",
+  "set": 4,
+  "title": "DAY 03 · 31-40",
+  "words": [
+    {
+      "no": 31,
+      "word": "capital",
+      "partOfSpeech": "n.",
+      "meaningKo": "수도",
+      "definition": "the city where a country's government is based",
+      "sentence": "The capital contains government buildings around a central square.",
+      "ipa": "/kæpətəl/",
+      "wordImage": "images/31_capital_word.png",
+      "sentenceImage": "images/31_capital_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 32,
+      "word": "absolute",
+      "partOfSpeech": "adj.",
+      "meaningKo": "완전한",
+      "definition": "complete and not limited in any way",
+      "sentence": "Absolute silence fills the dark cave after everyone stops moving.",
+      "ipa": "/æbsəlut/",
+      "wordImage": "images/32_absolute_word.png",
+      "sentenceImage": "images/32_absolute_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 33,
+      "word": "anticipate",
+      "partOfSpeech": "v.",
+      "meaningKo": "예상하다",
+      "definition": "to expect something and prepare for it",
+      "sentence": "The campers anticipate rain and carry bright umbrellas.",
+      "ipa": "/æntɪsəpeɪt/",
+      "wordImage": "images/33_anticipate_word.png",
+      "sentenceImage": "images/33_anticipate_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 34,
+      "word": "leisure",
+      "partOfSpeech": "n.",
+      "meaningKo": "여가",
+      "definition": "free time when you are not working",
+      "sentence": "The family plays a board game during their leisure.",
+      "ipa": "/lɛʒɚ/",
+      "wordImage": "images/34_leisure_word.png",
+      "sentenceImage": "images/34_leisure_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 35,
+      "word": "undergo",
+      "partOfSpeech": "v.",
+      "meaningKo": "겪다",
+      "definition": "to experience a difficult process or change",
+      "sentence": "The old bridge will undergo careful repairs this week.",
+      "ipa": "/əndɚɡoʊ/",
+      "wordImage": "images/35_undergo_word.png",
+      "sentenceImage": "images/35_undergo_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 36,
+      "word": "spare",
+      "partOfSpeech": "adj.",
+      "meaningKo": "여분의",
+      "definition": "extra and available when needed",
+      "sentence": "The cyclist carries a spare tire beside the backpack.",
+      "ipa": "/spɛr/",
+      "wordImage": "images/36_spare_word.png",
+      "sentenceImage": "images/36_spare_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 37,
+      "word": "aquarium",
+      "partOfSpeech": "n.",
+      "meaningKo": "수족관",
+      "definition": "a clear tank or building for keeping water animals",
+      "sentence": "Colorful fish swim through plants inside the large aquarium.",
+      "ipa": "/əkwɛriəm/",
+      "wordImage": "images/37_aquarium_word.png",
+      "sentenceImage": "images/37_aquarium_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 38,
+      "word": "applaud",
+      "partOfSpeech": "v.",
+      "meaningKo": "박수 치다",
+      "definition": "to clap hands to show approval or enjoyment",
+      "sentence": "The audience will applaud the dancers after their final pose.",
+      "ipa": "/əplɔd/",
+      "wordImage": "images/38_applaud_word.png",
+      "sentenceImage": "images/38_applaud_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 39,
+      "word": "insurance",
+      "partOfSpeech": "n.",
+      "meaningKo": "보험",
+      "definition": "protection against loss provided through regular payments",
+      "sentence": "The broken bicycle has insurance for unexpected repairs.",
+      "ipa": "/ɪnʃʊrəns/",
+      "wordImage": "images/39_insurance_word.png",
+      "sentenceImage": "images/39_insurance_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 40,
+      "word": "return",
+      "partOfSpeech": "v.",
+      "meaningKo": "돌려주다",
+      "definition": "to give or take something back",
+      "sentence": "The student will return the borrowed book to the librarian.",
+      "ipa": "/rɪtɝn/",
+      "wordImage": "images/40_return_word.png",
+      "sentenceImage": "images/40_return_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

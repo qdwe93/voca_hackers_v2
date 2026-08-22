@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 15,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY15-01",
+      "no": 1,
+      "word": "university",
+      "sentence": "My cousin studies plant science at a nearby university."
+    },
+    {
+      "wordId": "DAY15-02",
+      "no": 2,
+      "word": "education",
+      "sentence": "Free education helps every child in this town read well."
+    },
+    {
+      "wordId": "DAY15-03",
+      "no": 3,
+      "word": "focus",
+      "sentence": "Please focus on the map while I read the directions."
+    },
+    {
+      "wordId": "DAY15-04",
+      "no": 4,
+      "word": "entry",
+      "sentence": "Visitors line up at the museum entry before nine o'clock."
+    },
+    {
+      "wordId": "DAY15-05",
+      "no": 5,
+      "word": "medical",
+      "sentence": "The medical students practiced washing hands for one full minute."
+    },
+    {
+      "wordId": "DAY15-06",
+      "no": 6,
+      "word": "accept",
+      "sentence": "Our teacher will accept the report until Friday afternoon."
+    },
+    {
+      "wordId": "DAY15-07",
+      "no": 7,
+      "word": "pioneer",
+      "sentence": "This scientist was a pioneer of Korean weather research."
+    },
+    {
+      "wordId": "DAY15-08",
+      "no": 8,
+      "word": "mathematics",
+      "sentence": "In mathematics we study numbers, angles, and simple shapes."
+    },
+    {
+      "wordId": "DAY15-09",
+      "no": 9,
+      "word": "professor",
+      "sentence": "A friendly professor showed us the university's old book room."
+    },
+    {
+      "wordId": "DAY15-10",
+      "no": 10,
+      "word": "profession",
+      "sentence": "Nursing is a profession that needs three years of training."
+    }
+  ]
+}

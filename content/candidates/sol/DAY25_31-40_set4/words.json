@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 25,
+  "range": "31-40",
+  "set": 4,
+  "title": "DAY 25 · 31-40",
+  "words": [
+    {
+      "no": 31,
+      "word": "extinction",
+      "partOfSpeech": "n.",
+      "meaningKo": "멸종",
+      "definition": "the complete disappearance of a species",
+      "sentence": "The museum explains extinction with an empty habitat display.",
+      "ipa": "/ɪkstɪŋkʃən/",
+      "wordImage": "images/31_extinction_word.png",
+      "sentenceImage": "images/31_extinction_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 32,
+      "word": "superior",
+      "partOfSpeech": "adj.",
+      "meaningKo": "우수한",
+      "definition": "better in quality than another",
+      "sentence": "The superior filter makes the muddy water much clearer.",
+      "ipa": "/supɪriɚ/",
+      "wordImage": "images/32_superior_word.png",
+      "sentenceImage": "images/32_superior_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 33,
+      "word": "consequence",
+      "partOfSpeech": "n.",
+      "meaningKo": "결과",
+      "definition": "a result of an action or choice",
+      "sentence": "A flooded path is one consequence of heavy rain.",
+      "ipa": "/kɑnsəkwəns/",
+      "wordImage": "images/33_consequence_word.png",
+      "sentenceImage": "images/33_consequence_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 34,
+      "word": "fabric",
+      "partOfSpeech": "n.",
+      "meaningKo": "직물",
+      "definition": "cloth made by weaving or knitting fibers",
+      "sentence": "Colorful fabric hangs in rolls beside the tailor.",
+      "ipa": "/fæbrɪk/",
+      "wordImage": "images/34_fabric_word.png",
+      "sentenceImage": "images/34_fabric_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 35,
+      "word": "interrupt",
+      "partOfSpeech": "v.",
+      "meaningKo": "방해하다",
+      "definition": "to stop something briefly before it finishes",
+      "sentence": "A ringing bell may interrupt the quiet lesson.",
+      "ipa": "/ɪntɚʌpt/",
+      "wordImage": "images/35_interrupt_word.png",
+      "sentenceImage": "images/35_interrupt_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 36,
+      "word": "concrete",
+      "partOfSpeech": "n.",
+      "meaningKo": "콘크리트",
+      "definition": "a hard building material made from cement and stone",
+      "sentence": "Wet concrete fills the mold for the new path.",
+      "ipa": "/kənkrit/",
+      "wordImage": "images/36_concrete_word.png",
+      "sentenceImage": "images/36_concrete_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 37,
+      "word": "acknowledge",
+      "partOfSpeech": "v.",
+      "meaningKo": "인정하다",
+      "definition": "to accept or show that something is true",
+      "sentence": "The captain will acknowledge the helper's important contribution.",
+      "ipa": "/æknɑlɪdʒ/",
+      "wordImage": "images/37_acknowledge_word.png",
+      "sentenceImage": "images/37_acknowledge_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 38,
+      "word": "considerable",
+      "partOfSpeech": "adj.",
+      "meaningKo": "상당한",
+      "definition": "large enough to be noticed or important",
+      "sentence": "A considerable pile of snow blocks the cabin door.",
+      "ipa": "/kənsɪdɚəbəl/",
+      "wordImage": "images/38_considerable_word.png",
+      "sentenceImage": "images/38_considerable_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 39,
+      "word": "discard",
+      "partOfSpeech": "v.",
+      "meaningKo": "버리다",
+      "definition": "to throw away something no longer wanted",
+      "sentence": "The child will discard the cracked cup into recycling.",
+      "ipa": "/dɪskɑrd/",
+      "wordImage": "images/39_discard_word.png",
+      "sentenceImage": "images/39_discard_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 40,
+      "word": "matter",
+      "partOfSpeech": "n.",
+      "meaningKo": "물질",
+      "definition": "anything that has mass and takes up space",
+      "sentence": "The model shows matter as solid liquid and gas.",
+      "ipa": "/mætɚ/",
+      "wordImage": "images/40_matter_word.png",
+      "sentenceImage": "images/40_matter_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

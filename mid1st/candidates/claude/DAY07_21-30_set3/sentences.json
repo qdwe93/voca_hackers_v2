@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 7,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY07-21",
+      "no": 21,
+      "word": "capacity",
+      "sentence": "This box has a capacity of eight small cubes inside."
+    },
+    {
+      "wordId": "DAY07-22",
+      "no": 22,
+      "word": "passion",
+      "sentence": "A passion for folk drumming brought many neighbors together weekly."
+    },
+    {
+      "wordId": "DAY07-23",
+      "no": 23,
+      "word": "surround",
+      "sentence": "Cheering classmates surround the runner who crossed the finish line."
+    },
+    {
+      "wordId": "DAY07-24",
+      "no": 24,
+      "word": "indeed",
+      "sentence": "This old photograph is indeed my grandmother's first school picture."
+    },
+    {
+      "wordId": "DAY07-25",
+      "no": 25,
+      "word": "imitate",
+      "sentence": "Young parrots imitate the whistles they hear from older birds."
+    },
+    {
+      "wordId": "DAY07-26",
+      "no": 26,
+      "word": "bond",
+      "sentence": "A strong bond grew between the two hiking partners."
+    },
+    {
+      "wordId": "DAY07-27",
+      "no": 27,
+      "word": "obtain",
+      "sentence": "We obtain library cards after filling in one simple form."
+    },
+    {
+      "wordId": "DAY07-28",
+      "no": 28,
+      "word": "precious",
+      "sentence": "That handmade bracelet from my sister is precious to me."
+    },
+    {
+      "wordId": "DAY07-29",
+      "no": 29,
+      "word": "contribute",
+      "sentence": "Three villages contribute workers and tools to rebuild the shared bridge."
+    },
+    {
+      "wordId": "DAY07-30",
+      "no": 30,
+      "word": "distribute",
+      "sentence": "Volunteers distribute warm gloves to everyone waiting at the shelter."
+    }
+  ]
+}

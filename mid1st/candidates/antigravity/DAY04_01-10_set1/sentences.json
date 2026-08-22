@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 4,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY04-01",
+      "no": 1,
+      "word": "career",
+      "sentence": "She chose a rewarding career in environmental protection and research."
+    },
+    {
+      "wordId": "DAY04-02",
+      "no": 2,
+      "word": "skill",
+      "sentence": "The young carpenter practices daily to improve his woodworking skill."
+    },
+    {
+      "wordId": "DAY04-03",
+      "no": 3,
+      "word": "task",
+      "sentence": "Sorting these files by date is his primary daily task."
+    },
+    {
+      "wordId": "DAY04-04",
+      "no": 4,
+      "word": "tend",
+      "sentence": "Gardeners tend the delicate flower beds every morning in spring."
+    },
+    {
+      "wordId": "DAY04-05",
+      "no": 5,
+      "word": "position",
+      "sentence": "He applied for a managerial position at the design company."
+    },
+    {
+      "wordId": "DAY04-06",
+      "no": 6,
+      "word": "hire",
+      "sentence": "The bakery plans to hire two friendly assistants for summer."
+    },
+    {
+      "wordId": "DAY04-07",
+      "no": 7,
+      "word": "quit",
+      "sentence": "He decided to quit his evening job to attend university."
+    },
+    {
+      "wordId": "DAY04-08",
+      "no": 8,
+      "word": "proud",
+      "sentence": "The proud baker displayed his freshly baked artisan loaves proudly."
+    },
+    {
+      "wordId": "DAY04-09",
+      "no": 9,
+      "word": "labor",
+      "sentence": "Factory workers provide essential manual labor to assemble new automobiles."
+    },
+    {
+      "wordId": "DAY04-10",
+      "no": 10,
+      "word": "label",
+      "sentence": "Read the nutrition label on the bottle before drinking juice."
+    }
+  ]
+}

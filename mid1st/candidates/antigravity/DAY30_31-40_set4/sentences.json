@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 30,
+  "range": "31-40",
+  "set": 4,
+  "items": [
+    {
+      "wordId": "DAY30-31",
+      "no": 31,
+      "word": "deceive",
+      "sentence": "Scammers create fake websites to deceive consumers into revealing bank passwords."
+    },
+    {
+      "wordId": "DAY30-32",
+      "no": 32,
+      "word": "external",
+      "sentence": "The external brick facade of the building was cleaned thoroughly yesterday."
+    },
+    {
+      "wordId": "DAY30-33",
+      "no": 33,
+      "word": "instantly",
+      "sentence": "Smartphones deliver emergency weather notifications instantly without any noticeable transmission delay."
+    },
+    {
+      "wordId": "DAY30-34",
+      "no": 34,
+      "word": "norm",
+      "sentence": "Following shared ethical rules is an established cultural norm in society."
+    },
+    {
+      "wordId": "DAY30-35",
+      "no": 35,
+      "word": "analyze",
+      "sentence": "Media researchers analyze news articles to detect subtle political bias framing."
+    },
+    {
+      "wordId": "DAY30-36",
+      "no": 36,
+      "word": "clarify",
+      "sentence": "The teacher used simple diagrams to clarify the complex mathematical concept."
+    },
+    {
+      "wordId": "DAY30-37",
+      "no": 37,
+      "word": "defend",
+      "sentence": "Castle walls were built to defend the ancient city against invaders."
+    },
+    {
+      "wordId": "DAY30-38",
+      "no": 38,
+      "word": "reputation",
+      "sentence": "The hospital earned an excellent reputation for compassionate patient medical care."
+    },
+    {
+      "wordId": "DAY30-39",
+      "no": 39,
+      "word": "exclude",
+      "sentence": "Statistical studies exclude flawed data samples to maintain accurate research findings."
+    },
+    {
+      "wordId": "DAY30-40",
+      "no": 40,
+      "word": "net",
+      "sentence": "Fishermen cast a large nylon net into the calm ocean water."
+    }
+  ]
+}

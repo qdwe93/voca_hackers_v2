@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 30,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY30-21",
+      "no": 21,
+      "word": "depress",
+      "sentence": "Sad news can depress readers, so editors add helpful information."
+    },
+    {
+      "wordId": "DAY30-22",
+      "no": 22,
+      "word": "demand",
+      "sentence": "Readers demand a correction when a story lists wrong numbers."
+    },
+    {
+      "wordId": "DAY30-23",
+      "no": 23,
+      "word": "identify",
+      "sentence": "Editors identify each photograph before printing tomorrow's morning paper."
+    },
+    {
+      "wordId": "DAY30-24",
+      "no": 24,
+      "word": "award",
+      "sentence": "Our school paper won an award for its clear writing."
+    },
+    {
+      "wordId": "DAY30-25",
+      "no": 25,
+      "word": "regret",
+      "sentence": "Writers regret printing the wrong name in yesterday's short notice."
+    },
+    {
+      "wordId": "DAY30-26",
+      "no": 26,
+      "word": "regard",
+      "sentence": "Many readers regard this reporter as careful and very fair."
+    },
+    {
+      "wordId": "DAY30-27",
+      "no": 27,
+      "word": "inquire",
+      "sentence": "We inquire about the schedule, then ask one follow-up question."
+    },
+    {
+      "wordId": "DAY30-28",
+      "no": 28,
+      "word": "script",
+      "sentence": "Our script tells each speaker when the background music starts."
+    },
+    {
+      "wordId": "DAY30-29",
+      "no": 29,
+      "word": "decline",
+      "sentence": "On this line graph, temperatures decline steeply after seven o'clock."
+    },
+    {
+      "wordId": "DAY30-30",
+      "no": 30,
+      "word": "declare",
+      "sentence": "The mayor will declare the new library open next Saturday."
+    }
+  ]
+}

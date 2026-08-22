@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 7,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 07 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "similar",
+      "partOfSpeech": "adj.",
+      "meaningKo": "비슷한, 유사한",
+      "ipa": "/ˈsɪm.ə.lɚ/",
+      "definition": "looking or being almost the same as something else",
+      "sentence": "The twin kittens have very similar white paws and fur.",
+      "wordImage": "images/01_similar_word.png",
+      "sentenceImage": "images/01_similar_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "situation",
+      "partOfSpeech": "n.",
+      "meaningKo": "상황, 처지",
+      "ipa": "/ˌsɪtʃ.uˈeɪ.ʃən/",
+      "definition": "the set of things happening at a particular time",
+      "sentence": "The calm captain handled the tricky weather situation with skill.",
+      "wordImage": "images/02_situation_word.png",
+      "sentenceImage": "images/02_situation_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "related",
+      "partOfSpeech": "adj.",
+      "meaningKo": "관련된, 친척의",
+      "ipa": "/rɪˈleɪ.t̬ɪd/",
+      "definition": "connected by a reason or belonging to same family",
+      "sentence": "Lions and tigers are closely related large wild cat species.",
+      "wordImage": "images/03_related_word.png",
+      "sentenceImage": "images/03_related_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "suppose",
+      "partOfSpeech": "v.",
+      "meaningKo": "생각하다, 가정하다",
+      "ipa": "/səˈpoʊz/",
+      "definition": "to think that something is likely to be true",
+      "sentence": "I suppose we should leave early to catch the train.",
+      "wordImage": "images/04_suppose_word.png",
+      "sentenceImage": "images/04_suppose_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "social",
+      "partOfSpeech": "adj.",
+      "meaningKo": "사회의, 사교적인",
+      "ipa": "/ˈsoʊ.ʃəl/",
+      "definition": "relating to society or enjoying being with other people",
+      "sentence": "Dolphins are very social animals that love swimming in pods.",
+      "wordImage": "images/05_social_word.png",
+      "sentenceImage": "images/05_social_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "unique",
+      "partOfSpeech": "adj.",
+      "meaningKo": "독특한, 유일한",
+      "ipa": "/juːˈniːk/",
+      "definition": "being the only one of its kind or unusual",
+      "sentence": "Every tiny crystal snowflake has a completely unique geometric pattern.",
+      "wordImage": "images/06_unique_word.png",
+      "sentenceImage": "images/06_unique_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "prefer",
+      "partOfSpeech": "v.",
+      "meaningKo": "더 좋아하다, 선호하다",
+      "ipa": "/prɪˈfɝː/",
+      "definition": "to like one person or thing more than another",
+      "sentence": "Many students prefer warm hot chocolate over cold fruit punch.",
+      "wordImage": "images/07_prefer_word.png",
+      "sentenceImage": "images/07_prefer_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "remain",
+      "partOfSpeech": "v.",
+      "meaningKo": "남아 있다, 머무르다",
+      "ipa": "/rɪˈmeɪn/",
+      "definition": "to stay in the same place or condition",
+      "sentence": "Please remain seated until the school bus comes to stop.",
+      "wordImage": "images/08_remain_word.png",
+      "sentenceImage": "images/08_remain_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "distract",
+      "partOfSpeech": "v.",
+      "meaningKo": "집중을 방해하다",
+      "ipa": "/dɪˈstrækt/",
+      "definition": "to take someone’s attention away from what they do",
+      "sentence": "Loud smartphone notifications can distract students during homework study time.",
+      "wordImage": "images/09_distract_word.png",
+      "sentenceImage": "images/09_distract_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "district",
+      "partOfSpeech": "n.",
+      "meaningKo": "구역, 지역",
+      "ipa": "/ˈdɪs.trɪkt/",
+      "definition": "an area of a town or country with particular characteristics",
+      "sentence": "They visited the historic shopping district with brick cobblestone streets.",
+      "wordImage": "images/10_district_word.png",
+      "sentenceImage": "images/10_district_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

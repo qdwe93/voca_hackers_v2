@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 16,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY16-21",
+      "no": 21,
+      "word": "acid",
+      "sentence": "Lemon juice is a mild acid that tastes very sour."
+    },
+    {
+      "wordId": "DAY16-22",
+      "no": 22,
+      "word": "orbit",
+      "sentence": "The moon follows a curved orbit around our planet Earth."
+    },
+    {
+      "wordId": "DAY16-23",
+      "no": 23,
+      "word": "toxic",
+      "sentence": "Some wild berries are toxic, so we never taste them."
+    },
+    {
+      "wordId": "DAY16-24",
+      "no": 24,
+      "word": "atom",
+      "sentence": "A single atom is far too small for any classroom microscope."
+    },
+    {
+      "wordId": "DAY16-25",
+      "no": 25,
+      "word": "liquid",
+      "sentence": "Poured liquid takes the shape of every container we use."
+    },
+    {
+      "wordId": "DAY16-26",
+      "no": 26,
+      "word": "universe",
+      "sentence": "Our solar system is one small part of the whole universe."
+    },
+    {
+      "wordId": "DAY16-27",
+      "no": 27,
+      "word": "reverse",
+      "sentence": "Please reverse the magnet and watch the paper clips move."
+    },
+    {
+      "wordId": "DAY16-28",
+      "no": 28,
+      "word": "extend",
+      "sentence": "Heated metal bars extend slightly, so we measure them again."
+    },
+    {
+      "wordId": "DAY16-29",
+      "no": 29,
+      "word": "extent",
+      "sentence": "We measured the extent of the wet spot with a ruler."
+    },
+    {
+      "wordId": "DAY16-30",
+      "no": 30,
+      "word": "expand",
+      "sentence": "Warm air makes the balloon expand until it looks round."
+    }
+  ]
+}

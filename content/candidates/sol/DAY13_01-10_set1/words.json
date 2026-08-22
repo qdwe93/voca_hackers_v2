@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 13,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 13 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "represent",
+      "partOfSpeech": "v.",
+      "meaningKo": "나타내다",
+      "definition": "to stand for or show something",
+      "sentence": "The white dove can represent peace in the mural.",
+      "ipa": "/rɛprɪzɛnt/",
+      "wordImage": "images/01_represent_word.png",
+      "sentenceImage": "images/01_represent_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "exhibit",
+      "partOfSpeech": "v.",
+      "meaningKo": "전시하다",
+      "definition": "to show something publicly",
+      "sentence": "The museum will exhibit ancient bowls behind clear glass.",
+      "ipa": "/ɪɡzɪbɪt/",
+      "wordImage": "images/02_exhibit_word.png",
+      "sentenceImage": "images/02_exhibit_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "minister",
+      "partOfSpeech": "n.",
+      "meaningKo": "장관",
+      "definition": "a government leader responsible for a particular department",
+      "sentence": "The minister visits a new public library with local officials.",
+      "ipa": "/mɪnəstɚ/",
+      "wordImage": "images/03_minister_word.png",
+      "sentenceImage": "images/03_minister_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "vary",
+      "partOfSpeech": "v.",
+      "meaningKo": "다양하다",
+      "definition": "to differ in size amount or form",
+      "sentence": "The leaves vary from tiny yellow ones to large green ones.",
+      "ipa": "/vɛri/",
+      "wordImage": "images/04_vary_word.png",
+      "sentenceImage": "images/04_vary_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "tribe",
+      "partOfSpeech": "n.",
+      "meaningKo": "부족",
+      "definition": "a social group sharing culture land and leaders",
+      "sentence": "The fantasy tribe gathers peacefully around a carved wooden table.",
+      "ipa": "/traɪb/",
+      "wordImage": "images/05_tribe_word.png",
+      "sentenceImage": "images/05_tribe_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "community",
+      "partOfSpeech": "n.",
+      "meaningKo": "공동체",
+      "definition": "people living together or sharing common interests",
+      "sentence": "The community plants trees together in the neighborhood park.",
+      "ipa": "/kəmjunəti/",
+      "wordImage": "images/06_community_word.png",
+      "sentenceImage": "images/06_community_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "consider",
+      "partOfSpeech": "v.",
+      "meaningKo": "고려하다",
+      "definition": "to think carefully about something",
+      "sentence": "The builder will consider three designs for the small bridge.",
+      "ipa": "/kənsɪdɚ/",
+      "wordImage": "images/07_consider_word.png",
+      "sentenceImage": "images/07_consider_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "concept",
+      "partOfSpeech": "n.",
+      "meaningKo": "개념",
+      "definition": "an idea used to understand something",
+      "sentence": "A balance scale helps explain the concept of fairness.",
+      "ipa": "/kɑnsɛpt/",
+      "wordImage": "images/08_concept_word.png",
+      "sentenceImage": "images/08_concept_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "pray",
+      "partOfSpeech": "v.",
+      "meaningKo": "기도하다",
+      "definition": "to speak to a god in worship",
+      "sentence": "The family will pray quietly inside the peaceful temple.",
+      "ipa": "/preɪ/",
+      "wordImage": "images/09_pray_word.png",
+      "sentenceImage": "images/09_pray_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "prey",
+      "partOfSpeech": "n.",
+      "meaningKo": "먹이",
+      "definition": "an animal hunted by another animal for food",
+      "sentence": "A rabbit serves as prey for the distant fox.",
+      "ipa": "/preɪ/",
+      "wordImage": "images/10_prey_word.png",
+      "sentenceImage": "images/10_prey_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

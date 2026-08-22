@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 16,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 16 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "nature",
+      "partOfSpeech": "n.",
+      "meaningKo": "자연, 본성",
+      "ipa": "/ˈneɪ.tʃɚ/",
+      "definition": "all the animals, plants, rocks, and places in the world",
+      "sentence": "We love spending peaceful weekends exploring the beauty of nature.",
+      "wordImage": "images/01_nature_word.png",
+      "sentenceImage": "images/01_nature_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "experiment",
+      "partOfSpeech": "n.",
+      "meaningKo": "실험",
+      "ipa": "/ɪkˈsper.ə.mənt/",
+      "definition": "a scientific test done to discover something or test ideas",
+      "sentence": "Students conducted an exciting science experiment with baking soda today.",
+      "wordImage": "images/02_experiment_word.png",
+      "sentenceImage": "images/02_experiment_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "condition",
+      "partOfSpeech": "n.",
+      "meaningKo": "상태, 조건",
+      "ipa": "/kənˈdɪʃ.ən/",
+      "definition": "the particular state that something or someone is in",
+      "sentence": "The antique wooden telescope was kept in excellent working condition.",
+      "wordImage": "images/03_condition_word.png",
+      "sentenceImage": "images/03_condition_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "distance",
+      "partOfSpeech": "n.",
+      "meaningKo": "거리, 먼 곳",
+      "ipa": "/ˈdɪs.təns/",
+      "definition": "the amount of space between two places or things",
+      "sentence": "The runner measured the exact distance of the race track.",
+      "wordImage": "images/04_distance_word.png",
+      "sentenceImage": "images/04_distance_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "evidence",
+      "partOfSpeech": "n.",
+      "meaningKo": "증거, 흔적",
+      "ipa": "/ˈev.ə.dəns/",
+      "definition": "facts or signs that make you believe that something is true",
+      "sentence": "Dinosaur footprints in stone provided clear evidence of ancient life.",
+      "wordImage": "images/05_evidence_word.png",
+      "sentenceImage": "images/05_evidence_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "chemical",
+      "partOfSpeech": "adj.",
+      "meaningKo": "화학의, 화학 물질의",
+      "ipa": "/ˈkem.ɪ.kəl/",
+      "definition": "relating to the science of chemistry or substances",
+      "sentence": "Mixing vinegar and baking soda creates an exciting chemical reaction.",
+      "wordImage": "images/06_chemical_word.png",
+      "sentenceImage": "images/06_chemical_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "fluid",
+      "partOfSpeech": "n.",
+      "meaningKo": "유체, 액체",
+      "ipa": "/ˈfluː.ɪd/",
+      "definition": "any substance that can flow easily, like liquid or gas",
+      "sentence": "Drinking plenty of healthy fluid is important during hot summer.",
+      "wordImage": "images/07_fluid_word.png",
+      "sentenceImage": "images/07_fluid_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "extensive",
+      "partOfSpeech": "adj.",
+      "meaningKo": "광범위한, 폭넓은",
+      "ipa": "/ɪkˈsten.sɪv/",
+      "definition": "covering a large area or having a wide range",
+      "sentence": "The university library contains an extensive collection of science encyclopedias.",
+      "wordImage": "images/08_extensive_word.png",
+      "sentenceImage": "images/08_extensive_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "process",
+      "partOfSpeech": "n.",
+      "meaningKo": "과정, 절차",
+      "ipa": "/ˈprɑː.ses/",
+      "definition": "a series of actions that you take to achieve a result",
+      "sentence": "Making homemade honey bread is a fun and rewarding process.",
+      "wordImage": "images/09_process_word.png",
+      "sentenceImage": "images/09_process_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "progress",
+      "partOfSpeech": "n.",
+      "meaningKo": "진전, 발전",
+      "ipa": "/ˈprɑː.ɡres/",
+      "definition": "movement forward towards achieving a goal or becoming better",
+      "sentence": "She made remarkable progress in her violin playing this semester.",
+      "wordImage": "images/10_progress_word.png",
+      "sentenceImage": "images/10_progress_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 2,
+  "range": "21-30",
+  "set": 3,
+  "title": "DAY 02 · 21-30",
+  "words": [
+    {
+      "no": 21,
+      "word": "participate",
+      "partOfSpeech": "v.",
+      "meaningKo": "참여하다, 참가하다",
+      "ipa": "/pɑːrˈtɪs.ə.peɪt/",
+      "definition": "to take part in an activity or event",
+      "sentence": "All students can participate in the annual sports day.",
+      "wordImage": "images/21_participate_word.png",
+      "sentenceImage": "images/21_participate_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 22,
+      "word": "auditorium",
+      "partOfSpeech": "n.",
+      "meaningKo": "강당, 대강의실",
+      "ipa": "/ˌɑː.dəˈtɔːr.i.əm/",
+      "definition": "a large room or building where an audience sits",
+      "sentence": "The audience filled the large auditorium for the concert.",
+      "wordImage": "images/22_auditorium_word.png",
+      "sentenceImage": "images/22_auditorium_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 23,
+      "word": "inform",
+      "partOfSpeech": "v.",
+      "meaningKo": "알리다, 통지하다",
+      "ipa": "/ɪnˈfɔːrm/",
+      "definition": "to tell someone about particular facts or information",
+      "sentence": "The captain will inform passengers about the flight delay.",
+      "wordImage": "images/23_inform_word.png",
+      "sentenceImage": "images/23_inform_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 24,
+      "word": "duty",
+      "partOfSpeech": "n.",
+      "meaningKo": "의무, 직무",
+      "ipa": "/ˈduː.t̬i/",
+      "definition": "something that you have to do because it is right",
+      "sentence": "It is the safety officer’s duty to help people.",
+      "wordImage": "images/24_duty_word.png",
+      "sentenceImage": "images/24_duty_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 25,
+      "word": "evaluate",
+      "partOfSpeech": "v.",
+      "meaningKo": "평가하다",
+      "ipa": "/ɪˈvæl.ju.eɪt/",
+      "definition": "to judge the quality, importance, or value of something",
+      "sentence": "Judges will evaluate each painting in the art contest.",
+      "wordImage": "images/25_evaluate_word.png",
+      "sentenceImage": "images/25_evaluate_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 26,
+      "word": "minimum",
+      "partOfSpeech": "n.",
+      "meaningKo": "최소한, 최소",
+      "ipa": "/ˈmɪn.ə.məm/",
+      "definition": "the smallest amount or number allowed or possible",
+      "sentence": "You need a minimum of four players for this board game.",
+      "wordImage": "images/26_minimum_word.png",
+      "sentenceImage": "images/26_minimum_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 27,
+      "word": "introduction",
+      "partOfSpeech": "n.",
+      "meaningKo": "소개, 도입",
+      "ipa": "/ˌɪn.trəˈdʌk.ʃən/",
+      "definition": "the act of telling people someone’s name or presenting something",
+      "sentence": "The speaker began with a brief introduction of himself.",
+      "wordImage": "images/27_introduction_word.png",
+      "sentenceImage": "images/27_introduction_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 28,
+      "word": "photograph",
+      "partOfSpeech": "n.",
+      "meaningKo": "사진",
+      "ipa": "/ˈfoʊ.t̬ə.ɡræf/",
+      "definition": "a picture made using a camera",
+      "sentence": "We framed a beautiful photograph of our mountain camping trip.",
+      "wordImage": "images/28_photograph_word.png",
+      "sentenceImage": "images/28_photograph_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 29,
+      "word": "council",
+      "partOfSpeech": "n.",
+      "meaningKo": "의회, 위원회",
+      "ipa": "/ˈkaʊn.səl/",
+      "definition": "a group of people elected or chosen to make decisions",
+      "sentence": "The student council planned a fun game for everyone.",
+      "wordImage": "images/29_council_word.png",
+      "sentenceImage": "images/29_council_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 30,
+      "word": "conceal",
+      "partOfSpeech": "v.",
+      "meaningKo": "숨기다, 감추다",
+      "ipa": "/kənˈsiːl/",
+      "definition": "to hide something so it cannot be seen",
+      "sentence": "Thick green bushes conceal the entrance to the secret garden.",
+      "wordImage": "images/30_conceal_word.png",
+      "sentenceImage": "images/30_conceal_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

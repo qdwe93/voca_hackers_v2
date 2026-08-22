@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 18,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 18 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "stomach",
+      "partOfSpeech": "n.",
+      "meaningKo": "위, 배",
+      "ipa": "/ˈstʌm.ək/",
+      "definition": "the organ in your body where food goes and begins digesting",
+      "sentence": "Warm vegetable soup felt very soothing on his empty upset stomach.",
+      "wordImage": "images/01_stomach_word.png",
+      "sentenceImage": "images/01_stomach_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "pill",
+      "partOfSpeech": "n.",
+      "meaningKo": "알약",
+      "ipa": "/pɪl/",
+      "definition": "a small round piece of medicine that you swallow with water",
+      "sentence": "Drink a glass of water to swallow the daily vitamin pill.",
+      "wordImage": "images/02_pill_word.png",
+      "sentenceImage": "images/02_pill_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "thumb",
+      "partOfSpeech": "n.",
+      "meaningKo": "엄지손가락",
+      "ipa": "/θʌm/",
+      "definition": "the short, thick first finger on the side of hand",
+      "sentence": "The friendly coach raised a cheerful thumb to praise the team.",
+      "wordImage": "images/03_thumb_word.png",
+      "sentenceImage": "images/03_thumb_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "wound",
+      "partOfSpeech": "n.",
+      "meaningKo": "상처, 부상",
+      "ipa": "/wuːnd/",
+      "definition": "an injury to the body, especially a cut in skin",
+      "sentence": "The caring school nurse placed a clean bandage on the small wound.",
+      "wordImage": "images/04_wound_word.png",
+      "sentenceImage": "images/04_wound_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "therapy",
+      "partOfSpeech": "n.",
+      "meaningKo": "치료, 요법",
+      "ipa": "/ˈθer.ə.pi/",
+      "definition": "a treatment designed to help heal an illness or injury",
+      "sentence": "Gentle swimming exercises served as physical therapy for his knee recovery.",
+      "wordImage": "images/05_therapy_word.png",
+      "sentenceImage": "images/05_therapy_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "surgery",
+      "partOfSpeech": "n.",
+      "meaningKo": "수술",
+      "ipa": "/ˈsɝː.dʒɚ.i/",
+      "definition": "medical treatment in which a doctor cuts open the body",
+      "sentence": "The kind veterinary doctor performed surgery to fix the puppy’s leg.",
+      "wordImage": "images/06_surgery_word.png",
+      "sentenceImage": "images/06_surgery_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "physician",
+      "partOfSpeech": "n.",
+      "meaningKo": "의사, 내과의사",
+      "ipa": "/fɪˈzɪʃ.ən/",
+      "definition": "a medical doctor, especially one who specializes in medicine",
+      "sentence": "The kind family physician checked his height and listened to heartbeat.",
+      "wordImage": "images/07_physician_word.png",
+      "sentenceImage": "images/07_physician_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "positive",
+      "partOfSpeech": "adj.",
+      "meaningKo": "긍정적인, 확신하는",
+      "ipa": "/ˈpɑː.zə.t̬ɪv/",
+      "definition": "hopeful and confident, thinking of the good qualities in situations",
+      "sentence": "Keeping a positive mindset helps you solve difficult math puzzles easily.",
+      "wordImage": "images/08_positive_word.png",
+      "sentenceImage": "images/08_positive_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "grab",
+      "partOfSpeech": "v.",
+      "meaningKo": "붙잡다, 움켜쥐다",
+      "ipa": "/ɡræb/",
+      "definition": "to take hold of something suddenly with your hand roughly",
+      "sentence": "Remember to grab your warm coat before going out into snow.",
+      "wordImage": "images/09_grab_word.png",
+      "sentenceImage": "images/09_grab_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "grip",
+      "partOfSpeech": "n.",
+      "meaningKo": "꽉 쥠, 손잡이",
+      "ipa": "/ɡrɪp/",
+      "definition": "a firm, tight hold on something with your hand",
+      "sentence": "The young gymnast maintained a firm grip on the parallel bars.",
+      "wordImage": "images/10_grip_word.png",
+      "sentenceImage": "images/10_grip_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

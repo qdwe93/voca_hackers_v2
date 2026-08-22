@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 16,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY16-21",
+      "no": 21,
+      "word": "acid",
+      "sentence": "Lemon juice contains citric acid that tastes distinctly sharp and sour."
+    },
+    {
+      "wordId": "DAY16-22",
+      "no": 22,
+      "word": "orbit",
+      "sentence": "The Moon follows an elliptical orbit around Earth every single month."
+    },
+    {
+      "wordId": "DAY16-23",
+      "no": 23,
+      "word": "toxic",
+      "sentence": "Wear protective gloves when handling any toxic laboratory cleaning solvent liquids."
+    },
+    {
+      "wordId": "DAY16-24",
+      "no": 24,
+      "word": "atom",
+      "sentence": "Every single chemical element consists of a unique type of atom."
+    },
+    {
+      "wordId": "DAY16-25",
+      "no": 25,
+      "word": "liquid",
+      "sentence": "Water is a clear liquid that takes the container's physical shape."
+    },
+    {
+      "wordId": "DAY16-26",
+      "no": 26,
+      "word": "universe",
+      "sentence": "Billions of shining galaxies exist throughout the vast observable physical universe."
+    },
+    {
+      "wordId": "DAY16-27",
+      "no": 27,
+      "word": "reverse",
+      "sentence": "Press the switch to reverse the direction of electric motor rotation."
+    },
+    {
+      "wordId": "DAY16-28",
+      "no": 28,
+      "word": "extend",
+      "sentence": "Heat causes the long copper pipe to extend in measurable length."
+    },
+    {
+      "wordId": "DAY16-29",
+      "no": 29,
+      "word": "extent",
+      "sentence": "Scientists measured the vast extent of forest damage caused by wildfire."
+    },
+    {
+      "wordId": "DAY16-30",
+      "no": 30,
+      "word": "expand",
+      "sentence": "Gases expand when heated inside a sealed glass laboratory flask container."
+    }
+  ]
+}

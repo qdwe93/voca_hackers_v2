@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 29,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 29 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "industry",
+      "partOfSpeech": "n.",
+      "meaningKo": "산업",
+      "definition": "businesses producing similar goods or services",
+      "sentence": "The solar industry builds panels inside a large factory.",
+      "ipa": "/ɪndəstri/",
+      "wordImage": "images/01_industry_word.png",
+      "sentenceImage": "images/01_industry_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "policy",
+      "partOfSpeech": "n.",
+      "meaningKo": "정책",
+      "definition": "a rule or plan used by an organization",
+      "sentence": "The school's recycling policy places bins in every room.",
+      "ipa": "/pɑləsi/",
+      "wordImage": "images/02_policy_word.png",
+      "sentenceImage": "images/02_policy_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "commercial",
+      "partOfSpeech": "adj.",
+      "meaningKo": "상업의",
+      "definition": "related to business or selling products",
+      "sentence": "A commercial district contains shops offices and restaurants.",
+      "ipa": "/kəmɝʃəl/",
+      "wordImage": "images/03_commercial_word.png",
+      "sentenceImage": "images/03_commercial_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "convey",
+      "partOfSpeech": "v.",
+      "meaningKo": "전달하다",
+      "definition": "to communicate or carry something",
+      "sentence": "The dancer's movements convey excitement to the audience.",
+      "ipa": "/kənveɪ/",
+      "wordImage": "images/04_convey_word.png",
+      "sentenceImage": "images/04_convey_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "international",
+      "partOfSpeech": "adj.",
+      "meaningKo": "국제적인",
+      "definition": "involving more than one country",
+      "sentence": "An international festival displays food from many countries.",
+      "ipa": "/ɪntɚnæʃənəl/",
+      "wordImage": "images/05_international_word.png",
+      "sentenceImage": "images/05_international_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "reveal",
+      "partOfSpeech": "v.",
+      "meaningKo": "드러내다",
+      "definition": "to make something hidden known or visible",
+      "sentence": "The curtain will reveal a colorful model city.",
+      "ipa": "/rɪvil/",
+      "wordImage": "images/06_reveal_word.png",
+      "sentenceImage": "images/06_reveal_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "increase",
+      "partOfSpeech": "v.",
+      "meaningKo": "증가하다",
+      "definition": "to become or make greater",
+      "sentence": "The balloon will increase in size as air enters.",
+      "ipa": "/ɪnˈkriːs/",
+      "wordImage": "images/07_increase_word.png",
+      "sentenceImage": "images/07_increase_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "depend",
+      "partOfSpeech": "v.",
+      "meaningKo": "의존하다",
+      "definition": "to need someone or something for support",
+      "sentence": "Young chicks depend on their parents for food.",
+      "ipa": "/dɪpɛnd/",
+      "wordImage": "images/08_depend_word.png",
+      "sentenceImage": "images/08_depend_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "transfer",
+      "partOfSpeech": "v.",
+      "meaningKo": "옮기다",
+      "definition": "to move something from one place to another",
+      "sentence": "The worker will transfer water between two clear tanks.",
+      "ipa": "/trænsˈfɝː/",
+      "wordImage": "images/09_transfer_word.png",
+      "sentenceImage": "images/09_transfer_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "transform",
+      "partOfSpeech": "v.",
+      "meaningKo": "변형시키다",
+      "definition": "to change completely in form or appearance",
+      "sentence": "The green caterpillar will transform into a bright butterfly.",
+      "ipa": "/trænsfɔrm/",
+      "wordImage": "images/10_transform_word.png",
+      "sentenceImage": "images/10_transform_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

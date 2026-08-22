@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 15,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY15-11",
+      "no": 11,
+      "word": "theory",
+      "sentence": "This theory explains why warm air rises above cold air."
+    },
+    {
+      "wordId": "DAY15-12",
+      "no": 12,
+      "word": "philosophy",
+      "sentence": "In philosophy class we asked what a good life means."
+    },
+    {
+      "wordId": "DAY15-13",
+      "no": 13,
+      "word": "method",
+      "sentence": "Our science method starts with one question and one careful test."
+    },
+    {
+      "wordId": "DAY15-14",
+      "no": 14,
+      "word": "praise",
+      "sentence": "Teachers praise students who explain their answers step by step."
+    },
+    {
+      "wordId": "DAY15-15",
+      "no": 15,
+      "word": "standard",
+      "sentence": "Every poster must reach the same standard of neat handwriting."
+    },
+    {
+      "wordId": "DAY15-16",
+      "no": 16,
+      "word": "character",
+      "sentence": "A patient character helps this young tutor teach beginners."
+    },
+    {
+      "wordId": "DAY15-17",
+      "no": 17,
+      "word": "throw",
+      "sentence": "Do not throw the chalk across the science classroom."
+    },
+    {
+      "wordId": "DAY15-18",
+      "no": 18,
+      "word": "psychology",
+      "sentence": "In psychology we learn how memory holds new information."
+    },
+    {
+      "wordId": "DAY15-19",
+      "no": 19,
+      "word": "intention",
+      "sentence": "My intention was helping, but I made the chart messier."
+    },
+    {
+      "wordId": "DAY15-20",
+      "no": 20,
+      "word": "apply",
+      "sentence": "Older students apply for the summer science camp each May."
+    }
+  ]
+}

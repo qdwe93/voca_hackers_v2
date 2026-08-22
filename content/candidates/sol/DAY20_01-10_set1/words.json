@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 20,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 20 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "traffic",
+      "partOfSpeech": "n.",
+      "meaningKo": "교통량",
+      "definition": "vehicles moving along roads",
+      "sentence": "Heavy traffic fills every lane of the city road.",
+      "ipa": "/træfɪk/",
+      "wordImage": "images/01_traffic_word.png",
+      "sentenceImage": "images/01_traffic_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "major",
+      "partOfSpeech": "adj.",
+      "meaningKo": "주요한",
+      "definition": "very important large or serious",
+      "sentence": "A major bridge connects the two sides of the city.",
+      "ipa": "/meɪdʒɚ/",
+      "wordImage": "images/02_major_word.png",
+      "sentenceImage": "images/02_major_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "route",
+      "partOfSpeech": "n.",
+      "meaningKo": "경로",
+      "definition": "a way followed between places",
+      "sentence": "The bus follows a curved route through the mountains.",
+      "ipa": "/rut/",
+      "wordImage": "images/03_route_word.png",
+      "sentenceImage": "images/03_route_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "rush",
+      "partOfSpeech": "n.",
+      "meaningKo": "혼잡",
+      "definition": "a sudden period of hurried activity",
+      "sentence": "The morning rush fills the station with moving commuters.",
+      "ipa": "/rʌʃ/",
+      "wordImage": "images/04_rush_word.png",
+      "sentenceImage": "images/04_rush_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "vehicle",
+      "partOfSpeech": "n.",
+      "meaningKo": "차량",
+      "definition": "a machine used to carry people or goods",
+      "sentence": "An electric vehicle travels quietly along the road.",
+      "ipa": "/vihɪkəl/",
+      "wordImage": "images/05_vehicle_word.png",
+      "sentenceImage": "images/05_vehicle_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "transport",
+      "partOfSpeech": "v.",
+      "meaningKo": "운송하다",
+      "definition": "to carry people or goods between places",
+      "sentence": "The train will transport fruit from farms to cities.",
+      "ipa": "/trænsˈpɔːrt/",
+      "wordImage": "images/06_transport_word.png",
+      "sentenceImage": "images/06_transport_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "utilize",
+      "partOfSpeech": "v.",
+      "meaningKo": "활용하다",
+      "definition": "to use something for a practical purpose",
+      "sentence": "The camper will utilize sunlight to charge the lantern.",
+      "ipa": "/jutəlaɪz/",
+      "wordImage": "images/07_utilize_word.png",
+      "sentenceImage": "images/07_utilize_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "remote",
+      "partOfSpeech": "adj.",
+      "meaningKo": "외딴",
+      "definition": "far away from towns or people",
+      "sentence": "A remote cabin stands alone beyond the snowy hills.",
+      "ipa": "/rɪmoʊt/",
+      "wordImage": "images/08_remote_word.png",
+      "sentenceImage": "images/08_remote_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "leap",
+      "partOfSpeech": "v.",
+      "meaningKo": "뛰어오르다",
+      "definition": "to jump high or far",
+      "sentence": "The frog will leap across the narrow stream.",
+      "ipa": "/lip/",
+      "wordImage": "images/09_leap_word.png",
+      "sentenceImage": "images/09_leap_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "leak",
+      "partOfSpeech": "v.",
+      "meaningKo": "새다",
+      "definition": "to let liquid or gas escape",
+      "sentence": "Water will leak from the cracked garden hose.",
+      "ipa": "/lik/",
+      "wordImage": "images/10_leak_word.png",
+      "sentenceImage": "images/10_leak_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

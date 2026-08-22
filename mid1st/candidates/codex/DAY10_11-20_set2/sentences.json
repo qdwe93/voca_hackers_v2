@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 10,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY10-11",
+      "no": 11,
+      "word": "half",
+      "sentence": "The small rabbit ate half of the sweet orange carrot."
+    },
+    {
+      "wordId": "DAY10-12",
+      "no": 12,
+      "word": "concern",
+      "sentence": "Her main concern was the small bird in the rain."
+    },
+    {
+      "wordId": "DAY10-13",
+      "no": 13,
+      "word": "rescue",
+      "sentence": "Today, firefighters will rescue the kitten from the tall oak tree."
+    },
+    {
+      "wordId": "DAY10-14",
+      "no": 14,
+      "word": "critic",
+      "sentence": "Today, the food critic tasted every soup at the village fair."
+    },
+    {
+      "wordId": "DAY10-15",
+      "no": 15,
+      "word": "charity",
+      "sentence": "Today, the charity sent warm blankets to the cold mountain village."
+    },
+    {
+      "wordId": "DAY10-16",
+      "no": 16,
+      "word": "rage",
+      "sentence": "When someone offered cake, the storybook giant's rage melted."
+    },
+    {
+      "wordId": "DAY10-17",
+      "no": 17,
+      "word": "afford",
+      "sentence": "Today, the mouse could afford one small cheese with its coins."
+    },
+    {
+      "wordId": "DAY10-18",
+      "no": 18,
+      "word": "unite",
+      "sentence": "Nearby towns unite their workers and tools to clean the river."
+    },
+    {
+      "wordId": "DAY10-19",
+      "no": 19,
+      "word": "orphan",
+      "sentence": "Today, the kind farmer raised an orphan lamb with warm milk."
+    },
+    {
+      "wordId": "DAY10-20",
+      "no": 20,
+      "word": "bear",
+      "sentence": "Today, camels can bear the long hot walk across sand."
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 20,
+  "range": "31-40",
+  "set": 4,
+  "title": "DAY 20 · 31-40",
+  "words": [
+    {
+      "no": 31,
+      "word": "drag",
+      "partOfSpeech": "v.",
+      "meaningKo": "끌다, 끌고 가다",
+      "ipa": "/dræɡ/",
+      "definition": "to pull something or someone along the ground with effort",
+      "sentence": "The children helped drag the wooden sled up the snowy hill.",
+      "wordImage": "images/31_drag_word.png",
+      "sentenceImage": "images/31_drag_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 32,
+      "word": "fasten",
+      "partOfSpeech": "v.",
+      "meaningKo": "매다, 잠그다",
+      "ipa": "/ˈfæs.ən/",
+      "definition": "to join or close together the two parts of something",
+      "sentence": "Always fasten your bicycle helmet strap snugly under your chin.",
+      "wordImage": "images/32_fasten_word.png",
+      "sentenceImage": "images/32_fasten_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 33,
+      "word": "precise",
+      "partOfSpeech": "adj.",
+      "meaningKo": "정확한, 정밀한",
+      "ipa": "/prəˈsaɪs/",
+      "definition": "exact, clear, and accurate in every minute detail",
+      "sentence": "The watchmaker used tiny tools to make precise gear adjustments.",
+      "wordImage": "images/33_precise_word.png",
+      "sentenceImage": "images/33_precise_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 34,
+      "word": "vital",
+      "partOfSpeech": "adj.",
+      "meaningKo": "필수적인, 극히 중요한",
+      "ipa": "/ˈvaɪ.t̬əl/",
+      "definition": "necessary for the success, continued existence, or life of something",
+      "sentence": "Fresh water is a vital resource for all plants and animals.",
+      "wordImage": "images/34_vital_word.png",
+      "sentenceImage": "images/34_vital_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 35,
+      "word": "component",
+      "partOfSpeech": "n.",
+      "meaningKo": "구성 요소, 부품",
+      "ipa": "/kəmˈpoʊ.nənt/",
+      "definition": "one of the parts that make up a whole machine",
+      "sentence": "A strong battery is a key electrical component of electric cars.",
+      "wordImage": "images/35_component_word.png",
+      "sentenceImage": "images/35_component_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 36,
+      "word": "seldom",
+      "partOfSpeech": "adv.",
+      "meaningKo": "좀처럼 ~않는, 드물게",
+      "ipa": "/ˈsel.dəm/",
+      "definition": "almost never, rarely happening or appearing",
+      "sentence": "It seldom snows in this sunny southern coastal resort town.",
+      "wordImage": "images/36_seldom_word.png",
+      "sentenceImage": "images/36_seldom_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 37,
+      "word": "enhance",
+      "partOfSpeech": "v.",
+      "meaningKo": "향상시키다, 높이다",
+      "ipa": "/ɪnˈhæns/",
+      "definition": "to improve the quality, amount, or strength of something",
+      "sentence": "Adding fresh strawberries will enhance the sweet flavor of yogurt.",
+      "wordImage": "images/37_enhance_word.png",
+      "sentenceImage": "images/37_enhance_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 38,
+      "word": "sink",
+      "partOfSpeech": "v.",
+      "meaningKo": "가라앉다, 싱크대",
+      "ipa": "/sɪŋk/",
+      "definition": "to go down below the surface of water or liquid",
+      "sentence": "A heavy metal pebble will sink quickly to the pond bottom.",
+      "wordImage": "images/38_sink_word.png",
+      "sentenceImage": "images/38_sink_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 39,
+      "word": "destination",
+      "partOfSpeech": "n.",
+      "meaningKo": "목적지, 행선지",
+      "ipa": "/ˌdes.təˈneɪ.ʃən/",
+      "definition": "the place where someone or something is going or being sent",
+      "sentence": "The mountain lake was our final destination on the weekend hike.",
+      "wordImage": "images/39_destination_word.png",
+      "sentenceImage": "images/39_destination_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 40,
+      "word": "station",
+      "partOfSpeech": "n.",
+      "meaningKo": "역, 정거장",
+      "ipa": "/ˈsteɪ.ʃən/",
+      "definition": "a building where trains or buses stop for passengers",
+      "sentence": "We waited on the clean platform of the central railway station.",
+      "wordImage": "images/40_station_word.png",
+      "sentenceImage": "images/40_station_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

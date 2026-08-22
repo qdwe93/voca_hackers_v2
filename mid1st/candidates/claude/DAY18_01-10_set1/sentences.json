@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 18,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY18-01",
+      "no": 1,
+      "word": "stomach",
+      "sentence": "Food travels down the throat and reaches the stomach."
+    },
+    {
+      "wordId": "DAY18-02",
+      "no": 2,
+      "word": "pill",
+      "sentence": "The nurse handed grandfather one small white pill with water."
+    },
+    {
+      "wordId": "DAY18-03",
+      "no": 3,
+      "word": "thumb",
+      "sentence": "My thumb is shorter and thicker than my other fingers."
+    },
+    {
+      "wordId": "DAY18-04",
+      "no": 4,
+      "word": "wound",
+      "sentence": "A clean bandage covers the healing wound on my elbow."
+    },
+    {
+      "wordId": "DAY18-05",
+      "no": 5,
+      "word": "therapy",
+      "sentence": "Gentle water therapy helped the runner walk without a cane."
+    },
+    {
+      "wordId": "DAY18-06",
+      "no": 6,
+      "word": "surgery",
+      "sentence": "After surgery the puppy rested quietly in a soft blanket."
+    },
+    {
+      "wordId": "DAY18-07",
+      "no": 7,
+      "word": "physician",
+      "sentence": "The village physician listens to each heartbeat with a stethoscope."
+    },
+    {
+      "wordId": "DAY18-08",
+      "no": 8,
+      "word": "positive",
+      "sentence": "Positive words from the nurse made waiting feel much shorter."
+    },
+    {
+      "wordId": "DAY18-09",
+      "no": 9,
+      "word": "grab",
+      "sentence": "I grab the handrail quickly when the bus starts moving."
+    },
+    {
+      "wordId": "DAY18-10",
+      "no": 10,
+      "word": "grip",
+      "sentence": "Climbers grip the rope tightly with both gloved hands."
+    }
+  ]
+}

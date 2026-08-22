@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 26,
+  "range": "31-40",
+  "set": 4,
+  "items": [
+    {
+      "wordId": "DAY26-31",
+      "no": 31,
+      "word": "stamp",
+      "sentence": "She attached a colorful postage stamp to the handwritten postal envelope."
+    },
+    {
+      "wordId": "DAY26-32",
+      "no": 32,
+      "word": "secure",
+      "sentence": "Store your bicycle in a secure lockable garage during stormy nights."
+    },
+    {
+      "wordId": "DAY26-33",
+      "no": 33,
+      "word": "conference",
+      "sentence": "Environmental delegates attended an international climate conference to discuss carbon emissions."
+    },
+    {
+      "wordId": "DAY26-34",
+      "no": 34,
+      "word": "urge",
+      "sentence": "Doctors urge parents to ensure their children get adequate daily sleep."
+    },
+    {
+      "wordId": "DAY26-35",
+      "no": 35,
+      "word": "confront",
+      "sentence": "Brave leaders confront difficult social problems with honesty and decisive action."
+    },
+    {
+      "wordId": "DAY26-36",
+      "no": 36,
+      "word": "persuade",
+      "sentence": "Debaters use compelling factual evidence to persuade listeners of their position."
+    },
+    {
+      "wordId": "DAY26-37",
+      "no": 37,
+      "word": "scan",
+      "sentence": "Students scan the index to locate specific historical topics in textbooks."
+    },
+    {
+      "wordId": "DAY26-38",
+      "no": 38,
+      "word": "prohibit",
+      "sentence": "City bylaws prohibit loud construction work during late evening quiet hours."
+    },
+    {
+      "wordId": "DAY26-39",
+      "no": 39,
+      "word": "moreover",
+      "sentence": "Reading expands vocabulary; moreover, it strengthens critical thinking and analytical reasoning."
+    },
+    {
+      "wordId": "DAY26-40",
+      "no": 40,
+      "word": "determine",
+      "sentence": "Test results determine which students qualify for advanced mathematics study programs."
+    }
+  ]
+}

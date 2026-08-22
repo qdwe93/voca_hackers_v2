@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 5,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY05-11",
+      "no": 11,
+      "word": "rather",
+      "sentence": "Today, the soup tasted rather salty for the hungry little fox."
+    },
+    {
+      "wordId": "DAY05-12",
+      "no": 12,
+      "word": "straight",
+      "sentence": "Students draw a straight line beside two parallel lines."
+    },
+    {
+      "wordId": "DAY05-13",
+      "no": 13,
+      "word": "meanwhile",
+      "sentence": "Today, the bread baked; meanwhile, the soup simmered on the stove."
+    },
+    {
+      "wordId": "DAY05-14",
+      "no": 14,
+      "word": "continuous",
+      "sentence": "One continuous stream of water fell from the mossy rocks."
+    },
+    {
+      "wordId": "DAY05-15",
+      "no": 15,
+      "word": "ordinary",
+      "sentence": "Today, it was an ordinary morning until the balloons appeared."
+    },
+    {
+      "wordId": "DAY05-16",
+      "no": 16,
+      "word": "relationship",
+      "sentence": "Today, the gentle relationship between the dog and cat grew stronger."
+    },
+    {
+      "wordId": "DAY05-17",
+      "no": 17,
+      "word": "throat",
+      "sentence": "Today, warm honey tea soothed the singing bird's sore throat."
+    },
+    {
+      "wordId": "DAY05-18",
+      "no": 18,
+      "word": "encounter",
+      "sentence": "Hikers sometimes encounter friendly deer close to the quiet mountain stream."
+    },
+    {
+      "wordId": "DAY05-19",
+      "no": 19,
+      "word": "disturb",
+      "sentence": "Kindly do not disturb the sleeping bear in the cave."
+    },
+    {
+      "wordId": "DAY05-20",
+      "no": 20,
+      "word": "lead",
+      "sentence": "Today, the oldest goose will lead the flock toward warm lakes."
+    }
+  ]
+}

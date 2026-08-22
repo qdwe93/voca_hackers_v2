@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 3,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 03 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "pack",
+      "partOfSpeech": "v.",
+      "meaningKo": "짐을 싸다",
+      "definition": "to put things into a bag or container",
+      "sentence": "The traveler will pack clothes neatly into a suitcase.",
+      "ipa": "/pæk/",
+      "wordImage": "images/11_pack_word.png",
+      "sentenceImage": "images/11_pack_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "host",
+      "partOfSpeech": "n.",
+      "meaningKo": "주최자",
+      "definition": "a person who welcomes and cares for guests",
+      "sentence": "The host welcomes every guest at the garden gate.",
+      "ipa": "/hoʊst/",
+      "wordImage": "images/12_host_word.png",
+      "sentenceImage": "images/12_host_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "private",
+      "partOfSpeech": "adj.",
+      "meaningKo": "사적인",
+      "definition": "belonging to one person and not open to everyone",
+      "sentence": "The child keeps a private collection inside a locked drawer.",
+      "ipa": "/praɪvət/",
+      "wordImage": "images/13_private_word.png",
+      "sentenceImage": "images/13_private_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "craft",
+      "partOfSpeech": "n.",
+      "meaningKo": "공예품",
+      "definition": "an object made skillfully by hand",
+      "sentence": "A paper dragon craft stands beside scissors and glue.",
+      "ipa": "/kræft/",
+      "wordImage": "images/14_craft_word.png",
+      "sentenceImage": "images/14_craft_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "post",
+      "partOfSpeech": "v.",
+      "meaningKo": "게시하다",
+      "definition": "to display or publish information for others to see",
+      "sentence": "The teacher will post student paintings on the blank wall.",
+      "ipa": "/poʊst/",
+      "wordImage": "images/15_post_word.png",
+      "sentenceImage": "images/15_post_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "relieve",
+      "partOfSpeech": "v.",
+      "meaningKo": "덜어 주다",
+      "definition": "to reduce pain worry or an unpleasant feeling",
+      "sentence": "A cool cloth can relieve the bear's warm forehead.",
+      "ipa": "/rɪliv/",
+      "wordImage": "images/16_relieve_word.png",
+      "sentenceImage": "images/16_relieve_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "practice",
+      "partOfSpeech": "v.",
+      "meaningKo": "연습하다",
+      "definition": "to repeat an activity to improve at it",
+      "sentence": "The young drummer will practice a rhythm after school.",
+      "ipa": "/præktəs/",
+      "wordImage": "images/17_practice_word.png",
+      "sentenceImage": "images/17_practice_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "souvenir",
+      "partOfSpeech": "n.",
+      "meaningKo": "기념품",
+      "definition": "an object kept to remember a place or event",
+      "sentence": "The traveler buys a shell souvenir at the seaside market.",
+      "ipa": "/suvənɪr/",
+      "wordImage": "images/18_souvenir_word.png",
+      "sentenceImage": "images/18_souvenir_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "decorate",
+      "partOfSpeech": "v.",
+      "meaningKo": "장식하다",
+      "definition": "to make something attractive by adding pretty things",
+      "sentence": "Children decorate the room with stars and paper lanterns.",
+      "ipa": "/dɛkɚeɪt/",
+      "wordImage": "images/19_decorate_word.png",
+      "sentenceImage": "images/19_decorate_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "book",
+      "partOfSpeech": "v.",
+      "meaningKo": "예약하다",
+      "definition": "to arrange and reserve something for later use",
+      "sentence": "The family will book a cabin for their mountain trip.",
+      "ipa": "/bʊk/",
+      "wordImage": "images/20_book_word.png",
+      "sentenceImage": "images/20_book_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

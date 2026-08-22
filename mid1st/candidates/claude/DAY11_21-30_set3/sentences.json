@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 11,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY11-21",
+      "no": 21,
+      "word": "wisdom",
+      "sentence": "The old storyteller's wisdom helped the village choose a fair plan."
+    },
+    {
+      "wordId": "DAY11-22",
+      "no": 22,
+      "word": "impressed",
+      "sentence": "Visitors looked impressed by the huge paper crane sculpture."
+    },
+    {
+      "wordId": "DAY11-23",
+      "no": 23,
+      "word": "emphasize",
+      "sentence": "Painters emphasize the main figure by using the brightest color."
+    },
+    {
+      "wordId": "DAY11-24",
+      "no": 24,
+      "word": "bold",
+      "sentence": "One bold student sang alone before the whole audience."
+    },
+    {
+      "wordId": "DAY11-25",
+      "no": 25,
+      "word": "admire",
+      "sentence": "Young dancers admire the teacher who trained for thirty years."
+    },
+    {
+      "wordId": "DAY11-26",
+      "no": 26,
+      "word": "vivid",
+      "sentence": "The novel's vivid description shows red apples and wet grass."
+    },
+    {
+      "wordId": "DAY11-27",
+      "no": 27,
+      "word": "multiple",
+      "sentence": "This play has multiple endings, and each group chooses one."
+    },
+    {
+      "wordId": "DAY11-28",
+      "no": 28,
+      "word": "profound",
+      "sentence": "The last line left a profound feeling in every reader."
+    },
+    {
+      "wordId": "DAY11-29",
+      "no": 29,
+      "word": "terrible",
+      "sentence": "Those burnt cookies tasted terrible, so nobody finished them."
+    },
+    {
+      "wordId": "DAY11-30",
+      "no": 30,
+      "word": "terrific",
+      "sentence": "Our school band played a terrific song at the festival."
+    }
+  ]
+}

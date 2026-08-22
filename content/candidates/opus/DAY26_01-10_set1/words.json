@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 26,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 26 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "legal",
+      "partOfSpeech": "adj.",
+      "meaningKo": "법적인",
+      "ipa": "/ˈliːɡl/",
+      "definition": "allowed by the rules of a country",
+      "sentence": "Fishing here is legal only during the warm months.",
+      "wordImage": "images/01_legal_word.png",
+      "sentenceImage": "images/01_legal_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "obey",
+      "partOfSpeech": "v.",
+      "meaningKo": "따르다",
+      "ipa": "/oʊˈbeɪ/",
+      "definition": "to do what a rule tells you",
+      "sentence": "Good drivers obey every sign along the mountain road.",
+      "wordImage": "images/02_obey_word.png",
+      "sentenceImage": "images/02_obey_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "arrest",
+      "partOfSpeech": "v.",
+      "meaningKo": "체포하다",
+      "ipa": "/əˈrest/",
+      "definition": "to take someone to answer for a rule",
+      "sentence": "In the board game, guards arrest the sneaky fox piece.",
+      "wordImage": "images/03_arrest_word.png",
+      "sentenceImage": "images/03_arrest_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "report",
+      "partOfSpeech": "v.",
+      "meaningKo": "보고하다",
+      "ipa": "/rɪˈpɔːrt/",
+      "definition": "to tell people about something that happened",
+      "sentence": "Please report the lost umbrella at the front desk.",
+      "wordImage": "images/04_report_word.png",
+      "sentenceImage": "images/04_report_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "innocent",
+      "partOfSpeech": "adj.",
+      "meaningKo": "무죄의",
+      "ipa": "/ˈɪnəsnt/",
+      "definition": "not having done anything wrong",
+      "sentence": "The innocent puppy was not the cookie thief here.",
+      "wordImage": "images/05_innocent_word.png",
+      "sentenceImage": "images/05_innocent_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "caution",
+      "partOfSpeech": "n.",
+      "meaningKo": "주의",
+      "ipa": "/ˈkɔːʃn/",
+      "definition": "great care to stay safe",
+      "sentence": "Walk with caution near the slippery mossy stone steps.",
+      "wordImage": "images/06_caution_word.png",
+      "sentenceImage": "images/06_caution_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "charge",
+      "partOfSpeech": "n.",
+      "meaningKo": "요금",
+      "ipa": "/tʃɑːrdʒ/",
+      "definition": "money you must pay for something",
+      "sentence": "There is no charge for entering the village garden.",
+      "wordImage": "images/07_charge_word.png",
+      "sentenceImage": "images/07_charge_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "violate",
+      "partOfSpeech": "v.",
+      "meaningKo": "위반하다",
+      "ipa": "/ˈvaɪəleɪt/",
+      "definition": "to break a rule or promise",
+      "sentence": "Players who violate the game rules lose one turn.",
+      "wordImage": "images/08_violate_word.png",
+      "sentenceImage": "images/08_violate_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "law",
+      "partOfSpeech": "n.",
+      "meaningKo": "법",
+      "ipa": "/lɔː/",
+      "definition": "a rule everyone in a country follows",
+      "sentence": "A new law protects the old trees in parks.",
+      "wordImage": "images/09_law_word.png",
+      "sentenceImage": "images/09_law_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "raw",
+      "partOfSpeech": "adj.",
+      "meaningKo": "날것의",
+      "ipa": "/rɔː/",
+      "definition": "not cooked at all",
+      "sentence": "Raw carrots taste crunchy and sweet in a salad.",
+      "wordImage": "images/10_raw_word.png",
+      "sentenceImage": "images/10_raw_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

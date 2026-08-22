@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 11,
+  "range": "31-40",
+  "set": 4,
+  "title": "DAY 11 · 31-40",
+  "words": [
+    {
+      "no": 31,
+      "word": "calculate",
+      "partOfSpeech": "v.",
+      "meaningKo": "계산하다, 산출하다",
+      "ipa": "/ˈkæl.kjə.leɪt/",
+      "definition": "to judge the number or amount using basic mathematics",
+      "sentence": "She used a solar calculator to calculate the total price.",
+      "wordImage": "images/31_calculate_word.png",
+      "sentenceImage": "images/31_calculate_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 32,
+      "word": "opportunity",
+      "partOfSpeech": "n.",
+      "meaningKo": "기회",
+      "ipa": "/ˌɑː.pɚˈtuː.nə.t̬i/",
+      "definition": "an occasion or situation making it possible to do something",
+      "sentence": "Visiting the space museum was an exciting opportunity for learning.",
+      "wordImage": "images/32_opportunity_word.png",
+      "sentenceImage": "images/32_opportunity_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 33,
+      "word": "poetry",
+      "partOfSpeech": "n.",
+      "meaningKo": "시, 시가",
+      "ipa": "/ˈpoʊ.ə.tri/",
+      "definition": "poems in general as a form of literature",
+      "sentence": "She recited a gentle spring poetry verse during the assembly.",
+      "wordImage": "images/33_poetry_word.png",
+      "sentenceImage": "images/33_poetry_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 34,
+      "word": "recall",
+      "partOfSpeech": "v.",
+      "meaningKo": "기억해 내다, 상기하다",
+      "ipa": "/rɪˈkɑːl/",
+      "definition": "to bring the memory of a past event into mind",
+      "sentence": "Can you recall the title of the book we read?",
+      "wordImage": "images/34_recall_word.png",
+      "sentenceImage": "images/34_recall_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 35,
+      "word": "inferior",
+      "partOfSpeech": "adj.",
+      "meaningKo": "질이 떨어지는, 하위의",
+      "ipa": "/ɪnˈfɪr.i.ɚ/",
+      "definition": "not good or not as good as someone or something",
+      "sentence": "The cheap plastic toy was inferior to the wooden blocks.",
+      "wordImage": "images/35_inferior_word.png",
+      "sentenceImage": "images/35_inferior_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 36,
+      "word": "spirit",
+      "partOfSpeech": "n.",
+      "meaningKo": "정신, 영혼, 기운",
+      "ipa": "/ˈspɪr.ət/",
+      "definition": "the enthusiastic and lively attitude of a person or group",
+      "sentence": "The team played with great sportsmanship and energetic school spirit.",
+      "wordImage": "images/36_spirit_word.png",
+      "sentenceImage": "images/36_spirit_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 37,
+      "word": "fade",
+      "partOfSpeech": "v.",
+      "meaningKo": "희미해지다, 사라지다",
+      "ipa": "/feɪd/",
+      "definition": "to lose brightness, color, or sound gradually over time",
+      "sentence": "The afternoon sunlight began to fade behind the western hills.",
+      "wordImage": "images/37_fade_word.png",
+      "sentenceImage": "images/37_fade_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 38,
+      "word": "generation",
+      "partOfSpeech": "n.",
+      "meaningKo": "세대, 시대",
+      "ipa": "/ˌdʒen.əˈreɪ.ʃən/",
+      "definition": "all the people of about the same age in society",
+      "sentence": "This fairy tale has been passed down through every generation.",
+      "wordImage": "images/38_generation_word.png",
+      "sentenceImage": "images/38_generation_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 39,
+      "word": "masterpiece",
+      "partOfSpeech": "n.",
+      "meaningKo": "걸작, 명작",
+      "ipa": "/ˈmæs.tɚ.piːs/",
+      "definition": "a work of art that is an extremely good achievement",
+      "sentence": "The painted Mona Lisa is regarded as a worldwide masterpiece.",
+      "wordImage": "images/39_masterpiece_word.png",
+      "sentenceImage": "images/39_masterpiece_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 40,
+      "word": "figure",
+      "partOfSpeech": "n.",
+      "meaningKo": "인물, 수치, 도형",
+      "ipa": "/ˈfɪɡ.jɚ/",
+      "definition": "a person who is well known, or a geometric shape",
+      "sentence": "He is an important historical figure in modern science discoveries.",
+      "wordImage": "images/40_figure_word.png",
+      "sentenceImage": "images/40_figure_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 18,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY18-01",
+      "no": 1,
+      "word": "stomach",
+      "sentence": "Food moves down the esophagus into the muscular digestive organ stomach."
+    },
+    {
+      "wordId": "DAY18-02",
+      "no": 2,
+      "word": "pill",
+      "sentence": "Take one vitamin pill daily with a glass of fresh water."
+    },
+    {
+      "wordId": "DAY18-03",
+      "no": 3,
+      "word": "thumb",
+      "sentence": "Humans use their opposable thumb to grip tools and pencils firmly."
+    },
+    {
+      "wordId": "DAY18-04",
+      "no": 4,
+      "word": "wound",
+      "sentence": "The nurse cleaned the small wound before applying a clean bandage."
+    },
+    {
+      "wordId": "DAY18-05",
+      "no": 5,
+      "word": "therapy",
+      "sentence": "Physical therapy helps injured athletes regain strength and joint mobility safely."
+    },
+    {
+      "wordId": "DAY18-06",
+      "no": 6,
+      "word": "surgery",
+      "sentence": "The skilled medical team performed delicate surgery to repair damaged cartilage."
+    },
+    {
+      "wordId": "DAY18-07",
+      "no": 7,
+      "word": "physician",
+      "sentence": "The family physician examined the patient and prescribed effective cold medication."
+    },
+    {
+      "wordId": "DAY18-08",
+      "no": 8,
+      "word": "positive",
+      "sentence": "Maintaining a positive attitude supports mental health and speeds physical recovery."
+    },
+    {
+      "wordId": "DAY18-09",
+      "no": 9,
+      "word": "grab",
+      "sentence": "He had to grab the railing to keep his balance firmly."
+    },
+    {
+      "wordId": "DAY18-10",
+      "no": 10,
+      "word": "grip",
+      "sentence": "Climbers grip the safety rope with both hands while ascending cliffs."
+    }
+  ]
+}

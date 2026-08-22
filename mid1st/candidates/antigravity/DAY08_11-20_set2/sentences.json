@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 8,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY08-11",
+      "no": 11,
+      "word": "range",
+      "sentence": "The temperature data shows a wide range across different seasons."
+    },
+    {
+      "wordId": "DAY08-12",
+      "no": 12,
+      "word": "stuff",
+      "sentence": "Please pack your art stuff into the wooden storage box."
+    },
+    {
+      "wordId": "DAY08-13",
+      "no": 13,
+      "word": "journal",
+      "sentence": "She writes daily reflections in her personal reading journal notebook."
+    },
+    {
+      "wordId": "DAY08-14",
+      "no": 14,
+      "word": "describe",
+      "sentence": "Students use sensory adjectives to describe their favorite outdoor park."
+    },
+    {
+      "wordId": "DAY08-15",
+      "no": 15,
+      "word": "otherwise",
+      "sentence": "Wear a warm coat, otherwise you might catch a cold."
+    },
+    {
+      "wordId": "DAY08-16",
+      "no": 16,
+      "word": "share",
+      "sentence": "The siblings share their storybooks during quiet afternoon reading time."
+    },
+    {
+      "wordId": "DAY08-17",
+      "no": 17,
+      "word": "jealous",
+      "sentence": "He felt jealous when his brother received a new bicycle."
+    },
+    {
+      "wordId": "DAY08-18",
+      "no": 18,
+      "word": "translate",
+      "sentence": "Can you translate this traditional Korean proverb into natural English?"
+    },
+    {
+      "wordId": "DAY08-19",
+      "no": 19,
+      "word": "nod",
+      "sentence": "Listeners nod their heads to show agreement with the speaker."
+    },
+    {
+      "wordId": "DAY08-20",
+      "no": 20,
+      "word": "mean",
+      "sentence": "Red traffic lights mean that all moving vehicles must stop."
+    }
+  ]
+}

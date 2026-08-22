@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 24,
+  "range": "31-40",
+  "set": 4,
+  "title": "DAY 24 · 31-40",
+  "words": [
+    {
+      "no": 31,
+      "word": "aspect",
+      "partOfSpeech": "n.",
+      "meaningKo": "측면",
+      "ipa": "/ˈæspekt/",
+      "definition": "one side or part of something",
+      "sentence": "The best aspect of camping is the starry sky.",
+      "wordImage": "images/31_aspect_word.png",
+      "sentenceImage": "images/31_aspect_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 32,
+      "word": "float",
+      "partOfSpeech": "v.",
+      "meaningKo": "뜨다",
+      "ipa": "/floʊt/",
+      "definition": "to stay on top of water",
+      "sentence": "Paper boats float gently along the slow moving stream.",
+      "wordImage": "images/32_float_word.png",
+      "sentenceImage": "images/32_float_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 33,
+      "word": "ingredient",
+      "partOfSpeech": "n.",
+      "meaningKo": "재료",
+      "ipa": "/ɪnˈɡriːdiənt/",
+      "definition": "one food used to make a dish",
+      "sentence": "Butter is the secret ingredient in this soft bread.",
+      "wordImage": "images/33_ingredient_word.png",
+      "sentenceImage": "images/33_ingredient_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 34,
+      "word": "ban",
+      "partOfSpeech": "v.",
+      "meaningKo": "금지하다",
+      "ipa": "/bæn/",
+      "definition": "to say something is not allowed",
+      "sentence": "The park will ban loud horns near the pond.",
+      "wordImage": "images/34_ban_word.png",
+      "sentenceImage": "images/34_ban_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 35,
+      "word": "witness",
+      "partOfSpeech": "n.",
+      "meaningKo": "목격자",
+      "ipa": "/ˈwɪtnəs/",
+      "definition": "a person who saw something happen",
+      "sentence": "One small witness saw the kitten climb the fence.",
+      "wordImage": "images/35_witness_word.png",
+      "sentenceImage": "images/35_witness_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 36,
+      "word": "solar",
+      "partOfSpeech": "adj.",
+      "meaningKo": "태양의",
+      "ipa": "/ˈsoʊlər/",
+      "definition": "about the sun and its light",
+      "sentence": "Solar lamps light the garden path every evening.",
+      "wordImage": "images/36_solar_word.png",
+      "sentenceImage": "images/36_solar_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 37,
+      "word": "starve",
+      "partOfSpeech": "v.",
+      "meaningKo": "굶주리다",
+      "ipa": "/stɑːrv/",
+      "definition": "to need food very badly",
+      "sentence": "Plants starve without good soil and enough sunlight.",
+      "wordImage": "images/37_starve_word.png",
+      "sentenceImage": "images/37_starve_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 38,
+      "word": "attribute",
+      "partOfSpeech": "n.",
+      "meaningKo": "속성",
+      "ipa": "/ˈætrɪbjuːt/",
+      "definition": "a quality that something has",
+      "sentence": "Softness is the best attribute of this wool blanket.",
+      "wordImage": "images/38_attribute_word.png",
+      "sentenceImage": "images/38_attribute_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 39,
+      "word": "appliance",
+      "partOfSpeech": "n.",
+      "meaningKo": "가전제품",
+      "ipa": "/əˈplaɪəns/",
+      "definition": "a machine used in a home",
+      "sentence": "The new kitchen appliance mixed the cake batter quickly.",
+      "wordImage": "images/39_appliance_word.png",
+      "sentenceImage": "images/39_appliance_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 40,
+      "word": "plant",
+      "partOfSpeech": "v.",
+      "meaningKo": "심다",
+      "ipa": "/plænt/",
+      "definition": "to put a seed into the ground",
+      "sentence": "We will plant sunflower seeds along the wooden fence.",
+      "wordImage": "images/40_plant_word.png",
+      "sentenceImage": "images/40_plant_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

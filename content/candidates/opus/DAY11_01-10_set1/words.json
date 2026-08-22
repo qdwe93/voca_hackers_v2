@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 11,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 11 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "publish",
+      "partOfSpeech": "v.",
+      "meaningKo": "출판하다",
+      "ipa": "/ˈpʌblɪʃ/",
+      "definition": "to print a book so people can read it",
+      "sentence": "The young writer will publish her first picture book.",
+      "wordImage": "images/01_publish_word.png",
+      "sentenceImage": "images/01_publish_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "literature",
+      "partOfSpeech": "n.",
+      "meaningKo": "문학",
+      "ipa": "/ˈlɪtrətʃər/",
+      "definition": "stories and poems that people write",
+      "sentence": "Old fairy tales are a beloved part of literature.",
+      "wordImage": "images/02_literature_word.png",
+      "sentenceImage": "images/02_literature_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "fiction",
+      "partOfSpeech": "n.",
+      "meaningKo": "소설",
+      "ipa": "/ˈfɪkʃn/",
+      "definition": "stories about things that did not happen",
+      "sentence": "The talking bear tale is pure fiction, not real history.",
+      "wordImage": "images/03_fiction_word.png",
+      "sentenceImage": "images/03_fiction_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "author",
+      "partOfSpeech": "n.",
+      "meaningKo": "저자",
+      "ipa": "/ˈɔːθər/",
+      "definition": "the person who wrote a book",
+      "sentence": "The author signed books for children at the library.",
+      "wordImage": "images/04_author_word.png",
+      "sentenceImage": "images/04_author_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "symbol",
+      "partOfSpeech": "n.",
+      "meaningKo": "상징",
+      "ipa": "/ˈsɪmbl/",
+      "definition": "a shape that stands for an idea",
+      "sentence": "A dove is often a symbol of peace and calm.",
+      "wordImage": "images/05_symbol_word.png",
+      "sentenceImage": "images/05_symbol_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "plot",
+      "partOfSpeech": "n.",
+      "meaningKo": "줄거리",
+      "ipa": "/plɑːt/",
+      "definition": "the story of what happens in a book",
+      "sentence": "The plot of the pirate story surprised every reader.",
+      "wordImage": "images/06_plot_word.png",
+      "sentenceImage": "images/06_plot_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "collaborate",
+      "partOfSpeech": "v.",
+      "meaningKo": "협력하다",
+      "ipa": "/kəˈlæbəreɪt/",
+      "definition": "to work together on the same project",
+      "sentence": "Two artists collaborate on one huge colorful wall painting.",
+      "wordImage": "images/07_collaborate_word.png",
+      "sentenceImage": "images/07_collaborate_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "statue",
+      "partOfSpeech": "n.",
+      "meaningKo": "조각상",
+      "ipa": "/ˈstætʃuː/",
+      "definition": "a stone or metal figure of someone",
+      "sentence": "A stone statue of a lion guarded the museum steps.",
+      "wordImage": "images/08_statue_word.png",
+      "sentenceImage": "images/08_statue_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "state",
+      "partOfSpeech": "n.",
+      "meaningKo": "상태",
+      "ipa": "/steɪt/",
+      "definition": "the condition something is in",
+      "sentence": "The old book was in perfect state after many years.",
+      "wordImage": "images/09_state_word.png",
+      "sentenceImage": "images/09_state_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "status",
+      "partOfSpeech": "n.",
+      "meaningKo": "지위",
+      "ipa": "/ˈsteɪtəs/",
+      "definition": "the position someone has in a group",
+      "sentence": "The queen bee holds the highest status in the hive.",
+      "wordImage": "images/10_status_word.png",
+      "sentenceImage": "images/10_status_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

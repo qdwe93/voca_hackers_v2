@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 2,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 02 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "active",
+      "partOfSpeech": "adj.",
+      "meaningKo": "활발한",
+      "ipa": "/ˈæktɪv/",
+      "definition": "moving around a lot and full of energy",
+      "sentence": "The active puppy ran across the field all morning.",
+      "wordImage": "images/01_active_word.png",
+      "sentenceImage": "images/01_active_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "excellent",
+      "partOfSpeech": "adj.",
+      "meaningKo": "훌륭한",
+      "ipa": "/ˈeksələnt/",
+      "definition": "very, very good",
+      "sentence": "The young painter did an excellent job on the mural.",
+      "wordImage": "images/02_excellent_word.png",
+      "sentenceImage": "images/02_excellent_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "lecture",
+      "partOfSpeech": "n.",
+      "meaningKo": "강의",
+      "ipa": "/ˈlektʃər/",
+      "definition": "a talk that teaches people about one subject",
+      "sentence": "The owl gave a lecture about stars to young students.",
+      "wordImage": "images/03_lecture_word.png",
+      "sentenceImage": "images/03_lecture_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "academic",
+      "partOfSpeech": "adj.",
+      "meaningKo": "학업의",
+      "ipa": "/ˌækəˈdemɪk/",
+      "definition": "about school study and learning",
+      "sentence": "The robot won a prize for its academic work.",
+      "wordImage": "images/04_academic_word.png",
+      "sentenceImage": "images/04_academic_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "encourage",
+      "partOfSpeech": "v.",
+      "meaningKo": "격려하다",
+      "ipa": "/ɪnˈkɜːrɪdʒ/",
+      "definition": "to give someone hope and courage to try",
+      "sentence": "The coach will encourage every runner before the big race.",
+      "wordImage": "images/05_encourage_word.png",
+      "sentenceImage": "images/05_encourage_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "debate",
+      "partOfSpeech": "n.",
+      "meaningKo": "토론",
+      "ipa": "/dɪˈbeɪt/",
+      "definition": "a talk where two sides share different ideas",
+      "sentence": "Two teams held a friendly debate about the best season.",
+      "wordImage": "images/06_debate_word.png",
+      "sentenceImage": "images/06_debate_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "president",
+      "partOfSpeech": "n.",
+      "meaningKo": "회장",
+      "ipa": "/ˈprezɪdənt/",
+      "definition": "the leader of a country or a group",
+      "sentence": "The class chose a rabbit as their new club president.",
+      "wordImage": "images/07_president_word.png",
+      "sentenceImage": "images/07_president_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "assignment",
+      "partOfSpeech": "n.",
+      "meaningKo": "과제",
+      "ipa": "/əˈsaɪnmənt/",
+      "definition": "work that a teacher gives you to finish",
+      "sentence": "The students carried their science assignment into the bright classroom.",
+      "wordImage": "images/08_assignment_word.png",
+      "sentenceImage": "images/08_assignment_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "principal",
+      "partOfSpeech": "n.",
+      "meaningKo": "교장",
+      "ipa": "/ˈprɪnsəpl/",
+      "definition": "the leader of a school",
+      "sentence": "The friendly principal welcomed everyone at the school front gate.",
+      "wordImage": "images/09_principal_word.png",
+      "sentenceImage": "images/09_principal_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "principle",
+      "partOfSpeech": "n.",
+      "meaningKo": "원칙",
+      "ipa": "/ˈprɪnsəpl/",
+      "definition": "a rule you believe and always follow",
+      "sentence": "Sharing fairly is an important principle in every team game.",
+      "wordImage": "images/10_principle_word.png",
+      "sentenceImage": "images/10_principle_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

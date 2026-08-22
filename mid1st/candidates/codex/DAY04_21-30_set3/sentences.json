@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 4,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY04-21",
+      "no": 21,
+      "word": "presentation",
+      "sentence": "Her presentation explains three bamboo facts in a clear order."
+    },
+    {
+      "wordId": "DAY04-22",
+      "no": 22,
+      "word": "accomplish",
+      "sentence": "The club can accomplish the puzzle before the sun sets."
+    },
+    {
+      "wordId": "DAY04-23",
+      "no": 23,
+      "word": "convince",
+      "sentence": "Students use facts to convince classmates to protect the garden."
+    },
+    {
+      "wordId": "DAY04-24",
+      "no": 24,
+      "word": "audience",
+      "sentence": "The speaker adjusts picture size and volume for the audience."
+    },
+    {
+      "wordId": "DAY04-25",
+      "no": 25,
+      "word": "wage",
+      "sentence": "Workers compare each wage and ask the union for fairness."
+    },
+    {
+      "wordId": "DAY04-26",
+      "no": 26,
+      "word": "previous",
+      "sentence": "The previous drawing hung next to the newest colorful one."
+    },
+    {
+      "wordId": "DAY04-27",
+      "no": 27,
+      "word": "spend",
+      "sentence": "The small rabbits spend every sunny afternoon painting in the garden."
+    },
+    {
+      "wordId": "DAY04-28",
+      "no": 28,
+      "word": "distinguish",
+      "sentence": "Today, can you distinguish the twin puppies by their tiny collars?"
+    },
+    {
+      "wordId": "DAY04-29",
+      "no": 29,
+      "word": "former",
+      "sentence": "Today, the former champion smiled kindly at the new young winner."
+    },
+    {
+      "wordId": "DAY04-30",
+      "no": 30,
+      "word": "formal",
+      "sentence": "She uses formal language when presenting her report to adults."
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 9,
+  "range": "31-40",
+  "set": 4,
+  "title": "DAY 09 · 31-40",
+  "words": [
+    {
+      "no": 31,
+      "word": "fundamental",
+      "partOfSpeech": "adj.",
+      "meaningKo": "기본적인, 근본적인",
+      "ipa": "/ˌfʌn.dəˈmen.t̬əl/",
+      "definition": "forming the base from which everything else develops naturally",
+      "sentence": "Learning addition and subtraction is a fundamental part of mathematics.",
+      "wordImage": "images/31_fundamental_word.png",
+      "sentenceImage": "images/31_fundamental_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 32,
+      "word": "modify",
+      "partOfSpeech": "v.",
+      "meaningKo": "수정하다, 바꾸다",
+      "ipa": "/ˈmɑː.də.faɪ/",
+      "definition": "to change something slightly to improve it or make suitable",
+      "sentence": "We can modify the toy car to make it roll faster.",
+      "wordImage": "images/32_modify_word.png",
+      "sentenceImage": "images/32_modify_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 33,
+      "word": "instinct",
+      "partOfSpeech": "n.",
+      "meaningKo": "본능, 직감",
+      "ipa": "/ˈɪn.stɪŋkt/",
+      "definition": "a natural behavior or reaction that is not learned",
+      "sentence": "Birds fly south in winter by a natural migration instinct.",
+      "wordImage": "images/33_instinct_word.png",
+      "sentenceImage": "images/33_instinct_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 34,
+      "word": "volunteer",
+      "partOfSpeech": "v.",
+      "meaningKo": "자원하다, 자원봉사하다",
+      "ipa": "/ˌvɑː.lənˈtɪr/",
+      "definition": "to offer to do something without being forced or paid",
+      "sentence": "Many students volunteer to plant trees in the local park.",
+      "wordImage": "images/34_volunteer_word.png",
+      "sentenceImage": "images/34_volunteer_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 35,
+      "word": "conscious",
+      "partOfSpeech": "adj.",
+      "meaningKo": "의식하는, 자각하는",
+      "ipa": "/ˈkɑːn.ʃəs/",
+      "definition": "aware of and responding to your surroundings and actions",
+      "sentence": "Be conscious of recycling paper to help protect our planet.",
+      "wordImage": "images/35_conscious_word.png",
+      "sentenceImage": "images/35_conscious_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 36,
+      "word": "tempt",
+      "partOfSpeech": "v.",
+      "meaningKo": "유혹하다, 부추기다",
+      "ipa": "/tempt/",
+      "definition": "to make someone want to do or have something tempting",
+      "sentence": "The smell of fresh cinnamon cookies can tempt any hungry child.",
+      "wordImage": "images/36_tempt_word.png",
+      "sentenceImage": "images/36_tempt_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 37,
+      "word": "humble",
+      "partOfSpeech": "adj.",
+      "meaningKo": "겸손한, 소박한",
+      "ipa": "/ˈhʌm.bəl/",
+      "definition": "not proud or thinking that you are better than others",
+      "sentence": "The champion remained humble and thanked all his training coaches.",
+      "wordImage": "images/37_humble_word.png",
+      "sentenceImage": "images/37_humble_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 38,
+      "word": "ashamed",
+      "partOfSpeech": "adj.",
+      "meaningKo": "부끄러운, 부끄러워하는",
+      "ipa": "/əˈʃeɪmd/",
+      "definition": "feeling guilty or embarrassed about something you have done",
+      "sentence": "He felt ashamed after forgetting to feed his pet goldfish.",
+      "wordImage": "images/38_ashamed_word.png",
+      "sentenceImage": "images/38_ashamed_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 39,
+      "word": "prejudice",
+      "partOfSpeech": "n.",
+      "meaningKo": "편견, 선입견",
+      "ipa": "/ˈpredʒ.ə.dɪs/",
+      "definition": "an unfair and unreasonable opinion formed without enough knowledge",
+      "sentence": "Education helps us overcome unfair prejudice and understand different cultures.",
+      "wordImage": "images/39_prejudice_word.png",
+      "sentenceImage": "images/39_prejudice_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 40,
+      "word": "order",
+      "partOfSpeech": "n.",
+      "meaningKo": "순서, 질서",
+      "ipa": "/ˈɔːr.dɚ/",
+      "definition": "the arrangement of things according to a particular sequence",
+      "sentence": "Please place the numbered library books in correct alphabetical order.",
+      "wordImage": "images/40_order_word.png",
+      "sentenceImage": "images/40_order_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

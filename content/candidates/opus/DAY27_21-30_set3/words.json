@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 27,
+  "range": "21-30",
+  "set": 3,
+  "title": "DAY 27 · 21-30",
+  "words": [
+    {
+      "no": 21,
+      "word": "simplify",
+      "partOfSpeech": "v.",
+      "meaningKo": "단순화하다",
+      "ipa": "/ˈsɪmplɪfaɪ/",
+      "definition": "to make something easier to understand",
+      "sentence": "The teacher will simplify the long rules for everyone.",
+      "wordImage": "images/21_simplify_word.png",
+      "sentenceImage": "images/21_simplify_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 22,
+      "word": "committee",
+      "partOfSpeech": "n.",
+      "meaningKo": "위원회",
+      "ipa": "/kəˈmɪti/",
+      "definition": "a small group chosen to do work",
+      "sentence": "The garden committee met beside the old apple tree.",
+      "wordImage": "images/22_committee_word.png",
+      "sentenceImage": "images/22_committee_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 23,
+      "word": "accompany",
+      "partOfSpeech": "v.",
+      "meaningKo": "동행하다",
+      "ipa": "/əˈkʌmpəni/",
+      "definition": "to go somewhere together with someone",
+      "sentence": "A guide will accompany the class into the cave.",
+      "wordImage": "images/23_accompany_word.png",
+      "sentenceImage": "images/23_accompany_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 24,
+      "word": "proportion",
+      "partOfSpeech": "n.",
+      "meaningKo": "비율",
+      "ipa": "/prəˈpɔːrʃn/",
+      "definition": "how big one part is compared to another",
+      "sentence": "A large proportion of the field grew golden wheat.",
+      "wordImage": "images/24_proportion_word.png",
+      "sentenceImage": "images/24_proportion_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 25,
+      "word": "household",
+      "partOfSpeech": "n.",
+      "meaningKo": "가정",
+      "ipa": "/ˈhaʊshoʊld/",
+      "definition": "all the people living in one home",
+      "sentence": "Every household on the street shared garden tools happily.",
+      "wordImage": "images/25_household_word.png",
+      "sentenceImage": "images/25_household_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 26,
+      "word": "absence",
+      "partOfSpeech": "n.",
+      "meaningKo": "부재",
+      "ipa": "/ˈæbsəns/",
+      "definition": "when someone or something is not there",
+      "sentence": "The absence of wind made the lake perfectly still.",
+      "wordImage": "images/26_absence_word.png",
+      "sentenceImage": "images/26_absence_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 27,
+      "word": "primary",
+      "partOfSpeech": "adj.",
+      "meaningKo": "주요한",
+      "ipa": "/ˈpraɪmeri/",
+      "definition": "first and most important",
+      "sentence": "The primary goal was finishing the treehouse before winter.",
+      "wordImage": "images/27_primary_word.png",
+      "sentenceImage": "images/27_primary_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 28,
+      "word": "spot",
+      "partOfSpeech": "v.",
+      "meaningKo": "발견하다",
+      "ipa": "/spɑːt/",
+      "definition": "to see something small or hidden",
+      "sentence": "Can you spot the green frog among the leaves?",
+      "wordImage": "images/28_spot_word.png",
+      "sentenceImage": "images/28_spot_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 29,
+      "word": "bother",
+      "partOfSpeech": "v.",
+      "meaningKo": "귀찮게 하다",
+      "ipa": "/ˈbɑːðər/",
+      "definition": "to trouble someone who is busy",
+      "sentence": "Please do not bother the bees near the flowers.",
+      "wordImage": "images/29_bother_word.png",
+      "sentenceImage": "images/29_bother_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 30,
+      "word": "border",
+      "partOfSpeech": "n.",
+      "meaningKo": "국경",
+      "ipa": "/ˈbɔːrdər/",
+      "definition": "the line where two lands meet",
+      "sentence": "A river forms the border between two green countries.",
+      "wordImage": "images/30_border_word.png",
+      "sentenceImage": "images/30_border_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

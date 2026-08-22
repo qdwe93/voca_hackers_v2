@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 10,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY10-21",
+      "no": 21,
+      "word": "abandon",
+      "sentence": "Today, the pirates will abandon the old ship on the beach."
+    },
+    {
+      "wordId": "DAY10-22",
+      "no": 22,
+      "word": "crash",
+      "sentence": "Today, the toy car might crash into the soft cushion wall."
+    },
+    {
+      "wordId": "DAY10-23",
+      "no": 23,
+      "word": "promote",
+      "sentence": "Today, the manager will promote the skilled helper to team leader."
+    },
+    {
+      "wordId": "DAY10-24",
+      "no": 24,
+      "word": "decade",
+      "sentence": "Today, the oak tree grew tall over one long decade."
+    },
+    {
+      "wordId": "DAY10-25",
+      "no": 25,
+      "word": "establish",
+      "sentence": "Two classmates will establish a small garden club this spring."
+    },
+    {
+      "wordId": "DAY10-26",
+      "no": 26,
+      "word": "burden",
+      "sentence": "Today, the donkey carried a burden of soft woolly blankets."
+    },
+    {
+      "wordId": "DAY10-27",
+      "no": 27,
+      "word": "assist",
+      "sentence": "One robot will assist the chef during the busy lunch."
+    },
+    {
+      "wordId": "DAY10-28",
+      "no": 28,
+      "word": "resolve",
+      "sentence": "Two classmates will resolve the puzzle before dinner time."
+    },
+    {
+      "wordId": "DAY10-29",
+      "no": 29,
+      "word": "detect",
+      "sentence": "Students detect leaf changes and record them each morning."
+    },
+    {
+      "wordId": "DAY10-30",
+      "no": 30,
+      "word": "defeat",
+      "sentence": "Today, the blue team may defeat the red team in chess."
+    }
+  ]
+}

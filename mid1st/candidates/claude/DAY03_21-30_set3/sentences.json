@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 3,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY03-21",
+      "no": 21,
+      "word": "reserve",
+      "sentence": "The library will reserve this comic book for me until Friday."
+    },
+    {
+      "wordId": "DAY03-22",
+      "no": 22,
+      "word": "wrap",
+      "sentence": "We wrap the handmade gift with brown paper and string."
+    },
+    {
+      "wordId": "DAY03-23",
+      "no": 23,
+      "word": "occasion",
+      "sentence": "A birthday is a happy occasion for sharing cake together."
+    },
+    {
+      "wordId": "DAY03-24",
+      "no": 24,
+      "word": "allow",
+      "sentence": "The camp leaders allow night walks only with an adult."
+    },
+    {
+      "wordId": "DAY03-25",
+      "no": 25,
+      "word": "ensure",
+      "sentence": "Checking the ropes twice will ensure a safe climbing practice."
+    },
+    {
+      "wordId": "DAY03-26",
+      "no": 26,
+      "word": "agent",
+      "sentence": "Our travel agent planned the train tickets and hotel rooms."
+    },
+    {
+      "wordId": "DAY03-27",
+      "no": 27,
+      "word": "argue",
+      "sentence": "Two teammates argue about the game rule, then agree to reread it."
+    },
+    {
+      "wordId": "DAY03-28",
+      "no": 28,
+      "word": "confirm",
+      "sentence": "We confirm the hiking map's date by checking a second official website."
+    },
+    {
+      "wordId": "DAY03-29",
+      "no": 29,
+      "word": "wonder",
+      "sentence": "Many visitors wonder how the huge sand castle stays standing."
+    },
+    {
+      "wordId": "DAY03-30",
+      "no": 30,
+      "word": "wander",
+      "sentence": "Families wander slowly through the flower park on Sunday morning."
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 28,
+  "range": "21-30",
+  "set": 3,
+  "title": "DAY 28 · 21-30",
+  "words": [
+    {
+      "no": 21,
+      "word": "cancel",
+      "partOfSpeech": "v.",
+      "meaningKo": "취소하다",
+      "ipa": "/ˈkæn.səl/",
+      "definition": "to decide that an organized event will not happen",
+      "sentence": "Rain forced organizers to cancel the afternoon outdoor soccer match.",
+      "wordImage": "images/21_cancel_word.png",
+      "sentenceImage": "images/21_cancel_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 22,
+      "word": "replace",
+      "partOfSpeech": "v.",
+      "meaningKo": "대체하다, 교체하다",
+      "ipa": "/rɪˈpleɪs/",
+      "definition": "to take the place of something, or put something new",
+      "sentence": "It was time to replace the old battery with a new one.",
+      "wordImage": "images/22_replace_word.png",
+      "sentenceImage": "images/22_replace_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 23,
+      "word": "property",
+      "partOfSpeech": "n.",
+      "meaningKo": "재산, 소유물, 특성",
+      "ipa": "/ˈprɑː.pɚ.t̬i/",
+      "definition": "a thing or things belonging to someone, or land owned",
+      "sentence": "Please respect school property and keep all classroom desks clean.",
+      "wordImage": "images/23_property_word.png",
+      "sentenceImage": "images/23_property_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 24,
+      "word": "refund",
+      "partOfSpeech": "n.",
+      "meaningKo": "환불, 반환금",
+      "ipa": "/ˈriː.fʌnd/",
+      "definition": "an amount of money that is paid back to you",
+      "sentence": "The friendly store clerk gave a full refund for the item.",
+      "wordImage": "images/24_refund_word.png",
+      "sentenceImage": "images/24_refund_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 25,
+      "word": "branch",
+      "partOfSpeech": "n.",
+      "meaningKo": "나뭇가지, 지점, 분과",
+      "ipa": "/bræntʃ/",
+      "definition": "a part of a tree that grows out from trunk",
+      "sentence": "A little bluebird sang sweetly from a leafy tree branch.",
+      "wordImage": "images/25_branch_word.png",
+      "sentenceImage": "images/25_branch_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 26,
+      "word": "recover",
+      "partOfSpeech": "v.",
+      "meaningKo": "회복하다, 되찾다",
+      "ipa": "/rɪˈkʌv.ɚ/",
+      "definition": "to get back to normal health or retrieve lost items",
+      "sentence": "Plenty of rest and warm tea helped him recover from cold.",
+      "wordImage": "images/26_recover_word.png",
+      "sentenceImage": "images/26_recover_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 27,
+      "word": "hardship",
+      "partOfSpeech": "n.",
+      "meaningKo": "고난, 어려움",
+      "ipa": "/ˈhɑːrd.ʃɪp/",
+      "definition": "severe suffering, difficulty, or privation in story or life",
+      "sentence": "Pioneer settlers faced cold winter hardship with courage and strong teamwork.",
+      "wordImage": "images/27_hardship_word.png",
+      "sentenceImage": "images/27_hardship_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 28,
+      "word": "assemble",
+      "partOfSpeech": "v.",
+      "meaningKo": "조립하다, 모이다",
+      "ipa": "/əˈsem.bəl/",
+      "definition": "to put together the parts of something, or gather people",
+      "sentence": "Children used colorful interlocking blocks to assemble a toy spaceship model.",
+      "wordImage": "images/28_assemble_word.png",
+      "sentenceImage": "images/28_assemble_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 29,
+      "word": "proceed",
+      "partOfSpeech": "v.",
+      "meaningKo": "진행하다, 나아가다",
+      "ipa": "/proʊˈsiːd/",
+      "definition": "to continue as planned or move forward in a direction",
+      "sentence": "After the green signal flashed, hikers could proceed along the trail.",
+      "wordImage": "images/29_proceed_word.png",
+      "sentenceImage": "images/29_proceed_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 30,
+      "word": "precede",
+      "partOfSpeech": "v.",
+      "meaningKo": "선행하다, 앞서다",
+      "ipa": "/prɪˈsiːd/",
+      "definition": "to come before something in time, order, or position",
+      "sentence": "A gentle drum roll will precede the start of the parade.",
+      "wordImage": "images/30_precede_word.png",
+      "sentenceImage": "images/30_precede_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 9,
+  "range": "31-40",
+  "set": 4,
+  "items": [
+    {
+      "wordId": "DAY09-31",
+      "no": 31,
+      "word": "fundamental",
+      "sentence": "Equal rights are a fundamental principle of modern democratic society."
+    },
+    {
+      "wordId": "DAY09-32",
+      "no": 32,
+      "word": "modify",
+      "sentence": "The committee voted to modify the outdated club safety rules."
+    },
+    {
+      "wordId": "DAY09-33",
+      "no": 33,
+      "word": "instinct",
+      "sentence": "Birds follow natural instinct when building cozy nests in spring."
+    },
+    {
+      "wordId": "DAY09-34",
+      "no": 34,
+      "word": "volunteer",
+      "sentence": "Each volunteer helped distribute food packages to families in need."
+    },
+    {
+      "wordId": "DAY09-35",
+      "no": 35,
+      "word": "conscious",
+      "sentence": "She became conscious of her posture while sitting at desk."
+    },
+    {
+      "wordId": "DAY09-36",
+      "no": 36,
+      "word": "tempt",
+      "sentence": "Sweet treats might tempt children to spoil their healthy appetite."
+    },
+    {
+      "wordId": "DAY09-37",
+      "no": 37,
+      "word": "humble",
+      "sentence": "The humble scientist gave credit to his entire research team."
+    },
+    {
+      "wordId": "DAY09-38",
+      "no": 38,
+      "word": "ashamed",
+      "sentence": "He felt ashamed after breaking his promise to his friend."
+    },
+    {
+      "wordId": "DAY09-39",
+      "no": 39,
+      "word": "prejudice",
+      "sentence": "Education helps reduce unfair prejudice against different cultural minority groups."
+    },
+    {
+      "wordId": "DAY09-40",
+      "no": 40,
+      "word": "order",
+      "sentence": "Arrange these rational numbers in ascending order from least value."
+    }
+  ]
+}

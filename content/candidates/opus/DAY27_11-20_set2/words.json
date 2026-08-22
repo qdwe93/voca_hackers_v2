@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 27,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 27 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "result",
+      "partOfSpeech": "n.",
+      "meaningKo": "결과",
+      "ipa": "/rɪˈzʌlt/",
+      "definition": "what happens because of something else",
+      "sentence": "The result of the sunny week was ripe berries.",
+      "wordImage": "images/11_result_word.png",
+      "sentenceImage": "images/11_result_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "survey",
+      "partOfSpeech": "n.",
+      "meaningKo": "설문 조사",
+      "ipa": "/ˈsɜːrveɪ/",
+      "definition": "questions asked to learn what people think",
+      "sentence": "The class survey showed everyone loves outdoor art days.",
+      "wordImage": "images/12_survey_word.png",
+      "sentenceImage": "images/12_survey_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "notice",
+      "partOfSpeech": "v.",
+      "meaningKo": "알아차리다",
+      "ipa": "/ˈnoʊtɪs/",
+      "definition": "to see or feel something suddenly",
+      "sentence": "Did you notice the tiny nest above the door?",
+      "wordImage": "images/13_notice_word.png",
+      "sentenceImage": "images/13_notice_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "guard",
+      "partOfSpeech": "v.",
+      "meaningKo": "지키다",
+      "ipa": "/ɡɑːrd/",
+      "definition": "to watch over and keep something safe",
+      "sentence": "Two friendly dogs guard the sheep in the meadow.",
+      "wordImage": "images/14_guard_word.png",
+      "sentenceImage": "images/14_guard_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "profit",
+      "partOfSpeech": "n.",
+      "meaningKo": "이익",
+      "ipa": "/ˈprɑːfɪt/",
+      "definition": "money left after paying all the costs",
+      "sentence": "The bake sale profit bought new books for everyone.",
+      "wordImage": "images/15_profit_word.png",
+      "sentenceImage": "images/15_profit_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "deny",
+      "partOfSpeech": "v.",
+      "meaningKo": "부인하다",
+      "ipa": "/dɪˈnaɪ/",
+      "definition": "to say something is not true",
+      "sentence": "The kitten cannot deny the crumbs on its whiskers.",
+      "wordImage": "images/16_deny_word.png",
+      "sentenceImage": "images/16_deny_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "opinion",
+      "partOfSpeech": "n.",
+      "meaningKo": "의견",
+      "ipa": "/əˈpɪnjən/",
+      "definition": "what a person thinks about something",
+      "sentence": "Every opinion was heard during the friendly class meeting.",
+      "wordImage": "images/17_opinion_word.png",
+      "sentenceImage": "images/17_opinion_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "rural",
+      "partOfSpeech": "adj.",
+      "meaningKo": "시골의",
+      "ipa": "/ˈrʊrəl/",
+      "definition": "in the countryside, away from cities",
+      "sentence": "The rural road passed quiet farms and green fields.",
+      "wordImage": "images/18_rural_word.png",
+      "sentenceImage": "images/18_rural_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "urban",
+      "partOfSpeech": "adj.",
+      "meaningKo": "도시의",
+      "ipa": "/ˈɜːrbən/",
+      "definition": "in or about a big city",
+      "sentence": "The urban park was busy with children after school.",
+      "wordImage": "images/19_urban_word.png",
+      "sentenceImage": "images/19_urban_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "issue",
+      "partOfSpeech": "n.",
+      "meaningKo": "문제",
+      "ipa": "/ˈɪʃuː/",
+      "definition": "a problem that people talk about",
+      "sentence": "The main issue was where to place the bench.",
+      "wordImage": "images/20_issue_word.png",
+      "sentenceImage": "images/20_issue_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

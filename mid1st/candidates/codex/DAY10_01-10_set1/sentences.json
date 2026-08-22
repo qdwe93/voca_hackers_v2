@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 10,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY10-01",
+      "no": 1,
+      "word": "welfare",
+      "sentence": "Free school meals protect children's health and welfare."
+    },
+    {
+      "wordId": "DAY10-02",
+      "no": 2,
+      "word": "victim",
+      "sentence": "Classmates support the victim and reject unfair group treatment."
+    },
+    {
+      "wordId": "DAY10-03",
+      "no": 3,
+      "word": "population",
+      "sentence": "A population graph compares the town's children and older adults."
+    },
+    {
+      "wordId": "DAY10-04",
+      "no": 4,
+      "word": "neighbor",
+      "sentence": "A neighbor asks the local council to repair the sidewalk."
+    },
+    {
+      "wordId": "DAY10-05",
+      "no": 5,
+      "word": "ignore",
+      "sentence": "Today, the busy squirrel will ignore the noisy chattering birds."
+    },
+    {
+      "wordId": "DAY10-06",
+      "no": 6,
+      "word": "donate",
+      "sentence": "Today, many families donate warm coats to the winter clothing drive."
+    },
+    {
+      "wordId": "DAY10-07",
+      "no": 7,
+      "word": "serious",
+      "sentence": "Today, the serious young chess player studied the board carefully."
+    },
+    {
+      "wordId": "DAY10-08",
+      "no": 8,
+      "word": "fund",
+      "sentence": "Today, the class started a fund for new library books."
+    },
+    {
+      "wordId": "DAY10-09",
+      "no": 9,
+      "word": "personal",
+      "sentence": "Today, each camper kept a personal cup on the wooden shelf."
+    },
+    {
+      "wordId": "DAY10-10",
+      "no": 10,
+      "word": "personnel",
+      "sentence": "Today, the zoo personnel fed the animals early every single morning."
+    }
+  ]
+}

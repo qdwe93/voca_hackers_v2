@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 10,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY10-11",
+      "no": 11,
+      "word": "half",
+      "sentence": "We cut the sandwich and shared one half each."
+    },
+    {
+      "wordId": "DAY10-12",
+      "no": 12,
+      "word": "concern",
+      "sentence": "My biggest concern is the broken lock on the gate."
+    },
+    {
+      "wordId": "DAY10-13",
+      "no": 13,
+      "word": "rescue",
+      "sentence": "Firefighters rescue a small kitten from the tall pine tree."
+    },
+    {
+      "wordId": "DAY10-14",
+      "no": 14,
+      "word": "critic",
+      "sentence": "A book critic explained why the ending felt too quick."
+    },
+    {
+      "wordId": "DAY10-15",
+      "no": 15,
+      "word": "charity",
+      "sentence": "This charity collects rice and blankets for families after storms."
+    },
+    {
+      "wordId": "DAY10-16",
+      "no": 16,
+      "word": "rage",
+      "sentence": "Deep breathing helped the rage disappear before anyone spoke."
+    },
+    {
+      "wordId": "DAY10-17",
+      "no": 17,
+      "word": "afford",
+      "sentence": "Our club cannot afford two new tents this year."
+    },
+    {
+      "wordId": "DAY10-18",
+      "no": 18,
+      "word": "unite",
+      "sentence": "Three classes unite to clean the school garden every spring."
+    },
+    {
+      "wordId": "DAY10-19",
+      "no": 19,
+      "word": "orphan",
+      "sentence": "The zoo keepers feed an orphan deer with warm milk."
+    },
+    {
+      "wordId": "DAY10-20",
+      "no": 20,
+      "word": "bear",
+      "sentence": "Runners bear the cold wind until they reach the finish."
+    }
+  ]
+}

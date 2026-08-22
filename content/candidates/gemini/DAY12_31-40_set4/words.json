@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 12,
+  "range": "31-40",
+  "set": 4,
+  "title": "DAY 12 · 31-40",
+  "words": [
+    {
+      "no": 31,
+      "word": "employ",
+      "partOfSpeech": "v.",
+      "meaningKo": "고용하다, 쓰다",
+      "ipa": "/ɪmˈplɔɪ/",
+      "definition": "to pay someone to work for you or use a technique",
+      "sentence": "The bakery decided to employ two assistants for morning bread.",
+      "wordImage": "images/31_employ_word.png",
+      "sentenceImage": "images/31_employ_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 32,
+      "word": "illusion",
+      "partOfSpeech": "n.",
+      "meaningKo": "착각, 환상",
+      "ipa": "/ɪˈluː.ʒən/",
+      "definition": "something that looks real but is not actually real",
+      "sentence": "The clever street artist painted a 3D illusion on pavement.",
+      "wordImage": "images/32_illusion_word.png",
+      "sentenceImage": "images/32_illusion_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 33,
+      "word": "funeral",
+      "partOfSpeech": "n.",
+      "meaningKo": "장례식, 추모식",
+      "ipa": "/ˈfjuː.nɚ.əl/",
+      "definition": "a ceremony held to remember and honor a deceased person",
+      "sentence": "Townspeople gathered for a peaceful memorial funeral in the chapel.",
+      "wordImage": "images/33_funeral_word.png",
+      "sentenceImage": "images/33_funeral_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 34,
+      "word": "whisper",
+      "partOfSpeech": "v.",
+      "meaningKo": "속삭이다, 귓속말하다",
+      "ipa": "/ˈwɪs.pɚ/",
+      "definition": "to speak very softly using your breath, not voice",
+      "sentence": "Please whisper quietly while we are inside the reading library.",
+      "wordImage": "images/34_whisper_word.png",
+      "sentenceImage": "images/34_whisper_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 35,
+      "word": "elaborate",
+      "partOfSpeech": "adj.",
+      "meaningKo": "정교한, 공들인",
+      "ipa": "/iˈlæb.ɚ.ət/",
+      "definition": "containing a lot of careful detail or complicated parts",
+      "sentence": "The palace ceiling featured an elaborate design of golden leaves.",
+      "wordImage": "images/35_elaborate_word.png",
+      "sentenceImage": "images/35_elaborate_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 36,
+      "word": "bunch",
+      "partOfSpeech": "n.",
+      "meaningKo": "다발, 송이",
+      "ipa": "/bʌntʃ/",
+      "definition": "a number of things of the same type tied together",
+      "sentence": "He bought a fresh bunch of ripe yellow bananas today.",
+      "wordImage": "images/36_bunch_word.png",
+      "sentenceImage": "images/36_bunch_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 37,
+      "word": "atmosphere",
+      "partOfSpeech": "n.",
+      "meaningKo": "분위기, 대기",
+      "ipa": "/ˈæt.məs.fɪr/",
+      "definition": "the mood of a place or the air surrounding Earth",
+      "sentence": "The cozy cafe had a warm and friendly holiday atmosphere.",
+      "wordImage": "images/37_atmosphere_word.png",
+      "sentenceImage": "images/37_atmosphere_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 38,
+      "word": "escape",
+      "partOfSpeech": "v.",
+      "meaningKo": "탈출하다, 벗어나다",
+      "ipa": "/ɪˈskeɪp/",
+      "definition": "to get free from a place or avoid something bad",
+      "sentence": "The little mouse was able to escape into its burrow.",
+      "wordImage": "images/38_escape_word.png",
+      "sentenceImage": "images/38_escape_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 39,
+      "word": "cultivate",
+      "partOfSpeech": "v.",
+      "meaningKo": "경작하다, 기르다",
+      "ipa": "/ˈkʌl.tə.veɪt/",
+      "definition": "to prepare land and grow crops, or develop skills",
+      "sentence": "Farmers cultivate sweet strawberries in sunny greenhouse rows all spring.",
+      "wordImage": "images/39_cultivate_word.png",
+      "sentenceImage": "images/39_cultivate_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 40,
+      "word": "cast",
+      "partOfSpeech": "v.",
+      "meaningKo": "던지다, 배역을 맡기다",
+      "ipa": "/kæst/",
+      "definition": "to throw something, or choose actors for a play",
+      "sentence": "The drama director will cast students for the spring play.",
+      "wordImage": "images/40_cast_word.png",
+      "sentenceImage": "images/40_cast_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

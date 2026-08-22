@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 8,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY08-11",
+      "no": 11,
+      "word": "range",
+      "sentence": "The range between the shortest and tallest plant is ten centimeters."
+    },
+    {
+      "wordId": "DAY08-12",
+      "no": 12,
+      "word": "stuff",
+      "sentence": "My drawer holds art stuff such as crayons and stickers."
+    },
+    {
+      "wordId": "DAY08-13",
+      "no": 13,
+      "word": "journal",
+      "sentence": "In my journal I wrote about the lost kitten and my worry."
+    },
+    {
+      "wordId": "DAY08-14",
+      "no": 14,
+      "word": "describe",
+      "sentence": "Please describe the bird's color, size, and song for us."
+    },
+    {
+      "wordId": "DAY08-15",
+      "no": 15,
+      "word": "otherwise",
+      "sentence": "Speak slowly; otherwise the listeners will miss important words."
+    },
+    {
+      "wordId": "DAY08-16",
+      "no": 16,
+      "word": "share",
+      "sentence": "Group members share their notes before writing the final report."
+    },
+    {
+      "wordId": "DAY08-17",
+      "no": 17,
+      "word": "jealous",
+      "sentence": "The younger brother felt jealous of the new bicycle."
+    },
+    {
+      "wordId": "DAY08-18",
+      "no": 18,
+      "word": "translate",
+      "sentence": "My cousin can translate Korean picture books into simple English."
+    },
+    {
+      "wordId": "DAY08-19",
+      "no": 19,
+      "word": "nod",
+      "sentence": "Listeners nod slowly to show they follow the speaker's story."
+    },
+    {
+      "wordId": "DAY08-20",
+      "no": 20,
+      "word": "mean",
+      "sentence": "These two words mean almost the same thing in Korean."
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 19,
+  "range": "21-30",
+  "set": 3,
+  "title": "DAY 19 · 21-30",
+  "words": [
+    {
+      "no": 21,
+      "word": "widespread",
+      "partOfSpeech": "adj.",
+      "meaningKo": "널리 퍼진",
+      "ipa": "/ˈwaɪdspred/",
+      "definition": "found in many places",
+      "sentence": "Wildflowers became widespread across the whole green hillside.",
+      "wordImage": "images/21_widespread_word.png",
+      "sentenceImage": "images/21_widespread_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 22,
+      "word": "edge",
+      "partOfSpeech": "n.",
+      "meaningKo": "가장자리",
+      "ipa": "/edʒ/",
+      "definition": "the line where something ends",
+      "sentence": "A cup sat near the edge of the wooden table.",
+      "wordImage": "images/22_edge_word.png",
+      "sentenceImage": "images/22_edge_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 23,
+      "word": "remind",
+      "partOfSpeech": "v.",
+      "meaningKo": "상기시키다",
+      "ipa": "/rɪˈmaɪnd/",
+      "definition": "to help someone remember something",
+      "sentence": "Please remind me to water the little herb pots.",
+      "wordImage": "images/23_remind_word.png",
+      "sentenceImage": "images/23_remind_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 24,
+      "word": "acquire",
+      "partOfSpeech": "v.",
+      "meaningKo": "얻다",
+      "ipa": "/əˈkwaɪər/",
+      "definition": "to get or learn something over time",
+      "sentence": "Young otters acquire swimming skills from their patient parents.",
+      "wordImage": "images/24_acquire_word.png",
+      "sentenceImage": "images/24_acquire_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 25,
+      "word": "interact",
+      "partOfSpeech": "v.",
+      "meaningKo": "상호 작용하다",
+      "ipa": "/ˌɪntərˈækt/",
+      "definition": "to talk or work together with others",
+      "sentence": "Visitors interact with friendly goats at the small farm.",
+      "wordImage": "images/25_interact_word.png",
+      "sentenceImage": "images/25_interact_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 26,
+      "word": "scatter",
+      "partOfSpeech": "v.",
+      "meaningKo": "흩뿌리다",
+      "ipa": "/ˈskætər/",
+      "definition": "to throw things in many directions",
+      "sentence": "The farmer will scatter seeds across the wide field.",
+      "wordImage": "images/26_scatter_word.png",
+      "sentenceImage": "images/26_scatter_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 27,
+      "word": "virtual",
+      "partOfSpeech": "adj.",
+      "meaningKo": "가상의",
+      "ipa": "/ˈvɜːrtʃuəl/",
+      "definition": "made by a computer, not really there",
+      "sentence": "A virtual fish swam across the glowing museum wall.",
+      "wordImage": "images/27_virtual_word.png",
+      "sentenceImage": "images/27_virtual_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 28,
+      "word": "convert",
+      "partOfSpeech": "v.",
+      "meaningKo": "바꾸다",
+      "ipa": "/kənˈvɜːrt/",
+      "definition": "to change something into another form",
+      "sentence": "Panels convert bright sunlight into useful electric power.",
+      "wordImage": "images/28_convert_word.png",
+      "sentenceImage": "images/28_convert_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 29,
+      "word": "ease",
+      "partOfSpeech": "n.",
+      "meaningKo": "쉬움, 편안함",
+      "ipa": "/iːz/",
+      "definition": "the state of experiencing no difficulty, effort, or pain",
+      "sentence": "The experienced gymnast completed the difficult balance routine with ease.",
+      "wordImage": "images/29_ease_word.png",
+      "sentenceImage": "images/29_ease_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 30,
+      "word": "erase",
+      "partOfSpeech": "v.",
+      "meaningKo": "지우다",
+      "ipa": "/ɪˈreɪs/",
+      "definition": "to rub something out completely",
+      "sentence": "Waves erase every footprint along the smooth wet sand.",
+      "wordImage": "images/30_erase_word.png",
+      "sentenceImage": "images/30_erase_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

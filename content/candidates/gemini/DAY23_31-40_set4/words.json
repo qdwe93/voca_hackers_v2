@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 23,
+  "range": "31-40",
+  "set": 4,
+  "title": "DAY 23 · 31-40",
+  "words": [
+    {
+      "no": 31,
+      "word": "forecast",
+      "partOfSpeech": "n.",
+      "meaningKo": "예보, 예측",
+      "ipa": "/ˈfɔːr.kæst/",
+      "definition": "a statement of what the weather will be like in future",
+      "sentence": "The morning weather forecast predicted sunny skies all weekend long.",
+      "wordImage": "images/31_forecast_word.png",
+      "sentenceImage": "images/31_forecast_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 32,
+      "word": "incident",
+      "partOfSpeech": "n.",
+      "meaningKo": "사건, 일어난 일",
+      "ipa": "/ˈɪn.sə.dənt/",
+      "definition": "an event that is either unpleasant or unusual in occurrence",
+      "sentence": "The park ranger recorded the small trail lost compass incident.",
+      "wordImage": "images/32_incident_word.png",
+      "sentenceImage": "images/32_incident_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 33,
+      "word": "continent",
+      "partOfSpeech": "n.",
+      "meaningKo": "대륙",
+      "ipa": "/ˈkɑːn.t̬ən.ənt/",
+      "definition": "one of the seven large land masses on the earth",
+      "sentence": "Antarctica is the coldest and windiest continent on planet Earth.",
+      "wordImage": "images/33_continent_word.png",
+      "sentenceImage": "images/33_continent_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 34,
+      "word": "spoil",
+      "partOfSpeech": "v.",
+      "meaningKo": "망치다, 상하다",
+      "ipa": "/spɔɪl/",
+      "definition": "to destroy or reduce the pleasure or quality of something",
+      "sentence": "Do not let a little rain spoil your cheerful mood.",
+      "wordImage": "images/34_spoil_word.png",
+      "sentenceImage": "images/34_spoil_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 35,
+      "word": "tremendous",
+      "partOfSpeech": "adj.",
+      "meaningKo": "엄청난, 대단한",
+      "ipa": "/trɪˈmen.dəs/",
+      "definition": "extremely large, great, or impressive in amount or scale",
+      "sentence": "The waterfall roared with tremendous power over the high cliff.",
+      "wordImage": "images/35_tremendous_word.png",
+      "sentenceImage": "images/35_tremendous_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 36,
+      "word": "steep",
+      "partOfSpeech": "adj.",
+      "meaningKo": "가파른, 비탈진",
+      "ipa": "/stiːp/",
+      "definition": "rising or falling at a sharp, sudden upward angle",
+      "sentence": "Hikers climbed the steep rocky trail with great careful balance.",
+      "wordImage": "images/36_steep_word.png",
+      "sentenceImage": "images/36_steep_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 37,
+      "word": "territory",
+      "partOfSpeech": "n.",
+      "meaningKo": "영역, 영토",
+      "ipa": "/ˈter.ə.tɔːr.i/",
+      "definition": "an area of land that is considered to belong to animal/state",
+      "sentence": "The majestic lion guarded his vast grassland territory with pride.",
+      "wordImage": "images/37_territory_word.png",
+      "sentenceImage": "images/37_territory_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 38,
+      "word": "split",
+      "partOfSpeech": "v.",
+      "meaningKo": "쪼개다, 나누다",
+      "ipa": "/splɪt/",
+      "definition": "to divide into two or more parts, or break along a line",
+      "sentence": "They decided to split the fresh baked loaf of bread.",
+      "wordImage": "images/38_split_word.png",
+      "sentenceImage": "images/38_split_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 39,
+      "word": "flash",
+      "partOfSpeech": "n.",
+      "meaningKo": "섬광, 번쩍임",
+      "ipa": "/flæʃ/",
+      "definition": "a sudden bright light that shines for a very short time",
+      "sentence": "A bright flash of camera light captured their happy smiles.",
+      "wordImage": "images/39_flash_word.png",
+      "sentenceImage": "images/39_flash_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 40,
+      "word": "deposit",
+      "partOfSpeech": "n.",
+      "meaningKo": "퇴적물, 예금, 보증금",
+      "ipa": "/dɪˈpɑː.zɪt/",
+      "definition": "a layer of substance that has accumulated naturally on ground",
+      "sentence": "The river left a rich mineral deposit along the farm fields.",
+      "wordImage": "images/40_deposit_word.png",
+      "sentenceImage": "images/40_deposit_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

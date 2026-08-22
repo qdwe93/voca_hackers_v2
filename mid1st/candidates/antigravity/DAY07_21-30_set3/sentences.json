@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 7,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY07-21",
+      "no": 21,
+      "word": "capacity",
+      "sentence": "The new sports stadium has a seating capacity of five thousand."
+    },
+    {
+      "wordId": "DAY07-22",
+      "no": 22,
+      "word": "passion",
+      "sentence": "The young musician showed great passion during her violin performance."
+    },
+    {
+      "wordId": "DAY07-23",
+      "no": 23,
+      "word": "surround",
+      "sentence": "Tall green mountains surround the quiet valley village on sides."
+    },
+    {
+      "wordId": "DAY07-24",
+      "no": 24,
+      "word": "indeed",
+      "sentence": "The historical museum tour was indeed educational for all students."
+    },
+    {
+      "wordId": "DAY07-25",
+      "no": 25,
+      "word": "imitate",
+      "sentence": "Young birds imitate their parents to learn proper singing calls."
+    },
+    {
+      "wordId": "DAY07-26",
+      "no": 26,
+      "word": "bond",
+      "sentence": "Shared volunteer work formed a strong bond among team members."
+    },
+    {
+      "wordId": "DAY07-27",
+      "no": 27,
+      "word": "obtain",
+      "sentence": "Students obtain experimental data by measuring liquid volume with cylinders."
+    },
+    {
+      "wordId": "DAY07-28",
+      "no": 28,
+      "word": "precious",
+      "sentence": "Clean drinking water is a precious resource in dry climates."
+    },
+    {
+      "wordId": "DAY07-29",
+      "no": 29,
+      "word": "contribute",
+      "sentence": "Many citizens contribute money to build a neighborhood community center."
+    },
+    {
+      "wordId": "DAY07-30",
+      "no": 30,
+      "word": "distribute",
+      "sentence": "Volunteers distribute warm meals to families in the shelter daily."
+    }
+  ]
+}

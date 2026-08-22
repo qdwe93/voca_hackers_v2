@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 11,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY11-01",
+      "no": 1,
+      "word": "publish",
+      "sentence": "Our club will publish a short guide explaining each printing step."
+    },
+    {
+      "wordId": "DAY11-02",
+      "no": 2,
+      "word": "literature",
+      "sentence": "In literature class we quote lines and compare our different readings."
+    },
+    {
+      "wordId": "DAY11-03",
+      "no": 3,
+      "word": "fiction",
+      "sentence": "This fiction shows a hero blocked by a locked garden gate."
+    },
+    {
+      "wordId": "DAY11-04",
+      "no": 4,
+      "word": "author",
+      "sentence": "The author signed copies of the new picture book yesterday."
+    },
+    {
+      "wordId": "DAY11-05",
+      "no": 5,
+      "word": "symbol",
+      "sentence": "In this poem the white bird is a symbol of peace."
+    },
+    {
+      "wordId": "DAY11-06",
+      "no": 6,
+      "word": "plot",
+      "sentence": "We wrote the plot showing how the lost map caused trouble."
+    },
+    {
+      "wordId": "DAY11-07",
+      "no": 7,
+      "word": "collaborate",
+      "sentence": "Three writers collaborate and agree on one ending for the play."
+    },
+    {
+      "wordId": "DAY11-08",
+      "no": 8,
+      "word": "statue",
+      "sentence": "A stone statue of an old scholar stands beside the gate."
+    },
+    {
+      "wordId": "DAY11-09",
+      "no": 9,
+      "word": "state",
+      "sentence": "Workers checked the state of every wooden frame before the show."
+    },
+    {
+      "wordId": "DAY11-10",
+      "no": 10,
+      "word": "status",
+      "sentence": "Winning the prize changed the young painter's status inside the club."
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 14,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY14-21",
+      "no": 21,
+      "word": "routine",
+      "sentence": "Eating breakfast at seven is part of my daily routine."
+    },
+    {
+      "wordId": "DAY14-22",
+      "no": 22,
+      "word": "numerous",
+      "sentence": "The library holds numerous rare manuscripts from the medieval period."
+    },
+    {
+      "wordId": "DAY14-23",
+      "no": 23,
+      "word": "legend",
+      "sentence": "The ancient hero is the subject of a popular legend."
+    },
+    {
+      "wordId": "DAY14-24",
+      "no": 24,
+      "word": "military",
+      "sentence": "The fortress served as a strategic military base during wars."
+    },
+    {
+      "wordId": "DAY14-25",
+      "no": 25,
+      "word": "weapon",
+      "sentence": "Ancient warriors carried a bronze weapon for self defense battles."
+    },
+    {
+      "wordId": "DAY14-26",
+      "no": 26,
+      "word": "celebrate",
+      "sentence": "Townspeople celebrate the harvest festival with traditional folk music performances."
+    },
+    {
+      "wordId": "DAY14-27",
+      "no": 27,
+      "word": "combat",
+      "sentence": "Soldiers engaged in fierce hand-to-hand combat on the battlefield."
+    },
+    {
+      "wordId": "DAY14-28",
+      "no": 28,
+      "word": "historical",
+      "sentence": "The museum preserves historical artifacts from the Three Kingdoms period."
+    },
+    {
+      "wordId": "DAY14-29",
+      "no": 29,
+      "word": "royal",
+      "sentence": "The grand palace was home to the royal family dynasty."
+    },
+    {
+      "wordId": "DAY14-30",
+      "no": 30,
+      "word": "loyal",
+      "sentence": "The loyal guard remained at his assigned post all night."
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 25,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY25-21",
+      "no": 21,
+      "word": "pesticide",
+      "sentence": "Today, this farm uses no pesticide on the leafy greens."
+    },
+    {
+      "wordId": "DAY25-22",
+      "no": 22,
+      "word": "alternative",
+      "sentence": "One cloth bag is a good alternative to plastic."
+    },
+    {
+      "wordId": "DAY25-23",
+      "no": 23,
+      "word": "respect",
+      "sentence": "A student always treats her elderly neighbors with care and sincere respect."
+    },
+    {
+      "wordId": "DAY25-24",
+      "no": 24,
+      "word": "vast",
+      "sentence": "A vast blue ocean stretched beyond the small boat."
+    },
+    {
+      "wordId": "DAY25-25",
+      "no": 25,
+      "word": "refreshing",
+      "sentence": "One refreshing breeze cooled the hikers on the ridge."
+    },
+    {
+      "wordId": "DAY25-26",
+      "no": 26,
+      "word": "responsible",
+      "sentence": "A responsible camper placeds out the campfire completely."
+    },
+    {
+      "wordId": "DAY25-27",
+      "no": 27,
+      "word": "confuse",
+      "sentence": "Today, people often confuse these two very similar leaves."
+    },
+    {
+      "wordId": "DAY25-28",
+      "no": 28,
+      "word": "separate",
+      "sentence": "Kindly separate the paper from the glass before recycling."
+    },
+    {
+      "wordId": "DAY25-29",
+      "no": 29,
+      "word": "delicate",
+      "sentence": "Today, the delicate spider web sparkled with morning dew drops."
+    },
+    {
+      "wordId": "DAY25-30",
+      "no": 30,
+      "word": "dedicate",
+      "sentence": "Today, volunteers dedicate every weekend to cleaning the river bank."
+    }
+  ]
+}

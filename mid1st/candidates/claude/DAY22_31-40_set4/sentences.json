@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 22,
+  "range": "31-40",
+  "set": 4,
+  "items": [
+    {
+      "wordId": "DAY22-31",
+      "no": 31,
+      "word": "expose",
+      "sentence": "Low tide will expose the small crabs among the rocks."
+    },
+    {
+      "wordId": "DAY22-32",
+      "no": 32,
+      "word": "shelter",
+      "sentence": "Hikers found a stone shelter before the heavy rain began."
+    },
+    {
+      "wordId": "DAY22-33",
+      "no": 33,
+      "word": "absorb",
+      "sentence": "Dry soil will absorb this water within a few minutes."
+    },
+    {
+      "wordId": "DAY22-34",
+      "no": 34,
+      "word": "incredible",
+      "sentence": "The bird's incredible journey covered ten thousand kilometers without stopping."
+    },
+    {
+      "wordId": "DAY22-35",
+      "no": 35,
+      "word": "consist",
+      "sentence": "These sand samples consist of tiny shells and broken rock."
+    },
+    {
+      "wordId": "DAY22-36",
+      "no": 36,
+      "word": "peak",
+      "sentence": "Snow still covers the mountain peak in early May."
+    },
+    {
+      "wordId": "DAY22-37",
+      "no": 37,
+      "word": "weed",
+      "sentence": "One tall weed grew between the carrot rows overnight."
+    },
+    {
+      "wordId": "DAY22-38",
+      "no": 38,
+      "word": "scare",
+      "sentence": "Loud clapping can scare the crows away from young seedlings."
+    },
+    {
+      "wordId": "DAY22-39",
+      "no": 39,
+      "word": "diminish",
+      "sentence": "Fish numbers diminish when the river water becomes warmer."
+    },
+    {
+      "wordId": "DAY22-40",
+      "no": 40,
+      "word": "yield",
+      "sentence": "These apple trees yield more fruit after careful spring pruning."
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 23,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY23-21",
+      "no": 21,
+      "word": "shift",
+      "sentence": "Please shift the rain gauge away from the tall wall."
+    },
+    {
+      "wordId": "DAY23-22",
+      "no": 22,
+      "word": "narrow",
+      "sentence": "This narrow stream widens after it leaves the rocky hills."
+    },
+    {
+      "wordId": "DAY23-23",
+      "no": 23,
+      "word": "drought",
+      "sentence": "The long drought left deep cracks across the dry field."
+    },
+    {
+      "wordId": "DAY23-24",
+      "no": 24,
+      "word": "boundary",
+      "sentence": "This river marks the boundary between two neighboring towns."
+    },
+    {
+      "wordId": "DAY23-25",
+      "no": 25,
+      "word": "alarming",
+      "sentence": "The alarming water level made villagers move their boats."
+    },
+    {
+      "wordId": "DAY23-26",
+      "no": 26,
+      "word": "harsh",
+      "sentence": "Winter here is harsh, with strong wind and deep snow."
+    },
+    {
+      "wordId": "DAY23-27",
+      "no": 27,
+      "word": "cease",
+      "sentence": "The rain will cease before the afternoon field trip."
+    },
+    {
+      "wordId": "DAY23-28",
+      "no": 28,
+      "word": "estimate",
+      "sentence": "We estimate the whole harvest by weighing ten sample baskets."
+    },
+    {
+      "wordId": "DAY23-29",
+      "no": 29,
+      "word": "plane",
+      "sentence": "One small plane flew low above the coastline this morning."
+    },
+    {
+      "wordId": "DAY23-30",
+      "no": 30,
+      "word": "plain",
+      "sentence": "Wheat covers this wide plain from spring until late summer."
+    }
+  ]
+}

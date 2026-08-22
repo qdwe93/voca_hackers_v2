@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 11,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY11-11",
+      "no": 11,
+      "word": "fit",
+      "sentence": "These small boots fit the small penguin just right."
+    },
+    {
+      "wordId": "DAY11-12",
+      "no": 12,
+      "word": "movement",
+      "sentence": "A soft movement of the curtain displayed the gentle breeze."
+    },
+    {
+      "wordId": "DAY11-13",
+      "no": 13,
+      "word": "brilliant",
+      "sentence": "Today, the inventor had a brilliant idea about folding wings."
+    },
+    {
+      "wordId": "DAY11-14",
+      "no": 14,
+      "word": "prior",
+      "sentence": "Today, the prior drawing was smaller than this new one."
+    },
+    {
+      "wordId": "DAY11-15",
+      "no": 15,
+      "word": "outline",
+      "sentence": "Students outline only the article's main ideas and conclusion."
+    },
+    {
+      "wordId": "DAY11-16",
+      "no": 16,
+      "word": "sort",
+      "sentence": "Students sort animals by feathers, fur, or scales."
+    },
+    {
+      "wordId": "DAY11-17",
+      "no": 17,
+      "word": "portrait",
+      "sentence": "One painted portrait of the kind farmer hung upstairs."
+    },
+    {
+      "wordId": "DAY11-18",
+      "no": 18,
+      "word": "tale",
+      "sentence": "The tale follows a sailor seeking home through a storm."
+    },
+    {
+      "wordId": "DAY11-19",
+      "no": 19,
+      "word": "add",
+      "sentence": "Students add one half and one quarter using fraction strips."
+    },
+    {
+      "wordId": "DAY11-20",
+      "no": 20,
+      "word": "volume",
+      "sentence": "The speaker lowers the microphone volume until everyone hears clearly."
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 30,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY30-11",
+      "no": 11,
+      "word": "handle",
+      "sentence": "Please handle these old photographs with clean dry hands."
+    },
+    {
+      "wordId": "DAY30-12",
+      "no": 12,
+      "word": "phrase",
+      "sentence": "We moved this phrase so the subject sits before the verb."
+    },
+    {
+      "wordId": "DAY30-13",
+      "no": 13,
+      "word": "annoy",
+      "sentence": "Repeated pop-up boxes annoy readers of this news site."
+    },
+    {
+      "wordId": "DAY30-14",
+      "no": 14,
+      "word": "obvious",
+      "sentence": "The missing date made the mistake obvious to every reader."
+    },
+    {
+      "wordId": "DAY30-15",
+      "no": 15,
+      "word": "mention",
+      "sentence": "The reporter did mention two names during the short interview."
+    },
+    {
+      "wordId": "DAY30-16",
+      "no": 16,
+      "word": "entertain",
+      "sentence": "Our short film mixes music and jokes to entertain classmates."
+    },
+    {
+      "wordId": "DAY30-17",
+      "no": 17,
+      "word": "detail",
+      "sentence": "One small detail in the photo showed the correct season."
+    },
+    {
+      "wordId": "DAY30-18",
+      "no": 18,
+      "word": "conflict",
+      "sentence": "The conflict began over water use, then both villages shared fairly."
+    },
+    {
+      "wordId": "DAY30-19",
+      "no": 19,
+      "word": "thus",
+      "sentence": "Rain stopped early; thus, the outdoor interview started on time."
+    },
+    {
+      "wordId": "DAY30-20",
+      "no": 20,
+      "word": "medium",
+      "sentence": "Radio is still the fastest medium in this mountain village."
+    }
+  ]
+}

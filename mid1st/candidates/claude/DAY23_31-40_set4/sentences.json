@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 23,
+  "range": "31-40",
+  "set": 4,
+  "items": [
+    {
+      "wordId": "DAY23-31",
+      "no": 31,
+      "word": "forecast",
+      "sentence": "Today's forecast promises light snow after four o'clock this afternoon."
+    },
+    {
+      "wordId": "DAY23-32",
+      "no": 32,
+      "word": "incident",
+      "sentence": "One small incident delayed the ferry for twenty minutes."
+    },
+    {
+      "wordId": "DAY23-33",
+      "no": 33,
+      "word": "continent",
+      "sentence": "Africa is the continent with the world's largest hot desert."
+    },
+    {
+      "wordId": "DAY23-34",
+      "no": 34,
+      "word": "spoil",
+      "sentence": "Warm weather makes milk spoil faster inside the lunch bag."
+    },
+    {
+      "wordId": "DAY23-35",
+      "no": 35,
+      "word": "tremendous",
+      "sentence": "A tremendous wave rolled toward the empty rocky beach."
+    },
+    {
+      "wordId": "DAY23-36",
+      "no": 36,
+      "word": "steep",
+      "sentence": "This steep path climbs two hundred meters in ten minutes."
+    },
+    {
+      "wordId": "DAY23-37",
+      "no": 37,
+      "word": "territory",
+      "sentence": "We shaded each bird territory on the park map."
+    },
+    {
+      "wordId": "DAY23-38",
+      "no": 38,
+      "word": "split",
+      "sentence": "Frost can split a large rock into two smaller pieces."
+    },
+    {
+      "wordId": "DAY23-39",
+      "no": 39,
+      "word": "flash",
+      "sentence": "Lightning will flash above the hills before the thunder arrives."
+    },
+    {
+      "wordId": "DAY23-40",
+      "no": 40,
+      "word": "deposit",
+      "sentence": "Rivers deposit fine sand along the inside of each bend."
+    }
+  ]
+}

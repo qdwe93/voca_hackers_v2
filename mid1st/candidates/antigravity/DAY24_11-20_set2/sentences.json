@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 24,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY24-11",
+      "no": 11,
+      "word": "solve",
+      "sentence": "Students solve the algebraic equation by finding the unknown variable value."
+    },
+    {
+      "wordId": "DAY24-12",
+      "no": 12,
+      "word": "survive",
+      "sentence": "Cactus plants survive extreme desert heat by storing moisture in stems."
+    },
+    {
+      "wordId": "DAY24-13",
+      "no": 13,
+      "word": "source",
+      "sentence": "The sun is the primary source of energy for Earth ecosystems."
+    },
+    {
+      "wordId": "DAY24-14",
+      "no": 14,
+      "word": "produce",
+      "sentence": "Wind turbines produce clean electricity without releasing harmful air pollution emissions."
+    },
+    {
+      "wordId": "DAY24-15",
+      "no": 15,
+      "word": "electronic",
+      "sentence": "Modern homes utilize electronic thermostats to regulate ambient indoor room temperature."
+    },
+    {
+      "wordId": "DAY24-16",
+      "no": 16,
+      "word": "coal",
+      "sentence": "Burning fossil coal releases soot particles and greenhouse gas emissions into."
+    },
+    {
+      "wordId": "DAY24-17",
+      "no": 17,
+      "word": "benefit",
+      "sentence": "Using public transit offers an economic benefit by reducing fuel costs."
+    },
+    {
+      "wordId": "DAY24-18",
+      "no": 18,
+      "word": "vacuum",
+      "sentence": "Sound waves cannot travel through an empty vacuum without air molecules."
+    },
+    {
+      "wordId": "DAY24-19",
+      "no": 19,
+      "word": "treasure",
+      "sentence": "The museum guards a rare ancient golden treasure from Silla dynasty."
+    },
+    {
+      "wordId": "DAY24-20",
+      "no": 20,
+      "word": "address",
+      "sentence": "City leaders met to address rising industrial air pollution concerns today."
+    }
+  ]
+}

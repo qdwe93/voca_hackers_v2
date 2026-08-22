@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 9,
+  "range": "31-40",
+  "set": 4,
+  "items": [
+    {
+      "wordId": "DAY09-31",
+      "no": 31,
+      "word": "fundamental",
+      "sentence": "Today, kindness is a fundamental rule in this friendly classroom."
+    },
+    {
+      "wordId": "DAY09-32",
+      "no": 32,
+      "word": "modify",
+      "sentence": "The inventor will modify the wheels on the small cart."
+    },
+    {
+      "wordId": "DAY09-33",
+      "no": 33,
+      "word": "instinct",
+      "sentence": "Today, baby turtles follow instinct as they crawl toward the sea."
+    },
+    {
+      "wordId": "DAY09-34",
+      "no": 34,
+      "word": "volunteer",
+      "sentence": "One kind volunteer handed out water at the busy race."
+    },
+    {
+      "wordId": "DAY09-35",
+      "no": 35,
+      "word": "conscious",
+      "sentence": "The sleepy owl remained conscious until the sun came up."
+    },
+    {
+      "wordId": "DAY09-36",
+      "no": 36,
+      "word": "tempt",
+      "sentence": "Warm cookies tempt the hungry raccoon close to the open window."
+    },
+    {
+      "wordId": "DAY09-37",
+      "no": 37,
+      "word": "humble",
+      "sentence": "After the game, the humble champion thanked every teammate."
+    },
+    {
+      "wordId": "DAY09-38",
+      "no": 38,
+      "word": "ashamed",
+      "sentence": "After spilling the flour everywhere, the kitten felt ashamed."
+    },
+    {
+      "wordId": "DAY09-39",
+      "no": 39,
+      "word": "prejudice",
+      "sentence": "Students compare real data with prejudice about another region."
+    },
+    {
+      "wordId": "DAY09-40",
+      "no": 40,
+      "word": "order",
+      "sentence": "Students place fractions in order from smallest to largest."
+    }
+  ]
+}

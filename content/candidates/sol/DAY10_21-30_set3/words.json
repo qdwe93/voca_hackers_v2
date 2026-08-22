@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 10,
+  "range": "21-30",
+  "set": 3,
+  "title": "DAY 10 · 21-30",
+  "words": [
+    {
+      "no": 21,
+      "word": "abandon",
+      "partOfSpeech": "v.",
+      "meaningKo": "버리다",
+      "definition": "to leave someone or something completely",
+      "sentence": "The explorer must abandon the broken cart beside the trail.",
+      "ipa": "/əbændən/",
+      "wordImage": "images/21_abandon_word.png",
+      "sentenceImage": "images/21_abandon_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 22,
+      "word": "crash",
+      "partOfSpeech": "v.",
+      "meaningKo": "충돌하다",
+      "definition": "to hit something with sudden force",
+      "sentence": "Two toy cars crash gently on the padded track.",
+      "ipa": "/kræʃ/",
+      "wordImage": "images/22_crash_word.png",
+      "sentenceImage": "images/22_crash_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 23,
+      "word": "promote",
+      "partOfSpeech": "v.",
+      "meaningKo": "승진시키다",
+      "definition": "to give someone a higher position",
+      "sentence": "The manager will promote the skilled helper to team leader.",
+      "ipa": "/prəmoʊt/",
+      "wordImage": "images/23_promote_word.png",
+      "sentenceImage": "images/23_promote_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 24,
+      "word": "decade",
+      "partOfSpeech": "n.",
+      "meaningKo": "10년",
+      "definition": "a period of ten years",
+      "sentence": "The tree grows much taller during one decade.",
+      "ipa": "/dɛkeɪd/",
+      "wordImage": "images/24_decade_word.png",
+      "sentenceImage": "images/24_decade_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 25,
+      "word": "establish",
+      "partOfSpeech": "v.",
+      "meaningKo": "설립하다",
+      "definition": "to create something meant to continue",
+      "sentence": "The neighbors establish a community garden on the empty lot.",
+      "ipa": "/ɪstæblɪʃ/",
+      "wordImage": "images/25_establish_word.png",
+      "sentenceImage": "images/25_establish_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 26,
+      "word": "burden",
+      "partOfSpeech": "n.",
+      "meaningKo": "부담",
+      "definition": "a heavy load or difficult responsibility",
+      "sentence": "A huge backpack becomes a burden for the tiny traveler.",
+      "ipa": "/bɝdən/",
+      "wordImage": "images/26_burden_word.png",
+      "sentenceImage": "images/26_burden_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 27,
+      "word": "assist",
+      "partOfSpeech": "v.",
+      "meaningKo": "돕다",
+      "definition": "to help someone complete a task",
+      "sentence": "The robot will assist the gardener with heavy pots.",
+      "ipa": "/əsɪst/",
+      "wordImage": "images/27_assist_word.png",
+      "sentenceImage": "images/27_assist_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 28,
+      "word": "resolve",
+      "partOfSpeech": "v.",
+      "meaningKo": "해결하다",
+      "definition": "to solve a problem or disagreement",
+      "sentence": "The two teams resolve their disagreement by sharing the field.",
+      "ipa": "/rizɑlv/",
+      "wordImage": "images/28_resolve_word.png",
+      "sentenceImage": "images/28_resolve_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 29,
+      "word": "detect",
+      "partOfSpeech": "v.",
+      "meaningKo": "발견하다",
+      "definition": "to discover something difficult to notice",
+      "sentence": "The sensor can detect smoke inside the empty kitchen.",
+      "ipa": "/dɪtɛkt/",
+      "wordImage": "images/29_detect_word.png",
+      "sentenceImage": "images/29_detect_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 30,
+      "word": "defeat",
+      "partOfSpeech": "v.",
+      "meaningKo": "이기다",
+      "definition": "to win against an opponent",
+      "sentence": "The blue piece will defeat the red piece in chess.",
+      "ipa": "/dɪfit/",
+      "wordImage": "images/30_defeat_word.png",
+      "sentenceImage": "images/30_defeat_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

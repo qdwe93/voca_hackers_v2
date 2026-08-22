@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 15,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 15 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "university",
+      "partOfSpeech": "n.",
+      "meaningKo": "대학교",
+      "ipa": "/ˌjuːnɪˈvɜːrsəti/",
+      "definition": "a school where people study after high school",
+      "sentence": "The old university had ivy climbing across its walls.",
+      "wordImage": "images/01_university_word.png",
+      "sentenceImage": "images/01_university_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "education",
+      "partOfSpeech": "n.",
+      "meaningKo": "교육",
+      "ipa": "/ˌedʒuˈkeɪʃn/",
+      "definition": "the learning you get at school",
+      "sentence": "A good education helps children understand the wide world.",
+      "wordImage": "images/02_education_word.png",
+      "sentenceImage": "images/02_education_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "focus",
+      "partOfSpeech": "v.",
+      "meaningKo": "집중하다",
+      "ipa": "/ˈfoʊkəs/",
+      "definition": "to give all your attention to something",
+      "sentence": "The young chess player must focus on the next move.",
+      "wordImage": "images/03_focus_word.png",
+      "sentenceImage": "images/03_focus_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "entry",
+      "partOfSpeech": "n.",
+      "meaningKo": "입장",
+      "ipa": "/ˈentri/",
+      "definition": "the way you go into a place",
+      "sentence": "The garden entry was covered with climbing pink roses.",
+      "wordImage": "images/04_entry_word.png",
+      "sentenceImage": "images/04_entry_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "medical",
+      "partOfSpeech": "adj.",
+      "meaningKo": "의학의",
+      "ipa": "/ˈmedɪkl/",
+      "definition": "about doctors and keeping people healthy",
+      "sentence": "The medical team checked every puppy at the animal shelter.",
+      "wordImage": "images/05_medical_word.png",
+      "sentenceImage": "images/05_medical_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "accept",
+      "partOfSpeech": "v.",
+      "meaningKo": "받아들이다",
+      "ipa": "/əkˈsept/",
+      "definition": "to take something that is offered",
+      "sentence": "Please accept this small gift from the whole class.",
+      "wordImage": "images/06_accept_word.png",
+      "sentenceImage": "images/06_accept_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "pioneer",
+      "partOfSpeech": "n.",
+      "meaningKo": "개척자",
+      "ipa": "/ˌpaɪəˈnɪr/",
+      "definition": "someone who does something first",
+      "sentence": "The pioneer built the first bridge across the wide canyon.",
+      "wordImage": "images/07_pioneer_word.png",
+      "sentenceImage": "images/07_pioneer_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "mathematics",
+      "partOfSpeech": "n.",
+      "meaningKo": "수학",
+      "ipa": "/ˌmæθəˈmætɪks/",
+      "definition": "the study of numbers and shapes",
+      "sentence": "Mathematics helps builders make strong and beautiful stone arches.",
+      "wordImage": "images/08_mathematics_word.png",
+      "sentenceImage": "images/08_mathematics_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "professor",
+      "partOfSpeech": "n.",
+      "meaningKo": "교수",
+      "ipa": "/prəˈfesər/",
+      "definition": "a teacher at a university",
+      "sentence": "The kind professor showed students a very old telescope.",
+      "wordImage": "images/09_professor_word.png",
+      "sentenceImage": "images/09_professor_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "profession",
+      "partOfSpeech": "n.",
+      "meaningKo": "직업",
+      "ipa": "/prəˈfeʃn/",
+      "definition": "a job that needs special training",
+      "sentence": "Nursing is a caring profession that helps many people.",
+      "wordImage": "images/10_profession_word.png",
+      "sentenceImage": "images/10_profession_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

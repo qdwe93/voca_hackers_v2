@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 19,
+  "range": "21-30",
+  "set": 3,
+  "title": "DAY 19 · 21-30",
+  "words": [
+    {
+      "no": 21,
+      "word": "widespread",
+      "partOfSpeech": "adj.",
+      "meaningKo": "널리 퍼진, 광범위한",
+      "ipa": "/ˌwaɪdˈspred/",
+      "definition": "existing or happening in many places among many people",
+      "sentence": "The new recycling initiative received widespread support across our town.",
+      "wordImage": "images/21_widespread_word.png",
+      "sentenceImage": "images/21_widespread_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 22,
+      "word": "edge",
+      "partOfSpeech": "n.",
+      "meaningKo": "가장자리, 모서리",
+      "ipa": "/edʒ/",
+      "definition": "the outer point, boundary, or sharp border of something",
+      "sentence": "Colorful wildflowers bloomed along the edge of the forest trail.",
+      "wordImage": "images/22_edge_word.png",
+      "sentenceImage": "images/22_edge_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 23,
+      "word": "remind",
+      "partOfSpeech": "v.",
+      "meaningKo": "상기시키다, 일깨우다",
+      "ipa": "/rɪˈmaɪnd/",
+      "definition": "to make someone remember something they must do",
+      "sentence": "Post-it notes remind him to pack his library books every morning.",
+      "wordImage": "images/23_remind_word.png",
+      "sentenceImage": "images/23_remind_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 24,
+      "word": "acquire",
+      "partOfSpeech": "v.",
+      "meaningKo": "습득하다, 획득하다",
+      "ipa": "/əˈkwaɪr/",
+      "definition": "to gain something by your own ability or effort over time",
+      "sentence": "Practice helps young students acquire great reading fluency and speed.",
+      "wordImage": "images/24_acquire_word.png",
+      "sentenceImage": "images/24_acquire_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 25,
+      "word": "interact",
+      "partOfSpeech": "v.",
+      "meaningKo": "상호작용하다, 소통하다",
+      "ipa": "/ˌɪn.t̬ɚˈækt/",
+      "definition": "to communicate with or react to each other in an activity",
+      "sentence": "Friendly dolphins love to interact with humans through playful clicks.",
+      "wordImage": "images/25_interact_word.png",
+      "sentenceImage": "images/25_interact_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 26,
+      "word": "scatter",
+      "partOfSpeech": "v.",
+      "meaningKo": "흩뿌리다, 흩어지다",
+      "ipa": "/ˈskæt̬.ɚ/",
+      "definition": "to throw or drop things in different directions loosely",
+      "sentence": "A gentle breeze helped scatter golden autumn leaves across the lawn.",
+      "wordImage": "images/26_scatter_word.png",
+      "sentenceImage": "images/26_scatter_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 27,
+      "word": "virtual",
+      "partOfSpeech": "adj.",
+      "meaningKo": "가상의, 사실상의",
+      "ipa": "/ˈvɝː.tʃu.əl/",
+      "definition": "created by computer technology and appearing to exist online",
+      "sentence": "Students took an exciting virtual field trip to the deep ocean.",
+      "wordImage": "images/27_virtual_word.png",
+      "sentenceImage": "images/27_virtual_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 28,
+      "word": "convert",
+      "partOfSpeech": "v.",
+      "meaningKo": "전환하다, 변환하다",
+      "ipa": "/kənˈvɝːt/",
+      "definition": "to change the form, character, or function of something",
+      "sentence": "Solar panels convert bright sunlight into clean usable electric energy.",
+      "wordImage": "images/28_convert_word.png",
+      "sentenceImage": "images/28_convert_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 29,
+      "word": "ease",
+      "partOfSpeech": "n.",
+      "meaningKo": "쉬움, 편안함",
+      "ipa": "/iːz/",
+      "definition": "the state of experiencing no difficulty, effort, or pain",
+      "sentence": "The experienced gymnast completed the difficult balance routine with ease.",
+      "wordImage": "images/29_ease_word.png",
+      "sentenceImage": "images/29_ease_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 30,
+      "word": "erase",
+      "partOfSpeech": "v.",
+      "meaningKo": "지우다, 없애다",
+      "ipa": "/ɪˈreɪs/",
+      "definition": "to remove writing or marks from paper or a board",
+      "sentence": "Use a soft felt eraser to erase the chalk marks.",
+      "wordImage": "images/30_erase_word.png",
+      "sentenceImage": "images/30_erase_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

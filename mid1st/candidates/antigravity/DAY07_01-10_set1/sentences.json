@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 7,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY07-01",
+      "no": 1,
+      "word": "similar",
+      "sentence": "The two triangles have similar angles and proportional side lengths."
+    },
+    {
+      "wordId": "DAY07-02",
+      "no": 2,
+      "word": "situation",
+      "sentence": "The referee assessed the game situation before making a call."
+    },
+    {
+      "wordId": "DAY07-03",
+      "no": 3,
+      "word": "related",
+      "sentence": "The two scientific experiments study related questions about plant nutrition."
+    },
+    {
+      "wordId": "DAY07-04",
+      "no": 4,
+      "word": "suppose",
+      "sentence": "Scientists suppose that ancient Mars once had liquid surface water."
+    },
+    {
+      "wordId": "DAY07-05",
+      "no": 5,
+      "word": "social",
+      "sentence": "Schools help young children develop healthy social skills and empathy."
+    },
+    {
+      "wordId": "DAY07-06",
+      "no": 6,
+      "word": "unique",
+      "sentence": "Each traditional festival has a unique customary dance and costume."
+    },
+    {
+      "wordId": "DAY07-07",
+      "no": 7,
+      "word": "prefer",
+      "sentence": "Some students prefer studying in the quiet library after school."
+    },
+    {
+      "wordId": "DAY07-08",
+      "no": 8,
+      "word": "remain",
+      "sentence": "A few yellow autumn leaves remain on the tall maple."
+    },
+    {
+      "wordId": "DAY07-09",
+      "no": 9,
+      "word": "distract",
+      "sentence": "Loud street traffic can distract students from reading their textbooks."
+    },
+    {
+      "wordId": "DAY07-10",
+      "no": 10,
+      "word": "district",
+      "sentence": "Our residential district opened a new park for young children."
+    }
+  ]
+}

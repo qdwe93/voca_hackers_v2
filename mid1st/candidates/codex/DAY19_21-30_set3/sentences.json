@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 19,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY19-21",
+      "no": 21,
+      "word": "widespread",
+      "sentence": "Today, wildflowers became widespread across the whole green hillside."
+    },
+    {
+      "wordId": "DAY19-22",
+      "no": 22,
+      "word": "edge",
+      "sentence": "Students count each edge where two flat faces meet."
+    },
+    {
+      "wordId": "DAY19-23",
+      "no": 23,
+      "word": "remind",
+      "sentence": "Kindly remind me to water the small herb pots."
+    },
+    {
+      "wordId": "DAY19-24",
+      "no": 24,
+      "word": "acquire",
+      "sentence": "Today, young otters acquire swimming skills from their patient parents."
+    },
+    {
+      "wordId": "DAY19-25",
+      "no": 25,
+      "word": "interact",
+      "sentence": "Today, visitors interact with friendly goats at the small farm."
+    },
+    {
+      "wordId": "DAY19-26",
+      "no": 26,
+      "word": "scatter",
+      "sentence": "Perfume particles scatter until the smell spreads across the room."
+    },
+    {
+      "wordId": "DAY19-27",
+      "no": 27,
+      "word": "virtual",
+      "sentence": "A virtual map changes when users choose another route."
+    },
+    {
+      "wordId": "DAY19-28",
+      "no": 28,
+      "word": "convert",
+      "sentence": "Heating can convert solid ice into liquid water."
+    },
+    {
+      "wordId": "DAY19-29",
+      "no": 29,
+      "word": "ease",
+      "sentence": "Today, the experienced gymnast completed the difficult balance routine with ease."
+    },
+    {
+      "wordId": "DAY19-30",
+      "no": 30,
+      "word": "erase",
+      "sentence": "Today, waves erase every footprint along the smooth wet sand."
+    }
+  ]
+}

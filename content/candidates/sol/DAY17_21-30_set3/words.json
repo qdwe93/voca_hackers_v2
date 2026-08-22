@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 17,
+  "range": "21-30",
+  "set": 3,
+  "title": "DAY 17 · 21-30",
+  "words": [
+    {
+      "no": 21,
+      "word": "individual",
+      "partOfSpeech": "n.",
+      "meaningKo": "개인",
+      "definition": "a single person considered separately from a group",
+      "sentence": "Each individual chooses a different bright colored backpack.",
+      "ipa": "/ɪndəvɪdʒəwəl/",
+      "wordImage": "images/21_individual_word.png",
+      "sentenceImage": "images/21_individual_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 22,
+      "word": "silent",
+      "partOfSpeech": "adj.",
+      "meaningKo": "조용한",
+      "definition": "making no sound",
+      "sentence": "The silent owl glides above the sleeping forest.",
+      "ipa": "/saɪlənt/",
+      "wordImage": "images/22_silent_word.png",
+      "sentenceImage": "images/22_silent_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 23,
+      "word": "fiber",
+      "partOfSpeech": "n.",
+      "meaningKo": "섬유",
+      "definition": "a thin thread forming cloth or natural material",
+      "sentence": "A loose fiber hangs from the woven basket.",
+      "ipa": "/faɪbɚ/",
+      "wordImage": "images/23_fiber_word.png",
+      "sentenceImage": "images/23_fiber_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 24,
+      "word": "ancestor",
+      "partOfSpeech": "n.",
+      "meaningKo": "조상",
+      "definition": "a family member who lived long ago",
+      "sentence": "An old portrait shows the child's distant ancestor.",
+      "ipa": "/ænsɛstɚ/",
+      "wordImage": "images/24_ancestor_word.png",
+      "sentenceImage": "images/24_ancestor_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 25,
+      "word": "yawn",
+      "partOfSpeech": "v.",
+      "meaningKo": "하품하다",
+      "definition": "to open the mouth when tired",
+      "sentence": "The sleepy lion will yawn beside the setting sun.",
+      "ipa": "/jɔn/",
+      "wordImage": "images/25_yawn_word.png",
+      "sentenceImage": "images/25_yawn_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 26,
+      "word": "pregnant",
+      "partOfSpeech": "adj.",
+      "meaningKo": "임신한",
+      "definition": "carrying a developing baby inside the body",
+      "sentence": "A pregnant cartoon cat rests in a quiet basket.",
+      "ipa": "/prɛɡnənt/",
+      "wordImage": "images/26_pregnant_word.png",
+      "sentenceImage": "images/26_pregnant_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 27,
+      "word": "stimulate",
+      "partOfSpeech": "v.",
+      "meaningKo": "자극하다",
+      "definition": "to encourage activity or growth",
+      "sentence": "Bright sunlight can stimulate the seedlings to grow.",
+      "ipa": "/stɪmjəleɪt/",
+      "wordImage": "images/27_stimulate_word.png",
+      "sentenceImage": "images/27_stimulate_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 28,
+      "word": "slightly",
+      "partOfSpeech": "adv.",
+      "meaningKo": "약간",
+      "definition": "by a small amount",
+      "sentence": "The blue box is slightly taller than the red one.",
+      "ipa": "/slaɪtli/",
+      "wordImage": "images/28_slightly_word.png",
+      "sentenceImage": "images/28_slightly_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 29,
+      "word": "bleed",
+      "partOfSpeech": "v.",
+      "meaningKo": "피가 나다",
+      "definition": "to lose blood from the body",
+      "sentence": "A nurse covers a tiny scrape before it can bleed.",
+      "ipa": "/blid/",
+      "wordImage": "images/29_bleed_word.png",
+      "sentenceImage": "images/29_bleed_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 30,
+      "word": "breed",
+      "partOfSpeech": "v.",
+      "meaningKo": "번식하다",
+      "definition": "to produce young animals or plants",
+      "sentence": "The farmers breed gentle sheep with thick wool.",
+      "ipa": "/brid/",
+      "wordImage": "images/30_breed_word.png",
+      "sentenceImage": "images/30_breed_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 18,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY18-11",
+      "no": 11,
+      "word": "prevent",
+      "sentence": "One warm hat can prevent cold ears in winter."
+    },
+    {
+      "wordId": "DAY18-12",
+      "no": 12,
+      "word": "suffer",
+      "sentence": "When the soil becomes too dry, young plants suffer."
+    },
+    {
+      "wordId": "DAY18-13",
+      "no": 13,
+      "word": "ruin",
+      "sentence": "Heavy rain can ruin a paper kite very rapidly."
+    },
+    {
+      "wordId": "DAY18-14",
+      "no": 14,
+      "word": "organ",
+      "sentence": "Cells form tissues, and tissues form each organ."
+    },
+    {
+      "wordId": "DAY18-15",
+      "no": 15,
+      "word": "instead",
+      "sentence": "The house cat chose the box instead of the soft bed."
+    },
+    {
+      "wordId": "DAY18-16",
+      "no": 16,
+      "word": "ankle",
+      "sentence": "Today, the runner wrapped a warm band around her ankle."
+    },
+    {
+      "wordId": "DAY18-17",
+      "no": 17,
+      "word": "nutrition",
+      "sentence": "Fresh vegetables give excellent nutrition to growing school children."
+    },
+    {
+      "wordId": "DAY18-18",
+      "no": 18,
+      "word": "decrease",
+      "sentence": "Students find where graph values decrease along the time axis."
+    },
+    {
+      "wordId": "DAY18-19",
+      "no": 19,
+      "word": "trouble",
+      "sentence": "Today, the tangled string caused trouble for the young kite flyer."
+    },
+    {
+      "wordId": "DAY18-20",
+      "no": 20,
+      "word": "seal",
+      "sentence": "Students seal a bottle before testing how trapped air pushes."
+    }
+  ]
+}

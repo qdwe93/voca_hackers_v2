@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 22,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 22 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "huge",
+      "partOfSpeech": "adj.",
+      "meaningKo": "거대한, 엄청난",
+      "ipa": "/hjuːdʒ/",
+      "definition": "extremely large in size or amount, gigantic",
+      "sentence": "A huge redwood tree stretched hundreds of feet into the sky.",
+      "wordImage": "images/11_huge_word.png",
+      "sentenceImage": "images/11_huge_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "pile",
+      "partOfSpeech": "n.",
+      "meaningKo": "더미, 쌓아 놓은 것",
+      "ipa": "/paɪl/",
+      "definition": "a mass of things lying on top of each other",
+      "sentence": "Children jumped into a crunchy pile of golden autumn leaves.",
+      "wordImage": "images/12_pile_word.png",
+      "sentenceImage": "images/12_pile_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "react",
+      "partOfSpeech": "v.",
+      "meaningKo": "반응하다",
+      "ipa": "/riˈækt/",
+      "definition": "to act in response to something that happens",
+      "sentence": "Sunflowers will react to sunlight by turning their blossoms eastward.",
+      "wordImage": "images/13_react_word.png",
+      "sentenceImage": "images/13_react_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "exist",
+      "partOfSpeech": "v.",
+      "meaningKo": "존재하다",
+      "ipa": "/ɪɡˈzɪst/",
+      "definition": "to be real or alive in the world",
+      "sentence": "Fascinating creatures like giant squids exist in the deep ocean.",
+      "wordImage": "images/14_exist_word.png",
+      "sentenceImage": "images/14_exist_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "shade",
+      "partOfSpeech": "n.",
+      "meaningKo": "그늘, 가리개",
+      "ipa": "/ʃeɪd/",
+      "definition": "slight darkness caused by something blocking direct sunlight",
+      "sentence": "We enjoyed a cool picnic under the leafy tree shade.",
+      "wordImage": "images/15_shade_word.png",
+      "sentenceImage": "images/15_shade_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "element",
+      "partOfSpeech": "n.",
+      "meaningKo": "요소, 원소",
+      "ipa": "/ˈel.ə.mənt/",
+      "definition": "a basic part or quality of something whole",
+      "sentence": "Water is a vital element for all living plants on Earth.",
+      "wordImage": "images/16_element_word.png",
+      "sentenceImage": "images/16_element_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "layer",
+      "partOfSpeech": "n.",
+      "meaningKo": "층, 겹",
+      "ipa": "/ˈleɪ.ɚ/",
+      "definition": "an amount of a substance covering a surface",
+      "sentence": "A thick layer of white snow covered the garden overnight.",
+      "wordImage": "images/17_layer_word.png",
+      "sentenceImage": "images/17_layer_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "horizon",
+      "partOfSpeech": "n.",
+      "meaningKo": "지평선, 수평선",
+      "ipa": "/həˈraɪ.zən/",
+      "definition": "the line where the earth’s surface and sky appear meet",
+      "sentence": "A golden sun sank slowly beneath the calm ocean horizon.",
+      "wordImage": "images/18_horizon_word.png",
+      "sentenceImage": "images/18_horizon_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "observe",
+      "partOfSpeech": "v.",
+      "meaningKo": "관찰하다, 준수하다",
+      "ipa": "/əbˈzɝːv/",
+      "definition": "to watch carefully the way something happens",
+      "sentence": "Students use binoculars to observe wild birds in the forest canopy.",
+      "wordImage": "images/19_observe_word.png",
+      "sentenceImage": "images/19_observe_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "block",
+      "partOfSpeech": "v.",
+      "meaningKo": "막다, 차단하다",
+      "ipa": "/blɑːk/",
+      "definition": "to stop something from passing or being seen",
+      "sentence": "Thick sunglasses help block harmful ultraviolet sun rays during summer.",
+      "wordImage": "images/20_block_word.png",
+      "sentenceImage": "images/20_block_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

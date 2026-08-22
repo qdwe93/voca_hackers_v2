@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 17,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 17 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "biology",
+      "partOfSpeech": "n.",
+      "meaningKo": "생물학",
+      "ipa": "/baɪˈɑːlədʒi/",
+      "definition": "the study of living plants and animals",
+      "sentence": "Biology class explored the pond life this sunny morning.",
+      "wordImage": "images/01_biology_word.png",
+      "sentenceImage": "images/01_biology_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "gene",
+      "partOfSpeech": "n.",
+      "meaningKo": "유전자",
+      "ipa": "/dʒiːn/",
+      "definition": "a tiny part that decides how living things grow",
+      "sentence": "One gene decides whether the flower petals turn purple.",
+      "wordImage": "images/02_gene_word.png",
+      "sentenceImage": "images/02_gene_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "factor",
+      "partOfSpeech": "n.",
+      "meaningKo": "요인",
+      "ipa": "/ˈfæktər/",
+      "definition": "one thing that helps cause a result",
+      "sentence": "Sunlight is an important factor in how plants grow.",
+      "wordImage": "images/03_factor_word.png",
+      "sentenceImage": "images/03_factor_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "trace",
+      "partOfSpeech": "v.",
+      "meaningKo": "추적하다",
+      "definition": "to follow marks and discover where something went",
+      "sentence": "The ranger will trace animal footprints through the soft mud.",
+      "ipa": "/treɪs/",
+      "wordImage": "images/04_trace_word.png",
+      "sentenceImage": "images/04_trace_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "require",
+      "partOfSpeech": "v.",
+      "meaningKo": "필요로 하다",
+      "ipa": "/rɪˈkwaɪər/",
+      "definition": "to need something very much",
+      "sentence": "Baby birds require warm food many times each day.",
+      "wordImage": "images/05_require_word.png",
+      "sentenceImage": "images/05_require_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "structure",
+      "partOfSpeech": "n.",
+      "meaningKo": "구조",
+      "ipa": "/ˈstrʌktʃər/",
+      "definition": "the way parts are put together",
+      "sentence": "The honeycomb structure has many neat six sided rooms.",
+      "wordImage": "images/06_structure_word.png",
+      "sentenceImage": "images/06_structure_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "research",
+      "partOfSpeech": "n.",
+      "meaningKo": "연구",
+      "ipa": "/rɪˈsɜːrtʃ/",
+      "definition": "careful study to find new facts",
+      "sentence": "Their research showed how sea turtles find warm beaches.",
+      "wordImage": "images/07_research_word.png",
+      "sentenceImage": "images/07_research_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "intelligent",
+      "partOfSpeech": "adj.",
+      "meaningKo": "똑똑한",
+      "ipa": "/ɪnˈtelɪdʒənt/",
+      "definition": "able to learn and understand quickly",
+      "sentence": "Crows are intelligent birds that solve puzzles for food.",
+      "wordImage": "images/08_intelligent_word.png",
+      "sentenceImage": "images/08_intelligent_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "sign",
+      "partOfSpeech": "n.",
+      "meaningKo": "표지판",
+      "ipa": "/saɪn/",
+      "definition": "a board that shows people something",
+      "sentence": "A wooden sign pointed toward the quiet forest pond.",
+      "wordImage": "images/09_sign_word.png",
+      "sentenceImage": "images/09_sign_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "sigh",
+      "partOfSpeech": "v.",
+      "meaningKo": "한숨 쉬다",
+      "ipa": "/saɪ/",
+      "definition": "to breathe out slowly showing a feeling",
+      "sentence": "The tired dog will sigh before falling fast asleep.",
+      "wordImage": "images/10_sigh_word.png",
+      "sentenceImage": "images/10_sigh_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

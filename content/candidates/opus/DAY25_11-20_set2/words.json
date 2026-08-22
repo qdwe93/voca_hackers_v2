@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 25,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 25 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "protect",
+      "partOfSpeech": "v.",
+      "meaningKo": "보호하다",
+      "ipa": "/prəˈtekt/",
+      "definition": "to keep something safe from trouble",
+      "sentence": "Tall fences protect the young trees from strong wind.",
+      "wordImage": "images/11_protect_word.png",
+      "sentenceImage": "images/11_protect_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "loss",
+      "partOfSpeech": "n.",
+      "meaningKo": "손실",
+      "ipa": "/lɔːs/",
+      "definition": "when something you had is gone",
+      "sentence": "The loss of one glove made the walk chilly.",
+      "wordImage": "images/12_loss_word.png",
+      "sentenceImage": "images/12_loss_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "generate",
+      "partOfSpeech": "v.",
+      "meaningKo": "발생시키다",
+      "ipa": "/ˈdʒenəreɪt/",
+      "definition": "to make power or something new",
+      "sentence": "Windmills generate clean power for the small seaside town.",
+      "wordImage": "images/13_generate_word.png",
+      "sentenceImage": "images/13_generate_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "amazed",
+      "partOfSpeech": "adj.",
+      "meaningKo": "놀란",
+      "ipa": "/əˈmeɪzd/",
+      "definition": "very surprised in a happy way",
+      "sentence": "The visitors looked amazed at the glowing blue cave.",
+      "wordImage": "images/14_amazed_word.png",
+      "sentenceImage": "images/14_amazed_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "harm",
+      "partOfSpeech": "v.",
+      "meaningKo": "해를 끼치다",
+      "ipa": "/hɑːrm/",
+      "definition": "to hurt or damage something",
+      "sentence": "Litter can harm the small fish in ponds.",
+      "wordImage": "images/15_harm_word.png",
+      "sentenceImage": "images/15_harm_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "intense",
+      "partOfSpeech": "adj.",
+      "meaningKo": "강렬한",
+      "ipa": "/ɪnˈtens/",
+      "definition": "very strong or very great",
+      "sentence": "Intense sunlight made the beach sand feel hot.",
+      "wordImage": "images/16_intense_word.png",
+      "sentenceImage": "images/16_intense_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "amount",
+      "partOfSpeech": "n.",
+      "meaningKo": "양",
+      "ipa": "/əˈmaʊnt/",
+      "definition": "how much of something there is",
+      "sentence": "A tiny amount of salt improved the whole soup.",
+      "wordImage": "images/17_amount_word.png",
+      "sentenceImage": "images/17_amount_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "marine",
+      "partOfSpeech": "adj.",
+      "meaningKo": "해양의",
+      "ipa": "/məˈriːn/",
+      "definition": "about the sea and its animals",
+      "sentence": "Marine turtles swim slowly through the warm blue water.",
+      "wordImage": "images/18_marine_word.png",
+      "sentenceImage": "images/18_marine_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "permanent",
+      "partOfSpeech": "adj.",
+      "meaningKo": "영구적인",
+      "ipa": "/ˈpɜːrmənənt/",
+      "definition": "lasting forever without changing",
+      "sentence": "The stone bridge became a permanent part of town.",
+      "wordImage": "images/19_permanent_word.png",
+      "sentenceImage": "images/19_permanent_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "fine",
+      "partOfSpeech": "adj.",
+      "meaningKo": "좋은",
+      "ipa": "/faɪn/",
+      "definition": "very good and pleasant",
+      "sentence": "It was a fine day for a long walk.",
+      "wordImage": "images/20_fine_word.png",
+      "sentenceImage": "images/20_fine_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

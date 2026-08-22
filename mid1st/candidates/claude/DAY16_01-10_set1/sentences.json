@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 16,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY16-01",
+      "no": 1,
+      "word": "nature",
+      "sentence": "Nature outside the classroom gives us leaves, stones, and insects to study."
+    },
+    {
+      "wordId": "DAY16-02",
+      "no": 2,
+      "word": "experiment",
+      "sentence": "In our experiment we changed only the water amount each day."
+    },
+    {
+      "wordId": "DAY16-03",
+      "no": 3,
+      "word": "condition",
+      "sentence": "The borrowed microscope stayed in good condition after ten uses."
+    },
+    {
+      "wordId": "DAY16-04",
+      "no": 4,
+      "word": "distance",
+      "sentence": "A shorter distance to the highway brings more trucks to town."
+    },
+    {
+      "wordId": "DAY16-05",
+      "no": 5,
+      "word": "evidence",
+      "sentence": "Our notebook holds evidence that salt water froze more slowly."
+    },
+    {
+      "wordId": "DAY16-06",
+      "no": 6,
+      "word": "chemical",
+      "sentence": "The teacher poured one safe chemical into the clear test tube."
+    },
+    {
+      "wordId": "DAY16-07",
+      "no": 7,
+      "word": "fluid",
+      "sentence": "Warm fluid rises in the pot while cooler fluid sinks down."
+    },
+    {
+      "wordId": "DAY16-08",
+      "no": 8,
+      "word": "extensive",
+      "sentence": "An extensive layer of ice covered the whole school playground."
+    },
+    {
+      "wordId": "DAY16-09",
+      "no": 9,
+      "word": "process",
+      "sentence": "Boiling water follows a clear process from bubbles to steam."
+    },
+    {
+      "wordId": "DAY16-10",
+      "no": 10,
+      "word": "progress",
+      "sentence": "Our plant chart shows steady progress toward twenty centimeters."
+    }
+  ]
+}

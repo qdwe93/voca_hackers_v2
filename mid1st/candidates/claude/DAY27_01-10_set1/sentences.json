@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 27,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY27-01",
+      "no": 1,
+      "word": "politics",
+      "sentence": "In politics, ordinary citizens help decide how public money is used."
+    },
+    {
+      "wordId": "DAY27-02",
+      "no": 2,
+      "word": "facility",
+      "sentence": "Our town built a sports facility with two indoor courts."
+    },
+    {
+      "wordId": "DAY27-03",
+      "no": 3,
+      "word": "vote",
+      "sentence": "Students vote in secret, then two helpers count every paper."
+    },
+    {
+      "wordId": "DAY27-04",
+      "no": 4,
+      "word": "candidate",
+      "sentence": "Each candidate spoke for two minutes before the class voted."
+    },
+    {
+      "wordId": "DAY27-05",
+      "no": 5,
+      "word": "civil",
+      "sentence": "Voting is one civil right that adults use every election."
+    },
+    {
+      "wordId": "DAY27-06",
+      "no": 6,
+      "word": "limit",
+      "sentence": "This noise limit protects sleep but still allows daytime concerts."
+    },
+    {
+      "wordId": "DAY27-07",
+      "no": 7,
+      "word": "conservative",
+      "sentence": "Our club stayed conservative and kept the old meeting schedule."
+    },
+    {
+      "wordId": "DAY27-08",
+      "no": 8,
+      "word": "belong",
+      "sentence": "These two folders belong to the school gardening committee."
+    },
+    {
+      "wordId": "DAY27-09",
+      "no": 9,
+      "word": "official",
+      "sentence": "The official result was posted after both helpers checked it."
+    },
+    {
+      "wordId": "DAY27-10",
+      "no": 10,
+      "word": "officer",
+      "sentence": "The club officer keeps the records but cannot change rules alone."
+    }
+  ]
+}

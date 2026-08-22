@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 21,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY21-21",
+      "no": 21,
+      "word": "attract",
+      "sentence": "Bright colorful flower petals attract honeybees for essential spring pollen dispersal."
+    },
+    {
+      "wordId": "DAY21-22",
+      "no": 22,
+      "word": "poison",
+      "sentence": "Certain venomous tree snakes use lethal poison for hunting small prey."
+    },
+    {
+      "wordId": "DAY21-23",
+      "no": 23,
+      "word": "weigh",
+      "sentence": "Students weigh the dry soil sample using a digital laboratory balance."
+    },
+    {
+      "wordId": "DAY21-24",
+      "no": 24,
+      "word": "automatic",
+      "sentence": "The greenhouse features an automatic irrigation system to water potted plants."
+    },
+    {
+      "wordId": "DAY21-25",
+      "no": 25,
+      "word": "role",
+      "sentence": "Earthworms play an important ecological role in enriching nutrient farm soil."
+    },
+    {
+      "wordId": "DAY21-26",
+      "no": 26,
+      "word": "exchange",
+      "sentence": "Plants and animals exchange oxygen and carbon dioxide through natural respiration."
+    },
+    {
+      "wordId": "DAY21-27",
+      "no": 27,
+      "word": "contain",
+      "sentence": "Ripe oranges contain natural citric acid and essential dietary vitamin nutrients."
+    },
+    {
+      "wordId": "DAY21-28",
+      "no": 28,
+      "word": "trail",
+      "sentence": "Hikers walk along the forest trail to view mountain wildflowers."
+    },
+    {
+      "wordId": "DAY21-29",
+      "no": 29,
+      "word": "trait",
+      "sentence": "Stem height is a measurable physical trait in garden pea plants."
+    },
+    {
+      "wordId": "DAY21-30",
+      "no": 30,
+      "word": "trial",
+      "sentence": "The scientific trial tested plant growth under three different light conditions."
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 6,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 06 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "relax",
+      "partOfSpeech": "v.",
+      "meaningKo": "긴장을 풀다",
+      "definition": "to become calm and less worried",
+      "sentence": "The tired fox will relax in a hammock under a tree.",
+      "ipa": "/rɪlæks/",
+      "wordImage": "images/01_relax_word.png",
+      "sentenceImage": "images/01_relax_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "grateful",
+      "partOfSpeech": "adj.",
+      "meaningKo": "감사하는",
+      "definition": "feeling thankful for kindness or help",
+      "sentence": "The grateful bird receives seeds from a gentle child.",
+      "ipa": "/ɡreɪtfəl/",
+      "wordImage": "images/02_grateful_word.png",
+      "sentenceImage": "images/02_grateful_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "complain",
+      "partOfSpeech": "v.",
+      "meaningKo": "불평하다",
+      "definition": "to say that something is wrong or annoying",
+      "sentence": "The wet cat will complain about the dripping roof.",
+      "ipa": "/kəmpleɪn/",
+      "wordImage": "images/03_complain_word.png",
+      "sentenceImage": "images/03_complain_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "delighted",
+      "partOfSpeech": "adj.",
+      "meaningKo": "매우 기쁜",
+      "definition": "feeling very happy and pleased",
+      "sentence": "The delighted child discovers a puppy inside the basket.",
+      "ipa": "/dɪlaɪtəd/",
+      "wordImage": "images/04_delighted_word.png",
+      "sentenceImage": "images/04_delighted_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "express",
+      "partOfSpeech": "v.",
+      "meaningKo": "표현하다",
+      "definition": "to show a thought or feeling",
+      "sentence": "The dancer will express joy through energetic movements.",
+      "ipa": "/ɪksprɛs/",
+      "wordImage": "images/05_express_word.png",
+      "sentenceImage": "images/05_express_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "reward",
+      "partOfSpeech": "n.",
+      "meaningKo": "보상",
+      "definition": "something given for good work or behavior",
+      "sentence": "The dog receives a treat as a reward for waiting.",
+      "ipa": "/rɪwɔrd/",
+      "wordImage": "images/06_reward_word.png",
+      "sentenceImage": "images/06_reward_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "frustrated",
+      "partOfSpeech": "adj.",
+      "meaningKo": "좌절한",
+      "definition": "annoyed because something is difficult or unsuccessful",
+      "sentence": "The frustrated robot stares at a puzzle piece that will not fit.",
+      "ipa": "/frʌstreɪtəd/",
+      "wordImage": "images/07_frustrated_word.png",
+      "sentenceImage": "images/07_frustrated_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "recognize",
+      "partOfSpeech": "v.",
+      "meaningKo": "알아보다",
+      "definition": "to identify someone or something seen before",
+      "sentence": "The puppy will recognize its owner among several people.",
+      "ipa": "/rɛkəɡnaɪz/",
+      "wordImage": "images/08_recognize_word.png",
+      "sentenceImage": "images/08_recognize_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "temper",
+      "partOfSpeech": "n.",
+      "meaningKo": "성질",
+      "definition": "a tendency to become angry easily",
+      "sentence": "The dragon loses its temper when blocks keep falling.",
+      "ipa": "/tɛmpɚ/",
+      "wordImage": "images/09_temper_word.png",
+      "sentenceImage": "images/09_temper_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "temple",
+      "partOfSpeech": "n.",
+      "meaningKo": "사원",
+      "definition": "a building used for religious worship",
+      "sentence": "Visitors quietly admire the ancient stone temple together.",
+      "ipa": "/tɛmpəl/",
+      "wordImage": "images/10_temple_word.png",
+      "sentenceImage": "images/10_temple_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

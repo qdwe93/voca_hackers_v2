@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 17,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY17-21",
+      "no": 21,
+      "word": "individual",
+      "sentence": "Today, each camper received an individual bowl of warm soup."
+    },
+    {
+      "wordId": "DAY17-22",
+      "no": 22,
+      "word": "silent",
+      "sentence": "Students compare a silent room with recorded speech."
+    },
+    {
+      "wordId": "DAY17-23",
+      "no": 23,
+      "word": "fiber",
+      "sentence": "Today, strong fiber from the plant became a woven basket."
+    },
+    {
+      "wordId": "DAY17-24",
+      "no": 24,
+      "word": "ancestor",
+      "sentence": "Today, an ancestor of this tree grew here two centuries ago."
+    },
+    {
+      "wordId": "DAY17-25",
+      "no": 25,
+      "word": "yawn",
+      "sentence": "Before their afternoon nap, the lion cubs yawn widely."
+    },
+    {
+      "wordId": "DAY17-26",
+      "no": 26,
+      "word": "pregnant",
+      "sentence": "Today, the pregnant cat rested in a soft warm basket."
+    },
+    {
+      "wordId": "DAY17-27",
+      "no": 27,
+      "word": "stimulate",
+      "sentence": "Bright colors stimulate curiosity in very school children."
+    },
+    {
+      "wordId": "DAY17-28",
+      "no": 28,
+      "word": "slightly",
+      "sentence": "Today, the tower leaned slightly toward the sunny garden side."
+    },
+    {
+      "wordId": "DAY17-29",
+      "no": 29,
+      "word": "bleed",
+      "sentence": "The dog started to bleed, so we wrapped his injured paw."
+    },
+    {
+      "wordId": "DAY17-30",
+      "no": 30,
+      "word": "breed",
+      "sentence": "Today, farmers breed gentle rabbits on the small green hill."
+    }
+  ]
+}

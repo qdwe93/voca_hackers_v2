@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 27,
+  "range": "21-30",
+  "set": 3,
+  "title": "DAY 27 · 21-30",
+  "words": [
+    {
+      "no": 21,
+      "word": "simplify",
+      "partOfSpeech": "v.",
+      "meaningKo": "단순화하다",
+      "definition": "to make something easier to understand or do",
+      "sentence": "The teacher will simplify the machine using fewer parts.",
+      "ipa": "/sɪmpləfaɪ/",
+      "wordImage": "images/21_simplify_word.png",
+      "sentenceImage": "images/21_simplify_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 22,
+      "word": "committee",
+      "partOfSpeech": "n.",
+      "meaningKo": "위원회",
+      "definition": "a group chosen to make decisions",
+      "sentence": "The committee compares three designs around the meeting table.",
+      "ipa": "/kəmɪti/",
+      "wordImage": "images/22_committee_word.png",
+      "sentenceImage": "images/22_committee_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 23,
+      "word": "accompany",
+      "partOfSpeech": "v.",
+      "meaningKo": "동행하다",
+      "definition": "to go somewhere with someone",
+      "sentence": "A guide will accompany the visitors through the cave.",
+      "ipa": "/əkʌmpəni/",
+      "wordImage": "images/23_accompany_word.png",
+      "sentenceImage": "images/23_accompany_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 24,
+      "word": "proportion",
+      "partOfSpeech": "n.",
+      "meaningKo": "비율",
+      "definition": "the size of one amount compared with another",
+      "sentence": "The juice has a greater proportion of water than fruit.",
+      "ipa": "/prəpɔrʃən/",
+      "wordImage": "images/24_proportion_word.png",
+      "sentenceImage": "images/24_proportion_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 25,
+      "word": "household",
+      "partOfSpeech": "n.",
+      "meaningKo": "가구",
+      "definition": "all the people living together in one home",
+      "sentence": "The whole household gathers for breakfast around the table.",
+      "ipa": "/haʊshoʊld/",
+      "wordImage": "images/25_household_word.png",
+      "sentenceImage": "images/25_household_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 26,
+      "word": "absence",
+      "partOfSpeech": "n.",
+      "meaningKo": "부재",
+      "definition": "the state of not being present",
+      "sentence": "The empty chair shows the captain's absence from the meeting.",
+      "ipa": "/æbsəns/",
+      "wordImage": "images/26_absence_word.png",
+      "sentenceImage": "images/26_absence_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 27,
+      "word": "primary",
+      "partOfSpeech": "adj.",
+      "meaningKo": "주된",
+      "definition": "most important or first in order",
+      "sentence": "The primary goal is carrying everyone across safely.",
+      "ipa": "/praɪmɛri/",
+      "wordImage": "images/27_primary_word.png",
+      "sentenceImage": "images/27_primary_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 28,
+      "word": "spot",
+      "partOfSpeech": "v.",
+      "meaningKo": "발견하다",
+      "definition": "to see or notice something",
+      "sentence": "The birdwatcher will spot an owl high in the tree.",
+      "ipa": "/spɑt/",
+      "wordImage": "images/28_spot_word.png",
+      "sentenceImage": "images/28_spot_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 29,
+      "word": "bother",
+      "partOfSpeech": "v.",
+      "meaningKo": "괴롭히다",
+      "definition": "to annoy or disturb someone",
+      "sentence": "Buzzing flies bother the horse beside the pond.",
+      "ipa": "/bɑðɚ/",
+      "wordImage": "images/29_bother_word.png",
+      "sentenceImage": "images/29_bother_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 30,
+      "word": "border",
+      "partOfSpeech": "n.",
+      "meaningKo": "국경",
+      "definition": "a line separating areas or countries",
+      "sentence": "A river forms the border between two peaceful lands.",
+      "ipa": "/bɔrdɚ/",
+      "wordImage": "images/30_border_word.png",
+      "sentenceImage": "images/30_border_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

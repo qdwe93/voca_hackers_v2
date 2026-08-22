@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 5,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY05-01",
+      "no": 1,
+      "word": "muscle",
+      "sentence": "Running up stairs makes every leg muscle work harder."
+    },
+    {
+      "wordId": "DAY05-02",
+      "no": 2,
+      "word": "regular",
+      "sentence": "A regular bedtime helps my body wake up easily."
+    },
+    {
+      "wordId": "DAY05-03",
+      "no": 3,
+      "word": "stretch",
+      "sentence": "Players stretch their arms and legs before the soccer match."
+    },
+    {
+      "wordId": "DAY05-04",
+      "no": 4,
+      "word": "reduce",
+      "sentence": "The coach asked us to reduce sitting time by ten minutes."
+    },
+    {
+      "wordId": "DAY05-05",
+      "no": 5,
+      "word": "opponent",
+      "sentence": "My opponent served the ball across the net very quickly."
+    },
+    {
+      "wordId": "DAY05-06",
+      "no": 6,
+      "word": "recommend",
+      "sentence": "Doctors recommend enough sleep and daily walking for growing students."
+    },
+    {
+      "wordId": "DAY05-07",
+      "no": 7,
+      "word": "warn",
+      "sentence": "Our coach will warn us when the gym floor is wet."
+    },
+    {
+      "wordId": "DAY05-08",
+      "no": 8,
+      "word": "cause",
+      "sentence": "The cause of my sore knee was too much running."
+    },
+    {
+      "wordId": "DAY05-09",
+      "no": 9,
+      "word": "lose",
+      "sentence": "Runners lose water through sweat, so they drink often."
+    },
+    {
+      "wordId": "DAY05-10",
+      "no": 10,
+      "word": "loose",
+      "sentence": "These running shoes feel loose, so I tighten the laces."
+    }
+  ]
+}

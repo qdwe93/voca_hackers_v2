@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 11,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY11-21",
+      "no": 21,
+      "word": "wisdom",
+      "sentence": "Old proverbs contain valuable wisdom passed down through many generations."
+    },
+    {
+      "wordId": "DAY11-22",
+      "no": 22,
+      "word": "impressed",
+      "sentence": "The art teacher was impressed by her creative watercolor painting."
+    },
+    {
+      "wordId": "DAY11-23",
+      "no": 23,
+      "word": "emphasize",
+      "sentence": "Good writers emphasize main ideas using strong examples and evidence."
+    },
+    {
+      "wordId": "DAY11-24",
+      "no": 24,
+      "word": "bold",
+      "sentence": "The explorer made a bold decision to cross the desert."
+    },
+    {
+      "wordId": "DAY11-25",
+      "no": 25,
+      "word": "admire",
+      "sentence": "Young athletes admire the Olympic champion for her sportsmanship."
+    },
+    {
+      "wordId": "DAY11-26",
+      "no": 26,
+      "word": "vivid",
+      "sentence": "The author used vivid sensory details to describe the forest."
+    },
+    {
+      "wordId": "DAY11-27",
+      "no": 27,
+      "word": "multiple",
+      "sentence": "The test question had multiple possible answers to consider carefully."
+    },
+    {
+      "wordId": "DAY11-28",
+      "no": 28,
+      "word": "profound",
+      "sentence": "The ancient philosopher shared profound thoughts on virtue and justice."
+    },
+    {
+      "wordId": "DAY11-29",
+      "no": 29,
+      "word": "terrible",
+      "sentence": "The sudden severe storm caused terrible damage to coastal houses."
+    },
+    {
+      "wordId": "DAY11-30",
+      "no": 30,
+      "word": "terrific",
+      "sentence": "The school choir gave a terrific musical performance tonight in auditorium."
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 10,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 10 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "welfare",
+      "partOfSpeech": "n.",
+      "meaningKo": "복지",
+      "definition": "the health happiness and safety of people or animals",
+      "sentence": "The shelter protects the welfare of every rescued animal.",
+      "ipa": "/wɛlfɛr/",
+      "wordImage": "images/01_welfare_word.png",
+      "sentenceImage": "images/01_welfare_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "victim",
+      "partOfSpeech": "n.",
+      "meaningKo": "피해자",
+      "definition": "a person harmed by an event or action",
+      "sentence": "The flood victim receives blankets at the safe shelter.",
+      "ipa": "/vɪktəm/",
+      "wordImage": "images/02_victim_word.png",
+      "sentenceImage": "images/02_victim_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "population",
+      "partOfSpeech": "n.",
+      "meaningKo": "인구",
+      "definition": "all the people or animals living in one area",
+      "sentence": "The island's penguin population gathers along the rocky shore.",
+      "ipa": "/pɑpjəleɪʃən/",
+      "wordImage": "images/03_population_word.png",
+      "sentenceImage": "images/03_population_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "neighbor",
+      "partOfSpeech": "n.",
+      "meaningKo": "이웃",
+      "definition": "a person living near another person",
+      "sentence": "A helpful neighbor waters the plants next door.",
+      "ipa": "/neɪbɚ/",
+      "wordImage": "images/04_neighbor_word.png",
+      "sentenceImage": "images/04_neighbor_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "ignore",
+      "partOfSpeech": "v.",
+      "meaningKo": "무시하다",
+      "definition": "to pay no attention to someone or something",
+      "sentence": "The sleepy cat will ignore the ringing toy bell.",
+      "ipa": "/ɪɡnɔr/",
+      "wordImage": "images/05_ignore_word.png",
+      "sentenceImage": "images/05_ignore_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "donate",
+      "partOfSpeech": "v.",
+      "meaningKo": "기부하다",
+      "definition": "to give money or goods to help others",
+      "sentence": "Families donate warm coats to the community center.",
+      "ipa": "/doʊneɪt/",
+      "wordImage": "images/06_donate_word.png",
+      "sentenceImage": "images/06_donate_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "serious",
+      "partOfSpeech": "adj.",
+      "meaningKo": "심각한",
+      "definition": "important or dangerous enough to need careful attention",
+      "sentence": "The serious storm makes everyone remain safely indoors.",
+      "ipa": "/sɪriəs/",
+      "wordImage": "images/07_serious_word.png",
+      "sentenceImage": "images/07_serious_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "fund",
+      "partOfSpeech": "n.",
+      "meaningKo": "기금",
+      "definition": "money saved or collected for a purpose",
+      "sentence": "The community fund buys new trees for the park.",
+      "ipa": "/fʌnd/",
+      "wordImage": "images/08_fund_word.png",
+      "sentenceImage": "images/08_fund_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "personal",
+      "partOfSpeech": "adj.",
+      "meaningKo": "개인의",
+      "definition": "belonging to or concerning one particular person",
+      "sentence": "Each camper keeps personal items inside a separate bag.",
+      "ipa": "/pɝsɪnəl/",
+      "wordImage": "images/09_personal_word.png",
+      "sentenceImage": "images/09_personal_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "personnel",
+      "partOfSpeech": "n.",
+      "meaningKo": "직원들",
+      "definition": "the people who work for an organization",
+      "sentence": "Hospital personnel gather for a morning safety meeting.",
+      "ipa": "/pɚsənɛl/",
+      "wordImage": "images/10_personnel_word.png",
+      "sentenceImage": "images/10_personnel_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

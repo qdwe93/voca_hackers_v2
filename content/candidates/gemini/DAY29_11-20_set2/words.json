@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 29,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 29 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "launch",
+      "partOfSpeech": "v.",
+      "meaningKo": "출시하다, 발사하다, 시작하다",
+      "ipa": "/lɑːntʃ/",
+      "definition": "to set a boat or rocket in motion, start project",
+      "sentence": "Scientists prepared to launch the new weather satellite into orbit.",
+      "wordImage": "images/11_launch_word.png",
+      "sentenceImage": "images/11_launch_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "deliver",
+      "partOfSpeech": "v.",
+      "meaningKo": "배달하다, 전하다",
+      "ipa": "/dɪˈlɪv.ɚ/",
+      "definition": "to take letters, packages, or goods to people’s houses",
+      "sentence": "The friendly postal worker will deliver packages to our doorstep.",
+      "wordImage": "images/12_deliver_word.png",
+      "sentenceImage": "images/12_deliver_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "measure",
+      "partOfSpeech": "v.",
+      "meaningKo": "측정하다, 재다",
+      "ipa": "/ˈmeʒ.ɚ/",
+      "definition": "to find the size, amount, or degree of something accurately",
+      "sentence": "Use a wooden ruler to measure the length of paper.",
+      "wordImage": "images/13_measure_word.png",
+      "sentenceImage": "images/13_measure_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "claim",
+      "partOfSpeech": "v.",
+      "meaningKo": "주장하다, 요구하다",
+      "ipa": "/kleɪm/",
+      "definition": "to state that something is the case, or assert ownership",
+      "sentence": "Students can claim their lost jackets at the school office.",
+      "wordImage": "images/14_claim_word.png",
+      "sentenceImage": "images/14_claim_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "satisfy",
+      "partOfSpeech": "v.",
+      "meaningKo": "만족시키다, 충족하다",
+      "ipa": "/ˈsæt̬.ɪs.faɪ/",
+      "definition": "to meet the expectations, needs, or desires of someone",
+      "sentence": "A crisp sweet apple was enough to satisfy his hunger.",
+      "wordImage": "images/15_satisfy_word.png",
+      "sentenceImage": "images/15_satisfy_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "opposite",
+      "partOfSpeech": "adj.",
+      "meaningKo": "반대의, 맞은편의",
+      "ipa": "/ˈɑː.pə.zɪt/",
+      "definition": "completely different, or situated on the other side of space",
+      "sentence": "The library is situated on the opposite side of street.",
+      "wordImage": "images/16_opposite_word.png",
+      "sentenceImage": "images/16_opposite_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "strategy",
+      "partOfSpeech": "n.",
+      "meaningKo": "전략, 계획",
+      "ipa": "/ˈstræt̬.ə.dʒi/",
+      "definition": "a plan of action designed to achieve a long-term goal",
+      "sentence": "Our soccer coach outlined a smart passing strategy for game.",
+      "wordImage": "images/17_strategy_word.png",
+      "sentenceImage": "images/17_strategy_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "import",
+      "partOfSpeech": "v.",
+      "meaningKo": "수입하다, 들여오다",
+      "ipa": "/ɪmˈpɔːrt/",
+      "definition": "to bring goods into a country from abroad for sale",
+      "sentence": "Local grocery markets import fresh tropical pineapples and sweet bananas.",
+      "wordImage": "images/18_import_word.png",
+      "sentenceImage": "images/18_import_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "trap",
+      "partOfSpeech": "n.",
+      "meaningKo": "함정, 덫, 가두다",
+      "ipa": "/træp/",
+      "definition": "a device or trick designed to catch animals or players",
+      "sentence": "The clever maze runner avoided every trick trap in game.",
+      "wordImage": "images/19_trap_word.png",
+      "sentenceImage": "images/19_trap_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "present",
+      "partOfSpeech": "n.",
+      "meaningKo": "선물, 현재",
+      "ipa": "/ˈprez.ənt/",
+      "definition": "a thing given to someone as a gift, or current time",
+      "sentence": "She wrapped a wonderful birthday present with a shiny ribbon.",
+      "wordImage": "images/20_present_word.png",
+      "sentenceImage": "images/20_present_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

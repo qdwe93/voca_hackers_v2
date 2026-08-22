@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 26,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY26-21",
+      "no": 21,
+      "word": "complex",
+      "sentence": "Solving the complex math puzzle required logical thinking and persistent effort."
+    },
+    {
+      "wordId": "DAY26-22",
+      "no": 22,
+      "word": "organize",
+      "sentence": "Librarians organize returned books neatly on wooden shelves by subject category."
+    },
+    {
+      "wordId": "DAY26-23",
+      "no": 23,
+      "word": "plenty",
+      "sentence": "The orchard produced plenty of sweet juicy apples during autumn harvest."
+    },
+    {
+      "wordId": "DAY26-24",
+      "no": 24,
+      "word": "phenomenon",
+      "sentence": "A solar eclipse is an amazing astronomical phenomenon observed from Earth."
+    },
+    {
+      "wordId": "DAY26-25",
+      "no": 25,
+      "word": "mount",
+      "sentence": "Hikers mount the steep rocky trail to reach the scenic summit."
+    },
+    {
+      "wordId": "DAY26-26",
+      "no": 26,
+      "word": "found",
+      "sentence": "Civic leaders met to found a new public community health center."
+    },
+    {
+      "wordId": "DAY26-27",
+      "no": 27,
+      "word": "prove",
+      "sentence": "Scientists prove their hypothesis using verified data gathered from controlled experiments."
+    },
+    {
+      "wordId": "DAY26-28",
+      "no": 28,
+      "word": "forbid",
+      "sentence": "School safety rules forbid running along crowded indoor hallway corridors strictly."
+    },
+    {
+      "wordId": "DAY26-29",
+      "no": 29,
+      "word": "contrast",
+      "sentence": "Bright white snow formed a sharp visual contrast against dark rocks."
+    },
+    {
+      "wordId": "DAY26-30",
+      "no": 30,
+      "word": "contract",
+      "sentence": "The two business partners signed a binding written contract for trade."
+    }
+  ]
+}

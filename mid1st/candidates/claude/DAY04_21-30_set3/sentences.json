@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 4,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY04-21",
+      "no": 21,
+      "word": "presentation",
+      "sentence": "Our group presentation explains each step with a simple chart."
+    },
+    {
+      "wordId": "DAY04-22",
+      "no": 22,
+      "word": "accomplish",
+      "sentence": "The team will accomplish the roof repair before the rain starts."
+    },
+    {
+      "wordId": "DAY04-23",
+      "no": 23,
+      "word": "convince",
+      "sentence": "Clear cost numbers convince the manager that the new plan saves money."
+    },
+    {
+      "wordId": "DAY04-24",
+      "no": 24,
+      "word": "audience",
+      "sentence": "The speaker used bigger pictures so the far audience could see."
+    },
+    {
+      "wordId": "DAY04-25",
+      "no": 25,
+      "word": "wage",
+      "sentence": "Part-time workers receive a fair wage for every hour worked."
+    },
+    {
+      "wordId": "DAY04-26",
+      "no": 26,
+      "word": "previous",
+      "sentence": "This month's order is larger than the previous one."
+    },
+    {
+      "wordId": "DAY04-27",
+      "no": 27,
+      "word": "spend",
+      "sentence": "Repair workers spend two hours fixing the broken door hinge."
+    },
+    {
+      "wordId": "DAY04-28",
+      "no": 28,
+      "word": "distinguish",
+      "sentence": "Bakers distinguish rye flour from wheat flour by its darker color."
+    },
+    {
+      "wordId": "DAY04-29",
+      "no": 29,
+      "word": "former",
+      "sentence": "Our former coach now trains swimmers at another pool."
+    },
+    {
+      "wordId": "DAY04-30",
+      "no": 30,
+      "word": "formal",
+      "sentence": "New workers use formal words at interviews and casual words with friends."
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 14,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY14-01",
+      "no": 1,
+      "word": "ancient",
+      "sentence": "The ancient setting explains why travelers use horses instead of cars."
+    },
+    {
+      "wordId": "DAY14-02",
+      "no": 2,
+      "word": "tradition",
+      "sentence": "Students compare a food tradition from two different regions."
+    },
+    {
+      "wordId": "DAY14-03",
+      "no": 3,
+      "word": "origin",
+      "sentence": "Today, the origin of the river is a mountain spring."
+    },
+    {
+      "wordId": "DAY14-04",
+      "no": 4,
+      "word": "folk",
+      "sentence": "Today, the band played cheerful folk songs at the market."
+    },
+    {
+      "wordId": "DAY14-05",
+      "no": 5,
+      "word": "device",
+      "sentence": "Students test the device twice and record when it fails."
+    },
+    {
+      "wordId": "DAY14-06",
+      "no": 6,
+      "word": "usual",
+      "sentence": "The house cat took its usual nap on the windowsill."
+    },
+    {
+      "wordId": "DAY14-07",
+      "no": 7,
+      "word": "ritual",
+      "sentence": "Visitors compare a greeting ritual across two cultures."
+    },
+    {
+      "wordId": "DAY14-08",
+      "no": 8,
+      "word": "entire",
+      "sentence": "Today, the entire class helped paint the long garden wall."
+    },
+    {
+      "wordId": "DAY14-09",
+      "no": 9,
+      "word": "region",
+      "sentence": "The region lies north of the river near high mountains."
+    },
+    {
+      "wordId": "DAY14-10",
+      "no": 10,
+      "word": "religion",
+      "sentence": "Maps show how religion shapes buildings across several regions."
+    }
+  ]
+}

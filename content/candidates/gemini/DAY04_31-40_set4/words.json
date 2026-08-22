@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 4,
+  "range": "31-40",
+  "set": 4,
+  "title": "DAY 04 · 31-40",
+  "words": [
+    {
+      "no": 31,
+      "word": "envious",
+      "partOfSpeech": "adj.",
+      "meaningKo": "부러워하는, 질투하는",
+      "ipa": "/ˈen.vi.əs/",
+      "definition": "wishing you had something that another person has",
+      "sentence": "He was not envious when his best friend won first.",
+      "wordImage": "images/31_envious_word.png",
+      "sentenceImage": "images/31_envious_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 32,
+      "word": "vice",
+      "partOfSpeech": "n.",
+      "meaningKo": "부(副), 대리",
+      "ipa": "/vaɪs/",
+      "definition": "acting as a deputy or next in rank to a leader",
+      "sentence": "The vice captain helped lead the team onto the field.",
+      "wordImage": "images/32_vice_word.png",
+      "sentenceImage": "images/32_vice_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 33,
+      "word": "architect",
+      "partOfSpeech": "n.",
+      "meaningKo": "건축가",
+      "ipa": "/ˈɑːr.kə.tekt/",
+      "definition": "a person whose job is designing new buildings",
+      "sentence": "The talented architect drew blueprints for a modern wooden library.",
+      "wordImage": "images/33_architect_word.png",
+      "sentenceImage": "images/33_architect_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 34,
+      "word": "relevant",
+      "partOfSpeech": "adj.",
+      "meaningKo": "관련 있는, 적절한",
+      "ipa": "/ˈrel.ə.vənt/",
+      "definition": "connected with what is happening or being discussed",
+      "sentence": "Please include only relevant facts in your history essay today.",
+      "wordImage": "images/34_relevant_word.png",
+      "sentenceImage": "images/34_relevant_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 35,
+      "word": "enthusiasm",
+      "partOfSpeech": "n.",
+      "meaningKo": "열정, 열의",
+      "ipa": "/ɪnˈθuː.zi.æz.əm/",
+      "definition": "a strong feeling of excitement and interest in something",
+      "sentence": "Students showed great enthusiasm for the science robot competition.",
+      "wordImage": "images/35_enthusiasm_word.png",
+      "sentenceImage": "images/35_enthusiasm_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 36,
+      "word": "desirable",
+      "partOfSpeech": "adj.",
+      "meaningKo": "바람직한, 탐나는",
+      "ipa": "/dɪˈzaɪr.ə.bəl/",
+      "definition": "worth having, wanting, or wishing for very much",
+      "sentence": "Good reading habits are a very desirable quality for students.",
+      "wordImage": "images/36_desirable_word.png",
+      "sentenceImage": "images/36_desirable_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 37,
+      "word": "dismiss",
+      "partOfSpeech": "v.",
+      "meaningKo": "해산시키다, 묵살하다",
+      "ipa": "/dɪsˈmɪs/",
+      "definition": "to allow someone to leave or send them away",
+      "sentence": "The bell will ring to dismiss students from the classroom.",
+      "wordImage": "images/37_dismiss_word.png",
+      "sentenceImage": "images/37_dismiss_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 38,
+      "word": "competent",
+      "partOfSpeech": "adj.",
+      "meaningKo": "유능한, 능숙한",
+      "ipa": "/ˈkɑːm.pə.t̬ənt/",
+      "definition": "having the necessary ability or skill to do something well",
+      "sentence": "She is a competent swimmer who won many junior medals.",
+      "wordImage": "images/38_competent_word.png",
+      "sentenceImage": "images/38_competent_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 39,
+      "word": "memorize",
+      "partOfSpeech": "v.",
+      "meaningKo": "암기하다, 외우다",
+      "ipa": "/ˈmem.ə.raɪz/",
+      "definition": "to learn something so that you can remember it perfectly",
+      "sentence": "He tried to memorize ten new vocabulary words each evening.",
+      "wordImage": "images/39_memorize_word.png",
+      "sentenceImage": "images/39_memorize_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 40,
+      "word": "fix",
+      "partOfSpeech": "v.",
+      "meaningKo": "고치다, 수리하다",
+      "ipa": "/fɪks/",
+      "definition": "to repair something that is broken or damaged",
+      "sentence": "The handy mechanic helped fix the broken bicycle chain quickly.",
+      "wordImage": "images/40_fix_word.png",
+      "sentenceImage": "images/40_fix_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 11,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 11 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "fit",
+      "partOfSpeech": "v.",
+      "meaningKo": "맞다, 적합하다",
+      "ipa": "/fɪt/",
+      "definition": "to be the right size or shape for someone",
+      "sentence": "These warm winter mittens fit his hands perfectly without slipping.",
+      "wordImage": "images/11_fit_word.png",
+      "sentenceImage": "images/11_fit_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "movement",
+      "partOfSpeech": "n.",
+      "meaningKo": "움직임, 동작",
+      "ipa": "/ˈmuːv.mənt/",
+      "definition": "a change of position or going from one place to another",
+      "sentence": "The graceful movement of the ballet dancer amazed the audience.",
+      "wordImage": "images/12_movement_word.png",
+      "sentenceImage": "images/12_movement_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "brilliant",
+      "partOfSpeech": "adj.",
+      "meaningKo": "빛나는, 훌륭한",
+      "ipa": "/ˈbrɪl.jənt/",
+      "definition": "extremely intelligent, skilled, or full of bright light",
+      "sentence": "The young inventor had a brilliant idea for cleaning rivers.",
+      "wordImage": "images/13_brilliant_word.png",
+      "sentenceImage": "images/13_brilliant_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "prior",
+      "partOfSpeech": "adj.",
+      "meaningKo": "이전의, 사전의",
+      "ipa": "/ˈpraɪ.ɚ/",
+      "definition": "existing or happening before something else in time",
+      "sentence": "No prior experience is needed to join our fun art club.",
+      "wordImage": "images/14_prior_word.png",
+      "sentenceImage": "images/14_prior_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "outline",
+      "partOfSpeech": "n.",
+      "meaningKo": "개요, 윤곽",
+      "ipa": "/ˈaʊt.laɪn/",
+      "definition": "a general plan showing the main points of something",
+      "sentence": "Write a brief outline before drafting your complete history essay.",
+      "wordImage": "images/15_outline_word.png",
+      "sentenceImage": "images/15_outline_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "sort",
+      "partOfSpeech": "v.",
+      "meaningKo": "분류하다, 구분하다",
+      "ipa": "/sɔːrt/",
+      "definition": "to arrange things into different groups according to type",
+      "sentence": "Please help sort the colored markers into their proper boxes.",
+      "wordImage": "images/16_sort_word.png",
+      "sentenceImage": "images/16_sort_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "portrait",
+      "partOfSpeech": "n.",
+      "meaningKo": "초상화",
+      "ipa": "/ˈpɔːr.trɪt/",
+      "definition": "a painting, drawing, or photograph of a person’s face",
+      "sentence": "The museum gallery displayed a painted portrait of the queen.",
+      "wordImage": "images/17_portrait_word.png",
+      "sentenceImage": "images/17_portrait_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "tale",
+      "partOfSpeech": "n.",
+      "meaningKo": "이야기, 설화",
+      "ipa": "/teɪl/",
+      "definition": "a story, especially one about imaginative or exciting events",
+      "sentence": "Grandmother told a charming fairy tale about a friendly dragon.",
+      "wordImage": "images/18_tale_word.png",
+      "sentenceImage": "images/18_tale_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "add",
+      "partOfSpeech": "v.",
+      "meaningKo": "더하다, 추가하다",
+      "ipa": "/æd/",
+      "definition": "to put something together with something else to increase it",
+      "sentence": "You can add fresh berries to make the cereal sweeter.",
+      "wordImage": "images/19_add_word.png",
+      "sentenceImage": "images/19_add_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "volume",
+      "partOfSpeech": "n.",
+      "meaningKo": "음량, 권, 부피",
+      "ipa": "/ˈvɑːl.juːm/",
+      "definition": "the level of sound produced by a speaker or TV",
+      "sentence": "Please turn down the speaker volume so babies can sleep.",
+      "wordImage": "images/20_volume_word.png",
+      "sentenceImage": "images/20_volume_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

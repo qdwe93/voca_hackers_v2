@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 23,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 23 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "valley",
+      "partOfSpeech": "n.",
+      "meaningKo": "계곡, 골짜기",
+      "ipa": "/ˈvæl.i/",
+      "definition": "a low area of land between hills or mountains, often with river",
+      "sentence": "A crystal clear river flowed gently through the green mountain valley.",
+      "wordImage": "images/11_valley_word.png",
+      "sentenceImage": "images/11_valley_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "influence",
+      "partOfSpeech": "n.",
+      "meaningKo": "영향, 영향력",
+      "ipa": "/ˈɪn.flu.əns/",
+      "definition": "the power to have an effect on people or things",
+      "sentence": "Music has a very positive and calming influence on young learners.",
+      "wordImage": "images/12_influence_word.png",
+      "sentenceImage": "images/12_influence_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "damage",
+      "partOfSpeech": "n.",
+      "meaningKo": "손상, 피해",
+      "ipa": "/ˈdæm.ɪdʒ/",
+      "definition": "physical harm caused to something that impairs its value or function",
+      "sentence": "The strong storm caused minor leaf damage to the garden bushes.",
+      "wordImage": "images/13_damage_word.png",
+      "sentenceImage": "images/13_damage_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "lack",
+      "partOfSpeech": "n.",
+      "meaningKo": "부족, 결핍",
+      "ipa": "/læk/",
+      "definition": "the state of being without or not having enough of something",
+      "sentence": "A lack of rain made the garden soil dry and dusty.",
+      "wordImage": "images/14_lack_word.png",
+      "sentenceImage": "images/14_lack_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "predict",
+      "partOfSpeech": "v.",
+      "meaningKo": "예측하다, 예언하다",
+      "ipa": "/prɪˈdɪkt/",
+      "definition": "to say what will happen in the future based on facts",
+      "sentence": "Modern satellites help meteorologists predict tomorrow’s weather with great accuracy.",
+      "wordImage": "images/15_predict_word.png",
+      "sentenceImage": "images/15_predict_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "aware",
+      "partOfSpeech": "adj.",
+      "meaningKo": "알고 있는, 의식하는",
+      "ipa": "/əˈwer/",
+      "definition": "knowing that something exists or having knowledge of a situation",
+      "sentence": "Hikers should be aware of changing weather conditions on mountains.",
+      "wordImage": "images/16_aware_word.png",
+      "sentenceImage": "images/16_aware_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "correct",
+      "partOfSpeech": "adj.",
+      "meaningKo": "정확한, 올바른",
+      "ipa": "/kəˈrekt/",
+      "definition": "accurate, without any mistakes, or conforming to truth",
+      "sentence": "She was proud to give the correct answer in math.",
+      "wordImage": "images/17_correct_word.png",
+      "sentenceImage": "images/17_correct_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "earthquake",
+      "partOfSpeech": "n.",
+      "meaningKo": "지진",
+      "ipa": "/ˈɝːθ.kweɪk/",
+      "definition": "a sudden violent shaking of the ground caused by movements in crust",
+      "sentence": "Students practiced safe duck and cover drills during the earthquake drill.",
+      "wordImage": "images/18_earthquake_word.png",
+      "sentenceImage": "images/18_earthquake_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "due",
+      "partOfSpeech": "adj.",
+      "meaningKo": "~하기로 되어 있는, 만기의",
+      "ipa": "/duː/",
+      "definition": "expected or planned to happen at a certain time",
+      "sentence": "Our completed science research project is due this Friday morning.",
+      "wordImage": "images/19_due_word.png",
+      "sentenceImage": "images/19_due_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "level",
+      "partOfSpeech": "n.",
+      "meaningKo": "수준, 높이, 수위",
+      "ipa": "/ˈlev.əl/",
+      "definition": "the height, amount, or standard of something measured",
+      "sentence": "Rainfall raised the water level in the reservoir safely.",
+      "wordImage": "images/20_level_word.png",
+      "sentenceImage": "images/20_level_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

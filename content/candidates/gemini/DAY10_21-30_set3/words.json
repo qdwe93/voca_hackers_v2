@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 10,
+  "range": "21-30",
+  "set": 3,
+  "title": "DAY 10 · 21-30",
+  "words": [
+    {
+      "no": 21,
+      "word": "abandon",
+      "partOfSpeech": "v.",
+      "meaningKo": "버리다, 떠나다",
+      "ipa": "/əˈbæn.dən/",
+      "definition": "to leave a place, thing, or person forever",
+      "sentence": "Sailors had to abandon the sinking toy raft in the pond.",
+      "wordImage": "images/21_abandon_word.png",
+      "sentenceImage": "images/21_abandon_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 22,
+      "word": "crash",
+      "partOfSpeech": "v.",
+      "meaningKo": "충돌하다, 부딪히다",
+      "ipa": "/kræʃ/",
+      "definition": "to hit something violently, making a loud noise",
+      "sentence": "Huge ocean waves crash against the rocky sea cliffs all night.",
+      "wordImage": "images/22_crash_word.png",
+      "sentenceImage": "images/22_crash_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 23,
+      "word": "promote",
+      "partOfSpeech": "v.",
+      "meaningKo": "홍보하다, 증진하다",
+      "ipa": "/prəˈmoʊt/",
+      "definition": "to encourage people to like, buy, or use something",
+      "sentence": "Posters around the school promote healthy eating and drinking clean water.",
+      "wordImage": "images/23_promote_word.png",
+      "sentenceImage": "images/23_promote_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 24,
+      "word": "decade",
+      "partOfSpeech": "n.",
+      "meaningKo": "10년, 10년간",
+      "ipa": "/ˈdek.eɪd/",
+      "definition": "a period of ten consecutive years",
+      "sentence": "The old oak tree grew thirty feet taller in just one decade.",
+      "wordImage": "images/24_decade_word.png",
+      "sentenceImage": "images/24_decade_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 25,
+      "word": "establish",
+      "partOfSpeech": "v.",
+      "meaningKo": "설립하다, 확립하다",
+      "ipa": "/ɪˈstæb.lɪʃ/",
+      "definition": "to start an organization, school, or system that will continue",
+      "sentence": "The town decided to establish a new science center for children.",
+      "wordImage": "images/25_establish_word.png",
+      "sentenceImage": "images/25_establish_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 26,
+      "word": "burden",
+      "partOfSpeech": "n.",
+      "meaningKo": "짐, 부담",
+      "ipa": "/ˈbɝː.dən/",
+      "definition": "something heavy that is carried or a difficult duty",
+      "sentence": "Sharing the heavy backpack helped lighten the burden for the hiker.",
+      "wordImage": "images/26_burden_word.png",
+      "sentenceImage": "images/26_burden_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 27,
+      "word": "assist",
+      "partOfSpeech": "v.",
+      "meaningKo": "돕다, 거들다",
+      "ipa": "/əˈsɪst/",
+      "definition": "to help someone to do something or achieve a result",
+      "sentence": "Older students assist younger kids with tying their ice skate laces.",
+      "wordImage": "images/27_assist_word.png",
+      "sentenceImage": "images/27_assist_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 28,
+      "word": "resolve",
+      "partOfSpeech": "v.",
+      "meaningKo": "해결하다, 결심하다",
+      "ipa": "/rɪˈzɑːlv/",
+      "definition": "to find an acceptable solution to a problem or argument",
+      "sentence": "The two friends talked calmly to resolve their small disagreement quickly.",
+      "wordImage": "images/28_resolve_word.png",
+      "sentenceImage": "images/28_resolve_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 29,
+      "word": "detect",
+      "partOfSpeech": "v.",
+      "meaningKo": "감지하다, 발견하다",
+      "ipa": "/dɪˈtekt/",
+      "definition": "to discover or notice something, especially something difficult to see",
+      "sentence": "The rescue dog can detect faint scents from very far away.",
+      "wordImage": "images/29_detect_word.png",
+      "sentenceImage": "images/29_detect_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 30,
+      "word": "defeat",
+      "partOfSpeech": "v.",
+      "meaningKo": "패배시키다, 이기다",
+      "ipa": "/dɪˈfiːt/",
+      "definition": "to win a victory over someone in a game or fight",
+      "sentence": "Our chess champion managed to defeat the grandmaster in ten moves.",
+      "wordImage": "images/30_defeat_word.png",
+      "sentenceImage": "images/30_defeat_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

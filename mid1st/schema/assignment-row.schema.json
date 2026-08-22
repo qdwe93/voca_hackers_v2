@@ -1,0 +1,53 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "assignment-row.schema.json",
+  "title": "mid1st curriculum assignment JSONL row",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "wordId",
+    "day",
+    "no",
+    "set",
+    "word",
+    "conceptId",
+    "matchMode",
+    "rationaleKo",
+    "conceptCueKo",
+    "confidence",
+    "reviewRequired",
+    "reviewReason"
+  ],
+  "properties": {
+    "wordId": { "type": "string", "pattern": "^DAY(0[1-9]|[12][0-9]|30)-(0[1-9]|[1-3][0-9]|40)$" },
+    "day": { "type": "integer", "minimum": 1, "maximum": 30 },
+    "no": { "type": "integer", "minimum": 1, "maximum": 40 },
+    "set": { "type": "integer", "minimum": 1, "maximum": 4 },
+    "word": { "type": "string", "minLength": 1 },
+    "conceptId": { "type": ["string", "null"] },
+    "matchMode": {
+      "enum": ["direct", "contextual", "day_fallback", "word_fallback"]
+    },
+    "rationaleKo": { "type": "string", "minLength": 1 },
+    "conceptCueKo": { "type": "string", "minLength": 1 },
+    "confidence": { "enum": ["high", "medium", "low"] },
+    "reviewRequired": { "type": "boolean" },
+    "reviewReason": { "type": "string" }
+  },
+  "allOf": [
+    {
+      "if": { "properties": { "matchMode": { "enum": ["direct", "contextual"] } } },
+      "then": { "properties": { "conceptId": { "type": "string", "minLength": 1 } } },
+      "else": { "properties": { "conceptId": { "type": "null" } } }
+    },
+    {
+      "if": { "properties": { "reviewRequired": { "const": true } } },
+      "then": { "properties": { "reviewReason": { "minLength": 1 } } },
+      "else": { "properties": { "reviewReason": { "maxLength": 0 } } }
+    },
+    {
+      "if": { "properties": { "confidence": { "const": "low" } } },
+      "then": { "properties": { "reviewRequired": { "const": true } } }
+    }
+  ]
+}

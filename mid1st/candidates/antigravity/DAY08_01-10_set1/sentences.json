@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 8,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY08-01",
+      "no": 1,
+      "word": "comment",
+      "sentence": "She shares a helpful comment during the group book discussion."
+    },
+    {
+      "wordId": "DAY08-02",
+      "no": 2,
+      "word": "popular",
+      "sentence": "Soccer is a popular sport among middle school students everywhere."
+    },
+    {
+      "wordId": "DAY08-03",
+      "no": 3,
+      "word": "develop",
+      "sentence": "Regular reading practice helps students develop a rich vocabulary repertoire."
+    },
+    {
+      "wordId": "DAY08-04",
+      "no": 4,
+      "word": "moment",
+      "sentence": "The winner enjoyed a proud moment on the award stage."
+    },
+    {
+      "wordId": "DAY08-05",
+      "no": 5,
+      "word": "public",
+      "sentence": "The town opened a new public library for all residents."
+    },
+    {
+      "wordId": "DAY08-06",
+      "no": 6,
+      "word": "promise",
+      "sentence": "He kept his sincere promise to return the borrowed book."
+    },
+    {
+      "wordId": "DAY08-07",
+      "no": 7,
+      "word": "select",
+      "sentence": "Please select the correct mathematical equation from the four choices."
+    },
+    {
+      "wordId": "DAY08-08",
+      "no": 8,
+      "word": "pleasure",
+      "sentence": "Reading fascinating adventure stories brings great pleasure to young readers."
+    },
+    {
+      "wordId": "DAY08-09",
+      "no": 9,
+      "word": "involve",
+      "sentence": "Science experiments involve careful observation and accurate measurement of data."
+    },
+    {
+      "wordId": "DAY08-10",
+      "no": 10,
+      "word": "evolve",
+      "sentence": "Species evolve over many generations to adapt to changing environments."
+    }
+  ]
+}

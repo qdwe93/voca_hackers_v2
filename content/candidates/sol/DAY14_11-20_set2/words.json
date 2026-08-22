@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 14,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 14 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "record",
+      "partOfSpeech": "v.",
+      "meaningKo": "기록하다",
+      "definition": "to store information sounds or images",
+      "sentence": "The camera will record the bird building its nest.",
+      "ipa": "/rɪˈkɔːrd/",
+      "wordImage": "images/11_record_word.png",
+      "sentenceImage": "images/11_record_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "settle",
+      "partOfSpeech": "v.",
+      "meaningKo": "정착하다",
+      "definition": "to make a permanent home in a place",
+      "sentence": "The family will settle beside the peaceful river valley.",
+      "ipa": "/sɛtəl/",
+      "wordImage": "images/12_settle_word.png",
+      "sentenceImage": "images/12_settle_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "occupation",
+      "partOfSpeech": "n.",
+      "meaningKo": "직업",
+      "definition": "a person's regular job or profession",
+      "sentence": "Teaching young children is the woman's chosen occupation.",
+      "ipa": "/ɑkjəpeɪʃən/",
+      "wordImage": "images/13_occupation_word.png",
+      "sentenceImage": "images/13_occupation_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "mass",
+      "partOfSpeech": "n.",
+      "meaningKo": "덩어리",
+      "definition": "a large amount of material without a clear shape",
+      "sentence": "A dark mass of clouds gathers above the town.",
+      "ipa": "/mæs/",
+      "wordImage": "images/14_mass_word.png",
+      "sentenceImage": "images/14_mass_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "tap",
+      "partOfSpeech": "v.",
+      "meaningKo": "가볍게 두드리다",
+      "definition": "to touch something lightly and quickly",
+      "sentence": "The child will tap the drum with one finger.",
+      "ipa": "/tæp/",
+      "wordImage": "images/15_tap_word.png",
+      "sentenceImage": "images/15_tap_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "grasp",
+      "partOfSpeech": "v.",
+      "meaningKo": "움켜잡다",
+      "definition": "to hold something firmly with the hand",
+      "sentence": "The monkey will grasp the rope with both hands.",
+      "ipa": "/ɡræsp/",
+      "wordImage": "images/16_grasp_word.png",
+      "sentenceImage": "images/16_grasp_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "fame",
+      "partOfSpeech": "n.",
+      "meaningKo": "명성",
+      "definition": "the state of being widely known",
+      "sentence": "The singer gains fame after many successful performances.",
+      "ipa": "/feɪm/",
+      "wordImage": "images/17_fame_word.png",
+      "sentenceImage": "images/17_fame_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "comfort",
+      "partOfSpeech": "n.",
+      "meaningKo": "편안함",
+      "definition": "a state of physical ease and calm",
+      "sentence": "A warm blanket gives the tired puppy comfort.",
+      "ipa": "/kʌmfɚt/",
+      "wordImage": "images/18_comfort_word.png",
+      "sentenceImage": "images/18_comfort_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "hole",
+      "partOfSpeech": "n.",
+      "meaningKo": "구멍",
+      "definition": "an empty opening in a surface",
+      "sentence": "A rabbit peeks from a round hole beneath the tree.",
+      "ipa": "/hoʊl/",
+      "wordImage": "images/19_hole_word.png",
+      "sentenceImage": "images/19_hole_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "succeed",
+      "partOfSpeech": "v.",
+      "meaningKo": "성공하다",
+      "definition": "to achieve what was attempted",
+      "sentence": "The robot will succeed in stacking all the blocks.",
+      "ipa": "/səksid/",
+      "wordImage": "images/20_succeed_word.png",
+      "sentenceImage": "images/20_succeed_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

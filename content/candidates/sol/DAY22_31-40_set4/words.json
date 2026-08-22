@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 22,
+  "range": "31-40",
+  "set": 4,
+  "title": "DAY 22 · 31-40",
+  "words": [
+    {
+      "no": 31,
+      "word": "expose",
+      "partOfSpeech": "v.",
+      "meaningKo": "드러내다",
+      "definition": "to uncover and make something visible",
+      "sentence": "The wind will expose roots beneath the loose soil.",
+      "ipa": "/ɪkspoʊz/",
+      "wordImage": "images/31_expose_word.png",
+      "sentenceImage": "images/31_expose_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 32,
+      "word": "shelter",
+      "partOfSpeech": "n.",
+      "meaningKo": "보호소",
+      "definition": "a safe place protected from weather or danger",
+      "sentence": "The hikers find shelter inside a sturdy cabin.",
+      "ipa": "/ʃɛltɚ/",
+      "wordImage": "images/32_shelter_word.png",
+      "sentenceImage": "images/32_shelter_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 33,
+      "word": "absorb",
+      "partOfSpeech": "v.",
+      "meaningKo": "흡수하다",
+      "definition": "to take in liquid heat or light",
+      "sentence": "The dry sponge will absorb water from the tray.",
+      "ipa": "/əbzɔrb/",
+      "wordImage": "images/33_absorb_word.png",
+      "sentenceImage": "images/33_absorb_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 34,
+      "word": "incredible",
+      "partOfSpeech": "adj.",
+      "meaningKo": "놀라운",
+      "definition": "extremely impressive or difficult to believe",
+      "sentence": "An incredible waterfall drops from a floating fantasy island.",
+      "ipa": "/ɪnkrɛdəbəl/",
+      "wordImage": "images/34_incredible_word.png",
+      "sentenceImage": "images/34_incredible_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 35,
+      "word": "consist",
+      "partOfSpeech": "v.",
+      "meaningKo": "구성되다",
+      "definition": "to be made of particular parts",
+      "sentence": "The meal will consist of rice vegetables and fish.",
+      "ipa": "/kənsɪst/",
+      "wordImage": "images/35_consist_word.png",
+      "sentenceImage": "images/35_consist_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 36,
+      "word": "peak",
+      "partOfSpeech": "n.",
+      "meaningKo": "정상",
+      "definition": "the highest point of a mountain",
+      "sentence": "Snow covers the mountain peak above the clouds.",
+      "ipa": "/pik/",
+      "wordImage": "images/36_peak_word.png",
+      "sentenceImage": "images/36_peak_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 37,
+      "word": "weed",
+      "partOfSpeech": "n.",
+      "meaningKo": "잡초",
+      "definition": "an unwanted wild plant growing among crops",
+      "sentence": "A tall weed grows between rows of vegetables.",
+      "ipa": "/wid/",
+      "wordImage": "images/37_weed_word.png",
+      "sentenceImage": "images/37_weed_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 38,
+      "word": "scare",
+      "partOfSpeech": "v.",
+      "meaningKo": "겁주다",
+      "definition": "to make someone feel afraid",
+      "sentence": "A sudden harmless shadow may scare the young rabbit.",
+      "ipa": "/skɛr/",
+      "wordImage": "images/38_scare_word.png",
+      "sentenceImage": "images/38_scare_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 39,
+      "word": "diminish",
+      "partOfSpeech": "v.",
+      "meaningKo": "줄어들다",
+      "definition": "to become smaller or less",
+      "sentence": "The candlelight will diminish as the flame grows smaller.",
+      "ipa": "/dɪmɪnɪʃ/",
+      "wordImage": "images/39_diminish_word.png",
+      "sentenceImage": "images/39_diminish_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 40,
+      "word": "yield",
+      "partOfSpeech": "v.",
+      "meaningKo": "생산하다",
+      "definition": "to produce a result or crop",
+      "sentence": "The healthy field will yield many baskets of corn.",
+      "ipa": "/jild/",
+      "wordImage": "images/40_yield_word.png",
+      "sentenceImage": "images/40_yield_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

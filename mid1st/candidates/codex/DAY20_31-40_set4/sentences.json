@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 20,
+  "range": "31-40",
+  "set": 4,
+  "items": [
+    {
+      "wordId": "DAY20-31",
+      "no": 31,
+      "word": "drag",
+      "sentence": "Students drag the box right while friction pulls left."
+    },
+    {
+      "wordId": "DAY20-32",
+      "no": 32,
+      "word": "fasten",
+      "sentence": "Kindly fasten your helmet before riding the fast bicycle."
+    },
+    {
+      "wordId": "DAY20-33",
+      "no": 33,
+      "word": "precise",
+      "sentence": "Students draw a precise angle using a ruler and compass."
+    },
+    {
+      "wordId": "DAY20-34",
+      "no": 34,
+      "word": "vital",
+      "sentence": "Today, clean water is vital for every living green plant."
+    },
+    {
+      "wordId": "DAY20-35",
+      "no": 35,
+      "word": "component",
+      "sentence": "Today, one tiny component made the whole clock tick again."
+    },
+    {
+      "wordId": "DAY20-36",
+      "no": 36,
+      "word": "seldom",
+      "sentence": "Today, snow seldom falls in this warm southern valley."
+    },
+    {
+      "wordId": "DAY20-37",
+      "no": 37,
+      "word": "enhance",
+      "sentence": "Today, fresh herbs enhance the flavor of the warm soup."
+    },
+    {
+      "wordId": "DAY20-38",
+      "no": 38,
+      "word": "sink",
+      "sentence": "Dense stones sink while a same-sized wooden block floats."
+    },
+    {
+      "wordId": "DAY20-39",
+      "no": 39,
+      "word": "destination",
+      "sentence": "The map marks our destination north of the river."
+    },
+    {
+      "wordId": "DAY20-40",
+      "no": 40,
+      "word": "station",
+      "sentence": "Today, the busy station filled with travelers every early morning."
+    }
+  ]
+}

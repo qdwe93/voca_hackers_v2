@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "claude",
+  "day": 17,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY17-21",
+      "no": 21,
+      "word": "individual",
+      "sentence": "Each student used an individual tray for the soil samples."
+    },
+    {
+      "wordId": "DAY17-22",
+      "no": 22,
+      "word": "silent",
+      "sentence": "The classroom went silent, so we heard every soft breath sound."
+    },
+    {
+      "wordId": "DAY17-23",
+      "no": 23,
+      "word": "fiber",
+      "sentence": "One cotton fiber looks thin and white under the microscope."
+    },
+    {
+      "wordId": "DAY17-24",
+      "no": 24,
+      "word": "ancestor",
+      "sentence": "My great-grandmother is the oldest ancestor in our family photo."
+    },
+    {
+      "wordId": "DAY17-25",
+      "no": 25,
+      "word": "yawn",
+      "sentence": "Sleepy puppies yawn together before curling into the warm basket."
+    },
+    {
+      "wordId": "DAY17-26",
+      "no": 26,
+      "word": "pregnant",
+      "sentence": "The pregnant cat rested quietly inside the soft straw box."
+    },
+    {
+      "wordId": "DAY17-27",
+      "no": 27,
+      "word": "stimulate",
+      "sentence": "Warm water can stimulate these seeds to sprout more quickly."
+    },
+    {
+      "wordId": "DAY17-28",
+      "no": 28,
+      "word": "slightly",
+      "sentence": "The left plant grew slightly taller than the right one."
+    },
+    {
+      "wordId": "DAY17-29",
+      "no": 29,
+      "word": "bleed",
+      "sentence": "If your nose begins to bleed, sit down and stay calm."
+    },
+    {
+      "wordId": "DAY17-30",
+      "no": 30,
+      "word": "breed",
+      "sentence": "Our neighbors breed rabbits and keep careful notes about each litter."
+    }
+  ]
+}

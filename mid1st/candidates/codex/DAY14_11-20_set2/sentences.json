@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 14,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY14-11",
+      "no": 11,
+      "word": "record",
+      "sentence": "Today, the camera will record the bird building its nest."
+    },
+    {
+      "wordId": "DAY14-12",
+      "no": 12,
+      "word": "settle",
+      "sentence": "Families settle near the river and build farms on flat land."
+    },
+    {
+      "wordId": "DAY14-13",
+      "no": 13,
+      "word": "occupation",
+      "sentence": "Today, baking bread is the occupation of the cheerful villager."
+    },
+    {
+      "wordId": "DAY14-14",
+      "no": 14,
+      "word": "mass",
+      "sentence": "A dark mass of clouds gathers above the quiet town."
+    },
+    {
+      "wordId": "DAY14-15",
+      "no": 15,
+      "word": "tap",
+      "sentence": "Today, the woodpecker will tap gently on the old tree trunk."
+    },
+    {
+      "wordId": "DAY14-16",
+      "no": 16,
+      "word": "grasp",
+      "sentence": "Today, the baby monkey will grasp its mother's soft warm fur."
+    },
+    {
+      "wordId": "DAY14-17",
+      "no": 17,
+      "word": "fame",
+      "sentence": "Today, the dancing bear enjoyed fame across the whole forest."
+    },
+    {
+      "wordId": "DAY14-18",
+      "no": 18,
+      "word": "comfort",
+      "sentence": "Thick wool blankets offered comfort during the cold snowy night."
+    },
+    {
+      "wordId": "DAY14-19",
+      "no": 19,
+      "word": "hole",
+      "sentence": "One small hole in the fence let the rabbits through."
+    },
+    {
+      "wordId": "DAY14-20",
+      "no": 20,
+      "word": "succeed",
+      "sentence": "Today, the young climbers finally succeed at reaching the tall rock."
+    }
+  ]
+}

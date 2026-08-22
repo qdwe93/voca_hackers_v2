@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 27,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY27-01",
+      "no": 1,
+      "word": "politics",
+      "sentence": "Citizens learn about democratic politics by voting in local community elections."
+    },
+    {
+      "wordId": "DAY27-02",
+      "no": 2,
+      "word": "facility",
+      "sentence": "Our town opened a modern recreational facility for youth sports activities."
+    },
+    {
+      "wordId": "DAY27-03",
+      "no": 3,
+      "word": "vote",
+      "sentence": "Voters cast their ballot to vote for city council representatives fairly."
+    },
+    {
+      "wordId": "DAY27-04",
+      "no": 4,
+      "word": "candidate",
+      "sentence": "Each election candidate presented clear plans for improving local public schools."
+    },
+    {
+      "wordId": "DAY27-05",
+      "no": 5,
+      "word": "civil",
+      "sentence": "Volunteering for community cleanups is an important civil duty for citizens."
+    },
+    {
+      "wordId": "DAY27-06",
+      "no": 6,
+      "word": "limit",
+      "sentence": "The speed limit on residential streets is thirty kilometers per hour."
+    },
+    {
+      "wordId": "DAY27-07",
+      "no": 7,
+      "word": "conservative",
+      "sentence": "The conservative party emphasizes fiscal restraint and preserving traditional cultural values."
+    },
+    {
+      "wordId": "DAY27-08",
+      "no": 8,
+      "word": "belong",
+      "sentence": "These historical artifacts belong to the national cultural history museum collection."
+    },
+    {
+      "wordId": "DAY27-09",
+      "no": 9,
+      "word": "official",
+      "sentence": "The mayor issued an official statement regarding the city park renovation."
+    },
+    {
+      "wordId": "DAY27-10",
+      "no": 10,
+      "word": "officer",
+      "sentence": "The police officer directed afternoon traffic safely around the road construction."
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 26,
+  "range": "21-30",
+  "set": 3,
+  "title": "DAY 26 · 21-30",
+  "words": [
+    {
+      "no": 21,
+      "word": "complex",
+      "partOfSpeech": "adj.",
+      "meaningKo": "복잡한",
+      "definition": "having many connected parts",
+      "sentence": "A complex machine has dozens of turning gears.",
+      "ipa": "/kɑmplɛks/",
+      "wordImage": "images/21_complex_word.png",
+      "sentenceImage": "images/21_complex_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 22,
+      "word": "organize",
+      "partOfSpeech": "v.",
+      "meaningKo": "정리하다",
+      "definition": "to arrange things in a clear order",
+      "sentence": "The librarian will organize books by color and size.",
+      "ipa": "/ɔrɡənaɪz/",
+      "wordImage": "images/22_organize_word.png",
+      "sentenceImage": "images/22_organize_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 23,
+      "word": "plenty",
+      "partOfSpeech": "n.",
+      "meaningKo": "충분한 양",
+      "definition": "a large amount more than enough",
+      "sentence": "The picnic basket holds plenty of fruit and bread.",
+      "ipa": "/plɛnti/",
+      "wordImage": "images/23_plenty_word.png",
+      "sentenceImage": "images/23_plenty_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 24,
+      "word": "phenomenon",
+      "partOfSpeech": "n.",
+      "meaningKo": "현상",
+      "definition": "an event or fact that can be observed",
+      "sentence": "The northern lights are a colorful natural phenomenon.",
+      "ipa": "/fənɑmənɑn/",
+      "wordImage": "images/24_phenomenon_word.png",
+      "sentenceImage": "images/24_phenomenon_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 25,
+      "word": "mount",
+      "partOfSpeech": "v.",
+      "meaningKo": "장착하다",
+      "definition": "to attach something in position",
+      "sentence": "The technician will mount the camera on a tall stand.",
+      "ipa": "/maʊnt/",
+      "wordImage": "images/25_mount_word.png",
+      "sentenceImage": "images/25_mount_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 26,
+      "word": "found",
+      "partOfSpeech": "v.",
+      "meaningKo": "설립하다",
+      "definition": "to establish an organization or place",
+      "sentence": "The neighbors will found a club for protecting birds.",
+      "ipa": "/faʊnd/",
+      "wordImage": "images/26_found_word.png",
+      "sentenceImage": "images/26_found_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 27,
+      "word": "prove",
+      "partOfSpeech": "v.",
+      "meaningKo": "증명하다",
+      "definition": "to show that something is true",
+      "sentence": "The footprints prove the dog crossed the wet garden.",
+      "ipa": "/pruv/",
+      "wordImage": "images/27_prove_word.png",
+      "sentenceImage": "images/27_prove_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 28,
+      "word": "forbid",
+      "partOfSpeech": "v.",
+      "meaningKo": "금지하다",
+      "definition": "to order that something must not happen",
+      "sentence": "Park rules forbid bicycles on the narrow walking trail.",
+      "ipa": "/fɚbɪd/",
+      "wordImage": "images/28_forbid_word.png",
+      "sentenceImage": "images/28_forbid_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 29,
+      "word": "contrast",
+      "partOfSpeech": "n.",
+      "meaningKo": "대조",
+      "definition": "a clear difference between two things",
+      "sentence": "The contrast between black and white stones is obvious.",
+      "ipa": "/ˈkɑːntræst/",
+      "wordImage": "images/29_contrast_word.png",
+      "sentenceImage": "images/29_contrast_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 30,
+      "word": "contract",
+      "partOfSpeech": "n.",
+      "meaningKo": "계약",
+      "definition": "a legal agreement between people or groups",
+      "sentence": "Two builders shake hands over a blank contract.",
+      "ipa": "/ˈkɑːntrækt/",
+      "wordImage": "images/30_contract_word.png",
+      "sentenceImage": "images/30_contract_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 2,
+  "range": "31-40",
+  "set": 4,
+  "title": "DAY 02 · 31-40",
+  "words": [
+    {
+      "no": 31,
+      "word": "session",
+      "partOfSpeech": "n.",
+      "meaningKo": "시간",
+      "ipa": "/ˈseʃn/",
+      "definition": "a set time when people do one activity",
+      "sentence": "The morning painting session lasted almost one happy hour.",
+      "wordImage": "images/31_session_word.png",
+      "sentenceImage": "images/31_session_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 32,
+      "word": "strict",
+      "partOfSpeech": "adj.",
+      "meaningKo": "엄격한",
+      "ipa": "/strɪkt/",
+      "definition": "making people follow rules very carefully",
+      "sentence": "The strict but kind teacher checked every desk before lunch.",
+      "wordImage": "images/32_strict_word.png",
+      "sentenceImage": "images/32_strict_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 33,
+      "word": "twist",
+      "partOfSpeech": "v.",
+      "meaningKo": "비틀다",
+      "ipa": "/twɪst/",
+      "definition": "to turn something around with your hands",
+      "sentence": "You can twist the cap to open the juice bottle.",
+      "wordImage": "images/33_twist_word.png",
+      "sentenceImage": "images/33_twist_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 34,
+      "word": "spill",
+      "partOfSpeech": "v.",
+      "meaningKo": "쏟다",
+      "ipa": "/spɪl/",
+      "definition": "to let liquid fall out by accident",
+      "sentence": "The clumsy robot let some water spill onto the floor.",
+      "wordImage": "images/34_spill_word.png",
+      "sentenceImage": "images/34_spill_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 35,
+      "word": "union",
+      "partOfSpeech": "n.",
+      "meaningKo": "조합",
+      "ipa": "/ˈjuːniən/",
+      "definition": "a group that joins together for one goal",
+      "sentence": "The farmers formed a union to share tools and seeds.",
+      "wordImage": "images/35_union_word.png",
+      "sentenceImage": "images/35_union_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 36,
+      "word": "maximum",
+      "partOfSpeech": "adj.",
+      "meaningKo": "최대의",
+      "ipa": "/ˈmæksɪməm/",
+      "definition": "the largest amount that is allowed",
+      "sentence": "The little cart carried its maximum load of round pumpkins.",
+      "wordImage": "images/36_maximum_word.png",
+      "sentenceImage": "images/36_maximum_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 37,
+      "word": "semester",
+      "partOfSpeech": "n.",
+      "meaningKo": "학기",
+      "ipa": "/sɪˈmestər/",
+      "definition": "one of two long parts of a school year",
+      "sentence": "The new semester began with fresh notebooks and bright pencils.",
+      "wordImage": "images/37_semester_word.png",
+      "sentenceImage": "images/37_semester_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 38,
+      "word": "ceiling",
+      "partOfSpeech": "n.",
+      "meaningKo": "천장",
+      "ipa": "/ˈsiːlɪŋ/",
+      "definition": "the flat top surface inside a room",
+      "sentence": "Paper stars hung from the ceiling above the reading corner.",
+      "wordImage": "images/38_ceiling_word.png",
+      "sentenceImage": "images/38_ceiling_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 39,
+      "word": "stationery",
+      "partOfSpeech": "n.",
+      "meaningKo": "문구류",
+      "ipa": "/ˈsteɪʃəneri/",
+      "definition": "things for writing, like pens and paper",
+      "sentence": "The shop sells colorful stationery beside the small art supplies.",
+      "wordImage": "images/39_stationery_word.png",
+      "sentenceImage": "images/39_stationery_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 40,
+      "word": "term",
+      "partOfSpeech": "n.",
+      "meaningKo": "용어, 기간",
+      "ipa": "/tɝːm/",
+      "definition": "a word or expression with a specific meaning",
+      "sentence": "The teacher explained an important scientific term during class.",
+      "wordImage": "images/40_term_word.png",
+      "sentenceImage": "images/40_term_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

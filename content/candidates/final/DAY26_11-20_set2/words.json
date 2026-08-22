@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 26,
+  "range": "11-20",
+  "set": 2,
+  "title": "DAY 26 · 11-20",
+  "words": [
+    {
+      "no": 11,
+      "word": "search",
+      "partOfSpeech": "v.",
+      "meaningKo": "찾다",
+      "ipa": "/sɜːrtʃ/",
+      "definition": "to look carefully for something",
+      "sentence": "The children search the garden for the hidden key.",
+      "wordImage": "images/11_search_word.png",
+      "sentenceImage": "images/11_search_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 12,
+      "word": "raise",
+      "partOfSpeech": "v.",
+      "meaningKo": "올리다",
+      "ipa": "/reɪz/",
+      "definition": "to lift something to a higher place",
+      "sentence": "Sailors raise the bright flag every sunny morning.",
+      "wordImage": "images/12_raise_word.png",
+      "sentenceImage": "images/12_raise_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 13,
+      "word": "aim",
+      "partOfSpeech": "v.",
+      "meaningKo": "겨누다",
+      "definition": "to point something toward a target",
+      "sentence": "The archer will aim the arrow at the target.",
+      "ipa": "/eɪm/",
+      "wordImage": "images/13_aim_word.png",
+      "sentenceImage": "images/13_aim_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 14,
+      "word": "criminal",
+      "partOfSpeech": "n.",
+      "meaningKo": "범죄자",
+      "ipa": "/ˈkrɪmɪnl/",
+      "definition": "someone in stories who breaks the law",
+      "sentence": "The storybook criminal was a very clumsy cartoon raccoon.",
+      "wordImage": "images/14_criminal_word.png",
+      "sentenceImage": "images/14_criminal_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 15,
+      "word": "suspect",
+      "partOfSpeech": "n.",
+      "meaningKo": "용의자",
+      "ipa": "/ˈsʌspekt/",
+      "definition": "a person who might have done something",
+      "sentence": "The main suspect in the mystery was a sleepy cat.",
+      "wordImage": "images/15_suspect_word.png",
+      "sentenceImage": "images/15_suspect_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 16,
+      "word": "neutral",
+      "partOfSpeech": "adj.",
+      "meaningKo": "중립의",
+      "ipa": "/ˈnuːtrəl/",
+      "definition": "not choosing either of two sides",
+      "sentence": "The referee stayed neutral during the friendly ball game.",
+      "wordImage": "images/16_neutral_word.png",
+      "sentenceImage": "images/16_neutral_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 17,
+      "word": "accuse",
+      "partOfSpeech": "v.",
+      "meaningKo": "비난하다",
+      "ipa": "/əˈkjuːz/",
+      "definition": "to say someone did something wrong",
+      "sentence": "Do not accuse anyone before checking the whole story.",
+      "wordImage": "images/17_accuse_word.png",
+      "sentenceImage": "images/17_accuse_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 18,
+      "word": "firm",
+      "partOfSpeech": "adj.",
+      "meaningKo": "단호한",
+      "ipa": "/fɜːrm/",
+      "definition": "strong and not easily moved",
+      "sentence": "The coach gave firm but kind advice to everyone.",
+      "wordImage": "images/18_firm_word.png",
+      "sentenceImage": "images/18_firm_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 19,
+      "word": "aid",
+      "partOfSpeech": "n.",
+      "meaningKo": "도움",
+      "ipa": "/eɪd/",
+      "definition": "help given to someone who needs it",
+      "sentence": "Warm blankets arrived as aid for the snowy village.",
+      "wordImage": "images/19_aid_word.png",
+      "sentenceImage": "images/19_aid_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 20,
+      "word": "interest",
+      "partOfSpeech": "n.",
+      "meaningKo": "관심",
+      "ipa": "/ˈɪntrəst/",
+      "definition": "a wish to know more about something",
+      "sentence": "Her interest in stars grew after the museum visit.",
+      "wordImage": "images/20_interest_word.png",
+      "sentenceImage": "images/20_interest_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 25,
+  "range": "21-30",
+  "set": 3,
+  "title": "DAY 25 · 21-30",
+  "words": [
+    {
+      "no": 21,
+      "word": "pesticide",
+      "partOfSpeech": "n.",
+      "meaningKo": "살충제",
+      "ipa": "/ˈpestɪsaɪd/",
+      "definition": "a spray farmers use against harmful bugs",
+      "sentence": "This farm uses no pesticide on the leafy greens.",
+      "wordImage": "images/21_pesticide_word.png",
+      "sentenceImage": "images/21_pesticide_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 22,
+      "word": "alternative",
+      "partOfSpeech": "n.",
+      "meaningKo": "대안",
+      "ipa": "/ɔːlˈtɜːrnətɪv/",
+      "definition": "another choice you can pick instead",
+      "sentence": "A cloth bag is a good alternative to plastic.",
+      "wordImage": "images/22_alternative_word.png",
+      "sentenceImage": "images/22_alternative_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 23,
+      "word": "respect",
+      "partOfSpeech": "v.",
+      "meaningKo": "존중하다",
+      "ipa": "/rɪˈspekt/",
+      "definition": "to treat someone or something kindly",
+      "sentence": "Hikers respect the forest by carrying their trash home.",
+      "wordImage": "images/23_respect_word.png",
+      "sentenceImage": "images/23_respect_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 24,
+      "word": "vast",
+      "partOfSpeech": "adj.",
+      "meaningKo": "광대한",
+      "ipa": "/væst/",
+      "definition": "extremely large and wide",
+      "sentence": "A vast blue ocean stretched beyond the tiny boat.",
+      "wordImage": "images/24_vast_word.png",
+      "sentenceImage": "images/24_vast_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 25,
+      "word": "refreshing",
+      "partOfSpeech": "adj.",
+      "meaningKo": "상쾌한",
+      "ipa": "/rɪˈfreʃɪŋ/",
+      "definition": "making you feel cool and new again",
+      "sentence": "A refreshing breeze cooled the hikers on the ridge.",
+      "wordImage": "images/25_refreshing_word.png",
+      "sentenceImage": "images/25_refreshing_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 26,
+      "word": "responsible",
+      "partOfSpeech": "adj.",
+      "meaningKo": "책임감 있는",
+      "ipa": "/rɪˈspɑːnsəbl/",
+      "definition": "careful about doing what you should do",
+      "sentence": "A responsible camper puts out the campfire completely.",
+      "wordImage": "images/26_responsible_word.png",
+      "sentenceImage": "images/26_responsible_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 27,
+      "word": "confuse",
+      "partOfSpeech": "v.",
+      "meaningKo": "혼동하다",
+      "ipa": "/kənˈfjuːz/",
+      "definition": "to mix up two things by mistake",
+      "sentence": "People often confuse these two very similar leaves.",
+      "wordImage": "images/27_confuse_word.png",
+      "sentenceImage": "images/27_confuse_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 28,
+      "word": "separate",
+      "partOfSpeech": "v.",
+      "meaningKo": "분리하다",
+      "ipa": "/ˈsepəreɪt/",
+      "definition": "to put things into different groups",
+      "sentence": "Please separate the paper from the glass before recycling.",
+      "wordImage": "images/28_separate_word.png",
+      "sentenceImage": "images/28_separate_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 29,
+      "word": "delicate",
+      "partOfSpeech": "adj.",
+      "meaningKo": "섬세한",
+      "ipa": "/ˈdelɪkət/",
+      "definition": "thin and easy to break",
+      "sentence": "The delicate spider web sparkled with morning dew drops.",
+      "wordImage": "images/29_delicate_word.png",
+      "sentenceImage": "images/29_delicate_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 30,
+      "word": "dedicate",
+      "partOfSpeech": "v.",
+      "meaningKo": "바치다",
+      "ipa": "/ˈdedɪkeɪt/",
+      "definition": "to give your time to something important",
+      "sentence": "Volunteers dedicate every weekend to cleaning the river bank.",
+      "wordImage": "images/30_dedicate_word.png",
+      "sentenceImage": "images/30_dedicate_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

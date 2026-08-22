@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 23,
+  "range": "1-10",
+  "set": 1,
+  "title": "DAY 23 · 01-10",
+  "words": [
+    {
+      "no": 1,
+      "word": "climate",
+      "partOfSpeech": "n.",
+      "meaningKo": "기후",
+      "ipa": "/ˈklaɪmət/",
+      "definition": "the usual weather in one place",
+      "sentence": "The island climate stays warm through the whole year.",
+      "wordImage": "images/01_climate_word.png",
+      "sentenceImage": "images/01_climate_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 2,
+      "word": "landscape",
+      "partOfSpeech": "n.",
+      "meaningKo": "풍경",
+      "ipa": "/ˈlændskeɪp/",
+      "definition": "the wide view of land around you",
+      "sentence": "The green landscape stretched far beyond the low hills.",
+      "wordImage": "images/02_landscape_word.png",
+      "sentenceImage": "images/02_landscape_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 3,
+      "word": "storm",
+      "partOfSpeech": "n.",
+      "meaningKo": "폭풍",
+      "ipa": "/stɔːrm/",
+      "definition": "weather with strong wind and heavy rain",
+      "sentence": "A summer storm rolled across the wide open sea.",
+      "wordImage": "images/03_storm_word.png",
+      "sentenceImage": "images/03_storm_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 4,
+      "word": "average",
+      "partOfSpeech": "adj.",
+      "meaningKo": "평균의",
+      "ipa": "/ˈævərɪdʒ/",
+      "definition": "in the middle, not high or low",
+      "sentence": "The average summer day here is warm and breezy.",
+      "wordImage": "images/04_average_word.png",
+      "sentenceImage": "images/04_average_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 5,
+      "word": "drown",
+      "partOfSpeech": "v.",
+      "meaningKo": "물에 빠지다",
+      "ipa": "/draʊn/",
+      "definition": "to sink completely under water",
+      "sentence": "Too much water can drown the little tomato roots.",
+      "wordImage": "images/05_drown_word.png",
+      "sentenceImage": "images/05_drown_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 6,
+      "word": "happen",
+      "partOfSpeech": "v.",
+      "meaningKo": "일어나다",
+      "ipa": "/ˈhæpən/",
+      "definition": "to take place or occur",
+      "sentence": "Wonderful things happen when everyone helps in the garden.",
+      "wordImage": "images/06_happen_word.png",
+      "sentenceImage": "images/06_happen_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 7,
+      "word": "rough",
+      "partOfSpeech": "adj.",
+      "meaningKo": "거친",
+      "ipa": "/rʌf/",
+      "definition": "not smooth, with a bumpy surface",
+      "sentence": "The rough tree bark felt scratchy under her fingers.",
+      "wordImage": "images/07_rough_word.png",
+      "sentenceImage": "images/07_rough_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 8,
+      "word": "geography",
+      "partOfSpeech": "n.",
+      "meaningKo": "지리",
+      "ipa": "/dʒiˈɑːɡrəfi/",
+      "definition": "the study of lands, seas, and places",
+      "sentence": "Geography class explored rivers and mountains on a globe.",
+      "wordImage": "images/08_geography_word.png",
+      "sentenceImage": "images/08_geography_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 9,
+      "word": "effect",
+      "partOfSpeech": "n.",
+      "meaningKo": "효과",
+      "ipa": "/ɪˈfekt/",
+      "definition": "the change that something causes",
+      "sentence": "Warm sunlight had a strong effect on the seedlings.",
+      "wordImage": "images/09_effect_word.png",
+      "sentenceImage": "images/09_effect_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 10,
+      "word": "affect",
+      "partOfSpeech": "v.",
+      "meaningKo": "영향을 주다",
+      "ipa": "/əˈfekt/",
+      "definition": "to make a change to something",
+      "sentence": "Cold nights affect how quickly the flowers open up.",
+      "wordImage": "images/10_affect_word.png",
+      "sentenceImage": "images/10_affect_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

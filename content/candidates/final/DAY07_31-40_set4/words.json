@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 7,
+  "range": "31-40",
+  "set": 4,
+  "title": "DAY 07 · 31-40",
+  "words": [
+    {
+      "no": 31,
+      "word": "reject",
+      "partOfSpeech": "v.",
+      "meaningKo": "거절하다",
+      "ipa": "/rɪˈdʒekt/",
+      "definition": "to not accept something offered to you",
+      "sentence": "The picky cat will reject any food without fresh fish.",
+      "wordImage": "images/31_reject_word.png",
+      "sentenceImage": "images/31_reject_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 32,
+      "word": "gaze",
+      "partOfSpeech": "v.",
+      "meaningKo": "응시하다",
+      "ipa": "/ɡeɪz/",
+      "definition": "to look at something for a long time",
+      "sentence": "Sailors gaze at the wide ocean from the tall deck.",
+      "wordImage": "images/32_gaze_word.png",
+      "sentenceImage": "images/32_gaze_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 33,
+      "word": "cherish",
+      "partOfSpeech": "v.",
+      "meaningKo": "소중히 여기다",
+      "ipa": "/ˈtʃerɪʃ/",
+      "definition": "to love and care for something deeply",
+      "sentence": "The bear will cherish the drawing from its little friend.",
+      "wordImage": "images/33_cherish_word.png",
+      "sentenceImage": "images/33_cherish_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 34,
+      "word": "hospitality",
+      "partOfSpeech": "n.",
+      "meaningKo": "환대",
+      "ipa": "/ˌhɑːspɪˈtæləti/",
+      "definition": "kind and warm care given to guests",
+      "sentence": "The village showed great hospitality to the tired traveling musicians.",
+      "wordImage": "images/34_hospitality_word.png",
+      "sentenceImage": "images/34_hospitality_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 35,
+      "word": "uncover",
+      "partOfSpeech": "v.",
+      "meaningKo": "발견하다",
+      "ipa": "/ʌnˈkʌvər/",
+      "definition": "to take a cover off and find something",
+      "sentence": "The archaeologists will uncover an old pot beneath the sand.",
+      "wordImage": "images/35_uncover_word.png",
+      "sentenceImage": "images/35_uncover_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 36,
+      "word": "casual",
+      "partOfSpeech": "adj.",
+      "meaningKo": "편안한",
+      "ipa": "/ˈkæʒuəl/",
+      "definition": "relaxed and not formal at all",
+      "sentence": "Everyone wore casual clothes to the friendly backyard party.",
+      "wordImage": "images/36_casual_word.png",
+      "sentenceImage": "images/36_casual_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 37,
+      "word": "mutual",
+      "partOfSpeech": "adj.",
+      "meaningKo": "서로의",
+      "ipa": "/ˈmjuːtʃuəl/",
+      "definition": "shared equally by two people",
+      "sentence": "Their mutual love of drawing made them fast friends.",
+      "wordImage": "images/37_mutual_word.png",
+      "sentenceImage": "images/37_mutual_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 38,
+      "word": "farewell",
+      "partOfSpeech": "n.",
+      "meaningKo": "작별",
+      "ipa": "/ˌferˈwel/",
+      "definition": "words you say when someone is leaving",
+      "sentence": "The crew waved a cheerful farewell from the sailing ship.",
+      "wordImage": "images/38_farewell_word.png",
+      "sentenceImage": "images/38_farewell_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 39,
+      "word": "owe",
+      "partOfSpeech": "v.",
+      "meaningKo": "빚지다",
+      "ipa": "/oʊ/",
+      "definition": "to need to give money back to someone",
+      "sentence": "I owe my neighbor two coins for the fresh eggs.",
+      "wordImage": "images/39_owe_word.png",
+      "sentenceImage": "images/39_owe_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 40,
+      "word": "treat",
+      "partOfSpeech": "v.",
+      "meaningKo": "대하다",
+      "definition": "to behave toward someone in a particular way",
+      "sentence": "The children treat the new student with kindness.",
+      "ipa": "/trit/",
+      "wordImage": "images/40_treat_word.png",
+      "sentenceImage": "images/40_treat_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

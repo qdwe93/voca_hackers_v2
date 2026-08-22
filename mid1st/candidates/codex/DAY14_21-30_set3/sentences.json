@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 14,
+  "range": "21-30",
+  "set": 3,
+  "items": [
+    {
+      "wordId": "DAY14-21",
+      "no": 21,
+      "word": "routine",
+      "sentence": "Today, the morning routine includes feeding the noisy little chickens."
+    },
+    {
+      "wordId": "DAY14-22",
+      "no": 22,
+      "word": "numerous",
+      "sentence": "Today, numerous stars appeared above the quiet desert camp tonight."
+    },
+    {
+      "wordId": "DAY14-23",
+      "no": 23,
+      "word": "legend",
+      "sentence": "Readers compare the legend's clues with a similar tale."
+    },
+    {
+      "wordId": "DAY14-24",
+      "no": 24,
+      "word": "military",
+      "sentence": "Today, the museum displayed old military drums and shiny brass horns."
+    },
+    {
+      "wordId": "DAY14-25",
+      "no": 25,
+      "word": "weapon",
+      "sentence": "An old wooden weapon rested safely within the glass case."
+    },
+    {
+      "wordId": "DAY14-26",
+      "no": 26,
+      "word": "celebrate",
+      "sentence": "Today, the whole village will celebrate the harvest with music."
+    },
+    {
+      "wordId": "DAY14-27",
+      "no": 27,
+      "word": "combat",
+      "sentence": "Today, the old story described a combat between two chess kings."
+    },
+    {
+      "wordId": "DAY14-28",
+      "no": 28,
+      "word": "historical",
+      "sentence": "The historical setting explains why the character travels by horse."
+    },
+    {
+      "wordId": "DAY14-29",
+      "no": 29,
+      "word": "royal",
+      "sentence": "A royal carriage rolled gently through the flowering town gate."
+    },
+    {
+      "wordId": "DAY14-30",
+      "no": 30,
+      "word": "loyal",
+      "sentence": "The loyal dog waited patiently next to the wooden gate."
+    }
+  ]
+}

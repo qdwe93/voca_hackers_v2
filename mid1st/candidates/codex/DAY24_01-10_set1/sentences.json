@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 24,
+  "range": "01-10",
+  "set": 1,
+  "items": [
+    {
+      "wordId": "DAY24-01",
+      "no": 1,
+      "word": "resource",
+      "sentence": "Villages compare each resource by use, waste, and renewal."
+    },
+    {
+      "wordId": "DAY24-02",
+      "no": 2,
+      "word": "fossil",
+      "sentence": "A shell fossil sat within the smooth gray rock."
+    },
+    {
+      "wordId": "DAY24-03",
+      "no": 3,
+      "word": "supply",
+      "sentence": "Farms supply cotton that factories turn into shirts for stores."
+    },
+    {
+      "wordId": "DAY24-04",
+      "no": 4,
+      "word": "common",
+      "sentence": "Today, daisies are a common flower in this grassy field."
+    },
+    {
+      "wordId": "DAY24-05",
+      "no": 5,
+      "word": "explanation",
+      "sentence": "Her explanation connects polluted water with dying pond plants."
+    },
+    {
+      "wordId": "DAY24-06",
+      "no": 6,
+      "word": "nuclear",
+      "sentence": "One nuclear plant makes electricity for the whole city."
+    },
+    {
+      "wordId": "DAY24-07",
+      "no": 7,
+      "word": "material",
+      "sentence": "Each material warms differently under the same lamp."
+    },
+    {
+      "wordId": "DAY24-08",
+      "no": 8,
+      "word": "essential",
+      "sentence": "Today, sunlight is essential for every green growing plant."
+    },
+    {
+      "wordId": "DAY24-09",
+      "no": 9,
+      "word": "metal",
+      "sentence": "Heat travels along the metal spoon toward its handle."
+    },
+    {
+      "wordId": "DAY24-10",
+      "no": 10,
+      "word": "mental",
+      "sentence": "Today, puzzles give the brain a fun mental workout daily."
+    }
+  ]
+}

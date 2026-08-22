@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 2,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY02-11",
+      "no": 11,
+      "word": "graduate",
+      "sentence": "Senior students will graduate from middle school this coming February."
+    },
+    {
+      "wordId": "DAY02-12",
+      "no": 12,
+      "word": "sense",
+      "sentence": "Humans use the sense of sight to observe bright colors clearly."
+    },
+    {
+      "wordId": "DAY02-13",
+      "no": 13,
+      "word": "real",
+      "sentence": "The museum displayed a real fossil found in the local mountain."
+    },
+    {
+      "wordId": "DAY02-14",
+      "no": 14,
+      "word": "annual",
+      "sentence": "Our school holds an annual sports festival every pleasant autumn."
+    },
+    {
+      "wordId": "DAY02-15",
+      "no": 15,
+      "word": "collect",
+      "sentence": "Students collect dried fallen leaves for their science classification project."
+    },
+    {
+      "wordId": "DAY02-16",
+      "no": 16,
+      "word": "deadline",
+      "sentence": "The final project deadline is Friday afternoon at five o'clock."
+    },
+    {
+      "wordId": "DAY02-17",
+      "no": 17,
+      "word": "confident",
+      "sentence": "She felt confident before giving her speech to the whole class."
+    },
+    {
+      "wordId": "DAY02-18",
+      "no": 18,
+      "word": "include",
+      "sentence": "Make sure to include your name on the test paper."
+    },
+    {
+      "wordId": "DAY02-19",
+      "no": 19,
+      "word": "shout",
+      "sentence": "Children shout with joy when the final school bell rings."
+    },
+    {
+      "wordId": "DAY02-20",
+      "no": 20,
+      "word": "subject",
+      "sentence": "Science is my favorite school subject because we do fun experiments."
+    }
+  ]
+}

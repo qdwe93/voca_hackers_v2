@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 23,
+  "range": "21-30",
+  "set": 3,
+  "title": "DAY 23 · 21-30",
+  "words": [
+    {
+      "no": 21,
+      "word": "shift",
+      "partOfSpeech": "v.",
+      "meaningKo": "옮기다",
+      "definition": "to move or change position",
+      "sentence": "The wind will shift the sail toward the left.",
+      "ipa": "/ʃɪft/",
+      "wordImage": "images/21_shift_word.png",
+      "sentenceImage": "images/21_shift_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 22,
+      "word": "narrow",
+      "partOfSpeech": "adj.",
+      "meaningKo": "좁은",
+      "definition": "having little width",
+      "sentence": "A narrow bridge crosses the stream between wide banks.",
+      "ipa": "/nɛroʊ/",
+      "wordImage": "images/22_narrow_word.png",
+      "sentenceImage": "images/22_narrow_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 23,
+      "word": "drought",
+      "partOfSpeech": "n.",
+      "meaningKo": "가뭄",
+      "definition": "a long period with very little rain",
+      "sentence": "The drought leaves the field dry and cracked.",
+      "ipa": "/draʊt/",
+      "wordImage": "images/23_drought_word.png",
+      "sentenceImage": "images/23_drought_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 24,
+      "word": "boundary",
+      "partOfSpeech": "n.",
+      "meaningKo": "경계선",
+      "definition": "a line marking the edge of an area",
+      "sentence": "A wooden fence clearly forms the garden boundary.",
+      "ipa": "/baʊndɚi/",
+      "wordImage": "images/24_boundary_word.png",
+      "sentenceImage": "images/24_boundary_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 25,
+      "word": "alarming",
+      "partOfSpeech": "adj.",
+      "meaningKo": "우려스러운",
+      "definition": "causing fear or serious concern",
+      "sentence": "An alarming rise in water approaches the empty sandcastle.",
+      "ipa": "/əlɑrmɪŋ/",
+      "wordImage": "images/25_alarming_word.png",
+      "sentenceImage": "images/25_alarming_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 26,
+      "word": "harsh",
+      "partOfSpeech": "adj.",
+      "meaningKo": "가혹한",
+      "definition": "very difficult unpleasant or severe",
+      "sentence": "Harsh winter wind bends the trees across the snowy field.",
+      "ipa": "/hɑrʃ/",
+      "wordImage": "images/26_harsh_word.png",
+      "sentenceImage": "images/26_harsh_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 27,
+      "word": "cease",
+      "partOfSpeech": "v.",
+      "meaningKo": "중단하다",
+      "definition": "to stop happening or existing",
+      "sentence": "The heavy rain will cease as the clouds separate.",
+      "ipa": "/sis/",
+      "wordImage": "images/27_cease_word.png",
+      "sentenceImage": "images/27_cease_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 28,
+      "word": "estimate",
+      "partOfSpeech": "v.",
+      "meaningKo": "추정하다",
+      "definition": "to roughly calculate without exact information",
+      "sentence": "The builder will estimate the wall's height by comparing poles.",
+      "ipa": "/ˈestəmeɪt/",
+      "wordImage": "images/28_estimate_word.png",
+      "sentenceImage": "images/28_estimate_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 29,
+      "word": "plane",
+      "partOfSpeech": "n.",
+      "meaningKo": "비행기",
+      "definition": "a powered vehicle that flies",
+      "sentence": "The plane rises above the clouds after takeoff.",
+      "ipa": "/pleɪn/",
+      "wordImage": "images/29_plane_word.png",
+      "sentenceImage": "images/29_plane_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 30,
+      "word": "plain",
+      "partOfSpeech": "n.",
+      "meaningKo": "평원",
+      "definition": "a large area of flat land",
+      "sentence": "A wide grassy plain stretches toward distant mountains.",
+      "ipa": "/pleɪn/",
+      "wordImage": "images/30_plain_word.png",
+      "sentenceImage": "images/30_plain_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

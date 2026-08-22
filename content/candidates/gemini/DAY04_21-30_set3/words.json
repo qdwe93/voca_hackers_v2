@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 4,
+  "range": "21-30",
+  "set": 3,
+  "title": "DAY 04 · 21-30",
+  "words": [
+    {
+      "no": 21,
+      "word": "presentation",
+      "partOfSpeech": "n.",
+      "meaningKo": "발표, 설명",
+      "ipa": "/ˌprez.ənˈteɪ.ʃən/",
+      "definition": "a talk giving information about a topic to an audience",
+      "sentence": "He gave an interesting presentation about solar system planets today.",
+      "wordImage": "images/21_presentation_word.png",
+      "sentenceImage": "images/21_presentation_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 22,
+      "word": "accomplish",
+      "partOfSpeech": "v.",
+      "meaningKo": "성취하다, 해내다",
+      "ipa": "/əˈkɑːm.plɪʃ/",
+      "definition": "to succeed in finishing something or achieving an aim",
+      "sentence": "Together our team can accomplish even the hardest school goals.",
+      "wordImage": "images/22_accomplish_word.png",
+      "sentenceImage": "images/22_accomplish_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 23,
+      "word": "convince",
+      "partOfSpeech": "v.",
+      "meaningKo": "설득하다, 확신시키다",
+      "ipa": "/kənˈvɪns/",
+      "definition": "to make someone believe that something is true",
+      "sentence": "She used clear facts to convince her friends to recycle.",
+      "wordImage": "images/23_convince_word.png",
+      "sentenceImage": "images/23_convince_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 24,
+      "word": "audience",
+      "partOfSpeech": "n.",
+      "meaningKo": "청중, 관객",
+      "ipa": "/ˈɑː.di.əns/",
+      "definition": "the group of people gathered to see or hear something",
+      "sentence": "The delighted audience clapped enthusiastically after the magic show ended.",
+      "wordImage": "images/24_audience_word.png",
+      "sentenceImage": "images/24_audience_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 25,
+      "word": "wage",
+      "partOfSpeech": "n.",
+      "meaningKo": "임금, 급여",
+      "ipa": "/weɪdʒ/",
+      "definition": "money paid to a worker for hours worked",
+      "sentence": "Workers receive a fair hourly wage for their dedicated labor.",
+      "wordImage": "images/25_wage_word.png",
+      "sentenceImage": "images/25_wage_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 26,
+      "word": "previous",
+      "partOfSpeech": "adj.",
+      "meaningKo": "이전의, 앞선",
+      "ipa": "/ˈpriː.vi.əs/",
+      "definition": "happening or existing before something else in time",
+      "sentence": "Review the previous lesson before starting the new chapter today.",
+      "wordImage": "images/26_previous_word.png",
+      "sentenceImage": "images/26_previous_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 27,
+      "word": "spend",
+      "partOfSpeech": "v.",
+      "meaningKo": "쓰다, 보내다",
+      "ipa": "/spend/",
+      "definition": "to give money as payment or use time doing something",
+      "sentence": "They love to spend quiet weekend afternoons reading adventure books.",
+      "wordImage": "images/27_spend_word.png",
+      "sentenceImage": "images/27_spend_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 28,
+      "word": "distinguish",
+      "partOfSpeech": "v.",
+      "meaningKo": "구별하다, 구분하다",
+      "ipa": "/dɪˈstɪŋ.ɡwɪʃ/",
+      "definition": "to recognize the difference between two people or things",
+      "sentence": "Can you distinguish between these two similar bird species easily?",
+      "wordImage": "images/28_distinguish_word.png",
+      "sentenceImage": "images/28_distinguish_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 29,
+      "word": "former",
+      "partOfSpeech": "adj.",
+      "meaningKo": "이전의, 전자의",
+      "ipa": "/ˈfɔːr.mɚ/",
+      "definition": "happening or existing in an earlier time",
+      "sentence": "The former school building was transformed into a community center.",
+      "wordImage": "images/29_former_word.png",
+      "sentenceImage": "images/29_former_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 30,
+      "word": "formal",
+      "partOfSpeech": "adj.",
+      "meaningKo": "격식 있는, 공식적인",
+      "ipa": "/ˈfɔːr.məl/",
+      "definition": "suitable for official or serious events and situations",
+      "sentence": "He wore a formal black suit for the music award.",
+      "wordImage": "images/30_formal_word.png",
+      "sentenceImage": "images/30_formal_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

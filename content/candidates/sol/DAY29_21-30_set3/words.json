@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 3,
+  "day": 29,
+  "range": "21-30",
+  "set": 3,
+  "title": "DAY 29 · 21-30",
+  "words": [
+    {
+      "no": 21,
+      "word": "consult",
+      "partOfSpeech": "v.",
+      "meaningKo": "상담하다",
+      "definition": "to ask an expert for advice",
+      "sentence": "The gardener will consult a scientist about the sick plant.",
+      "ipa": "/kənsʌlt/",
+      "wordImage": "images/21_consult_word.png",
+      "sentenceImage": "images/21_consult_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 22,
+      "word": "organic",
+      "partOfSpeech": "adj.",
+      "meaningKo": "유기농의",
+      "definition": "grown without artificial chemicals",
+      "sentence": "Organic vegetables fill the farmer's wooden market stand.",
+      "ipa": "/ɔrɡænɪk/",
+      "wordImage": "images/22_organic_word.png",
+      "sentenceImage": "images/22_organic_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 23,
+      "word": "manufacture",
+      "partOfSpeech": "v.",
+      "meaningKo": "제조하다",
+      "definition": "to make goods in large numbers",
+      "sentence": "The factory will manufacture bicycles on an assembly line.",
+      "ipa": "/mænjəfæktʃɚ/",
+      "wordImage": "images/23_manufacture_word.png",
+      "sentenceImage": "images/23_manufacture_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 24,
+      "word": "negative",
+      "partOfSpeech": "adj.",
+      "meaningKo": "부정적인",
+      "definition": "harmful unfavorable or expressing disagreement",
+      "sentence": "A negative review makes the chef look disappointed.",
+      "ipa": "/nɛɡətɪv/",
+      "wordImage": "images/24_negative_word.png",
+      "sentenceImage": "images/24_negative_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 25,
+      "word": "peasant",
+      "partOfSpeech": "n.",
+      "meaningKo": "농민",
+      "definition": "a farmer who works a small area of land",
+      "sentence": "A peasant farmer carries grain from the field.",
+      "ipa": "/pɛzənt/",
+      "wordImage": "images/25_peasant_word.png",
+      "sentenceImage": "images/25_peasant_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 26,
+      "word": "agriculture",
+      "partOfSpeech": "n.",
+      "meaningKo": "농업",
+      "definition": "the work of growing crops and raising animals",
+      "sentence": "Modern agriculture uses efficient machines across large fields.",
+      "ipa": "/æɡrɪkəltʃɚ/",
+      "wordImage": "images/26_agriculture_word.png",
+      "sentenceImage": "images/26_agriculture_sent.png",
+      "speaker": "Liam"
+    },
+    {
+      "no": 27,
+      "word": "alter",
+      "partOfSpeech": "v.",
+      "meaningKo": "바꾸다",
+      "definition": "to change something partly",
+      "sentence": "The tailor will alter the jacket to fit better.",
+      "ipa": "/ɔltɚ/",
+      "wordImage": "images/27_alter_word.png",
+      "sentenceImage": "images/27_alter_sent.png",
+      "speaker": "Erinome"
+    },
+    {
+      "no": 28,
+      "word": "combine",
+      "partOfSpeech": "v.",
+      "meaningKo": "결합하다",
+      "definition": "to join things together",
+      "sentence": "The artist will combine blue and yellow paint into green.",
+      "ipa": "/kɑmbaɪn/",
+      "wordImage": "images/28_combine_word.png",
+      "sentenceImage": "images/28_combine_sent.png",
+      "speaker": "Charon"
+    },
+    {
+      "no": 29,
+      "word": "compete",
+      "partOfSpeech": "v.",
+      "meaningKo": "경쟁하다",
+      "definition": "to try to win against others",
+      "sentence": "Four runners compete in a friendly track race.",
+      "ipa": "/kəmpit/",
+      "wordImage": "images/29_compete_word.png",
+      "sentenceImage": "images/29_compete_sent.png",
+      "speaker": "Zephyr"
+    },
+    {
+      "no": 30,
+      "word": "complete",
+      "partOfSpeech": "v.",
+      "meaningKo": "완성하다",
+      "definition": "to finish making or doing something",
+      "sentence": "The child will complete the puzzle with one final piece.",
+      "ipa": "/kəmplit/",
+      "wordImage": "images/30_complete_word.png",
+      "sentenceImage": "images/30_complete_sent.png",
+      "speaker": "Liam"
+    }
+  ]
+}

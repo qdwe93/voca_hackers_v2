@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 5,
+  "range": "31-40",
+  "set": 4,
+  "items": [
+    {
+      "wordId": "DAY05-31",
+      "no": 31,
+      "word": "sufficient",
+      "sentence": "Today, one basket held sufficient apples for the whole picnic group."
+    },
+    {
+      "wordId": "DAY05-32",
+      "no": 32,
+      "word": "fulfill",
+      "sentence": "The small bird will fulfill its dream of flying high."
+    },
+    {
+      "wordId": "DAY05-33",
+      "no": 33,
+      "word": "suggest",
+      "sentence": "Today, the guide will suggest an easier path up the hill."
+    },
+    {
+      "wordId": "DAY05-34",
+      "no": 34,
+      "word": "fatigue",
+      "sentence": "Today, deep fatigue made the hiker rest under a shady tree."
+    },
+    {
+      "wordId": "DAY05-35",
+      "no": 35,
+      "word": "intake",
+      "sentence": "A sports teacher checked the water intake of every young runner."
+    },
+    {
+      "wordId": "DAY05-36",
+      "no": 36,
+      "word": "pace",
+      "sentence": "The young turtle kept a slow, steady pace along the path."
+    },
+    {
+      "wordId": "DAY05-37",
+      "no": 37,
+      "word": "disorder",
+      "sentence": "After the busy afternoon, the playroom fell into cheerful disorder."
+    },
+    {
+      "wordId": "DAY05-38",
+      "no": 38,
+      "word": "flexible",
+      "sentence": "A flexible rubber band returns to its shape after stretching."
+    },
+    {
+      "wordId": "DAY05-39",
+      "no": 39,
+      "word": "supplement",
+      "sentence": "Today, the vet added a healthy supplement to the puppy's meal."
+    },
+    {
+      "wordId": "DAY05-40",
+      "no": 40,
+      "word": "physical",
+      "sentence": "Running and jumping are fun physical games for school children."
+    }
+  ]
+}

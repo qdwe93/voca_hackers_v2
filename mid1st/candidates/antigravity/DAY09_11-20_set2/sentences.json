@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "antigravity",
+  "day": 9,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY09-11",
+      "no": 11,
+      "word": "pause",
+      "sentence": "Please pause the video while the teacher answers a question."
+    },
+    {
+      "wordId": "DAY09-12",
+      "no": 12,
+      "word": "incentive",
+      "sentence": "The prize offered a strong incentive for students to read."
+    },
+    {
+      "wordId": "DAY09-13",
+      "no": 13,
+      "word": "sacrifice",
+      "sentence": "Brave firefighters sacrifice their comfort to protect the community members."
+    },
+    {
+      "wordId": "DAY09-14",
+      "no": 14,
+      "word": "generous",
+      "sentence": "The generous merchant donated warm coats to the local shelter."
+    },
+    {
+      "wordId": "DAY09-15",
+      "no": 15,
+      "word": "appropriate",
+      "sentence": "Wearing safety goggles is appropriate during science chemistry lab experiments."
+    },
+    {
+      "wordId": "DAY09-16",
+      "no": 16,
+      "word": "chase",
+      "sentence": "Playful puppies chase a rolling tennis ball across the lawn."
+    },
+    {
+      "wordId": "DAY09-17",
+      "no": 17,
+      "word": "deserve",
+      "sentence": "Honest students deserve praise for doing their own homework tasks."
+    },
+    {
+      "wordId": "DAY09-18",
+      "no": 18,
+      "word": "pretend",
+      "sentence": "Do not pretend to know an answer when you do."
+    },
+    {
+      "wordId": "DAY09-19",
+      "no": 19,
+      "word": "neglect",
+      "sentence": "Pet owners should not neglect their daily duties of feeding."
+    },
+    {
+      "wordId": "DAY09-20",
+      "no": 20,
+      "word": "lie",
+      "sentence": "Telling a deliberate lie destroys trust between two close friends."
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 29,
+  "range": "31-40",
+  "set": 4,
+  "items": [
+    {
+      "wordId": "DAY29-31",
+      "no": 31,
+      "word": "advance",
+      "sentence": "The hikers advance gently up the steep rocky path."
+    },
+    {
+      "wordId": "DAY29-32",
+      "no": 32,
+      "word": "imply",
+      "sentence": "Today, dark clouds imply that rain will arrive very soon."
+    },
+    {
+      "wordId": "DAY29-33",
+      "no": 33,
+      "word": "guarantee",
+      "sentence": "Today, the shop will guarantee this umbrella for two years."
+    },
+    {
+      "wordId": "DAY29-34",
+      "no": 34,
+      "word": "chief",
+      "sentence": "Today, the chief reason for the trip was seeing whales."
+    },
+    {
+      "wordId": "DAY29-35",
+      "no": 35,
+      "word": "thrive",
+      "sentence": "Today, herbs thrive on a sunny warm kitchen windowsill."
+    },
+    {
+      "wordId": "DAY29-36",
+      "no": 36,
+      "word": "gain",
+      "sentence": "Today, runners gain strength by practicing a little daily."
+    },
+    {
+      "wordId": "DAY29-37",
+      "no": 37,
+      "word": "overlook",
+      "sentence": "Today, do not overlook the importance of clear communication in the team."
+    },
+    {
+      "wordId": "DAY29-38",
+      "no": 38,
+      "word": "disappear",
+      "sentence": "Today, morning mist will disappear once the sun rises higher."
+    },
+    {
+      "wordId": "DAY29-39",
+      "no": 39,
+      "word": "initial",
+      "sentence": "Today, the initial plan was simply planting six small trees."
+    },
+    {
+      "wordId": "DAY29-40",
+      "no": 40,
+      "word": "domestic",
+      "sentence": "Parents share domestic tasks such as cooking and cleaning."
+    }
+  ]
+}

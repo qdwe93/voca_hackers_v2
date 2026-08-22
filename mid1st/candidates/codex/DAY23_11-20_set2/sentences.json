@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 23,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY23-11",
+      "no": 11,
+      "word": "valley",
+      "sentence": "One quiet valley lay between the two green mountains."
+    },
+    {
+      "wordId": "DAY23-12",
+      "no": 12,
+      "word": "influence",
+      "sentence": "Today, ocean winds influence the weather along this rocky coast."
+    },
+    {
+      "wordId": "DAY23-13",
+      "no": 13,
+      "word": "damage",
+      "sentence": "Today, the storm caused small damage to the garden fence."
+    },
+    {
+      "wordId": "DAY23-14",
+      "no": 14,
+      "word": "lack",
+      "sentence": "One lack of rain made the grass turn brown."
+    },
+    {
+      "wordId": "DAY23-15",
+      "no": 15,
+      "word": "predict",
+      "sentence": "Today, scientists predict warm sunny weather for the whole weekend."
+    },
+    {
+      "wordId": "DAY23-16",
+      "no": 16,
+      "word": "aware",
+      "sentence": "Today, the hikers were aware of the changing evening sky."
+    },
+    {
+      "wordId": "DAY23-17",
+      "no": 17,
+      "word": "correct",
+      "sentence": "Today, that was the correct answer to the weather question."
+    },
+    {
+      "wordId": "DAY23-18",
+      "no": 18,
+      "word": "earthquake",
+      "sentence": "A small earthquake made the teacups rattle very softly."
+    },
+    {
+      "wordId": "DAY23-19",
+      "no": 19,
+      "word": "due",
+      "sentence": "Before the evening picnic begins, the rain is due."
+    },
+    {
+      "wordId": "DAY23-20",
+      "no": 20,
+      "word": "level",
+      "sentence": "After rain, the water level in the pond rose."
+    }
+  ]
+}

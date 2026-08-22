@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "author": "codex",
+  "day": 17,
+  "range": "11-20",
+  "set": 2,
+  "items": [
+    {
+      "wordId": "DAY17-11",
+      "no": 11,
+      "word": "insect",
+      "sentence": "One shiny green insect rested on the tall grass blade."
+    },
+    {
+      "wordId": "DAY17-12",
+      "no": 12,
+      "word": "circumstance",
+      "sentence": "After all, one lucky circumstance let the picnic happen."
+    },
+    {
+      "wordId": "DAY17-13",
+      "no": 13,
+      "word": "normal",
+      "sentence": "Today, it was a normal quiet evening in the small village."
+    },
+    {
+      "wordId": "DAY17-14",
+      "no": 14,
+      "word": "threat",
+      "sentence": "Habitat loss is a threat to frogs living near wetlands."
+    },
+    {
+      "wordId": "DAY17-15",
+      "no": 15,
+      "word": "improve",
+      "sentence": "Today, daily practice will improve the young pianist's gentle touch."
+    },
+    {
+      "wordId": "DAY17-16",
+      "no": 16,
+      "word": "repeat",
+      "sentence": "Today, the parrot loves to repeat the same cheerful whistle."
+    },
+    {
+      "wordId": "DAY17-17",
+      "no": 17,
+      "word": "resemble",
+      "sentence": "The young dogs resemble their mother with matching brown spots."
+    },
+    {
+      "wordId": "DAY17-18",
+      "no": 18,
+      "word": "protein",
+      "sentence": "Today, beans and eggs give protein to growing young bodies."
+    },
+    {
+      "wordId": "DAY17-19",
+      "no": 19,
+      "word": "hatch",
+      "sentence": "The duck eggs will hatch next to the quiet pond."
+    },
+    {
+      "wordId": "DAY17-20",
+      "no": 20,
+      "word": "direct",
+      "sentence": "Today, the direct path leads right to the old stone well."
+    }
+  ]
+}
