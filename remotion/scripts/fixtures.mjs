@@ -66,6 +66,19 @@ ok(
   '문두 Every/Monday를 사람 이름으로 오인하지 않는다',
 );
 
+const repeatedLanguage = structuredClone(data);
+repeatedLanguage.words[0].sentence = `A Korean robot shows ${words[0].word} clearly beside the blue table.`;
+repeatedLanguage.words[1].sentence = `A Korean robot shows ${words[1].word} clearly beside the blue table.`;
+const languageResult = validateContentData({
+  data: repeatedLanguage,
+  directoryName: 'DAY01_01-10_set1',
+  csvRows,
+});
+ok(
+  !languageResult.errors.some((message) => message.includes('Repeated fixed name')),
+  '반복 언어·국적 형용사를 사람 이름으로 오인하지 않는다',
+);
+
 const repeatedPerson = structuredClone(data);
 repeatedPerson.words[0].sentence = `The robot shows ${words[0].word} while Alice watches beside the table.`;
 repeatedPerson.words[1].sentence = `A robot shows ${words[1].word} while Alice watches beside the table.`;

@@ -1,3 +1,27 @@
+# 2026-08-23 — mid1st 확정 콘텐츠 통합·120세트 승격 완료
+
+## 완료 내역
+
+- `mid1st/final/final_sentences.jsonl`의 확정 정의·예문을
+  `content/candidates/final/` 120세트에 통합했다. definition 589개, sentence 1,089개가
+  바뀌었고 뜻·IPA는 바뀌지 않았다.
+- 기존 단어 이미지 프롬프트 1,200개는 그대로 보존했다. 전후 SHA-256은
+  `a7c1909cf476c7bd1fac04b87fd7ef2db3858fdf8cfe7eedbdf6671d86cd0816`으로 같다.
+- 예문 이미지 프롬프트 1,200개는 확정 예문 장면과 고정 접미로 갱신했다.
+- `Korean` 반복을 고정 인물 이름으로 오인하던 검증기를 수정하고 회귀 fixture를 추가했다.
+  `validate-content --author final`과 전체 fixture가 통과했다.
+- final 후보 120세트를 `remotion/public/days/`에 승격했다. 승격본 자체도 120/120세트
+  검증 PASS이며 후보↔승격본 `words.json`·`image_prompts.md` 240개 해시가 모두 일치한다.
+
+## 진행률
+
+후보 120/120, 승격 120/120, 프롬프트 120/120. 이미지 후보·최종 이미지·오디오·렌더 0/120.
+
+## 다음 시작
+
+2단계 이미지 수급: `요청문/2_이미지_생성.txt`와 `prompts/P2_이미지_생성.md`를 읽고
+`nanobanana2` / `gptimage2` 두 벌을 전체 생성한 뒤 author별로 반입한다.
+
 # 2026-08-17 (3) — 설계 근거 문서(WHY.md) 추가
 
 ## 완료 내역

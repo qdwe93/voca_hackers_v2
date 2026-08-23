@@ -137,6 +137,8 @@ const collectLikelyNames = (sentence) => {
   const common = new Set([
     'A', 'An', 'The', 'This', 'That', 'These', 'Those', 'Fresh', 'She', 'He', 'They',
     'We', 'I', 'It', 'My', 'Our', 'Your', 'Their', 'His', 'Her', 'After', 'Before',
+    // 언어·국적 형용사는 반복 등장해도 고정 인물 이름이 아니다.
+    'Korean', 'English',
   ]);
   const candidates = sentence.match(/\b[A-Z][a-z]{2,}\b/g) ?? [];
   const firstToken = sentence.match(/^\s*["'“‘(\[]*([A-Za-z]+)/)?.[1];
